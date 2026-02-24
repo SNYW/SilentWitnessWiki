@@ -37,6 +37,7 @@ Ronnie hides his pain behind jokes and acting tough. He pushes himself to be str
 |-----------|------|-------|
 | Raptor | Gang Leader | Leader of the Vultures |
 | Magpie | Boss | Vulture techie — Roadblock works directly for Magpie |
+| Old Boy | Protegé | Young detective, became like a nephew to Ronnie |
 | Kenshi | Ally | Cyber samurai, similar to Genji. Fast and deadly with a blade. |
 | Deadeye | Ally | Sniper who covers Ronnie from range. |
 | Bekah | Ally | Magpie's sister, fellow Vulture combat member |

@@ -54,6 +54,17 @@
           ]
         },
         {
+          "name": "Organizations",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Red Hawks",
+              "type": "file",
+              "path": "Local Archive/Organizations/red-hawks.md"
+            }
+          ]
+        },
+        {
           "name": "Players",
           "type": "folder",
           "children": [
@@ -61,6 +72,11 @@
               "name": "Magpie",
               "type": "file",
               "path": "Local Archive/Players/magpie.md"
+            },
+            {
+              "name": "Oldboy",
+              "type": "file",
+              "path": "Local Archive/Players/oldboy.md"
             },
             {
               "name": "Ronnie Pickering Roadblock",
