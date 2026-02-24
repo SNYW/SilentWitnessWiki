@@ -14,6 +14,11 @@
         "path": "characters/magpie.md"
       },
       {
+        "name": "Raptor",
+        "type": "file",
+        "path": "characters/raptor.md"
+      },
+      {
         "name": "Ronnie Pickering Roadblock",
         "type": "file",
         "path": "characters/ronnie-pickering-roadblock.md"
@@ -28,6 +33,11 @@
         "name": "Charter Hill",
         "type": "file",
         "path": "locations/charter-hill.md"
+      },
+      {
+        "name": "Dice Or Die",
+        "type": "file",
+        "path": "locations/dice-or-die.md"
       },
       {
         "name": "Downtown",
@@ -155,6 +165,11 @@
         "path": "locations/southside.md"
       },
       {
+        "name": "The Big Top",
+        "type": "file",
+        "path": "locations/the-big-top.md"
+      },
+      {
         "name": "The Glen",
         "type": "file",
         "path": "locations/the-glen.md"
@@ -204,6 +219,11 @@
         "name": "Mr Tubbs",
         "type": "file",
         "path": "npcs/mr-tubbs.md"
+      },
+      {
+        "name": "Sparrow",
+        "type": "file",
+        "path": "npcs/sparrow.md"
       }
     ]
   },
@@ -272,6 +292,11 @@
         "name": "Session2",
         "type": "file",
         "path": "story/session2.md"
+      },
+      {
+        "name": "Session3",
+        "type": "file",
+        "path": "story/session3.md"
       }
     ]
   }
