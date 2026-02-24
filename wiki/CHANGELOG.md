@@ -8,6 +8,12 @@
 ### 2026-02-24 - Organizations - Danger Gal
 - Added Danger Gal Corporation - Founded by Michiko Sanderson (daughter of Kei Arasaka), operates as anti-Arasaka task force
 
+### 2026-02-24 - Organizations - Voodoo Boys
+- Added Voodoo Boys gang - Netrunner gang from Pacifica, originated from Haitian refugees (2062), guardians of the Haitian community, probing the Blackwall
+
+### 2026-02-24 - Organizations - MaxTac
+- Added MaxTac (Maximum Force Tactical Division) - NCPD cyberpsycho suppression unit, operated independently during Time of the Red, rebuilt by Commander Max Hammerman
+
 ---
 
 *This changelog is automatically updated by the Night City Researcher agent*

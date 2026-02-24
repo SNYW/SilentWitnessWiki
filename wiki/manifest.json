@@ -512,6 +512,11 @@
               "path": "Net Archive/Organizations/maelstrom.md"
             },
             {
+              "name": "Max Tac",
+              "type": "file",
+              "path": "Net Archive/Organizations/max-tac.md"
+            },
+            {
               "name": "Night City Gangs",
               "type": "file",
               "path": "Net Archive/Organizations/night-city-gangs.md"
@@ -570,6 +575,11 @@
               "name": "Tyger Claws",
               "type": "file",
               "path": "Net Archive/Organizations/tyger-claws.md"
+            },
+            {
+              "name": "Voodoo Boys",
+              "type": "file",
+              "path": "Net Archive/Organizations/voodoo-boys.md"
             },
             {
               "name": "Wraiths",
