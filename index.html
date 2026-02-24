@@ -188,7 +188,7 @@
             if (node.type === 'folder') {
                 const children = node.children || [];
                 const hasChildren = children.length > 0;
-                const displayName = node.name.charAt(0).toUpperCase() + node.name.slice(1);
+                const displayName = (node.name || 'Unknown').charAt(0).toUpperCase() + (node.name || 'Unknown').slice(1);
                 
                 html += `<div class="tree-folder" data-search="${displayName.toLowerCase()}">
                     <div class="tree-item folder-toggle" onclick="toggleFolder(this)">
@@ -204,10 +204,12 @@
                 
                 html += `</div></div>`;
             } else {
-                const searchName = node.name.toLowerCase();
-                html += `<div class="tree-item file-item" data-file="${node.path}" data-search="${searchName}" onclick="loadContent('${node.path}')">
+                const searchName = (node.name || '').toLowerCase();
+                const fileName = node.name || 'Untitled';
+                const filePath = node.path || '';
+                html += `<div class="tree-item file-item" data-file="${filePath}" data-search="${searchName}" onclick="loadContent('${filePath}')">
                     <span class="icon">📄</span>
-                    <span>${node.name}</span>
+                    <span>${fileName}</span>
                 </div>`;
             }
             
