@@ -61,9 +61,9 @@ As a scav, his morals have been formed on the bottom rung of the city streets �
 
 ## Location
 
-**Cargo Container (CC05)** — The Precipice, Night City
+**The Vultures Nest** — The Precipice, Night City
 
-Magpie's workshop and base of operations. He salvages cybertech from fallen combatants and provides maintenance services to the gang.
+The Vultures' base. A run-down living area/workshop/ripper lab. Magpie and Bekah sleep on the floor in one container, while Magpie's lab is in another. There's a hole cut between the two containers for access.
 
 ## Session Log
 
