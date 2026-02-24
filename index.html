@@ -317,8 +317,13 @@
             })
             .then(data => {
                 console.log('Loaded:', data);
-                // Handle both array and object formats
-                const treeData = Array.isArray(data) ? {children: data} : data;
+                // Handle array format - wrap in a virtual root
+                let treeData;
+                if (Array.isArray(data)) {
+                    treeData = { name: 'root', type: 'folder', children: data };
+                } else {
+                    treeData = data;
+                }
                 if (!treeData.children) treeData.children = [];
                 document.getElementById('tree').innerHTML = buildTreeHTML(treeData);
             })
