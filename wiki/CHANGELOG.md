@@ -2,6 +2,9 @@
 
 ## Entries Added by Researcher
 
+### 2026-02-24 - Setting - Time of the Red
+- Added Time of the Red - Comprehensive entry covering the RED era (2023-late 2040s), including historical context, effects on Night City, environment types, society, and notable events
+
 ### 2026-02-24 - Locations - NCART
 - Added NCART (Night City Area Rapid Transit) - Public transportation system during RED era, operated maglev and subway, managed by Dorado Family in 2045, includes monorail loop between Executive Zone/Little Europe/Watson Development
 
