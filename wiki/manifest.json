@@ -61,6 +61,11 @@
               "name": "Red Hawks",
               "type": "file",
               "path": "Local Archive/Organizations/red-hawks.md"
+            },
+            {
+              "name": "The Vultures",
+              "type": "file",
+              "path": "Local Archive/Organizations/the-vultures.md"
             }
           ]
         },
