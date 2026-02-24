@@ -187,16 +187,16 @@
             
             if (node.type === 'folder') {
                 const children = node.children || [];
-                const hasChildren = children.length > 0;
                 const displayName = (node.name || 'Unknown').charAt(0).toUpperCase() + (node.name || 'Unknown').slice(1);
                 
+                // Start collapsed by default
                 html += `<div class="tree-folder" data-search="${displayName.toLowerCase()}">
                     <div class="tree-item folder-toggle" onclick="toggleFolder(this)">
-                        <span class="arrow">▼</span>
+                        <span class="arrow collapsed">▼</span>
                         <span class="icon">📁</span>
                         <span>${displayName}</span>
                     </div>
-                    <div class="folder-children">`;
+                    <div class="folder-children collapsed">`;
                 
                 for (const child of children) {
                     html += buildTreeHTML(child, level + 1);
@@ -309,7 +309,7 @@
             contentDiv.scrollTop = 0;
         }
         
-        // Initialize - add cache bust
+        // Initialize - folders collapsed by default
         fetch('wiki/manifest.json?t=' + Date.now())
             .then(res => {
                 if (!res.ok) throw new Error('Failed to load manifest: ' + res.status);
