@@ -14,7 +14,11 @@ The Vultures are a scrappy scavenger gang operating out of the Precipice distric
 ## Gang Structure
 
 ### Leadership
-- **Raptor** — Gang Leader. Leads from the front, takes dangerous missions personally. Currently recovering from injuries (lost an arm and eye from Bozos attack).
+- **Vulture** — Gang Leader. The overall boss of the Vultures.
+- **Raptor** — Right-hand man to Vulture. Leads operations in the field. Currently recovering from injuries (lost an arm and eye from Bozos attack).
+
+### Core Members
+- **Magpie** — Tech specialist. Runs the Vultures Nest workshop/ripper lab.
 
 ### Core Members
 - **Magpie** — Tech specialist and de facto second-in-command. Runs the Vultures Nest workshop/ripper lab.
