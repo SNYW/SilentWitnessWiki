@@ -18,9 +18,6 @@ The Vultures are a scrappy scavenger gang operating out of the Precipice distric
 - **Raptor** — Right-hand man to Vulture. Leads operations in the field. Currently recovering from injuries (lost an arm and eye from Bozos attack).
 
 ### Core Members
-- **Magpie** — Tech specialist. Runs the Vultures Nest workshop/ripper lab.
-
-### Core Members
 - **Magpie** — Tech specialist and de facto second-in-command. Runs the Vultures Nest workshop/ripper lab.
 - **Bekah "Bluejay"** — Magpie's sister. Combat-ready member, serves as scout and flanker.
 
