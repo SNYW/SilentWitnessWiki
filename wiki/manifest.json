@@ -58,6 +58,11 @@
           "type": "folder",
           "children": [
             {
+              "name": "Bozos",
+              "type": "file",
+              "path": "Local Archive/Organizations/bozos.md"
+            },
+            {
               "name": "Red Hawks",
               "type": "file",
               "path": "Local Archive/Organizations/red-hawks.md"
@@ -476,11 +481,6 @@
               "name": "Andersons",
               "type": "file",
               "path": "Net Archive/Organizations/andersons.md"
-            },
-            {
-              "name": "Bozos",
-              "type": "file",
-              "path": "Net Archive/Organizations/bozos.md"
             },
             {
               "name": "Danger Gal",
