@@ -13,269 +13,143 @@
             background: #0a0a0f;
             color: #e4e4e7;
             min-height: 100vh;
+            display: flex;
+            flex-direction: column;
         }
         
         .header {
             background: linear-gradient(135deg, #1a1a2e 0%, #0f0f1a 100%);
-            padding: 20px 30px;
+            padding: 15px 25px;
             border-bottom: 2px solid #e94560;
             display: flex;
             justify-content: space-between;
             align-items: center;
+            flex-shrink: 0;
         }
         
-        .header h1 {
-            color: #e94560;
-            font-size: 1.6rem;
-            text-transform: uppercase;
-            letter-spacing: 3px;
-        }
+        .header h1 { color: #e94560; font-size: 1.4rem; text-transform: uppercase; letter-spacing: 3px; }
+        .header .subtitle { color: #71717a; font-size: 0.8rem; }
         
-        .header .subtitle {
-            color: #71717a;
-            font-size: 0.85rem;
-        }
-        
-        .container {
+        .main-container {
             display: flex;
-            min-height: calc(100vh - 70px);
+            flex: 1;
+            overflow: hidden;
         }
         
         .sidebar {
-            width: 300px;
+            width: 280px;
             background: linear-gradient(180deg, #18181b 0%, #0f0f12 100%);
             border-right: 1px solid #27272a;
-            padding: 20px 0;
             overflow-y: auto;
             flex-shrink: 0;
+            padding: 10px 0;
         }
         
         .sidebar::-webkit-scrollbar { width: 6px; }
         .sidebar::-webkit-scrollbar-track { background: #18181b; }
         .sidebar::-webkit-scrollbar-thumb { background: #3f3f46; border-radius: 3px; }
         
-        .nav-section { margin-bottom: 24px; }
-        
-        .nav-section h3 {
-            color: #a1a1aa;
-            font-size: 0.7rem;
-            text-transform: uppercase;
-            letter-spacing: 1.5px;
-            padding: 0 20px;
-            margin-bottom: 12px;
-            font-weight: 600;
+        .search-box { padding: 10px 15px; }
+        .search-box input {
+            width: 100%;
+            padding: 10px 14px;
+            background: #18181b;
+            border: 1px solid #27272a;
+            border-radius: 8px;
+            color: #e4e4e7;
+            font-size: 0.85rem;
         }
+        .search-box input:focus { outline: none; border-color: #e94560; }
+        .search-box input::placeholder { color: #52525b; }
         
-        .nav-item {
-            padding: 10px 20px;
-            cursor: pointer;
-            transition: all 0.15s ease;
-            border-left: 3px solid transparent;
-            font-size: 0.9rem;
-            color: #a1a1aa;
+        .tree { padding: 0 8px; }
+        
+        .tree-item {
             display: flex;
             align-items: center;
+            padding: 8px 12px;
+            cursor: pointer;
+            border-radius: 6px;
+            transition: all 0.15s ease;
+            color: #a1a1aa;
+            font-size: 0.9rem;
             gap: 8px;
         }
         
-        .nav-item:hover {
-            background: rgba(233, 69, 96, 0.08);
-            color: #f4f4f5;
-            border-left-color: #e94560;
+        .tree-item:hover { background: rgba(233, 69, 96, 0.08); color: #f4f4f5; }
+        .tree-item.active { background: rgba(233, 69, 96, 0.12); color: #e94560; }
+        .tree-item.hidden { display: none; }
+        
+        .tree-item .icon { font-size: 1rem; flex-shrink: 0; width: 20px; text-align: center; }
+        .tree-item .arrow { 
+            font-size: 0.7rem; 
+            transition: transform 0.2s; 
+            width: 16px; 
+            flex-shrink: 0;
         }
+        .tree-item .arrow.collapsed { transform: rotate(-90deg); }
+        .tree-item .arrow.expanded { transform: rotate(0deg); }
         
-        .nav-item.active {
-            background: rgba(233, 69, 96, 0.12);
-            color: #e94560;
-            border-left-color: #e94560;
-        }
+        .folder-children { padding-left: 20px; overflow: hidden; }
+        .folder-children.collapsed { display: none; }
         
-        .nav-item .icon { font-size: 1rem; }
-        
-        .main-content {
+        .content-area {
             flex: 1;
-            padding: 40px;
             overflow-y: auto;
+            padding: 30px 40px;
             max-width: 900px;
         }
         
-        .main-content::-webkit-scrollbar { width: 8px; }
-        .main-content::-webkit-scrollbar-track { background: #0a0a0f; }
-        .main-content::-webkit-scrollbar-thumb { background: #3f3f46; border-radius: 4px; }
+        .content-area::-webkit-scrollbar { width: 8px; }
+        .content-area::-webkit-scrollbar-track { background: #0a0a0f; }
+        .content-area::-webkit-scrollbar-thumb { background: #3f3f46; border-radius: 4px; }
         
         .content-body { line-height: 1.7; }
         
-        .content-body h1 { 
-            color: #e94560; 
-            font-size: 2.2rem; 
-            margin: 0 0 30px 0; 
-            padding-bottom: 15px; 
-            border-bottom: 1px solid #27272a;
-        }
+        .content-body h1 { color: #e94560; font-size: 2rem; margin: 0 0 25px 0; padding-bottom: 12px; border-bottom: 1px solid #27272a; }
+        .content-body h2 { color: #4ecca3; font-size: 1.4rem; margin: 35px 0 18px 0; padding-bottom: 8px; border-bottom: 1px solid #27272a; }
+        .content-body h3 { color: #e94560; font-size: 1.15rem; margin: 28px 0 14px 0; }
+        .content-body h4 { color: #c084fc; font-size: 1rem; margin: 22px 0 10px 0; }
         
-        .content-body h2 { 
-            color: #4ecca3; 
-            font-size: 1.5rem; 
-            margin: 40px 0 20px 0; 
-            padding-bottom: 10px; 
-            border-bottom: 1px solid #27272a;
-        }
-        
-        .content-body h3 { 
-            color: #e94560; 
-            font-size: 1.2rem; 
-            margin: 30px 0 15px 0; 
-        }
-        
-        .content-body h4 { 
-            color: #c084fc; 
-            font-size: 1.05rem; 
-            margin: 25px 0 12px 0; 
-        }
-        
-        .content-body p { margin-bottom: 20px; color: #d4d4d8; }
-        
-        .content-body a { color: #4ecca3; text-decoration: none; border-bottom: 1px solid transparent; transition: border-color 0.2s; }
+        .content-body p { margin-bottom: 18px; color: #d4d4d8; }
+        .content-body a { color: #4ecca3; text-decoration: none; border-bottom: 1px solid transparent; }
         .content-body a:hover { border-bottom-color: #4ecca3; }
         
-        .content-body ul, .content-body ol { margin: 18px 0; padding-left: 28px; }
-        .content-body li { margin-bottom: 10px; color: #c4c4c8; }
+        .content-body ul, .content-body ol { margin: 16px 0; padding-left: 26px; }
+        .content-body li { margin-bottom: 8px; color: #c4c4c8; }
         
-        .content-body code {
-            background: #27272a;
-            padding: 3px 8px;
-            border-radius: 4px;
-            font-family: 'Fira Code', monospace;
-            color: #f472b6;
-            font-size: 0.9em;
-        }
-        
-        .content-body pre {
-            background: #18181b;
-            border: 1px solid #27272a;
-            padding: 20px;
-            border-radius: 10px;
-            margin: 24px 0;
-            overflow-x: auto;
-        }
-        
+        .content-body code { background: #27272a; padding: 3px 7px; border-radius: 4px; font-family: 'Fira Code', monospace; color: #f472b6; font-size: 0.9em; }
+        .content-body pre { background: #18181b; border: 1px solid #27272a; padding: 18px; border-radius: 10px; margin: 22px 0; overflow-x: auto; }
         .content-body pre code { background: none; padding: 0; color: #a1a1aa; }
         
-        .content-body blockquote {
-            border-left: 4px solid #e94560;
-            margin: 24px 0;
-            padding: 16px 20px;
-            background: rgba(233, 69, 96, 0.05);
-            border-radius: 0 10px 10px 0;
-            color: #a1a1aa;
-            font-style: italic;
-        }
+        .content-body blockquote { border-left: 4px solid #e94560; margin: 22px 0; padding: 14px 18px; background: rgba(233, 69, 96, 0.05); border-radius: 0 10px 10px 0; color: #a1a1aa; font-style: italic; }
         
-        .content-body table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 24px 0;
-            background: #18181b;
-            border-radius: 10px;
-            overflow: hidden;
-        }
-        
-        .content-body th, .content-body td {
-            padding: 14px 18px;
-            text-align: left;
-            border-bottom: 1px solid #27272a;
-        }
-        
-        .content-body th {
-            background: #1f1f23;
-            color: #e94560;
-            font-weight: 600;
-            text-transform: uppercase;
-            font-size: 0.75rem;
-            letter-spacing: 0.5px;
-        }
-        
+        .content-body table { width: 100%; border-collapse: collapse; margin: 22px 0; background: #18181b; border-radius: 10px; overflow: hidden; }
+        .content-body th, .content-body td { padding: 13px 16px; text-align: left; border-bottom: 1px solid #27272a; }
+        .content-body th { background: #1f1f23; color: #e94560; font-weight: 600; text-transform: uppercase; font-size: 0.75rem; letter-spacing: 0.5px; }
         .content-body tr:hover td { background: #1f1f23; }
         .content-body tr:last-child td { border-bottom: none; }
         .content-body td:first-child { color: #4ecca3; font-weight: 500; }
-        
         .content-body strong { color: #e94560; font-weight: 600; }
+        .content-body hr { border: none; border-top: 1px solid #27272a; margin: 35px 0; }
         
-        .content-body hr {
-            border: none;
-            border-top: 1px solid #27272a;
-            margin: 40px 0;
-        }
-        
-        .threat-rating {
-            display: inline-block;
-            padding: 6px 14px;
-            border-radius: 20px;
-            font-size: 0.7rem;
-            font-weight: 700;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-        }
-        
+        .threat-rating { display: inline-block; padding: 5px 12px; border-radius: 20px; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; }
         .threat-extreme { background: #e94560; color: #fff; }
         .threat-high { background: #f87171; color: #fff; }
         .threat-medium { background: #fbbf24; color: #27272a; }
         .threat-low { background: #4ecca3; color: #27272a; }
         
-        .district-code {
-            display: inline-block;
-            background: #e94560;
-            color: #fff;
-            padding: 4px 10px;
-            border-radius: 4px;
-            font-size: 0.7rem;
-            font-weight: 700;
-            margin-right: 10px;
-        }
+        .district-code { display: inline-block; background: #e94560; color: #fff; padding: 3px 9px; border-radius: 4px; font-size: 0.7rem; font-weight: 700; margin-right: 8px; }
         
-        .empty-state {
-            text-align: center;
-            padding: 80px 20px;
-            color: #52525b;
-        }
+        .empty-state { text-align: center; padding: 80px 20px; color: #52525b; }
+        .empty-state h2 { color: #e94560; margin-bottom: 12px; font-size: 1.6rem; }
+        .empty-state p { font-size: 1rem; }
         
-        .empty-state h2 { color: #e94560; margin-bottom: 15px; font-size: 1.8rem; }
-        .empty-state p { font-size: 1.1rem; margin-bottom: 8px; }
-        
-        .loading {
-            text-align: center;
-            padding: 80px;
-            color: #52525b;
-            font-size: 1.1rem;
-        }
-        
-        .search-box {
-            padding: 10px 20px;
-            margin-bottom: 10px;
-        }
-        
-        .search-box input {
-            width: 100%;
-            padding: 10px 15px;
-            background: #18181b;
-            border: 1px solid #27272a;
-            border-radius: 8px;
-            color: #e4e4e7;
-            font-size: 0.9rem;
-        }
-        
-        .search-box input:focus {
-            outline: none;
-            border-color: #e94560;
-        }
-        
-        .search-box input::placeholder { color: #52525b; }
-        
-        .nav-item.hidden { display: none; }
+        .loading { text-align: center; padding: 80px; color: #52525b; font-size: 1rem; }
         
         @media (max-width: 768px) {
-            .sidebar { width: 240px; }
-            .main-content { padding: 20px; }
+            .sidebar { width: 220px; }
+            .content-area { padding: 20px; }
         }
     </style>
 </head>
@@ -287,18 +161,18 @@
         </div>
     </div>
     
-    <div class="container">
+    <div class="main-container">
         <div class="sidebar">
             <div class="search-box">
-                <input type="text" id="search" placeholder="Search wiki..." oninput="filterNav()">
+                <input type="text" id="search" placeholder="Search wiki..." oninput="filterTree()">
             </div>
-            <div id="nav-content"></div>
+            <div id="tree" class="tree"></div>
         </div>
         
-        <div class="main-content" id="content">
+        <div class="content-area" id="content">
             <div class="empty-state">
                 <h2>Welcome to Night City</h2>
-                <p>Select a topic from the sidebar to explore.</p>
+                <p>Select a file from the sidebar to explore.</p>
                 <p style="color: #4ecca3; margin-top: 20px;">The City of Dreams awaits...</p>
             </div>
         </div>
@@ -307,88 +181,122 @@
     <script>
         const wikiBase = 'wiki/';
         
-        let wikiStructure = {};
-        
-        // Build navigation from manifest
-        function buildNav(data) {
-            wikiStructure = data;
-            const navContent = document.getElementById('nav-content');
+        // Build tree from JSON data
+        function buildTreeHTML(node, level = 0) {
             let html = '';
             
-            for (const section of data) {
-                html += `<div class="nav-section">
-                    <h3>${section.category}</h3>`;
+            if (node.type === 'folder') {
+                const children = node.children || [];
+                const hasChildren = children.length > 0;
+                const displayName = node.name.charAt(0).toUpperCase() + node.name.slice(1);
                 
-                for (const item of section.items) {
-                    html += `<div class="nav-item" data-file="${item.file.replace('.md', '')}" data-search="${item.name.toLowerCase()}">
-                        <span class="icon">📄</span>
-                        ${item.name.charAt(0).toUpperCase() + item.name.slice(1)}
-                    </div>`;
+                html += `<div class="tree-folder" data-search="${displayName.toLowerCase()}">
+                    <div class="tree-item folder-toggle" onclick="toggleFolder(this)">
+                        <span class="arrow">▼</span>
+                        <span class="icon">📁</span>
+                        <span>${displayName}</span>
+                    </div>
+                    <div class="folder-children">`;
+                
+                for (const child of children) {
+                    html += buildTreeHTML(child, level + 1);
                 }
                 
-                html += '</div>';
+                html += `</div></div>`;
+            } else {
+                const searchName = node.name.toLowerCase();
+                html += `<div class="tree-item file-item" data-file="${node.path}" data-search="${searchName}" onclick="loadContent('${node.path}')">
+                    <span class="icon">📄</span>
+                    <span>${node.name}</span>
+                </div>`;
             }
             
-            navContent.innerHTML = html;
-            
-            // Add click handlers
-            document.querySelectorAll('.nav-item').forEach(item => {
-                item.addEventListener('click', () => {
-                    loadContent(item.dataset.file);
-                    document.querySelectorAll('.nav-item').forEach(i => i.classList.remove('active'));
-                    item.classList.add('active');
-                });
-            });
+            return html;
         }
         
-        // Search/filter
-        function filterNav() {
+        // Toggle folder expand/collapse
+        function toggleFolder(el) {
+            const arrow = el.querySelector('.arrow');
+            const children = el.nextElementSibling;
+            
+            arrow.classList.toggle('collapsed');
+            arrow.classList.toggle('expanded');
+            children.classList.toggle('collapsed');
+        }
+        
+        // Filter tree
+        function filterTree() {
             const search = document.getElementById('search').value.toLowerCase();
-            document.querySelectorAll('.nav-item').forEach(item => {
-                if (item.dataset.search.includes(search)) {
-                    item.classList.remove('hidden');
+            
+            // Hide/show folders
+            document.querySelectorAll('.tree-folder').forEach(folder => {
+                const folderName = folder.dataset.search;
+                const children = folder.querySelectorAll('.tree-item');
+                let hasMatch = false;
+                
+                children.forEach(child => {
+                    const searchText = child.dataset.search || '';
+                    if (search && searchText.includes(search)) {
+                        child.classList.remove('hidden');
+                        hasMatch = true;
+                    } else if (search) {
+                        child.classList.add('hidden');
+                    } else {
+                        child.classList.remove('hidden');
+                    }
+                });
+                
+                if (search && hasMatch) {
+                    folder.classList.remove('hidden');
+                } else if (search) {
+                    folder.classList.add('hidden');
                 } else {
+                    folder.classList.remove('hidden');
+                }
+            });
+            
+            // Hide/show files
+            document.querySelectorAll('.file-item').forEach(item => {
+                if (search && item.dataset.search.includes(search)) {
+                    item.classList.remove('hidden');
+                } else if (search) {
                     item.classList.add('hidden');
+                } else {
+                    item.classList.remove('hidden');
                 }
             });
         }
         
         // Configure marked
-        marked.setOptions({
-            gfm: true,
-            breaks: true
-        });
+        marked.setOptions({ gfm: true, breaks: true });
         
         const contentDiv = document.getElementById('content');
+        let currentFile = null;
         
         async function loadContent(file) {
+            currentFile = file;
             contentDiv.innerHTML = '<div class="loading">Loading...</div>';
             
-            // Ensure .md extension
-            const filePath = file.endsWith('.md') ? file : file + '.md';
-            
             try {
-                const response = await fetch(wikiBase + filePath);
+                const response = await fetch(wikiBase + file);
                 if (!response.ok) throw new Error('File not found');
                 const text = await response.text();
                 renderMarkdown(text);
+                
+                // Update active state
+                document.querySelectorAll('.file-item').forEach(i => i.classList.remove('active'));
+                document.querySelectorAll(`.file-item[data-file="${file}"]`).forEach(i => i.classList.add('active'));
             } catch (e) {
-                contentDiv.innerHTML = `
-                    <div class="empty-state">
-                        <h2>Content Not Found</h2>
-                        <p>${e.message}</p>
-                    </div>
-                `;
+                contentDiv.innerHTML = `<div class="empty-state"><h2>Content Not Found</h2><p>${e.message}</p></div>`;
             }
         }
         
         function renderMarkdown(text) {
             let html = marked.parse(text);
             
-            // Post-process threat ratings
+            // Threat ratings
             html = html.replace(/Threat Rating:\s*(\w+)/gi, (match, rating) => {
-                const className = 'threat-' + rating.toLowerCase();
-                return `Threat Rating: <span class="threat-rating ${className}">${rating}</span>`;
+                return `Threat Rating: <span class="threat-rating threat-${rating.toLowerCase()}">${rating}</span>`;
             });
             
             // District codes
@@ -399,12 +307,14 @@
             contentDiv.scrollTop = 0;
         }
         
-        // Initialize - fetch manifest
+        // Initialize
         fetch('wiki/manifest.json')
             .then(res => res.json())
-            .then(buildNav)
+            .then(data => {
+                document.getElementById('tree').innerHTML = buildTreeHTML(data);
+            })
             .catch(() => {
-                document.getElementById('nav-content').innerHTML = '<p style="padding:20px;color:#71717a;">Failed to load wiki index</p>';
+                document.getElementById('tree').innerHTML = '<p style="padding:20px;color:#71717a;">Failed to load wiki</p>';
             });
     </script>
 </body>
