@@ -2,6 +2,9 @@
 
 ## Entries Added by Researcher
 
+### 2026-02-24 - Locations - NCART
+- Added NCART (Night City Area Rapid Transit) - Public transportation system during RED era, operated maglev and subway, managed by Dorado Family in 2045, includes monorail loop between Executive Zone/Little Europe/Watson Development
+
 ### 2026-02-24 - Locations - Badlands
 - Added Badlands - Vast arid region surrounding Night City, key nomad territory during RED era, home to Aldecaldo camp and various refugee settlements
 
