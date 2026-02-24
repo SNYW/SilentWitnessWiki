@@ -16,9 +16,7 @@ Huge, broad guy built like a tank. Looks like Reinhardt without the helmet — b
 
 Ronnie grew up working class and joined NCPD early. He worked riot control and earned the nickname **Roadblock** because once he planted his shield, nothing got past him.
 
-Years ago a terrorist called the **Warlock of the Glow-Eyed Queen** set off an experimental weapon in Ronnie's district. The blast was basically nuke-level. Ronnie tried to protect his family with his shield but the explosion wiped out the whole block. He survived. They didn't.
-
-After that he left the police and eventually started running with the Vultures.
+He left the police and started running with the Vultures.
 
 ## Skills & Abilities
 
@@ -31,7 +29,7 @@ After that he left the police and eventually started running with the Vultures.
 
 ## Motivation
 
-Ronnie hides his pain behind jokes and acting tough, but he still feels like he failed his family. He pushes himself to be stronger so he never lets that happen again. He's also quietly looking for the **Warlock** responsible.
+Ronnie hides his pain behind jokes and acting tough. He pushes himself to be stronger so he never lets anything happen to his team again.
 
 ## Relationships
 
@@ -41,7 +39,7 @@ Ronnie hides his pain behind jokes and acting tough, but he still feels like he 
 | Magpie | Boss | Vulture techie — Roadblock works directly for Magpie |
 | Kenshi | Ally | Cyber samurai, similar to Genji. Fast and deadly with a blade. |
 | Deadeye | Ally | Sniper who covers Ronnie from range. |
-| Bekah "Bluejay" Pickering | Ally | Magpie's sister, fellow Vulture combat member |
+| Bekah | Ally | Magpie's sister, fellow Vulture combat member |
 
 ## Equipment
 
@@ -53,7 +51,6 @@ Ronnie hides his pain behind jokes and acting tough, but he still feels like he 
 
 - Former NCPD riot control
 - Nickname "Roadblock" earned from stopping anything that tried to get past him
-- The Warlock of the Glow-Eyed Queen is his white whale — he's searching for them quietly
 
 ## Session Log
 
