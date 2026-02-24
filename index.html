@@ -309,12 +309,17 @@
         
         // Initialize
         fetch('wiki/manifest.json')
-            .then(res => res.json())
+            .then(res => {
+                if (!res.ok) throw new Error('Failed to load manifest: ' + res.status);
+                return res.json();
+            })
             .then(data => {
+                console.log('Loaded:', data);
                 document.getElementById('tree').innerHTML = buildTreeHTML(data);
             })
-            .catch(() => {
-                document.getElementById('tree').innerHTML = '<p style="padding:20px;color:#71717a;">Failed to load wiki</p>';
+            .catch(err => {
+                console.error('Error:', err);
+                document.getElementById('tree').innerHTML = '<p style="padding:20px;color:#71717a;">Failed to load wiki: ' + err.message + '</p>';
             });
     </script>
 </body>
