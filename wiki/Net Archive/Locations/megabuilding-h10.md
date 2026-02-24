@@ -1,6 +1,6 @@
 # Megabuilding H10
 
-**District:** Watson Development (Little China in 2077)  
+**District:** Watson Development  
 **Type:** Residential Megabuilding  
 **Threat Rating:** Low to Medium
 
@@ -46,4 +46,4 @@ The rooftop DJ parties hosted by 98.6 Shiv FM were a defining feature of H10 in 
 
 ## Notes
 
-Megabuilding H10 represents the beginning of Night City's transformation into a city of megabuildings. The success of H10 and similar structures paved the way for the twelve megabuildings that would dominate the city skyline by 2077.
+Megabuilding H10 represents the beginning of Night City's transformation into a city of megabuildings. The success of H10 and similar structures paved the way for future megabuildings that would eventually dominate the city skyline.

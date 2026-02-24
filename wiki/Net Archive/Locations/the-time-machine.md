@@ -45,4 +45,4 @@ The Time Machine has ties to:
 ## Sources
 
 - Cyberpunk RED Core Rulebook (R. Talsorian Games, 2020)
-- Night City Sourcebook information cross-referenced with 2077 era details
+- Night City Sourcebook (1991)

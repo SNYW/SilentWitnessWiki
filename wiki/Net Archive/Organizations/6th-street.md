@@ -46,7 +46,7 @@ By 2045, their primary law enforcement unit was Davis Squad, led by Arbiter (Wri
 
 ### Primary Territory
 - North Heywood (main base)
-- Santo Domingo (expanded by 2070s)
+- Santo Domingo (seeking to expand during RED era)
 
 ### Sources of Income
 - Law enforcement contracts (2040s)
@@ -80,4 +80,3 @@ Their presence in North Heywood made them a stabilizing force in one of Night Ci
 
 - Cyberpunk RED Game Master's Guide (R. Talsorian Games)
 - Cyberpunk RED Core Rulebook (R. Talsorian Games, 2020)
-- Cyberpunk 2077 (for later period information)

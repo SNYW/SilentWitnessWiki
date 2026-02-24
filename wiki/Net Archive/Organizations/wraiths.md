@@ -18,7 +18,7 @@ During the Time of the Red (2040s), the Wraiths established themselves as the do
 
 ### Conflict with Aldecaldos
 
-The Wraiths have a long history of frequent conflict and warfare with the Aldecaldos, another prominent nomad group in the Badlands. This rivalry has persisted across multiple eras and continues into the 2070s.
+The Wraiths have a long history of frequent conflict and warfare with the Aldecaldos, another prominent nomad group in the Badlands. This rivalry has persisted throughout the RED era and remains ongoing.
 
 ## Organization
 

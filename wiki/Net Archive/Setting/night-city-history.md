@@ -4,7 +4,7 @@
 
 Night City is an autonomous city-state located on the shores of Del Coronado Bay, on the border between North and South California, on the Pacific Coast of North America. It is the main setting for the Cyberpunk franchise.
 
-The city is known as "The City of Dreams" — originally "City on the Edge of Tomorrow." By 2077, it operates as a city-state with the title of Free City, heavily influenced by the Arasaka Corporation.
+The city is known as "The City of Dreams" — originally "City on the Edge of Tomorrow." During the Time of the Red, it operates as a Free City in recovery, rebuilding after the Fourth Corporate War.
 
 ---
 
@@ -52,7 +52,7 @@ Environments include:
 - Rebuilding Urban Zones
 - Combat Zones
 
-### 2045+ — Cyberpunk RED Era
+### 2045 — Cyberpunk RED Era
 Recovery is underway. The original heart of the metropolis (the Hot Zone) remains devastated. New districts have been established with varying threat levels.
 
 ---
