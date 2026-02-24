@@ -21,7 +21,7 @@ Atmospheric particles from the nuclear blast in Night City, combined with debris
 
 ### The Hot Zone
 
-The nuclear blast created the **Hot Zone**—the radioactive ruins of old City Center, Corporate Center, and Bank Block. This area remains too radioactive for habitation during the RED era and into 2077.
+The nuclear blast created the **Hot Zone**—the radioactive ruins of old City Center, Corporate Center, and Bank Block. This area remains too radioactive for habitation during the RED era.
 
 ### City Devastation
 
@@ -101,7 +101,7 @@ The height of the RED era as depicted in Cyberpunk RED. Key developments include
 
 The Time of the Red ended as the world's populations began reconstructing their shattered cities and the atmospheric effects faded. However, the name "Red" persisted among survivors, much like the "Roaring Twenties" or the "Great Depression" remained as historical designations.
 
-The RED era shaped Night City into what it would become by 2077—a city of stark contrasts between gleaming corporate towers and devastated combat zones, between the wealthy elite and those struggling to survive.
+The RED era shaped Night City into what it would become—a city of stark contrasts between gleaming corporate towers and devastated combat zones, between the wealthy elite and those struggling to survive.
 
 ## Sources
 
