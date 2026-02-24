@@ -1,5 +1,8 @@
 # Downtown
 
+**Tags:** District, Location, Little-Europe
+
+
 **District Code:** C  
 **Type:** Rebuilding Urban Zone  
 **Threat Rating:** Low

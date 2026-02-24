@@ -1,5 +1,8 @@
 # Red Chrome Legion
 
+**Tags:** Organization, Maelstrom, Time-of-the-Red, Gang
+
+
 **Type:** Boostergang / Posergang  
 **Territory:** Old Japantown, Little China (RED Era)  
 **Threat Rating:** High

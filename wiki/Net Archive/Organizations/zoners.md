@@ -1,5 +1,8 @@
 # Zoners
 
+**Tags:** Time-of-the-Red, Night-City, Gang, Organization, Corporation
+
+
 **Type:** Gang / Protest Movement  
 **Primary Territory:** South Night City (Combat Zone), The Glen  
 **Threat Rating:** Low-Medium

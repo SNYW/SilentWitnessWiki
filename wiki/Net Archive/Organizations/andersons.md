@@ -1,5 +1,8 @@
 # The Andersons
 
+**Tags:** Organization, Time-of-the-Red, Gang, Piranhas
+
+
 **Type:** Yogang (Youth Gang)  
 **Home Territory:** Old Combat Zone, Night City  
 **Threat Rating:** Low

@@ -1,5 +1,8 @@
 # Rancho Coronado
 
+**Tags:** Pacifica, District, Location, Combat-Zone
+
+
 **District Code:** X  
 **Type:** Combat Zone  
 **Threat Rating:** Very High

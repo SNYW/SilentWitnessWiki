@@ -1,5 +1,8 @@
 # The Slammer
 
+**Tags:** District, Time-of-the-Red, Bar, South-Night-City, Combat-Zone, Hotel, Watson, Location
+
+
 **Type:** Bar / Fighting Arena  
 **District:** South Night City  
 **Threat Rating:** High

@@ -1,5 +1,8 @@
 # Inquisitors
 
+**Tags:** Time-of-the-Red, Gang, Organization, Maelstrom, Corporation
+
+
 **Type:** Cult Gang / Anti-Cyberware Extremists  
 **Territory:** Mobile / No Fixed Turf (RED Era)  
 **Threat Rating:** Very High

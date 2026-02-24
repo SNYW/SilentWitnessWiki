@@ -1,5 +1,8 @@
 # North Heywood
 
+**Tags:** District, Location, Bar, Heywood
+
+
 **District Code:** T  
 **Type:** Overpacked Suburb  
 **Threat Rating:** Medium to High

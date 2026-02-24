@@ -1,3 +1,6 @@
+
+**Tags:** Location, The Last Stop
+
 # The Last Stop
 
 **Type:** Working-class Bar & Tavern  

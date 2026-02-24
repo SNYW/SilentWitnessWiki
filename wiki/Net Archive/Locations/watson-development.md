@@ -1,5 +1,8 @@
 # Watson Development
 
+**Tags:** District, Location, Watson
+
+
 **District Code:** N  
 **Type:** Rebuilding Urban Zone  
 **Threat Rating:** Low to Medium

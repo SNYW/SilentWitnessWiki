@@ -1,5 +1,8 @@
 # Pacifica Playground
 
+**Tags:** Pacifica, District, Location, Combat-Zone
+
+
 **District Code:** W  
 **Type:** Combat Zone  
 **Threat Rating:** High

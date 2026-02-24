@@ -1,5 +1,8 @@
 # Organizations
 
+**Tags:** Organization, Corporation
+
+
 ## Corporations
 | Corp | Type | Notable Leaders | Notes |
 |------|------|-----------------|-------|

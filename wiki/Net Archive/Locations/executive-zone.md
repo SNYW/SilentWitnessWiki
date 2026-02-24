@@ -1,5 +1,8 @@
 # Executive Zone
 
+**Tags:** District, Time-of-the-Red, Executive-Zone, Little-Europe, Charter-Hill, Watson, Location, Club
+
+
 **Type:** Gated Community / Executive District  
 **Area:** Near New Westbrook (Northeast of Central Night City)  
 **Threat Rating:** Very Low

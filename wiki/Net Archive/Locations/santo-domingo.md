@@ -1,5 +1,8 @@
 # Santo Domingo
 
+**Tags:** Pacifica, District, Location, Heywood
+
+
 **District Code:** V  
 **Type:** Overpacked Suburb  
 **Threat Rating:** Medium to High

@@ -1,5 +1,8 @@
 # Old Japantown
 
+**Tags:** District, Combat-Zone, Hotel, Medical-Facility, Location
+
+
 **District Code:** H  
 **Type:** Combat Zone  
 **Threat Rating:** High

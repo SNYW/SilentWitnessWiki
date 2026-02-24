@@ -1,5 +1,8 @@
 # Night City Gangs
 
+**Tags:** Organization, Maelstrom, Corporation
+
+
 A brief guide to Night City's gangs and criminal organizations. This list is likely incomplete since old gangs die and new gangs rise up all the time.
 
 ---

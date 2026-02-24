@@ -1,5 +1,8 @@
 # Short Circuit
 
+**Tags:** District, Bar, Little-Europe, Hot-Zone, Location
+
+
 **Type:** Bar / Techie Hangout
 **District:** Little Europe
 **Threat Level:** Low-Medium

@@ -1,5 +1,8 @@
 # The Glen
 
+**Tags:** District, Time-of-the-Red, South-Night-City, Combat-Zone, University-District, The-Glen, Location, Heywood
+
+
 **District Code:** GL  
 **Type:** Government District / Rebuilding Urban Zone  
 **Area:** Heywood (Central)  

@@ -1,5 +1,8 @@
 # Ashcroft Hotel
 
+**Tags:** District, Time-of-the-Red, Hotel, Hot-Zone, Location
+
+
 **Type:** Ruined Hotel / Former Luxury Establishment  
 **District:** Hot Zone (formerly Central Night City)  
 **Era:** Time of the Red (2040s)

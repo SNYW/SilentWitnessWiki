@@ -1,5 +1,8 @@
 # Danger Gal
 
+**Tags:** Organization, Time-of-the-Red, Corporation, Arasaka
+
+
 **Type:** Private Investigation, Bodyguard, and Security Corporation  
 **Headquarters:** Night City  
 **Founded:** Circa 2025 by Michiko Sanderson  

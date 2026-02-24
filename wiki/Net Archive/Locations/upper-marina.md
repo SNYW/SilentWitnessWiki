@@ -1,5 +1,8 @@
 # Upper Marina
 
+**Tags:** District, Location, Medical-Facility
+
+
 **District Code:** B  
 **Type:** Rebuilding Urban Zone  
 **Threat Rating:** Medium

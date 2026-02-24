@@ -1,5 +1,8 @@
 # Heywood Docks
 
+**Tags:** District, Location, Heywood
+
+
 **District Code:** S  
 **Type:** Industrial Zone  
 **Threat Rating:** Medium

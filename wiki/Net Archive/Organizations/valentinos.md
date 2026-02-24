@@ -1,5 +1,8 @@
 # Valentinos
 
+**Tags:** Time-of-the-Red, Gang, Organization, Valentinos, Corporation
+
+
 **Type:** Gang / Organized Crime Family  
 **Primary Territory:** Heywood (The Glen, Vista del Rey, Wellsprings)  
 **Threat Rating:** Medium-High

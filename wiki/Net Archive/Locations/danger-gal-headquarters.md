@@ -1,3 +1,6 @@
+
+**Tags:** Location, Danger Gal Headquarters
+
 # Danger Gal Headquarters
 
 **Type:** Corporate Headquarters  

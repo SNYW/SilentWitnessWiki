@@ -1,5 +1,8 @@
 # Aldecaldos
 
+**Tags:** Time-of-the-Red, Organization, Nomad, Aldecaldos, Corporation
+
+
 **Type:** Nomad Family / Nomad Nation  
 **Territory:** Badlands, Night City Outskirts  
 **Threat Rating:** Low (generally non-hostile unless provoked)

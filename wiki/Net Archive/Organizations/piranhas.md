@@ -1,5 +1,8 @@
 # Piranhas
 
+**Tags:** Piranhas, Time-of-the-Red, Gang, Organization, Corporation
+
+
 **Type:** Party Gang
 **Era:** Cyberpunk RED (Time of the Red)
 **Base of Operations:** Mobile (Piranha Palace)

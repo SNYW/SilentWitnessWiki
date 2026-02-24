@@ -1,5 +1,8 @@
 # Kimen-Gumi
 
+**Tags:** Organization, Tyger-Claws, Time-of-the-Red, Corporation
+
+
 A public security subgroup of the Tyger Claws, established during the Time of the Red.
 
 ## Overview

@@ -1,5 +1,8 @@
 # Toecutters
 
+**Tags:** Time-of-the-Red, Night-City, Gang, Organization, Nomad
+
+
 **Type:** Nomad Gang (Raffen Shiv)  
 **Territory:** Badlands, Eastern edges of Night City, North Heywood  
 **Threat Level:** High

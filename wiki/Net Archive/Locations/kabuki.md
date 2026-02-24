@@ -1,5 +1,8 @@
 # Kabuki
 
+**Tags:** District, Location, Watson
+
+
 **District Code:** O  
 **Type:** Rebuilding Urban Zone  
 **Threat Rating:** Low to Medium

@@ -1,5 +1,8 @@
 # Night City Area Rapid Transit (NCART)
 
+**Tags:** Time-of-the-Red, Little-China, Executive-Zone, South-Night-City, Little-Europe, Pacifica, Watson, Location, Heywood
+
+
 **Type:** Public Transportation System  
 **Era:** Time of the Red (2040s)
 

@@ -1,5 +1,8 @@
 # Digital Divas
 
+**Tags:** Organization, Time-of-the-Red, Militech
+
+
 **Type:** Electric Punk Band  
 **Era:** Time of the Red (2045)  
 **Source:** Cyberpunk RED Data Pack, Danger Gal Dossier

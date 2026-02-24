@@ -1,5 +1,8 @@
 # Charter Hill
 
+**Tags:** District, Location, Charter-Hill
+
+
 **District Code:** Q  
 **Type:** Rebuilding Urban Zone  
 **Threat Rating:** Low

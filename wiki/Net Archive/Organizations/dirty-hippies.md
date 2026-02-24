@@ -1,5 +1,8 @@
 # The Dirty Hippies
 
+**Tags:** Time-of-the-Red, Night-City, Gang, Organization, Nomad, Corporation
+
+
 **Type:** Gang / Reclaimer Group  
 **Home Territory:** Rancho Coronado (District)  
 **Threat Rating:** Low-Medium

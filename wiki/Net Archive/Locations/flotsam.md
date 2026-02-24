@@ -1,5 +1,8 @@
 # Flotsam
 
+**Tags:** South-Night-City, District, Location, Time-of-the-Red
+
+
 **Type:** Drift Town / Maritime Community  
 **Location:** Port of Night City, Del Coronado Bay
 

@@ -1,5 +1,8 @@
 # The Precipice
 
+**Tags:** District, Time-of-the-Red, Hotel, Medical-Facility, Hot-Zone, Location
+
+
 ## Basic Info
 - **Type:** Cargo container community
 - **District:** Old Japantown

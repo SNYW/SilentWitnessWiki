@@ -1,5 +1,8 @@
 # Night City History
 
+**Tags:** Time-of-the-Red, Lore
+
+
 ## Overview
 
 Night City is an autonomous city-state located on the shores of Del Coronado Bay, on the border between North and South California, on the Pacific Coast of North America. It is the main setting for the Cyberpunk franchise.

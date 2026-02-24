@@ -1,5 +1,8 @@
 # The Faded
 
+**Tags:** Time-of-the-Red, Gang, Organization, Iron-Sights, Corporation
+
+
 **Type:** Gang / Edgerunner Collective
 **Era:** Time of the Red (Cyberpunk RED - 2045)
 **Source:** Cyberpunk RED Core Rulebook (2020)

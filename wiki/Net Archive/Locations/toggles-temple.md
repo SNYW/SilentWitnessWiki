@@ -1,5 +1,8 @@
 # Toggle's Temple
 
+**Tags:** Hot-Zone, Time-of-the-Red, Location, Little-Europe
+
+
 **Type:** Underground Armory & Fire Range  
 **Area:** Hot Zone (beneath Old City Center)  
 **Threat Rating:** High

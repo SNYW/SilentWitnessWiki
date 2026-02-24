@@ -1,5 +1,8 @@
 # The Time Machine
 
+**Tags:** District, Time-of-the-Red, Bar, Little-China, Watson, Location
+
+
 **Type:** Bar & Edgerunner Hangout  
 **Area:** Watson, Little China (sub-district)  
 **Threat Rating:** Medium

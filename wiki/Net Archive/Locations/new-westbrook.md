@@ -1,5 +1,8 @@
 # New Westbrook
 
+**Tags:** District, Location, Combat-Zone
+
+
 **District Code:** P  
 **Type:** Rebuilding Urban Zone  
 **Threat Rating:** Medium

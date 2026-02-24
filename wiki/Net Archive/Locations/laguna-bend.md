@@ -1,5 +1,8 @@
 # Laguna Bend
 
+**Tags:** Badlands, Location, Time-of-the-Red
+
+
 **Location Type:** Former Lake/Refugee Settlement
 
 **District:** Badlands (RED Era)

@@ -1,3 +1,6 @@
+
+**Tags:** Location, The Lair
+
 # The Lair
 
 **District:** South Night City  

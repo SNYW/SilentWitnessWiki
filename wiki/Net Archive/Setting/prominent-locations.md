@@ -1,5 +1,8 @@
 # Notable RED Era Locations
 
+**Tags:** Time-of-the-Red, Lore
+
+
 ## Overview
 
 During the Time of the Red (2020s-2040s), Night City was reorganized after the devastation of the Fourth Corporate War. Here are some of the most prominent locations:

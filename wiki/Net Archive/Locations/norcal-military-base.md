@@ -1,5 +1,8 @@
 # NorCal Military Base
 
+**Tags:** Pacifica, District, Location
+
+
 **District Code:** M  
 **Type:** Military Zone  
 **Threat Rating:** Medium (Military)

@@ -1,5 +1,8 @@
 # The Columbarium
 
+**Tags:** South-Night-City, District, Location, Time-of-the-Red
+
+
 **Type:** Necropolis/Burial Site  
 **District:** The Island (South Night City)  
 **Threat Rating:** Low

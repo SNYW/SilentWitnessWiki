@@ -1,5 +1,8 @@
 # Chrome Cross Bar
 
+**Tags:** Time-of-the-Red, Bar, Little-China, Combat-Zone, Watson, Location, Heywood
+
+
 **Type:** Bar / Gang Headquarters  
 **Area:** Little China (Watson)  
 **Threat Rating:** Very High

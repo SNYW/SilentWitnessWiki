@@ -1,5 +1,8 @@
 # The Big Top
 
+**Tags:** Location
+
+
 ## Overview
 
 The base of operations for the Bozos gang.

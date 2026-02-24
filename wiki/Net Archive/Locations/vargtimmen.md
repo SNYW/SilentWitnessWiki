@@ -1,5 +1,8 @@
 # Vargtimmen
 
+**Tags:** District, Location, Time-of-the-Red, Watson
+
+
 **Type:** Neo-Pagan Mead Hall  
 **District:** Watson Development (N12)  
 **Threat Rating:** Low to Medium

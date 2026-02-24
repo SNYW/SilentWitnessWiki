@@ -1,5 +1,8 @@
 # Badlands
 
+**Tags:** Badlands, Location, Time-of-the-Red, Heywood
+
+
 **Type:** Wasteland Region  
 **Location:** Surrounding Night City, Northern and Southern California  
 **Era:** Time of the Red (2040s)

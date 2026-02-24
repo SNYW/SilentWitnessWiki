@@ -1,5 +1,8 @@
 # The Randy Dandy
 
+**Tags:** Location, Bar
+
+
 **Type:** Mobile Bar / Passenger Ferry  
 **Location:** Flotsam, Del Coronado Bay (off the coast of Night City)
 

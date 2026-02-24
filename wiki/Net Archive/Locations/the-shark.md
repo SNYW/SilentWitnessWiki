@@ -1,5 +1,8 @@
 # The Shark
 
+**Tags:** Time-of-the-Red, Location, Heywood
+
+
 **Type:** Apartment Complex  
 **Area:** Woodland Park, North Heywood, Heywood  
 **Threat Rating:** Low to Medium

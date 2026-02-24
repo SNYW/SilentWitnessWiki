@@ -1,5 +1,8 @@
 # Generation Red
 
+**Tags:** Organization, Time-of-the-Red, Night-City
+
+
 A yogang (youth gang) created during the Time of the Red, operating in Night City's Old Combat Zone.
 
 ## Overview

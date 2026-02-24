@@ -1,5 +1,8 @@
 # Forlorn Hope
 
+**Tags:** Time-of-the-Red, Location, Bar, Heywood
+
+
 **Type:** Bar / Edgerunner Hangout  
 **Area:** North Heywood (Woodland Park)  
 **Threat Rating:** High

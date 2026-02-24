@@ -1,5 +1,8 @@
 # The Signboards
 
+**Tags:** Badlands, Location, Time-of-the-Red
+
+
 **Location Type:** Waystation/Trading Post
 
 **District:** Badlands (RED Era)

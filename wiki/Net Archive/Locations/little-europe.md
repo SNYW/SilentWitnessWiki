@@ -1,5 +1,8 @@
 # Little Europe
 
+**Tags:** District, Location, Little-Europe
+
+
 **District Code:** A  
 **Type:** Rebuilding Urban Zone  
 **Threat Rating:** Medium

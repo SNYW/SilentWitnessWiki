@@ -1,5 +1,8 @@
 # Iron Sights
 
+**Tags:** Time-of-the-Red, Gang, Organization, Maelstrom, Corporation
+
+
 **Type:** Boostergang / Combat Gang  
 **Territory:** Old Combat Zone, Old Japantown, Little China (RED Era)  
 **Threat Rating:** High

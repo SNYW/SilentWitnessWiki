@@ -1,5 +1,8 @@
 # Pacifica (Pacifica Playground)
 
+**Tags:** District, Time-of-the-Red, Combat-Zone, Pacifica, Location
+
+
 **District Code:** W  
 **Type:** Rebuilding Urban Zone  
 **Threat Rating:** Medium

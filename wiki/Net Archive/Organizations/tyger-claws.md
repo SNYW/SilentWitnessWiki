@@ -1,5 +1,8 @@
 # Tyger Claws
 
+**Tags:** Time-of-the-Red, Gang, Organization, Tyger-Claws, Corporation
+
+
 **Type:** Gang / Guardian Gang  
 **Territory:** Watson Development, Kabuki, Old Japantown  
 **Threat Rating:** High

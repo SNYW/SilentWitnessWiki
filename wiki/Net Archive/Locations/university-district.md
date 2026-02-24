@@ -1,5 +1,8 @@
 # University District
 
+**Tags:** University-District, District, Location
+
+
 **District Code:** F  
 **Type:** Rebuilding Urban Zone  
 **Threat Rating:** Low to Medium

@@ -1,5 +1,7 @@
 # Lucky Cat Stir Fry
 
+**Tags:** Location, Restaurant, Budget-Eating, New-Westbrook, NightCity, Time-of-the-Red, Threat-Low, Asian-Cuisine
+
 **Type:** Budget Restaurant / Stir Fry House  
 **Area:** New Westbrook  
 **Threat Rating:** Low

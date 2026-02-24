@@ -1,5 +1,8 @@
 # Afterlife
 
+**Tags:** District, Time-of-the-Red, Bar, Little-China, Watson, Location, Club
+
+
 **Type:** Club/Bar  
 **District:** Little China (Watson)  
 **Era:** Time of the Red (2040s)

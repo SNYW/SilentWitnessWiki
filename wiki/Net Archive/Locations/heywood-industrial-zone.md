@@ -1,5 +1,8 @@
 # Heywood Industrial Zone
 
+**Tags:** District, Location, Heywood
+
+
 **District Code:** U  
 **Type:** Industrial Zone  
 **Threat Rating:** Medium to High

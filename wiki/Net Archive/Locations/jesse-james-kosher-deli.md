@@ -1,5 +1,8 @@
 # Jesse James' Kosher Deli
 
+**Tags:** District, Time-of-the-Red, Combat-Zone, Location, Restaurant, Club
+
+
 **Type:** Restaurant / Survival Spot  
 **Area:** Old Combat Zone (District K)  
 **Threat Rating:** High

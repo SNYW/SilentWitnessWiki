@@ -1,5 +1,8 @@
 # Old Combat Zone
 
+**Tags:** District, Location, Combat-Zone
+
+
 **District Code:** L  
 **Type:** Combat Zone  
 **Threat Rating:** Extreme

@@ -1,5 +1,8 @@
 # Hot Zone
 
+**Tags:** Hotel, District, Location, Hot-Zone
+
+
 **District Code:** D  
 **Type:** Radioactive Ruins  
 **Threat Rating:** Extreme

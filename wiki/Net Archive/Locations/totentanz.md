@@ -1,5 +1,8 @@
 # Totentanz
 
+**Tags:** Hot-Zone, Time-of-the-Red, Location, Club
+
+
 **Type:** Ruined Club  
 **Area:** Hot Zone (Central The Island)  
 **Threat Rating:** Extreme

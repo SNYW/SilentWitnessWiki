@@ -1,5 +1,8 @@
 # Time of the Red
 
+**Tags:** Time-of-the-Red, Lore
+
+
 ## Overview
 
 The **Time of the Red** (also known as the **Red Decades**) was a period from August 2023 to the late 2040s in Night City and the world at large. The name derives from the red skies that dominated the atmosphere as an aftereffect of the Fourth Corporate War.

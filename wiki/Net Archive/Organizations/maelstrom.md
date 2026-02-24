@@ -1,5 +1,8 @@
 # Maelstrom
 
+**Tags:** Time-of-the-Red, Gang, Organization, Maelstrom, Corporation
+
+
 **Type:** Combat Gang / Boostergang  
 **Territory:** Watson Development (formerly Hot Zone / Burleson Tower)  
 **Threat Level:** High  

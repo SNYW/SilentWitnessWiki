@@ -1,5 +1,7 @@
 # Regional Airport
 
+**Tags:** Location, Airport, Badlands, Transportation, Time-of-the-Red, Threat-Medium, Waystation, Nomad
+
 **Location Type:** Abandoned Airport/Temporary Landing Zone
 
 **District:** Badlands (RED Era)

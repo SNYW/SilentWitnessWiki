@@ -1,5 +1,8 @@
 # Sinful Adams
 
+**Tags:** Time-of-the-Red, Night-City, Gang, Organization, Corporation
+
+
 **Type:** Gang / Community Organization  
 **Territory:** The Boneyard, South Night City  
 **Threat Rating:** Low-Medium  

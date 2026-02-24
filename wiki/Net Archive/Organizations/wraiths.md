@@ -1,5 +1,8 @@
 # Wraiths
 
+**Tags:** Time-of-the-Red, Gang, Organization, Maelstrom, Nomad, Corporation
+
+
 **Type:** Nomad Gang / Raffen Shiv  
 **Territory:** Badlands surrounding Night City  
 **Threat Rating:** High

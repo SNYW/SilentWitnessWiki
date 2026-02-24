@@ -1,5 +1,8 @@
 # Megabuilding H10
 
+**Tags:** District, Location, Time-of-the-Red, Watson
+
+
 **District:** Watson Development  
 **Type:** Residential Megabuilding  
 **Threat Rating:** Low to Medium

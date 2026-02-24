@@ -1,5 +1,8 @@
 # Reclamation Zone
 
+**Tags:** District, Location
+
+
 **District Code:** K  
 **Type:** Rebuilding Urban Zone  
 **Threat Rating:** Medium

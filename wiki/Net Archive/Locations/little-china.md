@@ -1,5 +1,8 @@
 # Little China
 
+**Tags:** District, Location, Little-China
+
+
 **District Code:** E  
 **Type:** Rebuilding Urban Zone  
 **Threat Rating:** Medium

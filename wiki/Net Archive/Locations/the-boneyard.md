@@ -1,3 +1,6 @@
+
+**Tags:** Location, The Boneyard
+
 # The Boneyard
 
 **District:** South Night City  

@@ -1,5 +1,8 @@
 # Night Market
 
+**Tags:** Time-of-the-Red, Location
+
+
 **Type:** Semi-illegal temporary market
 **Era:** Time of the Red (Cyberpunk RED - 2045)
 **Source:** Cyberpunk RED Core Rulebook (2020)

@@ -1,5 +1,8 @@
 # Guăngbō Tower
 
+**Tags:** Time-of-the-Red, District, Location, Little-China
+
+
 **Type:** Rehabilitation Project / Commercial Tower  
 **District:** Little China (The Island)  
 **Threat Rating:** Medium  

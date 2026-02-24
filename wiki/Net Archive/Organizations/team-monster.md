@@ -1,5 +1,8 @@
 # Team Monster
 
+**Tags:** Organization, Time-of-the-Red, Arasaka
+
+
 **Type:** Edgerunner Mercenary Crew  
 **Territory:** Various (hangs out at Forlorn Hope)  
 **Threat Level:** High (Elite Edgerunners)  

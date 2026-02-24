@@ -1,5 +1,8 @@
 # Dockside Billhooks
 
+**Tags:** Organization, Night-City, Time-of-the-Red, Gang
+
+
 ## Overview
 
 The Dockside Billhooks are a roller derby team in the Night City Wonderland League, active during the Time of the Red (2040s).

@@ -1,5 +1,8 @@
 # Burleson Tower
 
+**Tags:** District, Time-of-the-Red, Hotel, Hot-Zone, Location, Club
+
+
 **Type:** Ruined Hotel / Maelstrom Base  
 **District:** Hot Zone (formerly City Center)  
 **Era:** Time of the Red (2040s)

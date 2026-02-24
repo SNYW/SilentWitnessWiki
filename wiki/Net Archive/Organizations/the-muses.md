@@ -1,5 +1,8 @@
 # The Muses
 
+**Tags:** Organization, Time-of-the-Red, Night-City
+
+
 **Type:** Posergang  
 **District:** North Heywood (Woodland Park)  
 **Threat Rating:** Low-Medium  

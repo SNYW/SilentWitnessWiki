@@ -1,5 +1,8 @@
 # The Jodes
 
+**Tags:** Organization, Time-of-the-Red, Nomad, Aldecaldos
+
+
 **Type:** Nomad Clan / Family  
 **Territory:** Badlands, Night City Outskirts, Allied with South Night City communities  
 **Threat Rating:** Low-Medium  

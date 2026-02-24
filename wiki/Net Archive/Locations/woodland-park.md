@@ -1,5 +1,8 @@
 # Woodland Park
 
+**Tags:** Badlands, Time-of-the-Red, Hotel, Hot-Zone, Location, Heywood
+
+
 **Type:** Rebuilding Urban Neighborhood  
 **Area:** North Heywood, Heywood  
 **Threat Rating:** Low to Medium

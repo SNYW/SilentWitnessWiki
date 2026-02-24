@@ -1,5 +1,8 @@
 # 6th Street
 
+**Tags:** Time-of-the-Red, Gang, Organization, Nomad, 6th-Street, Corporation
+
+
 **Type:** Gang / Militant Organization  
 **Primary Territory:** North Heywood, Santo Domingo  
 **Threat Rating:** Medium-High

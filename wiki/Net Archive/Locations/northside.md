@@ -1,5 +1,8 @@
 # Northside
 
+**Tags:** Location, Watson
+
+
 The land to the north of the island. Once home to forest and parks, now home to megabuildings, the masses, and the military.
 
 ## Districts

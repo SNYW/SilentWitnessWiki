@@ -1,5 +1,8 @@
 # City Medical Center
 
+**Tags:** District, Location, Time-of-the-Red, Medical-Facility
+
+
 **Type:** Hospital / Medical Facility  
 **Area:** Upper Marina (District B)  
 **Threat Rating:** Low (Corporate Protected)

@@ -1,5 +1,8 @@
 # Shroomers
 
+**Tags:** Organization, Time-of-the-Red, Night-City, Corporation
+
+
 **Type:** Reclaimer Group  
 **Territory:** Disconnected NCART Track (Underground)  
 **Threat Rating:** Low

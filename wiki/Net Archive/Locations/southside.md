@@ -1,5 +1,8 @@
 # Southside
 
+**Tags:** Pacifica, Location
+
+
 One part vacation spot, one part urban wasteland.
 
 ## Districts

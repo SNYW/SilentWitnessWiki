@@ -1,5 +1,8 @@
 # Night City Wonderland League
 
+**Tags:** Time-of-the-Red, Night-City, Organization, Nomad, Corporation
+
+
 **Type:** Sports League / Organization
 **Era:** RED (Time of the Red, 2040s)
 **Location:** Various venues throughout Night City

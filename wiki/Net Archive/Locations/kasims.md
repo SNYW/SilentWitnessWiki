@@ -1,5 +1,8 @@
 # Kasim's
 
+**Tags:** District, Time-of-the-Red, Bar, The-Glen, Location, Heywood
+
+
 **Type:** Turkish Coffeehouse and Bar  
 **District:** The Glen, Heywood  
 **Threat Rating:** Low  

@@ -1,5 +1,8 @@
 # Reclaimed Perimeter
 
+**Tags:** Badlands, Location, Time-of-the-Red
+
+
 **Type:** Collection of Repopulated Settlements  
 **Area:** Badlands / Night City Surroundings  
 **Threat Rating:** Variable (Low to Medium)

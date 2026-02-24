@@ -1,5 +1,8 @@
 # Mainland
 
+**Tags:** Time-of-the-Red, Location, Heywood, Charter-Hill
+
+
 The overpacked suburbs, struggling to rebuild in the Time of the Red.
 
 ## Districts

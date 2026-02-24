@@ -1,5 +1,8 @@
 # Tom's Diner
 
+**Tags:** Time-of-the-Red, Little-China, Watson, Location, Restaurant
+
+
 **Type:** Restaurant  
 **Area:** Little China (Watson)  
 **Threat Rating:** Low

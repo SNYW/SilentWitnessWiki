@@ -1,5 +1,8 @@
 # Chopper's
 
+**Tags:** Time-of-the-Red, District, Location, Bar
+
+
 **Type:** Bar / Survival Spot  
 **Area:** Upper Marina (District B)  
 **Threat Rating:** Medium

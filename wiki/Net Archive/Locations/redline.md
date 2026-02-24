@@ -1,5 +1,8 @@
 # The Redline
 
+**Tags:** District, Time-of-the-Red, Bar, Watson, Location
+
+
 **Type:** Bar / Fighting Arena  
 **District:** Watson Development (N6)  
 **Threat Rating:** Medium
