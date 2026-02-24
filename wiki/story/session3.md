@@ -62,8 +62,7 @@ The mysterious girl from the vault awakens, revealing strange abilities. Meanwhi
 
 - Crap guns (various)
 - Cyberware from dead scavs
-- Prototype car (ruined)
-- Key elements from prototype car
+- Key parts from prototype car (car left where it was)
 - Prototype AI self-driving module
 
 ## Plot Threads
