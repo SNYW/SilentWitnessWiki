@@ -11,13 +11,18 @@
         * { margin: 0; padding: 0; box-sizing: border-box; }
         ::selection { background: rgba(233, 69, 96, 0.8); color: #fff; text-shadow: none; }
         body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg-dark); color: var(--text-main); min-height: 100vh; display: flex; flex-direction: column; position: relative; }
-        body::after { content: " "; display: block; position: fixed; top: 0; left: 0; bottom: 0; right: 0; background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.1) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.03), rgba(0, 255, 0, 0.01), rgba(0, 0, 255, 0.03)); z-index: 999; background-size: 100% 3px, 3px 100%; pointer-events: none; opacity: 0.6; }
+        body::after { content: " "; display: block; position: fixed; top: 0; left: 0; bottom: 0; right: 0; background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.1) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.03), rgba(0, 255, 0, 0.01), rgba(0, 0, 255, 0.03)); z-index: 998; background-size: 100% 3px, 3px 100%; pointer-events: none; opacity: 0.5; }
         h1, h2, h3, .search-box input, .tree-item, .district-code, .threat-rating { font-family: 'Rajdhani', sans-serif; }
-        .header { background: linear-gradient(135deg, #1a1a2e 0%, #0f0f1a 100%); padding: 15px 25px; border-bottom: 2px solid var(--red); box-shadow: 0 0 15px rgba(233, 69, 96, 0.3); display: flex; justify-content: space-between; align-items: center; flex-shrink: 0; position: relative; z-index: 10; }
-        .header h1 { color: var(--red); font-size: 1.8rem; text-transform: uppercase; letter-spacing: 3px; text-shadow: 0 0 8px rgba(233, 69, 96, 0.5); transition: all 0.2s; cursor: default; }
+        .header { background: linear-gradient(135deg, #1a1a2e 0%, #0f0f1a 100%); padding: 15px 25px; border-bottom: 2px solid var(--red); box-shadow: 0 0 15px rgba(233, 69, 96, 0.4); display: flex; justify-content: space-between; align-items: center; flex-shrink: 0; position: relative; z-index: 10; overflow: hidden; }
+        .header::after { content: " "; display: block; position: absolute; top: 0; left: 0; bottom: 0; right: 0; background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.3) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.08), rgba(0, 255, 0, 0.03), rgba(0, 0, 255, 0.08)); background-size: 100% 4px, 4px 100%; pointer-events: none; z-index: 5; animation: powerFlicker 0.15s infinite; }
+        @keyframes powerFlicker { 0% { opacity: 0.8; } 50% { opacity: 1; } 100% { opacity: 0.9; } }
+        .header-content { position: relative; z-index: 2; width: 100%; display: flex; justify-content: space-between; align-items: center; }
+        .header h1 { color: var(--red); font-size: 1.8rem; text-transform: uppercase; letter-spacing: 3px; text-shadow: 0 0 8px rgba(233, 69, 96, 0.6); cursor: default; animation: systemBootTitle 0.8s cubic-bezier(0.1, 0.9, 0.2, 1) forwards; opacity: 0; }
+        .header .subtitle { color: var(--teal); font-size: 0.9rem; letter-spacing: 2px; font-family: 'Fira Code', monospace; text-transform: uppercase; animation: systemBootSub 0.6s cubic-bezier(0.1, 0.9, 0.2, 1) 0.3s forwards; opacity: 0; }
+        @keyframes systemBootTitle { 0% { transform: translateX(-40px) skewX(20deg); opacity: 0; filter: blur(8px); } 70% { transform: translateX(5px) skewX(-5deg); opacity: 1; filter: blur(1px); } 100% { transform: translateX(0) skewX(0); opacity: 1; filter: blur(0); } }
+        @keyframes systemBootSub { 0% { transform: translateX(30px); opacity: 0; filter: blur(5px); } 100% { transform: translateX(0); opacity: 1; filter: blur(0); } }
         .header h1:hover { animation: glitch 0.3s cubic-bezier(.25, .46, .45, .94) both infinite; color: #fff; }
-        @keyframes glitch { 0% { text-shadow: 3px 0 var(--teal), -3px 0 var(--red); } 33% { text-shadow: -3px 0 var(--teal), 3px 0 var(--red); } 66% { text-shadow: 3px 0 var(--teal), -3px 0 var(--red); } 100% { text-shadow: -3px 0 var(--teal), 3px 0 var(--red); } }
-        .header .subtitle { color: var(--text-muted); font-size: 0.85rem; letter-spacing: 1px; }
+        @keyframes glitch { 0% { text-shadow: 3px 0 var(--teal), -3px 0 var(--red); transform: translate(1px, 1px); } 33% { text-shadow: -3px 0 var(--teal), 3px 0 var(--red); transform: translate(-1px, -1px); } 66% { text-shadow: 3px 0 var(--teal), -3px 0 var(--red); transform: translate(1px, -1px); } 100% { text-shadow: -3px 0 var(--teal), 3px 0 var(--red); transform: translate(-1px, 1px); } }
         .main-container { display: flex; flex: 1; overflow: hidden; }
         .sidebar { width: 280px; background: linear-gradient(180deg, #18181b 0%, #0f0f12 100%); border-right: 1px solid #27272a; overflow-y: auto; flex-shrink: 0; padding: 10px 0; }
         ::-webkit-scrollbar { width: 6px; height: 6px; }
@@ -77,12 +82,12 @@
         .empty-state p { font-size: 1.1rem; }
         .loading { text-align: center; padding: 80px; color: var(--teal); font-size: 1.2rem; font-family: 'Fira Code', monospace; text-transform: uppercase; animation: pulse 1.5s infinite;}
         @keyframes pulse { 0% { opacity: 0.5; } 50% { opacity: 1; text-shadow: 0 0 15px var(--teal); } 100% { opacity: 0.5; } }
-        @media (max-width: 768px) { .sidebar { width: 220px; } .content-area { padding: 20px; } }
+        @media (max-width: 768px) { .sidebar { width: 220px; } .content-area { padding: 20px; } .header-content { flex-direction: column; align-items: flex-start; gap: 5px; } }
     </style>
 </head>
 <body>
     <div class="header">
-        <div>
+        <div class="header-content">
             <h1>NETWATCH Database</h1>
             <div class="subtitle">Accessing Night City Subnet // Time of the Red</div>
         </div>
