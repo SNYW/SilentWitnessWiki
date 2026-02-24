@@ -1,7 +1,7 @@
-# Bekah "Bluejay" Pickering
+# Bekah "Bluejay"
 
 ## Basic Info
-- **Name:** Bekah Pickering
+- **Name:** Bekah
 - **Nickname:** Bluejay
 - **Affiliation:** Vultures (Night City)
 - **Role:** Combat member / Scout
