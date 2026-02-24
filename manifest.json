@@ -3,316 +3,133 @@
     "name": "locations",
     "type": "folder",
     "children": [
-      {
-        "name": "Charter Hill",
-        "type": "file",
-        "path": "locations/charter-hill.md"
-      },
-      {
-        "name": "Choppers",
-        "type": "file",
-        "path": "locations/choppers.md"
-      },
-      {
-        "name": "Dice Or Die",
-        "type": "file",
-        "path": "locations/dice-or-die.md"
-      },
-      {
-        "name": "Downtown",
-        "type": "file",
-        "path": "locations/downtown.md"
-      },
-      {
-        "name": "Executive Zone",
-        "type": "file",
-        "path": "locations/executive-zone.md"
-      },
-      {
-        "name": "Heywood Docks",
-        "type": "file",
-        "path": "locations/heywood-docks.md"
-      },
-      {
-        "name": "Heywood Industrial Zone",
-        "type": "file",
-        "path": "locations/heywood-industrial-zone.md"
-      },
-      {
-        "name": "Hot Zone",
-        "type": "file",
-        "path": "locations/hot-zone.md"
-      },
-      {
-        "name": "Kabuki",
-        "type": "file",
-        "path": "locations/kabuki.md"
-      },
-      {
-        "name": "Little China",
-        "type": "file",
-        "path": "locations/little-china.md"
-      },
-      {
-        "name": "Little Europe",
-        "type": "file",
-        "path": "locations/little-europe.md"
-      },
-      {
-        "name": "Mainland",
-        "type": "file",
-        "path": "locations/mainland.md"
-      },
-      {
-        "name": "New Westbrook",
-        "type": "file",
-        "path": "locations/new-westbrook.md"
-      },
-      {
-        "name": "Norcal Military Base",
-        "type": "file",
-        "path": "locations/norcal-military-base.md"
-      },
-      {
-        "name": "North Heywood",
-        "type": "file",
-        "path": "locations/north-heywood.md"
-      },
-      {
-        "name": "Northside",
-        "type": "file",
-        "path": "locations/northside.md"
-      },
-      {
-        "name": "Old Combat Zone",
-        "type": "file",
-        "path": "locations/old-combat-zone.md"
-      },
-      {
-        "name": "Old Japantown",
-        "type": "file",
-        "path": "locations/old-japantown.md"
-      },
-      {
-        "name": "Pacifica Playground",
-        "type": "file",
-        "path": "locations/pacifica-playground.md"
-      },
-      {
-        "name": "Pacifica",
-        "type": "file",
-        "path": "locations/pacifica.md"
-      },
-      {
-        "name": "Playland By The Sea",
-        "type": "file",
-        "path": "locations/playland-by-the-sea.md"
-      },
-      {
-        "name": "Port Of Night City",
-        "type": "file",
-        "path": "locations/port-of-night-city.md"
-      },
-      {
-        "name": "Rancho Coronado",
-        "type": "file",
-        "path": "locations/rancho-coronado.md"
-      },
-      {
-        "name": "Randy Dandy",
-        "type": "file",
-        "path": "locations/randy-dandy.md"
-      },
-      {
-        "name": "Reclamation Zone",
-        "type": "file",
-        "path": "locations/reclamation-zone.md"
-      },
-      {
-        "name": "Santo Domingo",
-        "type": "file",
-        "path": "locations/santo-domingo.md"
-      },
-      {
-        "name": "South Night City",
-        "type": "file",
-        "path": "locations/south-night-city.md"
-      },
-      {
-        "name": "Southside",
-        "type": "file",
-        "path": "locations/southside.md"
-      },
-      {
-        "name": "The Big Top",
-        "type": "file",
-        "path": "locations/the-big-top.md"
-      },
-      {
-        "name": "The Glen",
-        "type": "file",
-        "path": "locations/the-glen.md"
-      },
-      {
-        "name": "The Island",
-        "type": "file",
-        "path": "locations/the-island.md"
-      },
-      {
-        "name": "The Precipice",
-        "type": "file",
-        "path": "locations/the-precipice.md"
-      },
-      {
-        "name": "Toms Diner",
-        "type": "file",
-        "path": "locations/toms-diner.md"
-      },
-      {
-        "name": "Totentanz",
-        "type": "file",
-        "path": "locations/totentanz.md"
-      },
-      {
-        "name": "University District",
-        "type": "file",
-        "path": "locations/university-district.md"
-      },
-      {
-        "name": "Upper Marina",
-        "type": "file",
-        "path": "locations/upper-marina.md"
-      },
-      {
-        "name": "Vultures Nest",
-        "type": "file",
-        "path": "locations/vultures-nest.md"
-      },
-      {
-        "name": "Watson Development",
-        "type": "file",
-        "path": "locations/watson-development.md"
-      }
+      {"name": "Afterlife", "type": "file", "path": "locations/afterlife.md"},
+      {"name": "Charter Hill", "type": "file", "path": "locations/charter-hill.md"},
+      {"name": "Choppers", "type": "file", "path": "locations/choppers.md"},
+      {"name": "Chrome Cross Bar", "type": "file", "path": "locations/chrome-cross-bar.md"},
+      {"name": "City Medical Center", "type": "file", "path": "locations/city-medical-center.md"},
+      {"name": "Club Atlantis", "type": "file", "path": "locations/club-atlantis.md"},
+      {"name": "Danger Gal Headquarters", "type": "file", "path": "locations/danger-gal-headquarters.md"},
+      {"name": "Dice Or Die", "type": "file", "path": "locations/dice-or-die.md"},
+      {"name": "Downtown", "type": "file", "path": "locations/downtown.md"},
+      {"name": "Executive Zone", "type": "file", "path": "locations/executive-zone.md"},
+      {"name": "Forlorn Hope", "type": "file", "path": "locations/forlorn-hope.md"},
+      {"name": "Heywood Docks", "type": "file", "path": "locations/heywood-docks.md"},
+      {"name": "Heywood Industrial Zone", "type": "file", "path": "locations/heywood-industrial-zone.md"},
+      {"name": "Hot Zone", "type": "file", "path": "locations/hot-zone.md"},
+      {"name": "Jesse James Kosher Deli", "type": "file", "path": "locations/jesse-james-kosher-deli.md"},
+      {"name": "Kabuki", "type": "file", "path": "locations/kabuki.md"},
+      {"name": "Kasims", "type": "file", "path": "locations/kasims.md"},
+      {"name": "Little China", "type": "file", "path": "locations/little-china.md"},
+      {"name": "Little Europe", "type": "file", "path": "locations/little-europe.md"},
+      {"name": "Mainland", "type": "file", "path": "locations/mainland.md"},
+      {"name": "Megabuilding H10", "type": "file", "path": "locations/megabuilding-h10.md"},
+      {"name": "New Westbrook", "type": "file", "path": "locations/new-westbrook.md"},
+      {"name": "Night Market", "type": "file", "path": "locations/night-market.md"},
+      {"name": "Norcal Military Base", "type": "file", "path": "locations/norcal-military-base.md"},
+      {"name": "North Heywood", "type": "file", "path": "locations/north-heywood.md"},
+      {"name": "Northside", "type": "file", "path": "locations/northside.md"},
+      {"name": "Old Combat Zone", "type": "file", "path": "locations/old-combat-zone.md"},
+      {"name": "Old Japantown", "type": "file", "path": "locations/old-japantown.md"},
+      {"name": "Pacifica Playground", "type": "file", "path": "locations/pacifica-playground.md"},
+      {"name": "Pacifica", "type": "file", "path": "locations/pacifica.md"},
+      {"name": "Playland By The Sea", "type": "file", "path": "locations/playland-by-the-sea.md"},
+      {"name": "Port Of Night City", "type": "file", "path": "locations/port-of-night-city.md"},
+      {"name": "Rancho Coronado", "type": "file", "path": "locations/rancho-coronado.md"},
+      {"name": "Randy Dandy", "type": "file", "path": "locations/randy-dandy.md"},
+      {"name": "Reclaimed Perimeter", "type": "file", "path": "locations/reclaimed-perimeter.md"},
+      {"name": "Reclamation Zone", "type": "file", "path": "locations/reclamation-zone.md"},
+      {"name": "Redline", "type": "file", "path": "locations/redline.md"},
+      {"name": "Santo Domingo", "type": "file", "path": "locations/santo-domingo.md"},
+      {"name": "Short Circuit", "type": "file", "path": "locations/short-circuit.md"},
+      {"name": "South Night City", "type": "file", "path": "locations/south-night-city.md"},
+      {"name": "Southside", "type": "file", "path": "locations/southside.md"},
+      {"name": "The Big Top", "type": "file", "path": "locations/the-big-top.md"},
+      {"name": "The Boneyard", "type": "file", "path": "locations/the-boneyard.md"},
+      {"name": "The Columbarium", "type": "file", "path": "locations/the-columbarium.md"},
+      {"name": "The Glen", "type": "file", "path": "locations/the-glen.md"},
+      {"name": "The Island", "type": "file", "path": "locations/the-island.md"},
+      {"name": "The Lair", "type": "file", "path": "locations/the-lair.md"},
+      {"name": "The Precipice", "type": "file", "path": "locations/the-precipice.md"},
+      {"name": "The Slammer", "type": "file", "path": "locations/the-slammer.md"},
+      {"name": "Toggles Temple", "type": "file", "path": "locations/toggles-temple.md"},
+      {"name": "Toms Diner", "type": "file", "path": "locations/toms-diner.md"},
+      {"name": "Totentanz", "type": "file", "path": "locations/totentanz.md"},
+      {"name": "University District", "type": "file", "path": "locations/university-district.md"},
+      {"name": "Upper Marina", "type": "file", "path": "locations/upper-marina.md"},
+      {"name": "Vargtimmen", "type": "file", "path": "locations/vargtimmen.md"},
+      {"name": "Vultures Nest", "type": "file", "path": "locations/vultures-nest.md"},
+      {"name": "Watson Development", "type": "file", "path": "locations/watson-development.md"},
+      {"name": "Woodland Park", "type": "file", "path": "locations/woodland-park.md"}
     ]
   },
   {
     "name": "npcs",
     "type": "folder",
     "children": [
-      {
-        "name": "Bekah Bluejay",
-        "type": "file",
-        "path": "npcs/bekah-bluejay.md"
-      },
-      {
-        "name": "Mr Giggles",
-        "type": "file",
-        "path": "npcs/mr-giggles.md"
-      },
-      {
-        "name": "Mr Tubbs",
-        "type": "file",
-        "path": "npcs/mr-tubbs.md"
-      },
-      {
-        "name": "Raptor",
-        "type": "file",
-        "path": "npcs/raptor.md"
-      },
-      {
-        "name": "Sparrow",
-        "type": "file",
-        "path": "npcs/sparrow.md"
-      }
+      {"name": "Bekah Bluejay", "type": "file", "path": "npcs/bekah-bluejay.md"},
+      {"name": "Mr Giggles", "type": "file", "path": "npcs/mr-giggles.md"},
+      {"name": "Mr Tubbs", "type": "file", "path": "npcs/mr-tubbs.md"},
+      {"name": "Raptor", "type": "file", "path": "npcs/raptor.md"},
+      {"name": "Sparrow", "type": "file", "path": "npcs/sparrow.md"}
     ]
   },
   {
     "name": "organizations",
     "type": "folder",
     "children": [
-      {
-        "name": "Danger Gal",
-        "type": "file",
-        "path": "organizations/danger-gal.md"
-      },
-      {
-        "name": "Generation Red",
-        "type": "file",
-        "path": "organizations/generation-red.md"
-      },
-      {
-        "name": "Kimen Gumi",
-        "type": "file",
-        "path": "organizations/kimen-gumi.md"
-      },
-      {
-        "name": "Maelstrom",
-        "type": "file",
-        "path": "organizations/maelstrom.md"
-      },
-      {
-        "name": "Night City Gangs",
-        "type": "file",
-        "path": "organizations/night-city-gangs.md"
-      },
-      {
-        "name": "Sightseers",
-        "type": "file",
-        "path": "organizations/sightseers.md"
-      }
+      {"name": "6th Street", "type": "file", "path": "organizations/6th-street.md"},
+      {"name": "Aldecados", "type": "file", "path": "organizations/aldecados.md"},
+      {"name": "Andersons", "type": "file", "path": "organizations/andersons.md"},
+      {"name": "Bozos", "type": "file", "path": "organizations/bozos.md"},
+      {"name": "Danger Gal", "type": "file", "path": "organizations/danger-gal.md"},
+      {"name": "Dirty Hippies", "type": "file", "path": "organizations/dirty-hippies.md"},
+      {"name": "Dockside Billhooks", "type": "file", "path": "organizations/dockside-billhooks.md"},
+      {"name": "Generation Red", "type": "file", "path": "organizations/generation-red.md"},
+      {"name": "Inquisitors", "type": "file", "path": "organizations/inquisitors.md"},
+      {"name": "Iron Sights", "type": "file", "path": "organizations/iron-sights.md"},
+      {"name": "Kimen Gumi", "type": "file", "path": "organizations/kimen-gumi.md"},
+      {"name": "Maelstrom", "type": "file", "path": "organizations/maelstrom.md"},
+      {"name": "Night City Gangs", "type": "file", "path": "organizations/night-city-gangs.md"},
+      {"name": "Night City Wonderland League", "type": "file", "path": "organizations/night-city-wonderland-league.md"},
+      {"name": "Piranhas", "type": "file", "path": "organizations/piranhas.md"},
+      {"name": "Red Chrome Legion", "type": "file", "path": "organizations/red-chrome-legion.md"},
+      {"name": "Scavengers", "type": "file", "path": "organizations/scavengers.md"},
+      {"name": "Shroomers", "type": "file", "path": "organizations/shroomers.md"},
+      {"name": "Sightseers", "type": "file", "path": "organizations/sightseers.md"},
+      {"name": "Sinful Adams", "type": "file", "path": "organizations/sinful-adams.md"},
+      {"name": "Steel Vaqueros", "type": "file", "path": "organizations/steel-vaqueros.md"},
+      {"name": "Team Monster", "type": "file", "path": "organizations/team-monster.md"},
+      {"name": "The Faded", "type": "file", "path": "organizations/the-faded.md"},
+      {"name": "The Muses", "type": "file", "path": "organizations/the-muses.md"},
+      {"name": "Toecutters", "type": "file", "path": "organizations/toecutters.md"},
+      {"name": "Tyger Claws", "type": "file", "path": "organizations/tyger-claws.md"},
+      {"name": "Zoners", "type": "file", "path": "organizations/zoners.md"}
     ]
   },
   {
     "name": "players",
     "type": "folder",
     "children": [
-      {
-        "name": "Magpie",
-        "type": "file",
-        "path": "players/magpie.md"
-      },
-      {
-        "name": "Ronnie Pickering Roadblock",
-        "type": "file",
-        "path": "players/ronnie-pickering-roadblock.md"
-      }
+      {"name": "Magpie", "type": "file", "path": "players/magpie.md"},
+      {"name": "Ronnie Pickering Roadblock", "type": "file", "path": "players/ronnie-pickering-roadblock.md"}
     ]
   },
   {
     "name": "setting",
     "type": "folder",
     "children": [
-      {
-        "name": "Night City History",
-        "type": "file",
-        "path": "setting/night-city-history.md"
-      },
-      {
-        "name": "Prominent Locations",
-        "type": "file",
-        "path": "setting/prominent-locations.md"
-      }
+      {"name": "Night City History", "type": "file", "path": "setting/night-city-history.md"},
+      {"name": "Prominent Locations", "type": "file", "path": "setting/prominent-locations.md"}
     ]
   },
   {
     "name": "story",
     "type": "folder",
     "children": [
-      {
-        "name": "Session1",
-        "type": "file",
-        "path": "story/session1.md"
-      },
-      {
-        "name": "Session2",
-        "type": "file",
-        "path": "story/session2.md"
-      },
-      {
-        "name": "Session3",
-        "type": "file",
-        "path": "story/session3.md"
-      }
+      {"name": "Session1", "type": "file", "path": "story/session1.md"},
+      {"name": "Session2", "type": "file", "path": "story/session2.md"},
+      {"name": "Session3", "type": "file", "path": "story/session3.md"}
     ]
   }
 ]
