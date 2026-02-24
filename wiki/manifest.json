@@ -196,6 +196,11 @@
     "type": "folder",
     "children": [
       {
+        "name": "Mr Giggles",
+        "type": "file",
+        "path": "npcs/mr-giggles.md"
+      },
+      {
         "name": "Mr Tubbs",
         "type": "file",
         "path": "npcs/mr-tubbs.md"
@@ -220,6 +225,11 @@
         "name": "Kimen Gumi",
         "type": "file",
         "path": "organizations/kimen-gumi.md"
+      },
+      {
+        "name": "Maelstrom",
+        "type": "file",
+        "path": "organizations/maelstrom.md"
       },
       {
         "name": "Night City Gangs",
@@ -257,6 +267,11 @@
         "name": "Session1",
         "type": "file",
         "path": "story/session1.md"
+      },
+      {
+        "name": "Session2",
+        "type": "file",
+        "path": "story/session2.md"
       }
     ]
   }
