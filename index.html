@@ -212,10 +212,11 @@
         </div>
         
         <div class="content-area" id="content">
-            <div class="empty-state">
+            <div class="empty-state" id="welcome">
                 <h2>Connection Established</h2>
                 <p>Select a file from the directory to decrypt.</p>
                 <p style="color: var(--teal); margin-top: 20px; font-family: 'Fira Code', monospace;">> Awaiting input...</p>
+                <div id="changelog" style="margin-top: 40px; text-align: left; max-width: 600px; margin-left: auto; margin-right: auto;"></div>
             </div>
         </div>
     </div>
@@ -380,6 +381,16 @@
                 if (!treeData.children) treeData.children = [];
                 
                 document.getElementById('tree').innerHTML = buildTreeHTML(treeData);
+                
+                // Load changelog in welcome screen
+                fetch('wiki/CHANGELOG.md?t=' + Date.now())
+                    .then(r => r.ok ? r.text() : '')
+                    .then(text => {
+                        if (text) {
+                            document.getElementById('changelog').innerHTML = marked.parse(text);
+                        }
+                    })
+                    .catch(() => {});
             })
             .catch(err => {
                 console.error('Error:', err);
