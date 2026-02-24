@@ -1,0 +1,192 @@
+[
+  {
+    "category": "🎭 Characters",
+    "items": [
+      {
+        "name": "bekah bluejay",
+        "file": "characters/bekah-bluejay.md"
+      },
+      {
+        "name": "magpie",
+        "file": "characters/magpie.md"
+      },
+      {
+        "name": "ronnie pickering roadblock",
+        "file": "characters/ronnie-pickering-roadblock.md"
+      }
+    ]
+  },
+  {
+    "category": "📍 Locations",
+    "items": [
+      {
+        "name": "charter hill",
+        "file": "locations/charter-hill.md"
+      },
+      {
+        "name": "downtown",
+        "file": "locations/downtown.md"
+      },
+      {
+        "name": "executive zone",
+        "file": "locations/executive-zone.md"
+      },
+      {
+        "name": "heywood docks",
+        "file": "locations/heywood-docks.md"
+      },
+      {
+        "name": "heywood industrial zone",
+        "file": "locations/heywood-industrial-zone.md"
+      },
+      {
+        "name": "hot zone",
+        "file": "locations/hot-zone.md"
+      },
+      {
+        "name": "kabuki",
+        "file": "locations/kabuki.md"
+      },
+      {
+        "name": "little china",
+        "file": "locations/little-china.md"
+      },
+      {
+        "name": "little europe",
+        "file": "locations/little-europe.md"
+      },
+      {
+        "name": "mainland",
+        "file": "locations/mainland.md"
+      },
+      {
+        "name": "new westbrook",
+        "file": "locations/new-westbrook.md"
+      },
+      {
+        "name": "norcal military base",
+        "file": "locations/norcal-military-base.md"
+      },
+      {
+        "name": "north heywood",
+        "file": "locations/north-heywood.md"
+      },
+      {
+        "name": "northside",
+        "file": "locations/northside.md"
+      },
+      {
+        "name": "old combat zone",
+        "file": "locations/old-combat-zone.md"
+      },
+      {
+        "name": "old japantown",
+        "file": "locations/old-japantown.md"
+      },
+      {
+        "name": "pacifica",
+        "file": "locations/pacifica.md"
+      },
+      {
+        "name": "pacifica playground",
+        "file": "locations/pacifica-playground.md"
+      },
+      {
+        "name": "port of night city",
+        "file": "locations/port-of-night-city.md"
+      },
+      {
+        "name": "rancho coronado",
+        "file": "locations/rancho-coronado.md"
+      },
+      {
+        "name": "reclamation zone",
+        "file": "locations/reclamation-zone.md"
+      },
+      {
+        "name": "santo domingo",
+        "file": "locations/santo-domingo.md"
+      },
+      {
+        "name": "south night city",
+        "file": "locations/south-night-city.md"
+      },
+      {
+        "name": "southside",
+        "file": "locations/southside.md"
+      },
+      {
+        "name": "the glen",
+        "file": "locations/the-glen.md"
+      },
+      {
+        "name": "the island",
+        "file": "locations/the-island.md"
+      },
+      {
+        "name": "the precipice",
+        "file": "locations/the-precipice.md"
+      },
+      {
+        "name": "university district",
+        "file": "locations/university-district.md"
+      },
+      {
+        "name": "upper marina",
+        "file": "locations/upper-marina.md"
+      },
+      {
+        "name": "watson development",
+        "file": "locations/watson-development.md"
+      }
+    ]
+  },
+  {
+    "category": "📚 NPCs",
+    "items": [
+      {
+        "name": "mr tubbs",
+        "file": "npcs/mr-tubbs.md"
+      }
+    ]
+  },
+  {
+    "category": "👥 Organizations",
+    "items": [
+      {
+        "name": "danger gal",
+        "file": "organizations/danger-gal.md"
+      },
+      {
+        "name": "night city gangs",
+        "file": "organizations/night-city-gangs.md"
+      },
+      {
+        "name": "sightseers",
+        "file": "organizations/sightseers.md"
+      }
+    ]
+  },
+  {
+    "category": "📖 Setting",
+    "items": [
+      {
+        "name": "night city history",
+        "file": "setting/night-city-history.md"
+      },
+      {
+        "name": "prominent locations",
+        "file": "setting/prominent-locations.md"
+      }
+    ]
+  },
+  {
+    "category": "📝 Story",
+    "items": [
+      {
+        "name": "session1",
+        "file": "story/session1.md"
+      }
+    ]
+  }
+]

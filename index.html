@@ -307,75 +307,22 @@
     <script>
         const wikiBase = 'wiki/';
         
-        // Wiki structure - automatically generated
-        const wikiStructure = {
-            '📍 Locations': [
-                { name: 'The Island', file: 'locations/the-island' },
-                { name: 'Northside', file: 'locations/northside' },
-                { name: 'Mainland', file: 'locations/mainland' },
-                { name: 'Southside', file: 'locations/southside' },
-                { name: 'Hot Zone', file: 'locations/hot-zone' }
-            ],
-            '🏢 Districts': [
-                { name: 'Little Europe', file: 'locations/little-europe' },
-                { name: 'Upper Marina', file: 'locations/upper-marina' },
-                { name: 'Downtown', file: 'locations/downtown' },
-                { name: 'Little China', file: 'locations/little-china' },
-                { name: 'University District', file: 'locations/university-district' },
-                { name: 'The Glen', file: 'locations/the-glen' },
-                { name: 'Old Japantown', file: 'locations/old-japantown' },
-                { name: 'South Night City', file: 'locations/south-night-city' },
-                { name: 'Port of Night City', file: 'locations/port-of-night-city' },
-                { name: 'Watson Development', file: 'locations/watson-development' },
-                { name: 'Kabuki', file: 'locations/kabuki' },
-                { name: 'New Westbrook', file: 'locations/new-westbrook' },
-                { name: 'Charter Hill', file: 'locations/charter-hill' },
-                { name: 'Heywood Docks', file: 'locations/heywood-docks' },
-                { name: 'North Heywood', file: 'locations/north-heywood' },
-                { name: 'Heywood Industrial Zone', file: 'locations/heywood-industrial-zone' },
-                { name: 'Santo Domingo', file: 'locations/santo-domingo' },
-                { name: 'Pacifica Playground', file: 'locations/pacifica-playground' },
-                { name: 'Rancho Coronado', file: 'locations/rancho-coronado' },
-                { name: 'Old Combat Zone', file: 'locations/old-combat-zone' },
-                { name: 'Reclamation Zone', file: 'locations/reclamation-zone' },
-                { name: 'NorCal Military Base', file: 'locations/norcal-military-base' },
-                { name: 'The Precipice', file: 'locations/the-precipice' }
-            ],
-            '👥 Organizations': [
-                { name: 'Gangs Overview', file: 'organizations/night-city-gangs' },
-                { name: 'Danger Gal', file: 'organizations/danger-gal' },
-                { name: 'Sightseers', file: 'organizations/sightseers' }
-            ],
-            '🎭 Characters': [
-                { name: 'Roadblock', file: 'characters/ronnie-pickering-roadblock' },
-                { name: 'Magpie', file: 'characters/magpie' },
-                { name: 'Bekah "Bluejay"', file: 'characters/bekah-bluejay' }
-            ],
-            '📚 NPCs': [
-                { name: 'Mr Tubbs', file: 'npcs/mr-tubbs' }
-            ],
-            '📖 Setting': [
-                { name: 'Night City History', file: 'setting/night-city-history' },
-                { name: 'Prominent Locations', file: 'setting/prominent-locations' }
-            ],
-            '📝 Story': [
-                { name: 'Session 1', file: 'story/session1' }
-            ]
-        };
+        let wikiStructure = {};
         
-        // Build navigation
-        function buildNav() {
+        // Build navigation from manifest
+        function buildNav(data) {
+            wikiStructure = data;
             const navContent = document.getElementById('nav-content');
             let html = '';
             
-            for (const [category, items] of Object.entries(wikiStructure)) {
+            for (const section of data) {
                 html += `<div class="nav-section">
-                    <h3>${category}</h3>`;
+                    <h3>${section.category}</h3>`;
                 
-                for (const item of items) {
-                    html += `<div class="nav-item" data-file="${item.file}" data-search="${item.name.toLowerCase()}">
+                for (const item of section.items) {
+                    html += `<div class="nav-item" data-file="${item.file.replace('.md', '')}" data-search="${item.name.toLowerCase()}">
                         <span class="icon">📄</span>
-                        ${item.name}
+                        ${item.name.charAt(0).toUpperCase() + item.name.slice(1)}
                     </div>`;
                 }
                 
@@ -449,8 +396,13 @@
             contentDiv.scrollTop = 0;
         }
         
-        // Initialize
-        buildNav();
+        // Initialize - fetch manifest
+        fetch('wiki/manifest.json')
+            .then(res => res.json())
+            .then(buildNav)
+            .catch(() => {
+                document.getElementById('nav-content').innerHTML = '<p style="padding:20px;color:#71717a;">Failed to load wiki index</p>';
+            });
     </script>
 </body>
 </html>
