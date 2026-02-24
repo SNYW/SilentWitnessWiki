@@ -8,21 +8,27 @@
 
 The Voodoo Boys are an enigmatic gang of netrunners based in Pacifica, known for their mysterious reputation and their devotion to uncovering the secrets of the Old Net and the Blackwall. The gang upholds the district's independence and acts as leaders of the predominantly Haitian community in Pacifica.
 
-## Origins (The Time of the Red)
+## Origins
 
-The Voodoo Boys trace their origins to 2062, when climate change devastated Haiti and forced thousands of refugees to flee to Night City. These refugees came to work on the ambitious project to turn Pacifica into a resort city—a project that eventually collapsed amid financial disaster.
+**Note:** The Voodoo Boys as described here are primarily a 2070s organization. Their documented history begins in 2062 when climate change devastated Haiti and forced thousands of refugees to flee to Night City. During the Time of the Red (2045 era), the gang either did not yet exist in its current form, or would have been a much smaller, less established organization.
+
+During the RED era, there was an earlier University-area gang from the 2020s that used "Voodoo" theming, but it was largely a pose rather than the serious religious organization the later gang became.
+
+## Current Era Information (2070s)
+
+The Voodoo Boys trace their origins to 2062, when climate change devastated Haiti and forced thousands of refugees to Night City. These refugees came to work on the ambitious project to turn Pacifica into a resort city—a project that eventually collapsed amid financial disaster.
 
 When investors abandoned the Pacifica redevelopment project, the predominantly Haitian workers defiantly remained. They turned the half-built hotels and spas into their new home. The collective known as the Voodoo Boys emerged as the community's leaders, earning this role through their fierce resistance to eviction attempts and their fervent devotion to their own interpretation of Haitian culture and religion.
 
 Note: The Voodoo Boys do not call themselves by that name. It was given to them by outsiders who remembered a previous University-area gang from the 2020s. For the original gang, the "voodoo" stuff was just a pose. For the current gang, their religion is a deadly serious matter.
 
-## Philosophy and Beliefs
+## Philosophy and Beliefs (2070s)
 
 The Voodoo Boys have replaced old notions of heaven and the supernatural with the Net's promise of eternal life and all-knowing AIs. Their vodou priests are elite netrunners—masters of the digital realm able to probe its darkest secrets and wreak havoc on enemies.
 
-The gang is determined to uncover the secrets of the Old Net, and it's commonly believed they probe the Blackwall in hope of making contact with rogue intelligent systems beyond the barrier. These attempts have drawn the attention and enmity of NetWatch, who have been trying to eliminate them for years—unsuccessfully.
+The gang is determined to uncover the secrets of the Old Net, and it's commonly believed they probe the Blackwall in hope of contacting rogue intelligent systems beyond the barrier. These attempts have drawn the attention and enmity of NetWatch, who have been trying to eliminate them for years—unsuccessfully.
 
-## Organization Structure
+## Organization Structure (2070s)
 
 ### Leadership
 - **Brigitte (Maman Brigitte)** — Leader of the Pacifica faction; mysterious and enigmatic
@@ -40,7 +46,7 @@ Most Voodoo Boys are Netrunners. Members typically wear:
 
 The gang is exclusively Haitian, and they are highly secretive and distrustful of outsiders.
 
-## Activities
+## Activities (2070s)
 
 ### Sources of Income
 - Hacking databanks and corporate accounts in search of restricted data
@@ -54,7 +60,7 @@ The gang is exclusively Haitian, and they are highly secretive and distrustful o
 - Protecting Haitian refugee interests in Pacifica
 - Enforcing sovereignty on their turf
 
-## Territory and Locations
+## Territory and Locations (2070s)
 
 ### Pacifica (Main Faction)
 - **Batty's Hotel** — Coastview HQ
@@ -63,7 +69,7 @@ The gang is exclusively Haitian, and they are highly secretive and distrustful o
 - **Rolland's Butcher Shop**
 - **Old Maglev Tunnel**
 
-### Relationships
+## Relationships
 
 ### Rivalries
 - **Animals** — A boostergang in Pacifica; ongoing rivalry
@@ -85,12 +91,10 @@ The Voodoo Boys are distinguished by:
 
 ## RED Era Status
 
-The Voodoo Boys are a verified RED-era organization. Their origins date to 2062 during the Time of the Red, and they were an active force in Pacifica during the 2040s. The gang appears in:
-- **The World of Cyberpunk 2077** (Dark Horse Books, 2020)
-- **Cyberpunk 2077** (CD Projekt RED, 2020)
+**Not a canonical RED-era organization.** The Voodoo Boys as described in this file are primarily a 2070s gang. During the Time of the Red (2045), they had not yet formed or were a much smaller organization.
 
 ## References
 
-- The World of Cyberpunk 2077 (Dark Horse Books, 2020), p.165
-- Cyberpunk 2077 Database Entry
+- The World of Cyberpunk 2077 (Dark Horse Books, 2020)
+- Cyberpunk 2077 (CD Projekt RED, 2020)
 - Cyberpunk.fandom.com — Voodoo Boys
