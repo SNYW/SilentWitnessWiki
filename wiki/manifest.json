@@ -15,6 +15,17 @@
         ]
       },
       {
+        "name": "NPCs",
+        "type": "folder",
+        "children": [
+          {"name": "Bekah Bluejay", "type": "file", "path": "Local Archive/NPCs/bekah-bluejay.md"},
+          {"name": "Mr Giggles", "type": "file", "path": "Local Archive/NPCs/mr-giggles.md"},
+          {"name": "Mr Tubbs", "type": "file", "path": "Local Archive/NPCs/mr-tubbs.md"},
+          {"name": "Raptor", "type": "file", "path": "Local Archive/NPCs/raptor.md"},
+          {"name": "Sparrow", "type": "file", "path": "Local Archive/NPCs/sparrow.md"}
+        ]
+      },
+      {
         "name": "Players",
         "type": "folder",
         "children": [
@@ -102,17 +113,6 @@
           {"name": "Vargtimmen", "type": "file", "path": "Net Archive/Locations/vargtimmen.md"},
           {"name": "Watson Development", "type": "file", "path": "Net Archive/Locations/watson-development.md"},
           {"name": "Woodland Park", "type": "file", "path": "Net Archive/Locations/woodland-park.md"}
-        ]
-      },
-      {
-        "name": "NPCs",
-        "type": "folder",
-        "children": [
-          {"name": "Bekah Bluejay", "type": "file", "path": "Net Archive/NPCs/bekah-bluejay.md"},
-          {"name": "Mr Giggles", "type": "file", "path": "Net Archive/NPCs/mr-giggles.md"},
-          {"name": "Mr Tubbs", "type": "file", "path": "Net Archive/NPCs/mr-tubbs.md"},
-          {"name": "Raptor", "type": "file", "path": "Net Archive/NPCs/raptor.md"},
-          {"name": "Sparrow", "type": "file", "path": "Net Archive/NPCs/sparrow.md"}
         ]
       },
       {
