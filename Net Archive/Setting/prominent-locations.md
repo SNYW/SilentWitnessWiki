@@ -149,3 +149,44 @@ A community built from cargo containers in Old Japantown. Very close to the Hot 
 Home to scavengers who pick through the Combat Zone for salvage. The Crisis Medical Center nearby offers radiation check-ups.
 
 Magpie operates his techie business here (Cargo Container CC05).
+
+---
+
+## The Midnight Market
+
+**Type:** Exclusive Black Market Event  
+**Area:** The Glen (Above The Atlantis Club)  
+**Threat Rating:** Medium (for invited guests only)
+
+### History
+
+The Midnight Market is an exclusive quarterly black market event organized by Fixer Mister Kernaghan. It takes place above The Atlantis club in The Glen district.
+
+Kernaghan initially worked IT for the Night City Port Authority. After the Fourth Corporate War and the Night City Holocaust, he collected shipping data from his position and used it to establish profitable trade routes for essential goods like food, water, and medicine.
+
+Over time, he moved up the hierarchy and began selling rarer, more profitable goods. Now he organizes this elite market where the wealthy can purchase luxury items.
+
+### The Experience
+
+The Midnight Market sells goods of interest to high-end customers as well as an eclectic collection of super luxury items worth at least 10,000eb. Items available include:
+- High-end vehicles
+- Long-lost artworks
+- Unique prototype technologies
+
+The market is accessible only to those who receive a personal invitation. Kernaghan only works with other Fixers if they have something unique to offer at the auction.
+
+### Notable Details
+- Held quarterly above The Atlantis club
+- Only accepts guests with personal invitations
+- Kernaghan hand-selects vendors, caterers, and service providers
+- Rental rates for vendor space are surprisingly reasonable
+- Danger Gal provides security for the event
+- Kernaghan's cat, Kosmos, is often seen at the market
+
+### Mister Kernaghan
+
+A former Night City Port Authority IT worker who became one of the most prominent Fixers during the Time of the Red. Known for his business acumen and connections to both Nomad packs and corporate interests.
+
+---
+
+*Sources: Cyberpunk RED Core Rulebook (2020), Black Chrome (2023)*

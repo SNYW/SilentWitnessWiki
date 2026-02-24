@@ -22,7 +22,7 @@ After establishing themselves in Mexico City, the Aldecaldos prospered. They hel
 
 Juan Aldecaldo suffered a heart attack and passed leadership to his trusted ally Santiago (who became Santiago Aldecaldo). Under his leadership, the family maintained its traditions and grew into one of the most respected nomad groups in the region.
 
-### RED Era (2040s-2050s)
+### RED Era (2040s)
 
 In 2045, the Aldecaldos were known throughout the Badlands for their involvement in:
 - Construction work
@@ -62,8 +62,8 @@ Leadership typically passes to capable individuals rather than by strict inherit
 ## Notable Members
 
 - **Santiago Aldecaldo** - Long-time leader of the family
-- **Saul Bright** - Later leader who would bring the clan to Night City in the 2070s
-- **Panam Palmer** - Notable member who would become a legendary mercenary
+- **Saul Bright** - Notable member and rising talent within the clan
+- **Panam Palmer** - Promising young member showing skill as a wheelwoman
 
 ## Relationships
 
@@ -89,5 +89,4 @@ Their presence near Night City provided valuable services: safe transport, labor
 ## Sources
 
 - Cyberpunk RED: The Time of the Red (R. Talsorian Games, 2020)
-- Cyberpunk 2077 (CD Projekt RED, 2020)
 - cyberpunk.fandom.com/wiki/Aldecaldos
