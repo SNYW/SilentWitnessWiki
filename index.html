@@ -307,14 +307,15 @@
             contentDiv.scrollTop = 0;
         }
         
-        // Initialize
-        fetch('wiki/manifest.json')
+        // Initialize - add cache bust
+        fetch('wiki/manifest.json?t=' + Date.now())
             .then(res => {
                 if (!res.ok) throw new Error('Failed to load manifest: ' + res.status);
                 return res.json();
             })
             .then(data => {
                 console.log('Loaded:', data);
+                if (!data.children) data.children = [];
                 document.getElementById('tree').innerHTML = buildTreeHTML(data);
             })
             .catch(err => {
