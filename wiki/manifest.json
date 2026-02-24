@@ -21,11 +21,6 @@
     ]
   },
   {
-    "name": "events",
-    "type": "folder",
-    "children": []
-  },
-  {
     "name": "locations",
     "type": "folder",
     "children": [
@@ -120,6 +115,11 @@
         "path": "locations/pacifica.md"
       },
       {
+        "name": "Playland By The Sea",
+        "type": "file",
+        "path": "locations/playland-by-the-sea.md"
+      },
+      {
         "name": "Port Of Night City",
         "type": "file",
         "path": "locations/port-of-night-city.md"
@@ -210,6 +210,11 @@
         "name": "Danger Gal",
         "type": "file",
         "path": "organizations/danger-gal.md"
+      },
+      {
+        "name": "Generation Red",
+        "type": "file",
+        "path": "organizations/generation-red.md"
       },
       {
         "name": "Kimen Gumi",
