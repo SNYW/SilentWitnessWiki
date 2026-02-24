@@ -168,6 +168,11 @@
           "path": "locations/the-precipice.md"
         },
         {
+          "name": "Totentanz",
+          "type": "file",
+          "path": "locations/totentanz.md"
+        },
+        {
           "name": "University District",
           "type": "file",
           "path": "locations/university-district.md"
@@ -247,11 +252,6 @@
           "path": "story/session1.md"
         }
       ]
-    },
-    {
-      "name": "{characters,npcs,events,locations,organizations}",
-      "type": "folder",
-      "children": []
     }
   ]
 }
