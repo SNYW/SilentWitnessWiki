@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Night City Wiki</title>
+    <title>Night City Data Term</title>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Rajdhani:wght@500;600;700&display=swap" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=Fira+Code&display=swap" rel="stylesheet">
     <style>
         :root {
             --red: #e94560;
@@ -76,7 +76,6 @@
         ::-webkit-scrollbar-thumb:hover { background: var(--red); }
         
         .search-box { padding: 10px 15px; }
-        
         .search-box input {
             width: 100%;
             padding: 10px 14px;
@@ -88,7 +87,6 @@
             letter-spacing: 0.5px;
             transition: all 0.3s ease;
         }
-        
         .search-box input:focus { outline: none; border-color: var(--red); box-shadow: 0 0 8px rgba(233, 69, 96, 0.3); }
         .search-box input::placeholder { color: var(--text-muted); }
         
@@ -149,7 +147,6 @@
         .content-body h4 { color: var(--purple); font-size: 1.1rem; margin: 22px 0 10px 0; }
         
         .content-body p { margin-bottom: 18px; color: #d4d4d8; font-size: 1.05rem; }
-        
         .content-body a { color: var(--teal); text-decoration: none; border-bottom: 1px solid transparent; transition: all 0.2s; }
         .content-body a:hover { border-bottom-color: var(--teal); text-shadow: 0 0 5px var(--teal); }
         
@@ -164,15 +161,11 @@
         .content-body blockquote { border-left: 4px solid var(--red); margin: 22px 0; padding: 14px 18px; background: rgba(233, 69, 96, 0.05); border-radius: 0 8px 8px 0; color: #a1a1aa; font-style: italic; }
         
         .content-body table { width: 100%; border-collapse: collapse; margin: 22px 0; background: var(--bg-panel); border-radius: 8px; overflow: hidden; }
-        
         .content-body th, .content-body td { padding: 13px 16px; text-align: left; border-bottom: 1px solid #27272a; }
-        
         .content-body th { background: #1f1f23; color: var(--red); font-weight: 600; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.5px; font-family: 'Rajdhani', sans-serif;}
-        
         .content-body tr:hover td { background: #242429; }
         .content-body tr:last-child td { border-bottom: none; }
         .content-body td:first-child { color: var(--teal); font-weight: 500; }
-        
         .content-body strong { color: var(--red); font-weight: 600; }
         .content-body hr { border: none; border-top: 1px solid #27272a; margin: 35px 0; }
         
@@ -205,15 +198,15 @@
 <body>
     <div class="header">
         <div>
-            <h1>Night City Wiki</h1>
-            <div class="subtitle">NETWATCH Database // Time of the Red</div>
+            <h1>NETWATCH Database</h1>
+            <div class="subtitle">Accessing Night City Subnet // Time of the Red</div>
         </div>
     </div>
     
     <div class="main-container">
         <div class="sidebar">
             <div class="search-box">
-                <input type="text" id="search" placeholder="Search database..." oninput="filterTree()">
+                <input type="text" id="search" placeholder="Query Databank..." oninput="filterTree()">
             </div>
             <div id="tree" class="tree"></div>
         </div>
@@ -222,11 +215,11 @@
             <div class="empty-state">
                 <h2>Connection Established</h2>
                 <p>Select a file from the directory to decrypt.</p>
-                <p style="margin-top: 20px; color: var(--teal);">> Awaiting input...</p>
+                <p style="color: var(--teal); margin-top: 20px; font-family: 'Fira Code', monospace;">> Awaiting input...</p>
             </div>
         </div>
     </div>
-
+    
     <script>
         const wikiBase = 'wiki/';
         
@@ -254,7 +247,7 @@
                 html += `</div></div>`;
             } else {
                 const searchName = (node.name || '').toLowerCase();
-                const fileName = (node.name || 'Untitled').replace('.md', ''); // Clean up the .md extension for display
+                const fileName = node.name.replace('.md', '') || 'Untitled'; // Clean up the .md extension for display
                 const filePath = node.path || '';
                 
                 html += `<div class="tree-item file-item" data-file="${filePath}" data-search="${searchName}" onclick="loadContent('${filePath}')">
@@ -270,6 +263,7 @@
         function toggleFolder(el) {
             const arrow = el.querySelector('.arrow');
             const children = el.nextElementSibling;
+            
             arrow.classList.toggle('collapsed');
             arrow.classList.toggle('expanded');
             children.classList.toggle('collapsed');
@@ -296,17 +290,21 @@
             files.forEach(file => {
                 if (file.dataset.search.includes(search)) {
                     file.classList.remove('hidden');
+                    
                     // Bubble up and show/expand parent folders
                     let parentFolder = file.closest('.tree-folder');
                     while (parentFolder) {
                         parentFolder.classList.remove('hidden');
+                        
                         const childrenDiv = parentFolder.querySelector('.folder-children');
                         const arrow = parentFolder.querySelector('.arrow');
+                        
                         if (childrenDiv) childrenDiv.classList.remove('collapsed');
                         if (arrow) {
                             arrow.classList.remove('collapsed');
                             arrow.classList.add('expanded');
                         }
+                        
                         // Move up to the next parent folder
                         parentFolder = parentFolder.parentElement.closest('.tree-folder');
                     }
@@ -336,6 +334,7 @@
             try {
                 const response = await fetch(wikiBase + file);
                 if (!response.ok) throw new Error('Data corrupted or missing');
+                
                 const text = await response.text();
                 renderMarkdown(text);
                 
@@ -352,7 +351,7 @@
             
             // Threat ratings
             html = html.replace(/Threat Rating:\s*(\w+)/gi, (match, rating) => {
-                return `<span class="threat-rating threat-${rating.toLowerCase()}">${rating}</span>`;
+                return `Threat Rating: <span class="threat-rating threat-${rating.toLowerCase()}">${rating}</span>`;
             });
             
             // District codes
@@ -377,12 +376,14 @@
                 } else {
                     treeData = data;
                 }
+                
                 if (!treeData.children) treeData.children = [];
+                
                 document.getElementById('tree').innerHTML = buildTreeHTML(treeData);
             })
             .catch(err => {
                 console.error('Error:', err);
-                document.getElementById('tree').innerHTML = '<div class="empty-state">> SYS_ERR: Failed to load manifest.</div>';
+                document.getElementById('tree').innerHTML = '<p style="padding:20px;color:#f87171;font-family:\'Fira Code\', monospace;">> SYS_ERR: Failed to load manifest.</p>';
             });
     </script>
 </body>
