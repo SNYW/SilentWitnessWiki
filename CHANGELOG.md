@@ -2,6 +2,9 @@
 
 ## Entries Added by Researcher
 
+### 2026-02-24 - Organizations - Valentinos
+- Added Valentinos gang - Large Chicano gang based in Heywood, follows strict moral code, religious devotion to Santa Muerte and Jesús Malverde, active during RED era
+
 ### 2026-02-24 - Organizations - Sightseers
 - Added nomad pack from Aldecaldos family operating out of East Cargo Village in Santo Domingo
 
