@@ -364,8 +364,11 @@
         async function loadContent(file) {
             contentDiv.innerHTML = '<div class="loading">Loading...</div>';
             
+            // Ensure .md extension
+            const filePath = file.endsWith('.md') ? file : file + '.md';
+            
             try {
-                const response = await fetch(wikiBase + file + '.md');
+                const response = await fetch(wikiBase + filePath);
                 if (!response.ok) throw new Error('File not found');
                 const text = await response.text();
                 renderMarkdown(text);
