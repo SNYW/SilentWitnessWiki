@@ -317,8 +317,10 @@
             })
             .then(data => {
                 console.log('Loaded:', data);
-                if (!data.children) data.children = [];
-                document.getElementById('tree').innerHTML = buildTreeHTML(data);
+                // Handle both array and object formats
+                const treeData = Array.isArray(data) ? {children: data} : data;
+                if (!treeData.children) treeData.children = [];
+                document.getElementById('tree').innerHTML = buildTreeHTML(treeData);
             })
             .catch(err => {
                 console.error('Error:', err);
