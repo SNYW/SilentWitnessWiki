@@ -10,11 +10,9 @@ The Voodoo Boys are an enigmatic gang of netrunners based in Pacifica, known for
 
 ## History
 
-### Origins (2062)
+### Origins (2040s)
 
-The Voodoo Boys trace their origins to 2062, when climate change devastated Haiti, literally wiping the nation off the face of the earth. Many Haitian refugees fled to Night City seeking asylum and employment opportunities. A large number of these refugees were drawn to the ambitious Pacifica resort project, which was being developed to transform that district into a luxurious tourist destination.
-
-### Time of the Red Era
+The Voodoo Boys trace their origins to the aftermath of the Fourth Corporate War, when climate change devastated Haiti, literally wiping the nation off the face of the earth. Many Haitian refugees fled to Night City seeking asylum and employment opportunities. A large number of these refugees were drawn to the ambitious Pacifica resort project, which was being developed to transform that district into a luxurious tourist destination.
 
 When the Pacifica resort project collapsed during the turmoil of the Fourth Corporate War's aftermath, the Haitian refugees were left stranded in the district. Labeled as "Voodoo Boys" by locals—who drew superficial parallels to a defunct 21st-century drug gang—the Haitians banded together for protection.
 
