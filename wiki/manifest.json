@@ -1,6 +1,4 @@
 {
-  "name": ".",
-  "type": "folder",
   "children": [
     {
       "name": "characters",
@@ -131,6 +129,11 @@
           "name": "Rancho Coronado",
           "type": "file",
           "path": "locations/rancho-coronado.md"
+        },
+        {
+          "name": "Randy Dandy",
+          "type": "file",
+          "path": "locations/randy-dandy.md"
         },
         {
           "name": "Reclamation Zone",
