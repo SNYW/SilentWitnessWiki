@@ -229,12 +229,18 @@ el.style.animationDelay = `${index * 0.04}s`;
 });
 }
 function renderMarkdown(text) {
-let html = marked.parse(text);
-html = html.replace(/(?:\*\*Tags:\*\*|Tags:)\s*(.+)/gi, (match, tagsString) => {
-const tags = tagsString.split(',').map(t => t.trim());
+let tagHtml = '';
+text = text.replace(/^(?:\*\*Tags:\*\*|Tags:)\s*(.+)$/gim, (match, tagsString) => {
+const tags = tagsString.split(',').map(t => t.trim().replace(/[*_`]/g, ''));
 const pills = tags.map(t => `<span class="tag-pill" onclick="searchByTag('${t}')">${t}</span>`).join('');
-return `<div class="tag-container">${pills}</div>`;
+tagHtml = `<div class="tag-container">${pills}</div>`;
+return '';
 });
+let html = marked.parse(text);
+if (tagHtml) {
+if (html.includes('</h1>')) { html = html.replace('</h1>', '</h1>\n' + tagHtml); }
+else { html = tagHtml + '\n' + html; }
+}
 html = html.replace(/Threat Rating:\s*(\w+)/gi, (match, rating) => { return `Threat Rating: <span class="threat-rating threat-${rating.toLowerCase()}">${rating}</span>`; });
 html = html.replace(/\(District Code: ([A-Z])\)/gi, '<span class="district-code">$1</span>');
 html = html.replace(/District Code:\s*([A-Z])/gi, '<span class="district-code">$1</span>');
