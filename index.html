@@ -10,21 +10,28 @@
         :root { --red: #e94560; --teal: #4ecca3; --purple: #c084fc; --bg-dark: #0a0a0f; --bg-panel: #18181b; --text-main: #e4e4e7; --text-muted: #71717a; }
         * { margin: 0; padding: 0; box-sizing: border-box; }
         ::selection { background: rgba(233, 69, 96, 0.8); color: #fff; text-shadow: none; }
-        body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg-dark); color: var(--text-main); min-height: 100vh; display: flex; flex-direction: column; position: relative; }
+        body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg-dark); color: var(--text-main); min-height: 100vh; display: flex; flex-direction: column; position: relative; overflow-x: hidden; }
         body::after { content: " "; display: block; position: fixed; top: 0; left: 0; bottom: 0; right: 0; background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.1) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.03), rgba(0, 255, 0, 0.01), rgba(0, 0, 255, 0.03)); z-index: 998; background-size: 100% 3px, 3px 100%; pointer-events: none; opacity: 0.5; }
         h1, h2, h3, .search-box input, .tree-item, .district-code, .threat-rating { font-family: 'Rajdhani', sans-serif; }
-        .header { background: linear-gradient(135deg, #1a1a2e 0%, #0f0f1a 100%); padding: 15px 25px; border-bottom: 2px solid var(--red); box-shadow: 0 0 15px rgba(233, 69, 96, 0.4); display: flex; justify-content: space-between; align-items: center; flex-shrink: 0; position: relative; z-index: 10; overflow: hidden; }
+        .header { background: linear-gradient(135deg, #1a1a2e 0%, #0f0f1a 100%); padding: 15px 25px; border-bottom: 2px solid var(--red); box-shadow: 0 0 15px rgba(233, 69, 96, 0.4); display: flex; justify-content: space-between; align-items: center; flex-shrink: 0; position: relative; z-index: 40; overflow: hidden; }
         .header::after { content: " "; display: block; position: absolute; top: 0; left: 0; bottom: 0; right: 0; background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.3) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.08), rgba(0, 255, 0, 0.03), rgba(0, 0, 255, 0.08)); background-size: 100% 4px, 4px 100%; pointer-events: none; z-index: 5; animation: powerFlicker 0.15s infinite; }
         @keyframes powerFlicker { 0% { opacity: 0.8; } 50% { opacity: 1; } 100% { opacity: 0.9; } }
-        .header-content { position: relative; z-index: 2; width: 100%; display: flex; justify-content: space-between; align-items: center; }
+        .header-content { position: relative; z-index: 10; width: 100%; display: flex; justify-content: flex-start; align-items: center; }
+        .menu-toggle { display: none; background: none; border: none; cursor: pointer; padding: 5px; margin-right: 15px; z-index: 20; }
+        .menu-toggle span { display: block; width: 28px; height: 3px; background-color: var(--teal); margin: 6px 0; transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: 0 0 5px rgba(78, 204, 163, 0.6); border-radius: 2px; }
+        .menu-toggle.active span:nth-child(1) { transform: translateY(9px) rotate(45deg); background-color: var(--red); box-shadow: 0 0 5px rgba(233, 69, 96, 0.6);}
+        .menu-toggle.active span:nth-child(2) { opacity: 0; }
+        .menu-toggle.active span:nth-child(3) { transform: translateY(-9px) rotate(-45deg); background-color: var(--red); box-shadow: 0 0 5px rgba(233, 69, 96, 0.6);}
+        .titles { display: flex; flex-direction: column; }
         .header h1 { color: var(--red); font-size: 1.8rem; text-transform: uppercase; letter-spacing: 3px; text-shadow: 0 0 8px rgba(233, 69, 96, 0.6); cursor: default; animation: systemBootTitle 0.8s cubic-bezier(0.1, 0.9, 0.2, 1) forwards; opacity: 0; }
         .header .subtitle { color: var(--teal); font-size: 0.9rem; letter-spacing: 2px; font-family: 'Fira Code', monospace; text-transform: uppercase; animation: systemBootSub 0.6s cubic-bezier(0.1, 0.9, 0.2, 1) 0.3s forwards; opacity: 0; }
         @keyframes systemBootTitle { 0% { transform: translateX(-40px) skewX(20deg); opacity: 0; filter: blur(8px); } 70% { transform: translateX(5px) skewX(-5deg); opacity: 1; filter: blur(1px); } 100% { transform: translateX(0) skewX(0); opacity: 1; filter: blur(0); } }
         @keyframes systemBootSub { 0% { transform: translateX(30px); opacity: 0; filter: blur(5px); } 100% { transform: translateX(0); opacity: 1; filter: blur(0); } }
         .header h1:hover { animation: glitch 0.3s cubic-bezier(.25, .46, .45, .94) both infinite; color: #fff; }
         @keyframes glitch { 0% { text-shadow: 3px 0 var(--teal), -3px 0 var(--red); transform: translate(1px, 1px); } 33% { text-shadow: -3px 0 var(--teal), 3px 0 var(--red); transform: translate(-1px, -1px); } 66% { text-shadow: 3px 0 var(--teal), -3px 0 var(--red); transform: translate(1px, -1px); } 100% { text-shadow: -3px 0 var(--teal), 3px 0 var(--red); transform: translate(-1px, 1px); } }
-        .main-container { display: flex; flex: 1; overflow: hidden; }
-        .sidebar { width: 280px; background: linear-gradient(180deg, #18181b 0%, #0f0f12 100%); border-right: 1px solid #27272a; overflow-y: auto; flex-shrink: 0; padding: 10px 0; }
+        .main-container { display: flex; flex: 1; overflow: hidden; position: relative; }
+        .mobile-backdrop { display: none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(10, 10, 15, 0.7); z-index: 25; backdrop-filter: blur(2px); opacity: 0; transition: opacity 0.3s ease; }
+        .sidebar { width: 280px; background: linear-gradient(180deg, #18181b 0%, #0f0f12 100%); border-right: 1px solid #27272a; overflow-y: auto; flex-shrink: 0; padding: 10px 0; z-index: 30; transition: transform 0.3s cubic-bezier(0.1, 0.9, 0.2, 1); }
         ::-webkit-scrollbar { width: 6px; height: 6px; }
         ::-webkit-scrollbar-track { background: var(--bg-dark); }
         ::-webkit-scrollbar-thumb { background: #3f3f46; border-radius: 3px; }
@@ -45,7 +52,7 @@
         .tree-item .arrow.expanded { transform: rotate(0deg); }
         .folder-children { padding-left: 20px; overflow: hidden; }
         .folder-children.collapsed { display: none; }
-        .content-area { flex: 1; overflow-y: auto; padding: 30px 40px; background-image: linear-gradient(rgba(233, 69, 96, 0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(233, 69, 96, 0.03) 1px, transparent 1px); background-size: 40px 40px; }
+        .content-area { flex: 1; overflow-y: auto; padding: 30px 40px; background-image: linear-gradient(rgba(233, 69, 96, 0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(233, 69, 96, 0.03) 1px, transparent 1px); background-size: 40px 40px; position: relative; }
         .content-wrapper { max-width: 900px; margin: 0 auto; position: relative; z-index: 10; }
         .content-body { line-height: 1.7; }
         @keyframes lineLoad { from { opacity: 0; transform: translateX(-10px); } to { opacity: 1; transform: translateX(0); } }
@@ -82,23 +89,25 @@
         .empty-state p { font-size: 1.1rem; }
         .loading { text-align: center; padding: 80px; color: var(--teal); font-size: 1.2rem; font-family: 'Fira Code', monospace; text-transform: uppercase; animation: pulse 1.5s infinite;}
         @keyframes pulse { 0% { opacity: 0.5; } 50% { opacity: 1; text-shadow: 0 0 15px var(--teal); } 100% { opacity: 0.5; } }
-        @media (max-width: 768px) { .sidebar { width: 220px; } .content-area { padding: 20px; } .header-content { flex-direction: column; align-items: flex-start; gap: 5px; } }
+        @media (max-width: 768px) { .menu-toggle { display: block; } .header { padding: 12px 15px; } .header h1 { font-size: 1.4rem; letter-spacing: 2px; } .header .subtitle { font-size: 0.7rem; letter-spacing: 1px; } .sidebar { position: absolute; top: 0; left: 0; height: 100%; width: 260px; transform: translateX(-100%); box-shadow: 5px 0 25px rgba(0, 0, 0, 0.8); } .sidebar.open { transform: translateX(0); } .mobile-backdrop.open { display: block; opacity: 1; } .content-area { padding: 20px 15px; } .content-body h1 { font-size: 1.8rem; } .content-body h2 { font-size: 1.4rem; } .content-body p { font-size: 1rem; } }
     </style>
 </head>
 <body>
     <div class="header">
         <div class="header-content">
-            <h1>NETWATCH Database</h1>
-            <div class="subtitle">Accessing Night City Subnet // Time of the Red</div>
+            <button class="menu-toggle" id="menuToggle" aria-label="Toggle Menu"><span></span><span></span><span></span></button>
+            <div class="titles">
+                <h1>NETWATCH Database</h1>
+                <div class="subtitle">Accessing Night City Subnet // Time of the Red</div>
+            </div>
         </div>
     </div>
     <div class="main-container">
-        <div class="sidebar">
-            <div class="search-box">
-                <input type="text" id="search" placeholder="Query Databank..." oninput="filterTree()">
-            </div>
+        <div class="sidebar" id="sidebar">
+            <div class="search-box"><input type="text" id="search" placeholder="Query Databank..." oninput="filterTree()"></div>
             <div id="tree" class="tree"></div>
         </div>
+        <div class="mobile-backdrop" id="backdrop"></div>
         <div class="content-area">
             <div class="content-wrapper" id="content">
                 <div class="empty-state" id="welcome">
@@ -112,6 +121,12 @@
     </div>
     <script>
         const wikiBase = 'wiki/';
+        const menuToggle = document.getElementById('menuToggle');
+        const sidebar = document.getElementById('sidebar');
+        const backdrop = document.getElementById('backdrop');
+        function toggleMenu() { menuToggle.classList.toggle('active'); sidebar.classList.toggle('open'); backdrop.classList.toggle('open'); }
+        menuToggle.addEventListener('click', toggleMenu);
+        backdrop.addEventListener('click', toggleMenu);
         function buildTreeHTML(node, level = 0) {
             let html = '';
             if (node.type === 'folder' || node.children) {
@@ -182,6 +197,7 @@
         async function loadContent(file) {
             currentFile = file;
             contentDiv.innerHTML = '<div class="loading">Decrypting Data...</div>';
+            if (window.innerWidth <= 768 && sidebar.classList.contains('open')) { toggleMenu(); }
             try {
                 const response = await fetch(wikiBase + file);
                 if (!response.ok) throw new Error('Data corrupted or missing');
