@@ -172,6 +172,11 @@
               "path": "Net Archive/Locations/city-medical-center.md"
             },
             {
+              "name": "Crisis Medical Center",
+              "type": "file",
+              "path": "Net Archive/Locations/crisis-medical-center.md"
+            },
+            {
               "name": "Danger Gal Headquarters",
               "type": "file",
               "path": "Net Archive/Locations/danger-gal-headquarters.md"
@@ -207,6 +212,11 @@
               "path": "Net Archive/Locations/guangbo-tower.md"
             },
             {
+              "name": "Herschels Crematorium",
+              "type": "file",
+              "path": "Net Archive/Locations/herschels-crematorium.md"
+            },
+            {
               "name": "Heywood Docks",
               "type": "file",
               "path": "Net Archive/Locations/heywood-docks.md"
@@ -215,6 +225,11 @@
               "name": "Heywood Industrial Zone",
               "type": "file",
               "path": "Net Archive/Locations/heywood-industrial-zone.md"
+            },
+            {
+              "name": "Highcourt Plaza Hotel",
+              "type": "file",
+              "path": "Net Archive/Locations/highcourt-plaza-hotel.md"
             },
             {
               "name": "Hot Zone",
@@ -357,6 +372,11 @@
               "path": "Net Archive/Locations/regional-airport.md"
             },
             {
+              "name": "Rustys Dive Shack",
+              "type": "file",
+              "path": "Net Archive/Locations/rustys-dive-shack.md"
+            },
+            {
               "name": "Santo Domingo",
               "type": "file",
               "path": "Net Archive/Locations/santo-domingo.md"
@@ -450,6 +470,11 @@
               "name": "Totentanz",
               "type": "file",
               "path": "Net Archive/Locations/totentanz.md"
+            },
+            {
+              "name": "Trauma Team Tower",
+              "type": "file",
+              "path": "Net Archive/Locations/trauma-team-tower.md"
             },
             {
               "name": "University District",
