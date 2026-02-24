@@ -1,31 +1,5 @@
 [
   {
-    "name": "characters",
-    "type": "folder",
-    "children": [
-      {
-        "name": "Bekah Bluejay",
-        "type": "file",
-        "path": "characters/bekah-bluejay.md"
-      },
-      {
-        "name": "Magpie",
-        "type": "file",
-        "path": "characters/magpie.md"
-      },
-      {
-        "name": "Raptor",
-        "type": "file",
-        "path": "characters/raptor.md"
-      },
-      {
-        "name": "Ronnie Pickering Roadblock",
-        "type": "file",
-        "path": "characters/ronnie-pickering-roadblock.md"
-      }
-    ]
-  },
-  {
     "name": "locations",
     "type": "folder",
     "children": [
@@ -33,6 +7,11 @@
         "name": "Charter Hill",
         "type": "file",
         "path": "locations/charter-hill.md"
+      },
+      {
+        "name": "Choppers",
+        "type": "file",
+        "path": "locations/choppers.md"
       },
       {
         "name": "Dice Or Die",
@@ -185,6 +164,11 @@
         "path": "locations/the-precipice.md"
       },
       {
+        "name": "Toms Diner",
+        "type": "file",
+        "path": "locations/toms-diner.md"
+      },
+      {
         "name": "Totentanz",
         "type": "file",
         "path": "locations/totentanz.md"
@@ -200,6 +184,11 @@
         "path": "locations/upper-marina.md"
       },
       {
+        "name": "Vultures Nest",
+        "type": "file",
+        "path": "locations/vultures-nest.md"
+      },
+      {
         "name": "Watson Development",
         "type": "file",
         "path": "locations/watson-development.md"
@@ -211,6 +200,11 @@
     "type": "folder",
     "children": [
       {
+        "name": "Bekah Bluejay",
+        "type": "file",
+        "path": "npcs/bekah-bluejay.md"
+      },
+      {
         "name": "Mr Giggles",
         "type": "file",
         "path": "npcs/mr-giggles.md"
@@ -219,6 +213,11 @@
         "name": "Mr Tubbs",
         "type": "file",
         "path": "npcs/mr-tubbs.md"
+      },
+      {
+        "name": "Raptor",
+        "type": "file",
+        "path": "npcs/raptor.md"
       },
       {
         "name": "Sparrow",
@@ -260,6 +259,22 @@
         "name": "Sightseers",
         "type": "file",
         "path": "organizations/sightseers.md"
+      }
+    ]
+  },
+  {
+    "name": "players",
+    "type": "folder",
+    "children": [
+      {
+        "name": "Magpie",
+        "type": "file",
+        "path": "players/magpie.md"
+      },
+      {
+        "name": "Ronnie Pickering Roadblock",
+        "type": "file",
+        "path": "players/ronnie-pickering-roadblock.md"
       }
     ]
   },
