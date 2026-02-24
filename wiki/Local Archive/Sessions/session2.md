@@ -1,5 +1,7 @@
 # Session 2: The Vault
 
+**Tags:** Session-Log, Session-2, Vault-Arc, Bozos-Conflict, Cryo-Zombie, Mystery
+
 ## Overview
 
 The crew ventures into a bombed-out facility to locate and extract a mysterious subject.

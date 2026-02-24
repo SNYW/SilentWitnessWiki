@@ -1,5 +1,7 @@
 # Raptor
 
+**Tags:** NPC, Vultures, Gang-Leader, Status-Alive-Injured, The-Precipice, Night-City
+
 ## Basic Info
 - **Name:** Raptor
 - **Affiliation:** Vultures (Night City)

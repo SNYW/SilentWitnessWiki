@@ -1,5 +1,7 @@
 # Bekah "Bluejay"
 
+**Tags:** NPC, Vultures, Scout, Combat-Member, Status-Alive, The-Precipice, Night-City
+
 ## Basic Info
 - **Name:** Bekah
 - **Nickname:** Bluejay

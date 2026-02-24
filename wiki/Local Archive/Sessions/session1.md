@@ -1,5 +1,7 @@
 # Session 1: The Transformer Job
 
+**Tags:** Session-Log, Session-1, Vultures-Arc, Bozos-Conflict, Combat-Encounter
+
 ## Background
 
 The Vultures informed the gang that they had won a piece of paper in a gambling game. Bluejay (Bekah) was convinced it was a treasure map of some kind and directed the players to investigate the transformer it depicted in the wasteland.

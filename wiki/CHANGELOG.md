@@ -1,6 +1,11 @@
 # Changelog
 
+**Tags:** Wiki-Meta, Changelog
+
 ## Entries Added by Researcher
+
+### 2026-02-24 - Organizations - Arasaka Corporation
+- Added Arasaka Corporation - Major megacorp with history in Night City, operating through NCCS and Tyger Claws proxies during RED era
 
 ### 2026-02-24 - Locations - RED Era Additions
 - Added Trauma Team Tower - Corporate medical headquarters in Watson Development

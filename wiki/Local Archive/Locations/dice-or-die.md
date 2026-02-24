@@ -1,5 +1,7 @@
 # Dice or Die
 
+**Tags:** Location, Night-City, The-Precipice, Casino, Safehouse, Dive-Bar
+
 ## Overview
 
 A casino in Night City. Known for gambling and high-stakes games.

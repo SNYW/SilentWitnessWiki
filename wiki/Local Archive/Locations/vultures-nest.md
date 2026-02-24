@@ -1,5 +1,7 @@
 # The Vultures Nest
 
+**Tags:** Location, Night-City, The-Precipice, Vultures-Turf, Safehouse, Workshop, Ripperdoc, Crew-Allied
+
 ## Overview
 
 The Vultures' base of operations in the Precipice. A converted cargo container community serving as living quarters, workshop, and medical facility.

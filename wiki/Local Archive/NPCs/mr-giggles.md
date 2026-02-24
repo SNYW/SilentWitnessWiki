@@ -1,5 +1,7 @@
 # Mr Giggles
 
+**Tags:** NPC, Bozos, Lieutenant, Second-In-Command, Status-Alive, Boostergang, Combat-Zone, Crew-Hostile
+
 ## Basic Info
 - **Name:** Mr Giggles
 - **Affiliation:** Bozos
@@ -24,9 +26,11 @@ Active — still hunting the party.
 ## Related Sessions
 
 - **Session 2**: Led Bozo forces in pursuit of the party after the vault job
+- **Session 3**: Confronted party at Dice or Die, injured Raptor
 
 ## Notes
 
 - The party successfully evaded him during Session 2
 - Confrontation likely inevitable
 - His horrifying appearance is his trademark
+- Issued challenge to party to visit "The Big Top" (Bozos base)

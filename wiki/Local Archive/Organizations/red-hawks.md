@@ -1,5 +1,7 @@
 # Red Hawks
 
+**Tags:** Organization, Red-Hawks, Nomad-Pack, Nomad-Clan, Gunslinger-Family, Badlands
+
 ## Basic Info
 - **Name:** Red Hawks
 - **Type:** Nomadic Clan / Gunslinger Family

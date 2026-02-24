@@ -1,5 +1,7 @@
 # Ronnie "Roadblock" Pickering
 
+**Tags:** Player-Character, Vultures, NCPD, Solo, Defensive-Specialist, Status-Alive, The-Precipice, Night-City
+
 ## Basic Info
 - **Name:** Ronnie Pickering
 - **Nickname:** Roadblock

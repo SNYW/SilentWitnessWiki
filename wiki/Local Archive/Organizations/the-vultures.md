@@ -1,5 +1,7 @@
 # The Vultures
 
+**Tags:** Organization, Vultures, Boostergang, Scavenger-Gang, Crew-Allied, The-Precipice, Night-City
+
 ## Basic Info
 - **Name:** The Vultures
 - **Type:** Scavenger Gang

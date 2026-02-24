@@ -1,5 +1,7 @@
 # Cyberpunk Red Campaign Wiki
 
+**Tags:** Wiki-Meta, Campaign-Overview
+
 ## Index
 - [[characters]] - Player characters and notable figures
 - [[npcs]] - Non-player characters

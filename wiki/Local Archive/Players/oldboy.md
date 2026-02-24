@@ -1,5 +1,7 @@
 # Gallahan "Old Boy" Murtock
 
+**Tags:** Player-Character, Vultures, Red-Hawks, Solo, Gunslinger, Detective, Status-Alive, The-Precipice, Night-City
+
 ## Basic Info
 - **Name:** Gallahan Murtock
 - **Nickname:** Old Boy

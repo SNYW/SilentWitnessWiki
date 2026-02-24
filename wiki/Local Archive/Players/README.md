@@ -1,5 +1,7 @@
 # Characters
 
+**Tags:** Wiki-Meta, Player-Characters, NPCs
+
 ## Player Characters
 | Name | Role | Background | Notes |
 |------|------|------------|-------|
@@ -9,4 +11,21 @@
 ## Notable Characters
 | Name | Affiliation | Role | Notes |
 |------|-------------|------|-------|
+| | | | |
+
+# NPCs
+
+## Fixers
+| Name | Reputation | Specialty | Contact |
+|------|------------|-----------|---------|
+| | | | |
+
+## Mooks & Gangers
+| Name | Gang | Role | Notes |
+|------|------|------|-------|
+| | | | |
+
+## Other
+| Name | Occupation | Notes |
+|------|------------|-------|
 | | | | |

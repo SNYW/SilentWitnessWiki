@@ -1,5 +1,7 @@
 # Session 3: Awakening
 
+**Tags:** Session-Log, Session-3, Vultures-Arc, Bozos-Conflict, Mystery, The-Big-Top
+
 ## Overview
 
 The mysterious girl from the vault awakens, revealing strange abilities. Meanwhile, the Bozos make their move.
