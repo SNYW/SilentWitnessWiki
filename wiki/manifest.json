@@ -142,6 +142,11 @@
               "path": "Net Archive/Locations/ashcroft-hotel.md"
             },
             {
+              "name": "Badlands",
+              "type": "file",
+              "path": "Net Archive/Locations/badlands.md"
+            },
+            {
               "name": "Burleson Tower",
               "type": "file",
               "path": "Net Archive/Locations/burleson-tower.md"

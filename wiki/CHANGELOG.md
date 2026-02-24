@@ -2,6 +2,9 @@
 
 ## Entries Added by Researcher
 
+### 2026-02-24 - Locations - Badlands
+- Added Badlands - Vast arid region surrounding Night City, key nomad territory during RED era, home to Aldecaldo camp and various refugee settlements
+
 ### 2026-02-24 - Organizations - Valentinos
 - Added Valentinos gang - Large Chicano gang based in Heywood, follows strict moral code, religious devotion to Santa Muerte and Jesús Malverde, active during RED era
 
