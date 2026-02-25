@@ -4,6 +4,10 @@
 
 ## Entries Added by Researcher
 
+### 2026-02-25 - Locations - Watson Development
+- Added Megabuilding H8 - Residential megabuilding in Watson Development, part of NCCS reconstruction efforts during RED era
+- Added Thehorn - Popular edgerunner bar in Watson Development, known for affordable drinks and owner Rosa "Mom" Chen
+
 ### 2026-02-25 - Organizations - Bozos
 - Added Bozos gang - Killer clown gang operating in Combat Zones during Time of the Red, known for twisted "pranks" and psychological torture
 

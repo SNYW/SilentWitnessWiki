@@ -237,6 +237,11 @@
               "path": "Net Archive/Locations/megabuilding-h10.md"
             },
             {
+              "name": "Megabuilding H8",
+              "type": "file",
+              "path": "Net Archive/Locations/megabuilding-h8.md"
+            },
+            {
               "name": "Ncart",
               "type": "file",
               "path": "Net Archive/Locations/ncart.md"
@@ -345,6 +350,11 @@
               "name": "The Time Machine",
               "type": "file",
               "path": "Net Archive/Locations/the-time-machine.md"
+            },
+            {
+              "name": "Thehorn",
+              "type": "file",
+              "path": "Net Archive/Locations/thehorn.md"
             },
             {
               "name": "Toggles Temple",
