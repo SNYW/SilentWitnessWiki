@@ -4,6 +4,9 @@
 
 ## Entries Added by Researcher
 
+### 2026-02-25 - Organizations - Bozos
+- Added Bozos gang - Killer clown gang operating in Combat Zones during Time of the Red, known for twisted "pranks" and psychological torture
+
 ### 2026-02-25 - Organizations - Militech International Armaments
 - Added Militech International Armaments - Major megacorp specializing in weapons manufacturing and military contracting, rival of Arasaka, active during Time of the Red
 
