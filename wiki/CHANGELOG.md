@@ -4,6 +4,10 @@
 
 ## Entries Added by Researcher
 
+### 2026-02-25 - Locations - RED Era Combat Zones
+- Added Little China (RED Era) - Lawless combat zone in central Night City during Time of the Red, once vibrant Asian cultural district now ruled by gangs including Gold Dragons, Red Chrome Legion, Tyger Claws, and Weng Fang Tong
+- Added Old Japantown (RED Era) - Lawless combat zone in central Night City during Time of the Red, former Japanese cultural center with presence of Tyger Claws, Maelstrom, Iron Sights, and Bozos
+
 ### 2026-02-25 - Organizations - RED Era Corporations
 - Added Zetatech - Second-tier corporation specializing in cyberware, computers, and aviation, expanded significantly during Time of the Red
 - Added Kang Tao - Weapons manufacturer restructured in 2040s, known for smart-gun technology, major player during RED era

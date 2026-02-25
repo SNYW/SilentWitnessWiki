@@ -1,9 +1,7 @@
 # MaxTac
 
-**Tags:** Maelstrom, Time-of-the-Red, 
 
-
-**Type:** NCPD Special Forces / Cyberpsycho Suppression Unit  
+**Tags:** MAX-TAC, Law-Enforcement, Cyberpsycho-Control, Corporate-Contractor, Crew-Hostile, The-Time-of-the-Red, Night-City, Threat-Very-High
 **Territory:** All of Night City  
 **Threat Rating:** Maximum
 

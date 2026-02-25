@@ -1,9 +1,7 @@
 # Shroomers
 
-**Tags:** Time-of-the-Red, Night-City, 
 
-
-**Type:** Reclaimer Group  
+**Tags:** Shroomers, Gang, Bio-Terrorist, Drug-Gang, Crew-Neutral, The-Time-of-the-Red, Night-City, Threat-Medium
 **Territory:** Disconnected NCART Track (Underground)  
 **Threat Rating:** Low
 

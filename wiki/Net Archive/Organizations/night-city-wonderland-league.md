@@ -1,9 +1,7 @@
 # Night City Wonderland League
 
-**Tags:** Time-of-the-Red, Night-City,  Nomad, 
 
-
-**Type:** Sports League / Organization
+**Tags:** Night-City-Wonderland-League, Sports-League, Entertainment, The-Time-of-the-Red, Night-City, Gambling, Roller-Derby
 **Era:** RED (Time of the Red, 2040s)
 **Location:** Various venues throughout Night City
 

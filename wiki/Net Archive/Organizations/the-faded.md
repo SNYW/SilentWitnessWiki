@@ -1,9 +1,7 @@
 # The Faded
 
-**Tags:** Time-of-the-Red, Gang,  Iron-Sights, 
 
-
-**Type:** Gang / Edgerunner Collective
+**Tags:** The-Faded, Gang, Solitary-Collective, Cult-Gang, Crew-Neutral, The-Time-of-the-Red, Night-City, Threat-Medium
 **Era:** Time of the Red (Cyberpunk RED - 2045)
 **Source:** Cyberpunk RED Core Rulebook (2020)
 **Threat Rating:** Medium

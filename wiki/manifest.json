@@ -232,6 +232,11 @@
               "path": "Net Archive/Locations/laguna-bend.md"
             },
             {
+              "name": "Little China",
+              "type": "file",
+              "path": "Net Archive/Locations/little-china.md"
+            },
+            {
               "name": "Lucky Cat Stir Fry",
               "type": "file",
               "path": "Net Archive/Locations/lucky-cat-stir-fry.md"
@@ -255,6 +260,11 @@
               "name": "Night Market",
               "type": "file",
               "path": "Net Archive/Locations/night-market.md"
+            },
+            {
+              "name": "Old Japantown",
+              "type": "file",
+              "path": "Net Archive/Locations/old-japantown.md"
             },
             {
               "name": "Pacifica",

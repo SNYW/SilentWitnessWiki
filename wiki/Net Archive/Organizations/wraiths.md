@@ -1,9 +1,7 @@
 # Wraiths
 
-**Tags:** Time-of-the-Red, Gang,  Maelstrom, Nomad, 
 
-
-**Type:** Nomad Gang / Raffen Shiv  
+**Tags:** Wraiths, Nomad-Pack, Boostergang, Crew-Neutral, The-Time-of-the-Red, Nomad-Turf, Badlands, Threat-High
 **Territory:** Badlands surrounding Night City  
 **Threat Rating:** High
 

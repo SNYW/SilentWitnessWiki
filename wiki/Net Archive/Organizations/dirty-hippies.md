@@ -1,9 +1,7 @@
 # The Dirty Hippies
 
-**Tags:** Time-of-the-Red, Night-City, Gang,  Nomad, 
 
-
-**Type:** Gang / Reclaimer Group  
+**Tags:** Dirty-Hippies, Gang, Eco-Terrorist, Crew-Neutral, The-Time-of-the-Red, Night-City, Threat-Medium
 **Home Territory:** Rancho Coronado (District)  
 **Threat Rating:** Low-Medium
 

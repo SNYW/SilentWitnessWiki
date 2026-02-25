@@ -1,9 +1,6 @@
 # Inquisitors
 
-**Tags:** Time-of-the-Red, Gang,  Maelstrom, 
-
-
-**Type:** Cult Gang / Anti-Cyberware Extremists  
+**Tags:** Inquisitors, Cult-Gang, Anti-Cyberware, Crew-Hostile, The-Time-of-the-Red, No-Fixed-Turf, Threat-Very-High, Night-City
 **Territory:** Mobile / No Fixed Turf (RED Era)  
 **Threat Rating:** Very High
 
