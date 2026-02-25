@@ -4,6 +4,12 @@
 
 ## Entries Added by Researcher
 
+### 2026-02-25 - Locations - Kabuki
+- Added Kabuki - Black market district in Watson Development during Time of the Red, formerly Japanese medical center transformed into Night City's biggest illegal market
+
+### 2026-02-25 - Organizations - Undertow
+- Added Undertow - Gang operating in Little Europe during Time of the Red
+
 ### 2026-02-25 - Locations - RED Era Combat Zones
 - Added Little China (RED Era) - Lawless combat zone in central Night City during Time of the Red, once vibrant Asian cultural district now ruled by gangs including Gold Dragons, Red Chrome Legion, Tyger Claws, and Weng Fang Tong
 - Added Old Japantown (RED Era) - Lawless combat zone in central Night City during Time of the Red, former Japanese cultural center with presence of Tyger Claws, Maelstrom, Iron Sights, and Bozos

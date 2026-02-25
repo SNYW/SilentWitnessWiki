@@ -1,6 +1,6 @@
 # Bozos
 
-**Tags:** Organization, Bozos, Boostergang, Crew-Hostile, Combat-Zone, Night-City, The-Big-Top
+**Tags:** Bozos, Boostergang, Crew-Hostile, Combat-Zone, Night-City, The-Big-Top
 
 **Type:** Boostergang / Prankster Gang  
 **Territory:** Various districts across Night City (Little Europe, South Night City, formerly West Hill)  

@@ -1,6 +1,6 @@
 # Dice or Die
 
-**Tags:** Location, Night-City, The-Precipice, Casino, Safehouse, Dive-Bar
+**Tags:** Night-City, The-Precipice, Casino, Safehouse, Dive-Bar, Threat-High
 
 ## Overview
 

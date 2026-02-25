@@ -1,6 +1,6 @@
 # The Vultures Nest
 
-**Tags:** Location, Night-City, The-Precipice, Vultures-Turf, Safehouse, Workshop, Ripperdoc, Crew-Allied
+**Tags:** Night-City, The-Precipice, Vultures-Turf, Safehouse, Workshop, Ripperdoc, Crew-Allied
 
 ## Overview
 

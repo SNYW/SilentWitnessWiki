@@ -1,6 +1,6 @@
 # The Precipice
 
-**Tags:** Location, Night-City, Old-Japantown,  Combat-Zone, Threat-High, Ripperdoc, Vultures-Turf
+**Tags:** Night-City, Old-Japantown, Combat-Zone, Threat-High, Ripperdoc, Vultures-Turf
 
 ## Basic Info
 - **Type:** Cargo container community

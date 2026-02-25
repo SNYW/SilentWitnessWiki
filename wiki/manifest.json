@@ -222,6 +222,11 @@
               "path": "Net Archive/Locations/jesse-james-kosher-deli.md"
             },
             {
+              "name": "Kabuki",
+              "type": "file",
+              "path": "Net Archive/Locations/kabuki.md"
+            },
+            {
               "name": "Kasims",
               "type": "file",
               "path": "Net Archive/Locations/kasims.md"
@@ -566,6 +571,11 @@
               "name": "Tyger Claws",
               "type": "file",
               "path": "Net Archive/Organizations/tyger-claws.md"
+            },
+            {
+              "name": "Undertow",
+              "type": "file",
+              "path": "Net Archive/Organizations/undertow.md"
             },
             {
               "name": "Valentinos",
