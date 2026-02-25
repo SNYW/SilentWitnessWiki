@@ -8,55 +8,55 @@ The crew learns about the big leagues — a hidden Night Market where the real F
 
 ## The Meet
 
-Vulture lays it out on the down-low: there's a Night Market happening in a month. Not some street fair — the *real* deal. The kind of place where the Fixers who actually *fix* things show up. Getting in means bringing something impressive enough to turn heads, plus the entry fee. Vulture covers the fee — the crew needs to bring the heat.
+Vulture pulls the crew aside, voice low. There's a Night Market coming in a month — not some jank street fair, but the real deal. The kind of event where the Fixers who can actually *fix* your problems show up. Getting through those doors means bringing something that'll make the big dogs notice you, plus paying the entry fee. Vulture covers the fee. The crew? They gotta bring the heat.
 
-He's also gotten intel on the other crews angling for invites. Netrunners did some digging. Here's the lineup:
+He's also tapped some Netrunners to dig up dirt on the other crews gunning for invites. Here's the shortlist:
 
-- **Tesla Tyrants** — Stream everything. Recording tech, stun batons, maximum spectacle.
+- **Tesla Tyrants** — These gonks stream everything. Recording tech, stun batons, maximum spectacle.
 - **Creeping Death** — Poisons. 'Nuff said.
-- **The ModLits** — Drones and mines. Remote warfare merchants.
-- **AI.DS** — Bioweapons. Diseases and the "cures" that cost more than the sickness.
+- **The ModLits** — Drones and mines. Remote warfare for those who don't wanna get their hands dirty.
+- **AI.DS** — Bioweapons. Diseases and the "cures" that somehow cost more than getting sick.
 
-The crew can ignore the competition, cook up something themselves, or knock over one of these teams and take their ticket. Options are open.
+The crew can play it safe and cook up their own impressiveness, or they can go hunting and take what they need from the competition. Either way, they've got options.
 
-## Ghosting Out
-
-Bloam — the mystery girl from the vault — wanders out of the workshop like she's got somewhere to be. Roadblock's been assigned to keep eyes on her, so he trails along.
+While Vulture's laying out the plan, **Bloam** — that weird mystery girl they pulled from the vault — wanders out of the workshop like she's got somewhere to be. The crew tells **Roadblock** to tail her. He follows.
 
 A few minutes later, a kid screams.
 
-Roadblock books it ahead. Finds Sparrow getting worked over by his old man — David, drunk as hell, swinging a bat. Kid's hiding money, turns out. Street kid logic: you hide what you got or it gets taken.
+## Ghosting Out
 
-Roadblock steps in. Grabs David by the throat. And then Bloam shows up.
+**Roadblock** moves fast. Rounds the corner and finds **Sparrow** — that scrapper kid who's always running messages for the Vultures — getting worked over by his old man. **David's** hammered, swinging a baseball bat. Kid's got money hidden somewhere, and that's the only thing his pops care about.
 
-She puts her hand on David's head.
+**Roadblock** steps in. Grabs **David** by the throat, lifts him clean off the ground. But then **Bloam** arrives.
 
-He doesn't fall. Doesn't scream.
+She walks up slow. Places her hand on **David's** head.
 
-He *evaporates*. Red mist. Blood rain. Kid goes down, Roadblock's coated, and Bloam just... walks off. No big deal. Just another Tuesday.
+Nothing happens for a second.
+
+Then **David** doesn't fall. Doesn't scream. He *evaporates*. Red mist. Blood rain. Everything's painted red — the walls, the ground, **Sparrow's** unconscious body, **Roadblock's** face. And **Bloam**? She just walks away. Like it was nothing. Like it was just another Tuesday in Night City.
 
 ## The Fallout
 
-Roadblock hauls Sparrow back to the Nest. Kid's out cold, covered in his old man's remains. Vulture's standing over him: "He's one of us now. Another orphan."
+**Roadblock** hauls **Sparrow** back to **Vultures Nest**. Kid's out cold, covered in his old man's remains. **Vulture** looks down at the kid and says it plain: "He's one of us now. Another orphan."
 
-Roadblock's losing it. Keeps shouting about the "Glow Eyed Queen." Old trauma — he was *there* when she went full terrorist in 2020. Saw what she did. What her "Heralds" can do.
+But **Roadblock's** not okay. He's losing his shit, keeps yelling about the "Glow Eyed Queen." Old wounds — he was *there* in 2020 when she went full terrorist. Saw what her Heralds could do. Hasn't recovered since.
 
-The crew digs in:
+The crew starts digging:
 
-- **Glow Eyed Queen:** Rampant AI, took over a power plant in 2020. Built a cult. Gave her followers chrome that made them walking weapons. Her right hand — "Shellbreaker" — led a parade attack. Maxtac finally dropped him, but he took a city block with him.
-- Full video's out there on NightTube. Phil M. Ovie documented the whole thing.
+- **Glow Eyed Queen** — That's a Rampant AI. Took over a power plant back in 2020. Built herself a cult, started handing out chrome that turned her followers into walking weapons. Her main squeeze, **Shellbreaker**, led the parade attack. **Maxtac** finally took him down, but not before he blew a whole city block to kingdom come.
+- Found the full video on NightTube. Some media gonk named **Phil M. Ovie** caught the whole thing.
 
-Bloam's either another Herald or something worse. Roadblock wants her gone. Magpie wants her *monetized*. At least she's useful.
+So **Bloam's** either another Herald or something worse. **Roadblock** wants her deleted. **Magpie**? He's got other ideas — finally, a use for the weird girl.
 
 ## The Noodle
 
-Wet footsteps outside. Someone's listening.
+Then they hear it. Wet footsteps outside. Someone's been listening to the whole damn conversation.
 
-Sal — new meat, medtech — snags them with a grapple arm. Quick work. Guy was recording the whole conversation on an Agent. Magpie cracks it, starts the interrogation.
+**Sal** — the new kid, that medtech who's been tagging along — moves fast. Grapple arm whips out, snags the listener before they can run. Guy's got an Agent, recording everything. **Magpie** jacks into it, cracks the encryption, starts asking questions.
 
-Old Boy doesn't talk. He *gestures* — gun barrel to the chin. Guy's from the Tesla Tyrants. They're on the Night Market invite list too, and now they know about Bloam.
+**Old Boy** doesn't do talking. He does *gestures* — gun barrel pressed under the guy's chin. Spills fast: he's from the **Tesla Tyrants**. That rival crew Vulture mentioned? They're on the invite list too, and now they know about **Bloam**.
 
-Gigachad tries to dust — hits Sal with a stun gun, breaks the grapple. Roadblock drops him with a hammer to the kneecap. Sleepy-time juice from Sal, and now they've got a prisoner.
+The gonk tries to run. Hits **Sal** with a stun gun, breaks the grapple. **Roadblock** doesn't hesitate — hammer to the kneecap. **Sal** follows up with a sedative jab. Now they've got a prisoner.
 
 **Loot:**
 - Audio recorder
@@ -67,11 +67,11 @@ Gigachad tries to dust — hits Sal with a stun gun, breaks the grapple. Roadblo
 
 ## The Plan
 
-Retaliation's on the table. The Tyrants know about Bloam now — word's gonna spread. Better to hit first.
+The crew decides fast: hit back at the **Tesla Tyrants**. They know about **Bloam** now, which means word's gonna spread. Hit first, ask questions later.
 
-Vulture's standing over Sparrow, unconscious but breathing. Kid's officially Vulture property now. Roadblock's got a name for him: Sparrowhawk.
+**Vulture** stands over **Sparrow** — still unconscious, but breathing. Kid belongs to the crew now. **Roadblock** speaks up: call him **Sparrowhawk** from here on out.
 
-They've got a month. A captured gonk from a rival crew. And a mystery girl who can turn people into red mist.
+They've got a month to prep. A captured gonk from a rival crew. And a mystery girl who can turn a man into red mist.
 
 Time to go big or go home.
 
