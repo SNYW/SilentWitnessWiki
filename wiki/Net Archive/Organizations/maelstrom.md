@@ -1,7 +1,6 @@
 # Maelstrom
 
-**Tags:** Time-of-the-Red, Gang, Organization, Maelstrom, Corporation
-
+**Tags:** Maelstrom, Boostergang, Crew-Hostile, The-Time-of-the-Red, Watson, Combat-Zone, Burleson-Tower, Threat-High
 
 **Type:** Combat Gang / Boostergang  
 **Territory:** Watson Development (formerly Hot Zone / Burleson Tower)  
@@ -10,8 +9,6 @@
 ## Overview
 
 Maelstrom is a violent combat gang with a "might makes right" philosophy. During the Time of the Red, their leader Warlock transformed Maelstrom into a surprisingly effective criminal enterprise. The gang is notorious for excessive cyberware augmentation, with many members hovering on the edge of cyberpsychosis—or well past it.
-
-##
 
 ### Origins History (2013-2023)
 

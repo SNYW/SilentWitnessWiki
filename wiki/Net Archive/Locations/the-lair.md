@@ -1,7 +1,6 @@
-
-**Tags:** Location, The Lair
-
 # The Lair
+
+**Tags:** South-Night-City, Residential, Threat-Medium, Zhirafa, Former-Adult-Venue, The-Time-of-the-Red
 
 **District:** South Night City  
 **Type:** Private Residence/Former Adult Entertainment Venue  

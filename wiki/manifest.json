@@ -152,11 +152,6 @@
               "path": "Net Archive/Locations/burleson-tower.md"
             },
             {
-              "name": "Charter Hill",
-              "type": "file",
-              "path": "Net Archive/Locations/charter-hill.md"
-            },
-            {
               "name": "Choppers",
               "type": "file",
               "path": "Net Archive/Locations/choppers.md"
@@ -187,11 +182,6 @@
               "path": "Net Archive/Locations/delirium.md"
             },
             {
-              "name": "Downtown",
-              "type": "file",
-              "path": "Net Archive/Locations/downtown.md"
-            },
-            {
               "name": "Executive Zone",
               "type": "file",
               "path": "Net Archive/Locations/executive-zone.md"
@@ -217,34 +207,14 @@
               "path": "Net Archive/Locations/herschels-crematorium.md"
             },
             {
-              "name": "Heywood Docks",
-              "type": "file",
-              "path": "Net Archive/Locations/heywood-docks.md"
-            },
-            {
-              "name": "Heywood Industrial Zone",
-              "type": "file",
-              "path": "Net Archive/Locations/heywood-industrial-zone.md"
-            },
-            {
               "name": "Highcourt Plaza Hotel",
               "type": "file",
               "path": "Net Archive/Locations/highcourt-plaza-hotel.md"
             },
             {
-              "name": "Hot Zone",
-              "type": "file",
-              "path": "Net Archive/Locations/hot-zone.md"
-            },
-            {
               "name": "Jesse James Kosher Deli",
               "type": "file",
               "path": "Net Archive/Locations/jesse-james-kosher-deli.md"
-            },
-            {
-              "name": "Kabuki",
-              "type": "file",
-              "path": "Net Archive/Locations/kabuki.md"
             },
             {
               "name": "Kasims",
@@ -257,24 +227,9 @@
               "path": "Net Archive/Locations/laguna-bend.md"
             },
             {
-              "name": "Little China",
-              "type": "file",
-              "path": "Net Archive/Locations/little-china.md"
-            },
-            {
-              "name": "Little Europe",
-              "type": "file",
-              "path": "Net Archive/Locations/little-europe.md"
-            },
-            {
               "name": "Lucky Cat Stir Fry",
               "type": "file",
               "path": "Net Archive/Locations/lucky-cat-stir-fry.md"
-            },
-            {
-              "name": "Mainland",
-              "type": "file",
-              "path": "Net Archive/Locations/mainland.md"
             },
             {
               "name": "Megabuilding H10",
@@ -287,44 +242,9 @@
               "path": "Net Archive/Locations/ncart.md"
             },
             {
-              "name": "New Westbrook",
-              "type": "file",
-              "path": "Net Archive/Locations/new-westbrook.md"
-            },
-            {
               "name": "Night Market",
               "type": "file",
               "path": "Net Archive/Locations/night-market.md"
-            },
-            {
-              "name": "Norcal Military Base",
-              "type": "file",
-              "path": "Net Archive/Locations/norcal-military-base.md"
-            },
-            {
-              "name": "North Heywood",
-              "type": "file",
-              "path": "Net Archive/Locations/north-heywood.md"
-            },
-            {
-              "name": "Northside",
-              "type": "file",
-              "path": "Net Archive/Locations/northside.md"
-            },
-            {
-              "name": "Old Combat Zone",
-              "type": "file",
-              "path": "Net Archive/Locations/old-combat-zone.md"
-            },
-            {
-              "name": "Old Japantown",
-              "type": "file",
-              "path": "Net Archive/Locations/old-japantown.md"
-            },
-            {
-              "name": "Pacifica Playground",
-              "type": "file",
-              "path": "Net Archive/Locations/pacifica-playground.md"
             },
             {
               "name": "Pacifica",
@@ -337,16 +257,6 @@
               "path": "Net Archive/Locations/pol-bud-cement-factory.md"
             },
             {
-              "name": "Port Of Night City",
-              "type": "file",
-              "path": "Net Archive/Locations/port-of-night-city.md"
-            },
-            {
-              "name": "Rancho Coronado",
-              "type": "file",
-              "path": "Net Archive/Locations/rancho-coronado.md"
-            },
-            {
               "name": "Randy Dandy",
               "type": "file",
               "path": "Net Archive/Locations/randy-dandy.md"
@@ -355,11 +265,6 @@
               "name": "Reclaimed Perimeter",
               "type": "file",
               "path": "Net Archive/Locations/reclaimed-perimeter.md"
-            },
-            {
-              "name": "Reclamation Zone",
-              "type": "file",
-              "path": "Net Archive/Locations/reclamation-zone.md"
             },
             {
               "name": "Redline",
@@ -377,11 +282,6 @@
               "path": "Net Archive/Locations/rustys-dive-shack.md"
             },
             {
-              "name": "Santo Domingo",
-              "type": "file",
-              "path": "Net Archive/Locations/santo-domingo.md"
-            },
-            {
               "name": "Short Circuit",
               "type": "file",
               "path": "Net Archive/Locations/short-circuit.md"
@@ -390,11 +290,6 @@
               "name": "South Night City",
               "type": "file",
               "path": "Net Archive/Locations/south-night-city.md"
-            },
-            {
-              "name": "Southside",
-              "type": "file",
-              "path": "Net Archive/Locations/southside.md"
             },
             {
               "name": "The Big Top",
@@ -415,11 +310,6 @@
               "name": "The Glen",
               "type": "file",
               "path": "Net Archive/Locations/the-glen.md"
-            },
-            {
-              "name": "The Island",
-              "type": "file",
-              "path": "Net Archive/Locations/the-island.md"
             },
             {
               "name": "The Lair",
@@ -477,24 +367,9 @@
               "path": "Net Archive/Locations/trauma-team-tower.md"
             },
             {
-              "name": "University District",
-              "type": "file",
-              "path": "Net Archive/Locations/university-district.md"
-            },
-            {
-              "name": "Upper Marina",
-              "type": "file",
-              "path": "Net Archive/Locations/upper-marina.md"
-            },
-            {
               "name": "Vargtimmen",
               "type": "file",
               "path": "Net Archive/Locations/vargtimmen.md"
-            },
-            {
-              "name": "Watson Development",
-              "type": "file",
-              "path": "Net Archive/Locations/watson-development.md"
             },
             {
               "name": "Woodland Park",

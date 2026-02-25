@@ -1,7 +1,6 @@
-
-**Tags:** Location, Danger Gal Headquarters
-
 # Danger Gal Headquarters
+
+**Tags:** Little-Europe, Corporate-Headquarters, Danger-Gal, Threat-Low, Puma-Squad, Corporate-Security, The-Time-of-the-Red, Night-City
 
 **Type:** Corporate Headquarters  
 **Area:** Little Europe (Central Night City)  

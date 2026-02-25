@@ -1,7 +1,6 @@
 # Arasaka Corporation
 
-**Tags:** Corporation, Megacorp, Arasaka, Night City, RED Era
-
+**Tags:** Arasaka, Megacorp, Crew-Hostile, The-Time-of-the-Red, Night-City, Corporate-War
 
 **Type:** Megacorporation  
 **Headquarters:** Arasaka Tower, Night City (formerly); Tokyo, Japan (current)  

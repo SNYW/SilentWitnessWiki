@@ -1,7 +1,6 @@
 # Tyger Claws
 
-**Tags:** Time-of-the-Red, Gang, Organization, Tyger-Claws, Corporation
-
+**Tags:** Tyger-Claws, Guardian-Gang, Crew-Neutral, The-Time-of-the-Red, Watson, Kabuki, Corporate-Zone, Arasaka-Affiliated
 
 **Type:** Gang / Guardian Gang  
 **Territory:** Watson Development, Kabuki, Old Japantown  

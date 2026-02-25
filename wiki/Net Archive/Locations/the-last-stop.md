@@ -1,7 +1,6 @@
-
-**Tags:** Location, The Last Stop
-
 # The Last Stop
+
+**Tags:** Watson, Dive-Bar, Neutral-Ground, Threat-Low, Little-China, The-Time-of-the-Red, Ripperdoc-Neighborhood
 
 **Type:** Working-class Bar & Tavern  
 **Area:** Watson (Little China border)  
