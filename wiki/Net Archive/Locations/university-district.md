@@ -1,5 +1,7 @@
 # University District
 
+**Tags:** University-District, District, The-Island, Night-City, The-Time-of-the-Red, Rebuilding-Urban-Zone, Threat-Medium, Threat-High, NCU, Night-City-University
+
 **Type:** Rebuilding Urban Zone  
 **Area:** The Island  
 **Threat Rating:** Medium to High

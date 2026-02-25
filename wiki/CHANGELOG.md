@@ -4,6 +4,9 @@
 
 ## Entries Added by Researcher
 
+### 2026-02-25 - Organizations - Orbital Air
+- Added Orbital Air - Megacorporation specializing in space transport, built NCX Spaceport in Night City during RED era
+
 ### 2026-02-25 - Locations - RED Era Districts
 - Added University District - Rebuilding urban zone in central Night City during Time of the Red, containing Night City University and facing South Night City Combat Zone
 - Added Union Chapel - Abandoned church in South Night City Combat Zone, notorious lair of Lord Ruthven in 2045

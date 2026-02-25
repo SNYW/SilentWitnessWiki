@@ -1,5 +1,7 @@
 # Union Chapel
 
+**Tags:** Union-Chapel, Location, South-Night-City, Combat-Zone, The-Time-of-the-Red, Threat-Extreme, Abandoned-Church, Lord-Ruthven-Lair, Horror-Location, Body-Disposal-Site
+
 **Type:** Abandoned Church/Combat Zone Location  
 **Area:** South Night City (The Island)  
 **Threat Rating:** Extreme
