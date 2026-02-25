@@ -105,11 +105,6 @@
           "type": "folder",
           "children": [
             {
-              "name": "Agent Reference",
-              "type": "file",
-              "path": "Local Archive/Rules/agent-reference.md"
-            },
-            {
               "name": "Character Creation And Lifepath",
               "type": "file",
               "path": "Local Archive/Rules/character-creation-and-lifepath.md"
