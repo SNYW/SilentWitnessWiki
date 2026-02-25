@@ -47,6 +47,16 @@
               "path": "Local Archive/NPCs/mr-tubbs.md"
             },
             {
+              "name": "Patient Zero",
+              "type": "file",
+              "path": "Local Archive/NPCs/patient-zero.md"
+            },
+            {
+              "name": "Pins",
+              "type": "file",
+              "path": "Local Archive/NPCs/pins.md"
+            },
+            {
               "name": "Raptor",
               "type": "file",
               "path": "Local Archive/NPCs/raptor.md"
@@ -55,6 +65,16 @@
               "name": "Sparrow",
               "type": "file",
               "path": "Local Archive/NPCs/sparrow.md"
+            },
+            {
+              "name": "Toxica",
+              "type": "file",
+              "path": "Local Archive/NPCs/toxica.md"
+            },
+            {
+              "name": "Volta",
+              "type": "file",
+              "path": "Local Archive/NPCs/volta.md"
             }
           ]
         },
@@ -63,14 +83,34 @@
           "type": "folder",
           "children": [
             {
+              "name": "Ai Ds",
+              "type": "file",
+              "path": "Local Archive/Organizations/ai-ds.md"
+            },
+            {
               "name": "Bozos",
               "type": "file",
               "path": "Local Archive/Organizations/bozos.md"
             },
             {
+              "name": "Creeping Death",
+              "type": "file",
+              "path": "Local Archive/Organizations/creeping-death.md"
+            },
+            {
               "name": "Red Hawks",
               "type": "file",
               "path": "Local Archive/Organizations/red-hawks.md"
+            },
+            {
+              "name": "Tesla Tyrants",
+              "type": "file",
+              "path": "Local Archive/Organizations/tesla-tyrants.md"
+            },
+            {
+              "name": "The Modlits",
+              "type": "file",
+              "path": "Local Archive/Organizations/the-modlits.md"
             },
             {
               "name": "The Vultures",
@@ -189,6 +229,11 @@
               "name": "Session3",
               "type": "file",
               "path": "Local Archive/Sessions/session3.md"
+            },
+            {
+              "name": "Session4",
+              "type": "file",
+              "path": "Local Archive/Sessions/session4.md"
             }
           ]
         }
