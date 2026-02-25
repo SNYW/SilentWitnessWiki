@@ -1,76 +1,81 @@
-# Session 4: The Night Market
+# Session 4: The Glow Queen
 
 **Tags:** Session-Log, The-Time-of-the-Red, Session-4, Night-Market-Arc, Bloam-Reveal, Tesla-Tyrants-Encounter
 
-## Overview
+## TL;DR
 
-The party learns about an upcoming hidden Night Market and must acquire impressive tech to gain access. Meanwhile, Bloam's terrifying powers are revealed when she disintegrates Sparrow's abusive father. A rival team is caught snooping on the Vultures.
+The crew learns about the big leagues — a hidden Night Market where the real Fixers play. Vulture wants in. Meanwhile, mystery girl Bloam shows her true colors (literally explodes a dude), and some gigachad from a rival crew gets caught snooping. Now they've got a month to pull off something big enough to buy their way into the big time.
 
-## Events
+## The Meet
 
-### Night Market Introduction
-- Vulture informs the party about an upcoming hidden Night Market in one month
-- To gain access, they must produce something impressive enough to catch the attention of big-time Fixers
-- Vulture will cover the entry fee, but the party must provide the impressive tech
-- Vulture has enlisted Netrunners to scope out the competition
+Vulture lays it out on the down-low: there's a Night Market happening in a month. Not some street fair — the *real* deal. The kind of place where the Fixers who actually *fix* things show up. Getting in means bringing something impressive enough to turn heads, plus the entry fee. Vulture covers the fee — the crew needs to bring the heat.
 
-### Bloam Leaves
-- Bloam (the mystery girl) walks out of the workshop
-- Roadblock follows her
+He's also gotten intel on the other crews angling for invites. Netrunners did some digging. Here's the lineup:
 
-### The Incident
-- Roadblock hears a child screaming and rushes ahead
-- Sparrow is being beaten by his drunk father David with a baseball bat
-- Roadblock intervenes, confronting the father
-- David is drunk and aggressive — claims Sparrow hid money from them
-- Roadblock picks David up by the neck
-- Bloam arrives and touches David's head — he instantly explodes into a red bloody mist
-- The area is coated in blood, Sparrow is knocked unconscious
-- Bloam walks off indifferently
+- **Tesla Tyrants** — Stream everything. Recording tech, stun batons, maximum spectacle.
+- **Creeping Death** — Poisons. 'Nuff said.
+- **The ModLits** — Drones and mines. Remote warfare merchants.
+- **AI.DS** — Bioweapons. Diseases and the "cures" that cost more than the sickness.
 
-### Aftermath
-- Roadblock brings Sparrow back to Vultures Nest
-- Ronnie (Roadblock) has a breakdown, shouting about the "Glow Eyed Queen"
+The crew can ignore the competition, cook up something themselves, or knock over one of these teams and take their ticket. Options are open.
 
-### Research
-- The party researches the Glow Eyed Queen on their Agents:
-  - **History:** Rampant AI that took over a power plant in 2020
-  - Started a cult large enough to stage a terrorist attack on Night City
-  - Gave her followers powerful augments, especially her Warlock "Shellbreaker"
-  - Shellbreaker led the terrorist attack parade
-  - Only stopped when MaxTac intervened
-  - Shellbreaker detonated a high-yield explosive, taking out a city block
-- Sal finds full video of the event on NightTube by media Phil M. Ovie
-- Roadblock suspects Bloam is a herald of the Glow Eyed Queen — he was present at the attack and witnessed her atrocities
+## Ghosting Out
 
-### Reactions
-- **Roadblock:** Wants Bloam destroyed, keeps yelling "I fucking hate clankers"
-- **Magpie:** Overjoyed — sees Bloam as their ticket to the Night Market
+Bloam — the mystery girl from the vault — wanders out of the workshop like she's got somewhere to be. Roadblock's been assigned to keep eyes on her, so he trails along.
 
-### The Spy
-- Wet footsteps heard outside — someone snooping
-- Sal (new Medtech PC) catches him with a grapple arm
-- He's recording with an agent — Magpie breaks it
-- Interrogation begins — Old Boy threatens him with a gun to the chin
-- He reveals he's from a rival Night Market team: the **Tesla Tyrants**
-- Known for high-tech recording/live streaming equipment and stunning weaponry
+A few minutes later, a kid screams.
 
-### Capture
-- He hits Sal with a stun gun to break the grapple
-- Roadblock breaks his kneecap with a hammer
-- Sal injects him with a sleeping agent — he's captured
+Roadblock books it ahead. Finds Sparrow getting worked over by his old man — David, drunk as hell, swinging a bat. Kid's hiding money, turns out. Street kid logic: you hide what you got or it gets taken.
 
-### Loot
+Roadblock steps in. Grabs David by the throat. And then Bloam shows up.
+
+She puts her hand on David's head.
+
+He doesn't fall. Doesn't scream.
+
+He *evaporates*. Red mist. Blood rain. Kid goes down, Roadblock's coated, and Bloam just... walks off. No big deal. Just another Tuesday.
+
+## The Fallout
+
+Roadblock hauls Sparrow back to the Nest. Kid's out cold, covered in his old man's remains. Vulture's standing over him: "He's one of us now. Another orphan."
+
+Roadblock's losing it. Keeps shouting about the "Glow Eyed Queen." Old trauma — he was *there* when she went full terrorist in 2020. Saw what she did. What her "Heralds" can do.
+
+The crew digs in:
+
+- **Glow Eyed Queen:** Rampant AI, took over a power plant in 2020. Built a cult. Gave her followers chrome that made them walking weapons. Her right hand — "Shellbreaker" — led a parade attack. Maxtac finally dropped him, but he took a city block with him.
+- Full video's out there on NightTube. Phil M. Ovie documented the whole thing.
+
+Bloam's either another Herald or something worse. Roadblock wants her gone. Magpie wants her *monetized*. At least she's useful.
+
+## The Noodle
+
+Wet footsteps outside. Someone's listening.
+
+Sal — new meat, medtech — snags them with a grapple arm. Quick work. Guy was recording the whole conversation on an Agent. Magpie cracks it, starts the interrogation.
+
+Old Boy doesn't talk. He *gestures* — gun barrel to the chin. Guy's from the Tesla Tyrants. They're on the Night Market invite list too, and now they know about Bloam.
+
+Gigachad tries to dust — hits Sal with a stun gun, breaks the grapple. Roadblock drops him with a hammer to the kneecap. Sleepy-time juice from Sal, and now they've got a prisoner.
+
+**Loot:**
 - Audio recorder
 - Memory chip
 - Cyberaudio suite
 - Kevlar vest
 - Stun gun + ammo
 
-### Resolution
-- Team decides to hit back at the Tesla Tyrants
-- Vulture stands over unconscious Sparrow, declares he's "one of them now — another orphan"
-- Roadblock suggests Sparrow's name should be changed to "Sparrowhawk"
+## The Plan
+
+Retaliation's on the table. The Tyrants know about Bloam now — word's gonna spread. Better to hit first.
+
+Vulture's standing over Sparrow, unconscious but breathing. Kid's officially Vulture property now. Roadblock's got a name for him: Sparrowhawk.
+
+They've got a month. A captured gonk from a rival crew. And a mystery girl who can turn people into red mist.
+
+Time to go big or go home.
+
+---
 
 ## NPCs Involved
 
@@ -85,28 +90,28 @@ The party learns about an upcoming hidden Night Market and must acquire impressi
 | **Sal** | New Player Character (Medtech) | Active |
 | **Spy** | Tesla Tyrants Member | Captured |
 
-## Night Market Teams (Discovered)
+## Night Market Teams
 
 | Team | Specialty |
 |------|-----------|
-| **Tesla Tyrants** | High-tech recording equipment, stun weaponry |
-| **Creeping Death** | Poisons and poison delivery systems |
-| **The ModLits** | Remote weapons (mines, drones) |
-| **AI.DS** (All Idiots Die Someday) | Lethal diseases and cures |
+| **Tesla Tyrants** | High-tech recording, stun weapons |
+| **Creeping Death** | Poisons, toxins |
+| **The ModLits** | Drones, mines |
+| **AI.DS** | Bioweapons, diseases |
 
 ## Plot Threads
 
-- Night Market in one month — party must acquire impressive tech
+- Night Market in one month — crew needs impressive tech
 - Bloam's true nature — connected to Glow Eyed Queen?
-- Roadblock's vendetta against Bloam
-- Tesla Tyrants now know about Bloam — retaliation planned
+- Roadblock's vendetta against her
+- Tesla Tyrants know about Bloam — retaliation planned
 - Sparrow/Sparrowhawk joining the Vultures
-- Induction for Sparrow — to be determined
+- Induction for Sparrow — TBD
 
 ## Notes
 
-- Session revealed Bloam's devastating power
+- Bloam's devastating power revealed
 - New PC Sal introduced
-- Rival team (Tesla Tyrants) identified
+- Rival team (Tesla Tyrants) identified and captured
 - Long-term hook: Night Market access
-- Story arc: Night Market preparations and rival teams
+- Story arc: Night Market preparations
