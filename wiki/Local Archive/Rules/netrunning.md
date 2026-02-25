@@ -1,4 +1,6 @@
 # NETRUNNING
+**Tags:** Core-Rules, Netrunning, The-NET, The-Time-of-the-Red, Game-Mechanics
+
 
 > Synthesized from: *Netrunning* (pp. 196-218), *Getting It Done* (p. 148)
 

@@ -1,4 +1,6 @@
 # GM Tools, Mooks, and Encounters
+**Tags:** Core-Rules, GM-Tools, Encounters, Mooks, The-Time-of-the-Red, Game-Mechanics
+
 
 ---
 

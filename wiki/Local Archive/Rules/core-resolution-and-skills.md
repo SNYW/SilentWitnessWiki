@@ -1,5 +1,7 @@
 # CORE RESOLUTION AND SKILLS
 
+**Tags:** Core-Rules, Character-Statistics, Skills, The-Time-of-the-Red, Game-Mechanics
+
 > Synthesized from: *Fitted for the Future* (pp. 72-91), *Getting It Done* (pp. 125-166), *Running Cyberpunk* (pp. 408-412)
 
 ---
@@ -321,8 +323,8 @@ Below is the complete Skill list organized by category. Skills marked **(x2)** c
 | Forgery | **TECH** | Creating and detecting false documents, art, identification (p. 142) |
 | Land Vehicle Tech | **TECH** | Repairing and maintaining land vehicles (p. 142) |
 | Paint/Draw/Sculpt | **TECH** | Producing professional paintings, drawings, or sculpture (p. 142) |
-| Paramedic **(x2)** | **TECH** | Advanced medical treatment; stabilization and treating all Critical Injuries not requiring Surgery (p. 142) |
-| Photography/Film | **TECH** | Producing professional photographs, motion pictures, or braindances (p. 143) |
+| Paramedic **(x2)** | **TECH** | Advanced medical treatment; stabilization and treating all Surgery (p. 142) |
+ Critical Injuries not requiring| Photography/Film | **TECH** | Producing professional photographs, motion pictures, or braindances (p. 143) |
 | Pick Lock | **TECH** | Picking non-electronic locks and countering non-electronic security (p. 143) |
 | Pick Pocket | **TECH** | Picking pockets and shoplifting without being noticed (p. 143) |
 | Sea Vehicle Tech | **TECH** | Repairing and maintaining sea vehicles (p. 143) |

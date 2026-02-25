@@ -189,6 +189,11 @@
               "name": "Session3",
               "type": "file",
               "path": "Local Archive/Sessions/session3.md"
+            },
+            {
+              "name": "Session4",
+              "type": "file",
+              "path": "Local Archive/Sessions/session4.md"
             }
           ]
         }
@@ -488,6 +493,16 @@
               "path": "Net Archive/Locations/trauma-team-tower.md"
             },
             {
+              "name": "Union Chapel",
+              "type": "file",
+              "path": "Net Archive/Locations/union-chapel.md"
+            },
+            {
+              "name": "University District",
+              "type": "file",
+              "path": "Net Archive/Locations/university-district.md"
+            },
+            {
               "name": "Vargtimmen",
               "type": "file",
               "path": "Net Archive/Locations/vargtimmen.md"
@@ -607,6 +622,11 @@
               "name": "Night City Wonderland League",
               "type": "file",
               "path": "Net Archive/Organizations/night-city-wonderland-league.md"
+            },
+            {
+              "name": "Philharmonic Vampyres",
+              "type": "file",
+              "path": "Net Archive/Organizations/philharmonic-vampyres.md"
             },
             {
               "name": "Piranhas",

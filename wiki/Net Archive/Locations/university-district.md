@@ -1,47 +1,49 @@
 # University District
 
-**Tags:** University-District, District, Location
-
-
-**District Code:** F  
 **Type:** Rebuilding Urban Zone  
-**Threat Rating:** Low to Medium
+**Area:** The Island  
+**Threat Rating:** Medium to High
 
 ## Overview
 
-A slim district housing the city's only traditional institution of higher learning.
+The University District is a rebuilding urban district located in central Night City during the Time of the Red. It contains the only still-functioning college institution in the metropolis—Night City University.
 
-## Government
+## History
 
-- **City Manager:** Doctor Edward Michaels (self-appointed)
-- **Security Provider:** NCU Campus Security
-- **Gangs Present:** Philharmonic Vampyres, Princesses of Justice
+### Pre-War Era (2020s-2030s)
 
-## Locations
+Prior to the Fourth Corporate War, University District was located in the southwestern area of central Night City, though the new district also incorporated portions of neighboring West Hill. Originally, the old district was primarily set aside as a comfortable living space, with architecture ranging from faux brownstones to pseudo-Victorian gingerbread homes, interspersed with plenty of small shops, restaurants, and businesses within easy walking distance.
 
-### (F1) Biotechnica Campus
-The headquarters of Biotechnica in Night City. Strange sounds can be heard from the campus at night.
+It was home to the notorious Night City University and Lake Park. Due to the close proximity of the City & Corporate District, some parts of the district were heavily damaged during the Night City Holocaust.
 
-### (F2) Biotechnica Habitation Sphere Alpha
-A geodesic dome serving as housing for Biotechnica employees.
+### Post-War Rebuilding
 
-### (F3) Night City Symphony Hall
-A performance space owned and operated by the Philharmonic Vampyres.
+After the war, during the rebuilding period of Night City, the slim University District was fortified due to being on the edge of the South Night City Combat Zone. By the 2040s, rebuilding was going forward, and ongoing development projects were still arranged, which included megabuildings to house the displaced population and plans to rebuild the NCART lines above ground.
 
-### (F4) Night City University
-A college campus built up into something of a fortified monastery. The center of higher education in Night City.
+## Notable Locations
 
-### (F5) Parkside Living
-Apartments occupied primarily by NCU students and some faculty. Always loud and boisterous.
+- **Night City University** — The only functioning college in Night City
+- **Biotechnica Campus** — Corporate educational facility
+- **Night City Symphony Hall** — Cultural venue
+- **Habitation Sphere Alpha** — Residential structure
 
-### (F6) Princessland!
-An abandoned carnival themed around an old animated show. Now home to the Princesses of Justice.
+## Notable Gangs
 
-### (F7) Stems & Seeds
-A guerilla gardening operation run by Lily Larson, a former researcher for Petrochem.
+Due to the close proximity of a Combat Zone, gangs are usually a common sight. Both the NCPD and the NCU Campus Security struggle to keep them out.
 
-### (F8) University Cubes
-Cheap rooms for university students on a budget.
+- **Philharmonic Vampyres**
+- **Princesses of Justice**
 
-### (F9) Yewtree
-A neo-hipster bar working in collusion with NCU Security to keep students quiet while drinking in the district.
+## Notable Residents
+
+- **Hiroki Nishioka** — NCU Faculty
+- **Scarlet Harris** — Student/Resident
+- **Shoko Asagari** — Former resident
+
+## In Popular Culture
+
+In 2045, a notorious case of kidnappings in the district caused the campus police and the NCPD to investigate the missing women's whereabouts. The case involved a former NCU Professor known as Professor Huntver, who was found at Union Chapel. Student Lucy Rhinemeyer was rescued—the sole survivor.
+
+---
+
+*Sources: Cyberpunk RED Core Rulebook (2020), Night City 2045 Atlas (2025)*

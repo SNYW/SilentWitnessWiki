@@ -1,4 +1,6 @@
 # MELEE COMBAT AND BRAWLING
+**Tags:** Core-Rules, Melee-Combat, Brawling, The-Time-of-the-Red, Game-Mechanics
+
 
 > Synthesized from: *Fitted for the Future* (pp. 93, 137-138), *Friday Night Firefight* (pp. 175-180)
 

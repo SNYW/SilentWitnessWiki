@@ -1,4 +1,6 @@
 # Quick Reference Index
+**Tags:** Core-Rules, Quick-Reference, The-Time-of-the-Red, Game-Mechanics
+
 
 A cross-reference guide to all rules files in this collection. Use this to quickly find where a specific mechanic, table, or topic is documented.
 

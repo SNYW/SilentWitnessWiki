@@ -4,6 +4,13 @@
 
 ## Entries Added by Researcher
 
+### 2026-02-25 - Locations - RED Era Districts
+- Added University District - Rebuilding urban zone in central Night City during Time of the Red, containing Night City University and facing South Night City Combat Zone
+- Added Union Chapel - Abandoned church in South Night City Combat Zone, notorious lair of Lord Ruthven in 2045
+
+### 2026-02-25 - Organizations - RED Era Gangs
+- Added Philharmonic Vampyres - Artsy prankster gang active in University District during Time of the Red, known for elaborate pranks and vampire-themed performances
+
 ### 2026-02-25 - Locations - Little China RED Era
 - Added Viktor's Clinic - Iconic ripperdoc clinic in Little China run by Viktor Vektor, serving edgerunners with quality cyberware installation at reasonable prices
 - Added Misty's Esoterica - Tarot and divination shop in Little China, known for accurate predictions and serving as neutral ground for edgerunners
