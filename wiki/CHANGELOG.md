@@ -2,7 +2,20 @@
 
 **Tags:** Wiki-Meta, Changelog
 
-## Entries Added by Researcher
+## Entries Added 2026-02-25
+
+### Session 4 + Night Market Teams
+- Added Session 4 session log: The Night Market
+- Added Tesla Tyrants organization (Night Market team, recording/stun tech)
+- Added Creeping Death organization (Night Market team, poison specialists)
+- Added The ModLits organization (Night Market team, drone/mine specialists)
+- Added AI.DS organization (Night Market team, bioweapons)
+- Added NPC: Volta (Tesla Tyrants leader)
+- Added NPC: Toxica (Creeping Death leader)
+- Added NPC: Pins (ModLits leader)
+- Added NPC: Patient Zero (AI.DS leader)
+
+### Organizations - Little China Redevelopment Association
 
 ### 2026-02-25 (Late) - Organizations - Little China Redevelopment Association
 - Added Little China Redevelopment Association (LCRA) - Community organization working to revitalize Little China Combat Zone during Time of the Red, known for Guăngbō Tower rehabilitation project
