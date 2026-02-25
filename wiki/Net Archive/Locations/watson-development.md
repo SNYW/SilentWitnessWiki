@@ -1,63 +1,56 @@
 # Watson Development
 
-**Tags:** District, Location, Watson
+**Tags:** Time-of-the-Red, Watson, Central-Night-City, Corporate-Zone, NCCS-Protected
 
-
-**District Code:** N  
-**Type:** Rebuilding Urban Zone  
-**Threat Rating:** Low to Medium
+**District Code:** U  
+**Type:** Corporate Development Zone  
+**Threat Rating:** Low-Medium
 
 ## Overview
 
-A developing district built up by the Night City Co-Prosperity Sphere (NCCS), an alliance of various corporations (primarily of Japanese origin). Last year, community organizer Lucius Rhyne led a district-wide labor strike, forcing the NCCS to organize a general election for City Manager. Rhyne won the resulting race handily.
+Watson Development is a thriving corporate zone in central Night City, situated along the western shore of Del Coronado Bay. Once a major commercial hub before the Fourth Corporate War, Watson experienced significant destruction during the Night City Holocaust but has since become one of the most successful reconstruction projects under the Night City Co-Prosperity Sphere (NCCS).
+
+By the 2040s, Watson Development had become a symbol of recovery, with gleaming corporate towers rising from the rubble, modern megabuildings housing thousands of residents, and a bustling economy driven by Japanese corporations operating under the NCCS banner.
 
 ## Government
 
-- **City Manager:** Lucius Rhyne (elected via general election)
-- **Security Provider:** NCPD
-- **Gangs Present:** Arzin Tynon, Dragula Racers, G3, Kanzaki Family, Tyger Claws, Wild Things
+- **City Manager:** Appointed by NCCS
+- **Security Provider:** Tyger Claws (Kimen-Gumi), NCPD
+- **Gangs Present:** Tyger Claws, minimal other gang presence
 
-## Locations
+## Notable Locations
 
-### (N1) City Police Precinct #3
-A large, well-armed police precinct. The egos of some cops here took a bruising when they were unable to break up the labor strike.
+### Megabuilding H8
+A newly constructed residential megabuilding part of NCCS reconstruction efforts. Houses working-class edgerunners and corporate employees.
 
-### (N2) HTown
-A tent city built outside the walls of a gated community. Tensions are high.
+### Megabuilding H10
+Another residential megabuilding in Watson, offering affordable housing in a relatively safe area.
 
-### (N3) Petrochem & SovOil Joint Temporary Housing Solution
-In a twist of irony, both Petrochem and SovOil provide employee housing in the same building. No one is happy about it.
+### Thehorn
+A popular edgerunner bar known for affordable drinks and a diverse clientele. Owned by Rosa "Mom" Chen.
 
-### (N4) Petrochem Offices
-The heavily defended headquarters of Petrochem in Night City. There's a small museum dedicated to the history of petroleum. Across the street from the SovOil Offices.
+### Trauma Team Tower
+Corporate medical headquarters serving Watson and surrounding areas. A symbol of NCCS investment in the district.
 
-### (N5) Red Oktober
-A Soviet-themed bar built into an old subway station.
+### Nakagawa Kabuki Theater
+The headquarters of the Tyger Claws gang, also serving as a cultural center for the Japanese community. Named after Shinobu Nakagawa.
 
-### (N6) Redline
-Home of the most thrilling bloodsport in Night City and the Wild Things, a gang dedicated to organized competitive violence.
+## Economy
 
-### (N7) Sakura's
-A Night City interpretation of an izakaya, an informal bar.
-
-### (N8) Smash/Cut
-An EDM club where the chromed up go to dance, do drugs, and have anonymous sex.
-
-### (N9) SovOil Offices
-Night City headquarters for SovOil. Completely off-limits to the public. Across the street from the Petrochem Offices.
-
-### (N10) Trauma Team Corporate Living Center
-Housing for Trauma Team employees.
-
-### (N11) Trauma Team Tower
-Night City headquarters for Trauma Team. Includes an AV repair bay and a hospital for the exclusive use of Executive-level clients.
-
-### (N12) Vargtimmen
-A neo-pagan mead bar. Famous for their solstice and equinox parties.
-
-### (N13) Watson Central Cubelife
-A bog standard cube hotel.
+Watson's economy is driven by:
+- NCCS corporate offices and investments
+- Security contracting (Kimen-Gumi)
+- Medical services (Trauma Team)
+- Residential housing for workers
+- Night markets and entertainment
 
 ## Notes
 
-Watson is the NCCS's pet project — a rebuild zone designed to become the new heart of Night City. Lucius Rhyne's election was a major upset against the corporate powers that be.
+Watson represents the success story of the RED era reconstruction. Unlike other parts of Night City that still struggle with the aftermath of the Fourth Corporate War, Watson has bounced back strongly due to heavy NCCS investment. The presence of the Tyger Claws as a guardian gang provides security, though some critics argue they extract heavy protection fees from local businesses.
+
+The district is popular with edgerunners seeking relatively housing with safe easy access to corporate work and the broader Night City economy.
+
+## Sources
+
+- Cyberpunk RED: The Time of the Red (R. Talsorian Games, 2020)
+- Cyberpunk RED Data Pack (2021)

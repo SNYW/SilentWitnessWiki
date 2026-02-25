@@ -207,6 +207,11 @@
               "path": "Net Archive/Locations/herschels-crematorium.md"
             },
             {
+              "name": "Heywood",
+              "type": "file",
+              "path": "Net Archive/Locations/heywood.md"
+            },
+            {
               "name": "Highcourt Plaza Hotel",
               "type": "file",
               "path": "Net Archive/Locations/highcourt-plaza-hotel.md"
@@ -285,6 +290,11 @@
               "name": "Rustys Dive Shack",
               "type": "file",
               "path": "Net Archive/Locations/rustys-dive-shack.md"
+            },
+            {
+              "name": "Santo Domingo",
+              "type": "file",
+              "path": "Net Archive/Locations/santo-domingo.md"
             },
             {
               "name": "Short Circuit",
@@ -380,6 +390,16 @@
               "name": "Vargtimmen",
               "type": "file",
               "path": "Net Archive/Locations/vargtimmen.md"
+            },
+            {
+              "name": "Watson Development",
+              "type": "file",
+              "path": "Net Archive/Locations/watson-development.md"
+            },
+            {
+              "name": "Westbrook",
+              "type": "file",
+              "path": "Net Archive/Locations/westbrook.md"
             },
             {
               "name": "Woodland Park",

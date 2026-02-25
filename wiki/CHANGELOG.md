@@ -4,6 +4,12 @@
 
 ## Entries Added by Researcher
 
+### 2026-02-25 - Locations - RED Era Districts
+- Added Watson Development - Corporate development zone in central Night City, NCCS reconstruction success story and home to Tyger Claws
+- Added Heywood - Corporate residential zone in southern Night City, home to Valentinos and 6th Street gangs
+- Added Westbrook - Executive residential zone in northern Night City, luxury district for wealthy elite
+- Added Santo Domingo - Industrial reclamation zone in eastern Night City, home to East Cargo Village nomad trading hub
+
 ### 2026-02-25 - Locations - Watson Development
 - Added Megabuilding H8 - Residential megabuilding in Watson Development, part of NCCS reconstruction efforts during RED era
 - Added Thehorn - Popular edgerunner bar in Watson Development, known for affordable drinks and owner Rosa "Mom" Chen

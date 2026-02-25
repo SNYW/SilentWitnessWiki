@@ -1,45 +1,61 @@
 # Santo Domingo
 
-**Tags:** Pacifica, District, Location, Heywood
+**Tags:** Time-of-the-Red, Santo-Domingo, Industrial-Zone, Reclamation-Zone
 
-
-**District Code:** V  
-**Type:** Overpacked Suburb  
-**Threat Rating:** Medium to High
+**District Code:** M  
+**Type:** Industrial Reclamation Zone  
+**Threat Rating:** Medium-High
 
 ## Overview
 
-South Heywood is better known by the locals as Santo Domingo. The nomad camp near the dam heavily influences the district, but the Aldecaldos power may be waning. Theresa Valentino, an independent candidate, recently won the election for City Manager thanks to backing from the El Norte cartel.
+Santo Domingo is Night City's industrial heart, located in the eastern portion of the metropolitan area. Once a bustling manufacturing and processing center, the district suffered heavily during the Fourth Corporate War but has become a hub for reconstruction, nomad trade, and salvage operations during the Time of the Red.
+
+By the 2040s, Santo Domingo had become essential to Night City's recovery. The district's warehouses, factories, and processing plants provide jobs and goods crucial to the city's reconstruction efforts. The East Cargo Village serves as a vital connection point for nomad families trading with the city.
 
 ## Government
 
-- **City Manager:** Theresa Valentino (elected by residents)
-- **Security Provider:** Aldecaldo Peacekeepers
-- **Gangs Present:** El Norte Cartel, Kill Krashers, Rat Kings, Steel Vaqueros
+- **City Manager:** Appointed by Night City Council
+- **Security Provider:** NCPD, various corporate security forces
+- **Gangs Present:** Maelstrom, Bozos, various smaller crews
 
-## Locations
+## Notable Locations
 
-### (V1) Aldecaldo Camp
-A large multi-cultural encampment sitting at the base of the Petrochem dam. While all nomads are welcome, the camp is primarily dominated by the Aldecaldos.
+### East Cargo Village
+A massive trading hub where nomad families bring goods into Night City. Essential for the city's supply chain and a key neutral ground for various factions.
 
-### (V2) City Police Precinct #2
-Large but overworked, the cops here rely heavily on drones to patrol their beats.
+### Reclamation Zone
+Areas being slowly rebuilt after war damage, featuring makeshift communities and salvage operations.
 
-### (V3) East Cargo Village
-A dusty cargo container community located near the edge of the city.
+### Industrial Complexes
+Manufacturing facilities, warehouses, and processing plants that drive Night City's industrial output.
 
-### (V4) Heywood Suites
-An apartment complex situated beneath one of the most heavily trafficked overpasses in Night City. Many residents have level-dampening cyberware installed.
+### Nomad Encampments
+Temporary camps where nomad families stay during trading expeditions.
 
-### (V5) María's
-A family-owned beer tent located just inside the city limits.
+## Economy
 
-### (V6) MetalStorm
-A seemingly indestructible bar located under the Pacifica Bridge. Popular with FBCs.
+Santo Domingo's economy includes:
+- Manufacturing and industrial production
+- Nomad trade and cargo services
+- Salvage operations
+- Warehouse storage
+- Reconstruction contracting
 
-### (V7) Woodchipper's Garage
-The home base of Woodchipper, the most influential nomad Fixer in Night City. She throws her famous Night Markets/ block parties in the cul-de-sac to the southwest.
+## Notable Gangs
+
+### Maelstrom
+A notorious gang controlling significant portions of Santo Domingo's industrial sector. Known for their extreme cyberpsycho tendencies and cyberware obsession.
+
+### Bozos
+A killer clown gang operating in the Combat Zones and industrial areas, known for their twisted "pranks" and psychological torture.
 
 ## Notes
 
-Santo Domingo is heavily influenced by the Aldecaldo nomads. Theresa Valentino's election with El Norte cartel backing represents shifting power dynamics in the district.
+Santo Domingo is the engine room of Night City's reconstruction. While dangerous due to the presence of gangs like Maelstrom, the district offers opportunities for those willing to take risks. The nomad trade through East Cargo Village is essential to keeping Night City supplied, making the district strategically important despite its problems.
+
+The Reclamation Zone represents both the destruction of the Fourth Corporate War and the ongoing efforts to rebuild. It's a harsh environment but one where determined workers can find employment and opportunity.
+
+## Sources
+
+- Cyberpunk RED: The Time of the Red (R. Talsorian Games, 2020)
+- Cyberpunk RED Data Pack (2021)
