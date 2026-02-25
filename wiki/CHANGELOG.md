@@ -4,6 +4,9 @@
 
 ## Entries Added by Researcher
 
+### 2026-02-25 (Late) - Organizations - Kang Tao
+- Added Kang Tao - Weapons manufacturer restructured in 2046, known for smart-gun technology, major player during RED era
+
 ### 2026-02-25 - Organizations - BioTechnica & Night Corp
 - Added BioTechnica - Megacorporation specializing in biotech, CHOOH2 fuel, and genetic engineering; operates in Night City during RED era
 - Added Night Corp - Development corporation handling public works and reconstruction in Night City during Time of the Red
@@ -36,7 +39,6 @@
 
 ### 2026-02-25 - Organizations - RED Era Corporations
 - Added Zetatech - Second-tier corporation specializing in cyberware, computers, and aviation, expanded significantly during Time of the Red
-- Added Kang Tao - Weapons manufacturer restructured in 2040s, known for smart-gun technology, major player during RED era
 - Added Tsunami Arms - Top-tier Japanese weapons manufacturer, known for railguns and custom weaponry, active during RED era
 
 ### 2026-02-25 - Locations - RED Era Districts

@@ -1,71 +1,50 @@
 # Kang Tao
 
-**Tags:** Corporation, Weapons, RED-Era, Night City
-
+**Tags:** Kang-Tao, Corporation, Weapons-Manufacturer, Megacorp, RED-Era, Chinese, Smart-Guns
 
 **Type:** Megacorporation  
-**Headquarters:** Originally Taiwan, restructured to China  
-**Industry:** Weapons Manufacturing, Military Technology, Security Services  
-**Founded:** Taiwan (early 2000s)  
+**Headquarters:** China (originally Taiwan)  
+**Founded:** 2000s (Taiwan)  
+**Restructured:** 2046 (moved to China)
 
 ## Overview
 
-Kang Tao is a weapons manufacturer that originated in Taiwan and was later restructured into a Chinese-based company. By the 2040s during the Time of the Red, Kang Tao had become one of the top-tier weapons manufacturers in the world, known for their innovative "smart-gun" technology and aggressive business practices.
+Kang Tao is a major weapons manufacturer that underwent a significant transformation during the Time of the Red. Originally a Taiwanese company that maintained independence from Japanese corporate interests, it was restructured in the 2040s into a Chinese-based corporation that rapidly became a top-tier weapons manufacturer.
 
 ## History
 
-### Taiwanese Origins (2000s-2040s)
+### Origins (2000s-2020s)
 
 Kang Tao was originally headquartered in Taiwan, which became a manufacturing haven in the late 2000s after declaring independence with help from Japan and Arasaka. Unlike other Taiwanese companies, Kang Tao maintained its independence by not selling out to Japanese business interests. The company manufactured weapons distributed throughout Asia, which eventually made their way to the United States.
 
 During the DataKrash, the CEO of Kang Tao at the time committed suicide.
 
-### Restructuring (2040s-2050s)
+### RED Era Restructuring (2040s)
 
-In the aftermath of the Fourth Corporate War, Asia was ravaged by war and unrest which left many countries crippled and deeply scarred. China was no exception as it recovered from internal turmoil.
+In the years after the Fourth Corporate War, Asia was ravaged by war and unrest. China, like many countries, was recovering from internal turmoil, but this period also presented opportunities. The restructuring of Kang Tao began in 2046 with the appointment of former army colonel Shiming Xu to manage what was considered an obsolete and collapsing corporation.
 
-The restructuring of Kang Tao began in 2046 with the appointment of former army colonel Shiming Xu to manage what was considered an obsolete and collapsing corporation kept afloat by government subsidies. After four years under Colonel Xu's direction, the modernized and debt-free firm officially debuted on the market in 2050 with their A-22B Chao "smart" pistol.
+After four years under Colonel Xu's direction, the modernized and debt-free company officially debuted on the market in 2050 with their A-22B Chao "smart" pistol. Thanks to the company's alleged government connections, Kang Tao invested heavily in modern research facilities and rapidly expanded into the "smart weapons" market.
 
-Thanks to the company's alleged government connections, Kang Tao invested heavily in modern research facilities, rapidly expanding the "smart weapons" market. Throughout the next 20 years, through new research facilities funded by the government, Kang Tao overcame its old rivals, coming out as a top-tier weapon manufacturer on par with Tsunami Arms and Arasaka.
+Throughout the 2050s and 2060s, Kang Tao overcame its old rivals through new research facilities funded by the Chinese government, emerging as a top-tier weapon manufacturer on par with Tsunami Arms and Arasaka.
+
+### 2077
+
+By 2077, Kang Tao had tripled its stock value since 2072, becoming a leading weapon exporter in Asia. The corporation is mainly known for its firearms, especially their "smart-guns" that employ gyrojet technology to fire caseless guided ammunition.
+
+## RED Era Operations (2045)
+
+In 2045, Kang Tao was in the midst of its rise to prominence following the restructuring. The corporation was expanding its presence in major cities and seeking to establish itself as a premier weapons manufacturer. During the Time of the Red, Kang Tao represented a new generation of Asian corporate power that was challenging the traditional Japanese megacorp dominance.
 
 ## Products
 
-### Smart Weapons
+- **A-22B Chao** — "Smart" pistol, the first major product after restructuring in 2050
+- **Smart Weapons** — Gyrojet-powered caseless guided ammunition systems
+- **Military-grade firearms** — Various weapons for military and paramilitary use
 
-Kang Tao is best known for their "smart-guns" - weapons that employ gyrojet technology to fire caseless guided ammunition. These weapons represent the cutting edge of firearms technology.
+## Night City Presence
 
-### Current Models
+During the RED era, Kang Tao was working to establish a foothold in Night City. By 2077, they had expressed interest in the Pacifica district, though no official deals were made. The corporation is considered one of the top four corporations to work for in Night City, offering Trauma Team Gold insurance but requiring a 50-year loyalty pledge.
 
-- **A-22B Chao** - The pistol that launched Kang Tao's modern era (2050)
-- Various smart weapon platforms
-- Gyrojet-guided ammunition systems
+## Notes
 
-### Security Services
-
-Kang Tao has also become an important player in the mercenary and security markets, providing both equipment and personnel to various clients.
-
-## RED Era Significance
-
-During the Time of the Red (late 2040s), Kang Tao was in the midst of their transformation from a struggling Taiwanese company to a global weapons powerhouse. The corporation's bold choices and government backing allowed them to rapidly expand during a period of global instability.
-
-By 2045, Kang Tao was establishing itself as a major competitor in the weapons manufacturing market, though they had not yet reached the peak influence they would achieve in the 2070s.
-
-## Presence in Night City
-
-Kang Tao exports weapons to Night City and other markets. Their products are popular among gangers and edgerunners who appreciate the reliable and inexpensive brand. The corporation has expressed interest in expanding their presence in Night City, particularly in the Pacifica district.
-
-## Corporate Culture
-
-Kang Tao's public relations have remained consistent since their restructuring in the 2050s. The corporation maintains close ties with the Chinese government, which has helped keep them out of legal trouble in most international dealings.
-
-However, relations with other corporations are often strained, as Kang Tao has made various efforts to steal from competitors through corporate espionage.
-
-## Employment
-
-Kang Tao is considered one of the top corporations to work for in Night City. The company provides employees with a Trauma Team Gold insurance package, though they require employees to sign a 50-year loyalty pledge.
-
-## Sources
-
-- Cyberpunk RED Core Rulebook (2020)
-- Cyberpunk 2077 World Bible
-- cyberpunk.fandom.com/wiki/Kang_Tao
+Kang Tao represents the rise of Chinese corporate power during the Time of the Red. Their aggressive expansion and government backing made them a major player in the weapons industry, challenging established Japanese corporations like Arasaka and Tsunami Arms.
