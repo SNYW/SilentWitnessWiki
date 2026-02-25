@@ -478,6 +478,11 @@
               "path": "Net Archive/Organizations/jodes.md"
             },
             {
+              "name": "Kang Tao",
+              "type": "file",
+              "path": "Net Archive/Organizations/kang-tao.md"
+            },
+            {
               "name": "Kimen Gumi",
               "type": "file",
               "path": "Net Archive/Organizations/kimen-gumi.md"
@@ -548,6 +553,11 @@
               "path": "Net Archive/Organizations/toecutters.md"
             },
             {
+              "name": "Tsunami Arms",
+              "type": "file",
+              "path": "Net Archive/Organizations/tsunami-arms.md"
+            },
+            {
               "name": "Tyger Claws",
               "type": "file",
               "path": "Net Archive/Organizations/tyger-claws.md"
@@ -561,6 +571,11 @@
               "name": "Wraiths",
               "type": "file",
               "path": "Net Archive/Organizations/wraiths.md"
+            },
+            {
+              "name": "Zetatech",
+              "type": "file",
+              "path": "Net Archive/Organizations/zetatech.md"
             },
             {
               "name": "Zoners",

@@ -4,6 +4,11 @@
 
 ## Entries Added by Researcher
 
+### 2026-02-25 - Organizations - RED Era Corporations
+- Added Zetatech - Second-tier corporation specializing in cyberware, computers, and aviation, expanded significantly during Time of the Red
+- Added Kang Tao - Weapons manufacturer restructured in 2040s, known for smart-gun technology, major player during RED era
+- Added Tsunami Arms - Top-tier Japanese weapons manufacturer, known for railguns and custom weaponry, active during RED era
+
 ### 2026-02-25 - Locations - RED Era Districts
 - Added Watson Development - Corporate development zone in central Night City, NCCS reconstruction success story and home to Tyger Claws
 - Added Heywood - Corporate residential zone in southern Night City, home to Valentinos and 6th Street gangs
