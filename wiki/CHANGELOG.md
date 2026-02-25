@@ -4,6 +4,10 @@
 
 ## Entries Added by Researcher
 
+### 2026-02-25 - Organizations - BioTechnica & Night Corp
+- Added BioTechnica - Megacorporation specializing in biotech, CHOOH2 fuel, and genetic engineering; operates in Night City during RED era
+- Added Night Corp - Development corporation handling public works and reconstruction in Night City during Time of the Red
+
 ### 2026-02-25 - Organizations - Orbital Air
 - Added Orbital Air - Megacorporation specializing in space transport, built NCX Spaceport in Night City during RED era
 
