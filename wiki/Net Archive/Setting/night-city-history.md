@@ -1,6 +1,6 @@
 # Night City History
 
-**Tags:** Time-of-the-Red, Lore
+**Tags:** The-Time-of-the-Red, Lore
 
 
 ## Overview

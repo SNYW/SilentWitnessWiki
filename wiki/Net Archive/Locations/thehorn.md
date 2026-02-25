@@ -1,6 +1,6 @@
 # Thehorn
 
-**Tags:** Watson, Bar, Night-City-Lore, Time-of-the-Red, Edgerunner-Hub
+**Tags:** Thehorn, Bar, Watson, Edgerunner-Hub, The-Time-of-the-Red
 
 
 **Type:** Bar and Lounge  

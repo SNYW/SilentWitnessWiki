@@ -182,6 +182,11 @@
               "path": "Net Archive/Locations/delirium.md"
             },
             {
+              "name": "Deravaja Dojo",
+              "type": "file",
+              "path": "Net Archive/Locations/deravaja-dojo.md"
+            },
+            {
               "name": "Executive Zone",
               "type": "file",
               "path": "Net Archive/Locations/executive-zone.md"
@@ -222,6 +227,11 @@
               "path": "Net Archive/Locations/jesse-james-kosher-deli.md"
             },
             {
+              "name": "Jig Jig Street",
+              "type": "file",
+              "path": "Net Archive/Locations/jig-jig-street.md"
+            },
+            {
               "name": "Kabuki",
               "type": "file",
               "path": "Net Archive/Locations/kabuki.md"
@@ -255,6 +265,11 @@
               "name": "Megabuilding H8",
               "type": "file",
               "path": "Net Archive/Locations/megabuilding-h8.md"
+            },
+            {
+              "name": "Mistys Esoterica",
+              "type": "file",
+              "path": "Net Archive/Locations/mistys-esoterica.md"
             },
             {
               "name": "Ncart",
@@ -405,6 +420,11 @@
               "name": "Vargtimmen",
               "type": "file",
               "path": "Net Archive/Locations/vargtimmen.md"
+            },
+            {
+              "name": "Viktors Clinic",
+              "type": "file",
+              "path": "Net Archive/Locations/viktors-clinic.md"
             },
             {
               "name": "Watson Development",

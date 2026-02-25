@@ -1,6 +1,6 @@
 # The Vultures
 
-**Tags:** Vultures, Boostergang, Scavenger-Gang, Crew-Allied, The-Precipice
+**Tags:** Vultures, Boostergang, Scavenger-Gang, Crew-Allied, The-Time-of-the-Red, The-Precipice
 
 ## Basic Info
 - **Name:** The Vultures

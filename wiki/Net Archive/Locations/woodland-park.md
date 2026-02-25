@@ -1,6 +1,6 @@
 # Woodland Park
 
-**Tags:** Badlands, Time-of-the-Red, Hotel, Hot-Zone, Heywood
+**Tags:** Woodland-Park, Hotel, Hot-Zone, Badlands, The-Time-of-the-Red, Heywood
 
 
 **Type:** Rebuilding Urban Neighborhood  

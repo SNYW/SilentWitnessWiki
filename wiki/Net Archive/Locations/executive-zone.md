@@ -1,6 +1,6 @@
 # Executive Zone
 
-**Tags:** Time-of-the-Red, Executive-Zone, Little-Europe, Charter-Hill, Watson, Club
+**Tags:** Executive-Zone, District, Little-Europe, Charter-Hill, The-Time-of-the-Red
 
 
 **Type:** Gated Community / Executive District  

@@ -1,6 +1,6 @@
 # Rusty's Dive Shack
 
-**Tags:** The-Time-of-the-Red, Port-of-Night-City, Dive-Bar, Restaurant, Threat-Medium
+**Tags:** Rustys-Dive-Shack, Dive-Bar, Port-of-Night-City, The-Time-of-the-Red, Threat-Medium
 
 
 **Type:** Bar / Dive Restaurant  

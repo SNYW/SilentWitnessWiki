@@ -1,6 +1,6 @@
 # Westbrook
 
-**Tags:** Time-of-the-Red, Westbrook, Executive-Zone, Luxury, North-Night-City
+**Tags:** Westbrook, District, Executive-Zone, Luxury, North-Night-City, The-Time-of-the-Red
 
 **District Code:** F  
 **Type:** Executive Residential Zone  

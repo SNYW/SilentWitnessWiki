@@ -1,6 +1,6 @@
 # Kabuki
 
-**Tags:** Kabuki, District, Night-City, Watson, Northside, RED-Era, Time-of-the-Red, Black-Market, Combat-Zone
+**Tags:** Kabuki, District, Night-City, Watson, Northside, The-Time-of-the-Red, Black-Market, Combat-Zone
 
 ## Overview
 

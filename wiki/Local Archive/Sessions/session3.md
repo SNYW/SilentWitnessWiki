@@ -1,6 +1,6 @@
 # Session 3: Awakening
 
-**Tags:** Session-Log, Session-3, Vultures-Arc, Bozos-Conflict, Mystery, The-Big-Top
+**Tags:** Session-Log, The-Time-of-the-Red, Session-3, Vultures-Arc, Bozos-Conflict, Mystery, The-Big-Top
 
 ## Overview
 

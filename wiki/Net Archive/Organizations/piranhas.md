@@ -1,6 +1,6 @@
 # Piranhas
 
-**Tags:** Piranhas, Time-of-the-Red, Gang,  Corporation
+**Tags:** Piranhas, Party-Gang, Crew-Neutral, The-Time-of-the-Red, Night-City, Mobile, Threat-Low-Medium
 
 
 **Type:** Party Gang

@@ -1,6 +1,6 @@
 # Toecutters
 
-**Tags:** Time-of-the-Red, Night-City, Gang,  Nomad
+**Tags:** Toecutters, Nomad-Pack, Raffen-Shiv, Crew-Hostile, The-Time-of-the-Red, Badlands, North-Heywood, Threat-High
 
 
 **Type:** Nomad Gang (Raffen Shiv)  

@@ -1,6 +1,6 @@
 # Reclaimed Perimeter
 
-**Tags:** Badlands, Time-of-the-Red
+**Tags:** Reclaimed-Perimeter, Badlands, The-Time-of-the-Red
 
 
 **Type:** Collection of Repopulated Settlements  

@@ -1,6 +1,6 @@
 # The Vultures Nest
 
-**Tags:** Night-City, The-Precipice, Vultures-Turf, Safehouse, Workshop, Ripperdoc, Crew-Allied
+**Tags:** Vultures-Nest, Safehouse, Workshop, The-Time-of-the-Red, The-Precipice, Vultures-Turf, Crew-Allied
 
 ## Overview
 

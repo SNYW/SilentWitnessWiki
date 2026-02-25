@@ -1,6 +1,6 @@
 # Trauma Team Tower
 
-**Tags:** Time-of-the-Red, Watson-Development, Corporate-Facility, Medical
+**Tags:** Trauma-Team-Tower, Corporate-Medical, Watson-Development, The-Time-of-the-Red
 
 **Type:** Corporate Medical Headquarters  
 **Area:** Watson Development  

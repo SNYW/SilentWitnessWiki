@@ -1,6 +1,6 @@
 # South Night City
 
-**Tags:** South-Night-City,  Combat-Zone, Threat-High, 6th-Street, Inquisitors, The-Muses, Toecutters, The-Time-of-the-Red, Gaven-Haakensen, Scythe-Security
+**Tags:** South-Night-City, District, Combat-Zone, The-Time-of-the-Red, Threat-High
 
 **District Code:** I  
 **Type:** Combat Zone  

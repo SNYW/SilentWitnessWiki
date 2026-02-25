@@ -1,6 +1,6 @@
 # The Randy Dandy
 
-**Tags:** Flotsam, Mobile-Bar, Nomad-Turf, Threat-Low, Sea-Nomads, The-Time-of-the-Red, Night-City-Harbor, Black-Market
+**Tags:** Randy-Dandy, Mobile-Bar, Flotsam, Nomad-Turf, Threat-Low, Sea-Nomads, The-Time-of-the-Red, Night-City-Harbor, Black-Market
 
 **Type:** Mobile Bar / Passenger Ferry  
 **Location:** Flotsam, Del Coronado Bay (off the coast of Night City)

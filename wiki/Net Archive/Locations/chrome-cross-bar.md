@@ -1,6 +1,6 @@
 # Chrome Cross Bar
 
-**Tags:** Time-of-the-Red, Bar, Little-China, Combat-Zone, Watson, Heywood
+**Tags:** Chrome-Cross-Bar, Bar, Little-China, Combat-Zone, The-Time-of-the-Red
 
 
 **Type:** Bar / Gang Headquarters  

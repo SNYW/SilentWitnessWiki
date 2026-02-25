@@ -1,6 +1,6 @@
 # Heywood
 
-**Tags:** Time-of-the-Red, Heywood, Corporate-Zone, South-Night-City
+**Tags:** Heywood, District, Corporate-Zone, South-Night-City, The-Time-of-the-Red, Threat-Medium
 
 **District Code:** J  
 **Type:** Corporate Residential Zone  

@@ -1,6 +1,6 @@
 # Vargtimmen
 
-**Tags:** Time-of-the-Red, Watson
+**Tags:** Vargtimmen, Watson, The-Time-of-the-Red
 
 
 **Type:** Neo-Pagan Mead Hall  

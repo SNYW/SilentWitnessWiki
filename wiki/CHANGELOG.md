@@ -4,6 +4,12 @@
 
 ## Entries Added by Researcher
 
+### 2026-02-25 - Locations - Little China RED Era
+- Added Viktor's Clinic - Iconic ripperdoc clinic in Little China run by Viktor Vektor, serving edgerunners with quality cyberware installation at reasonable prices
+- Added Misty's Esoterica - Tarot and divination shop in Little China, known for accurate predictions and serving as neutral ground for edgerunners
+- Added Deravaja Dojo - Martial arts training facility in Little China, offering combat training for edgerunners and bodyguards
+- Added Jig-Jig Street - Red light district in Watson controlled by Tyger Claws, featuring brothels, strip clubs, and adult entertainment venues
+
 ### 2026-02-25 - Locations - Kabuki
 - Added Kabuki - Black market district in Watson Development during Time of the Red, formerly Japanese medical center transformed into Night City's biggest illegal market
 

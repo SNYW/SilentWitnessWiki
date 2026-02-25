@@ -1,6 +1,6 @@
 # Megabuilding H8
 
-**Tags:** Watson, Megabuilding, Residential, Time-of-the-Red, Low-Threat
+**Tags:** Megabuilding-H8, Megabuilding, Residential, Watson, The-Time-of-the-Red, Threat-Low
 
 
 **Type:** Residential Megabuilding  

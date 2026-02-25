@@ -1,6 +1,6 @@
 # Totentanz
 
-**Tags:** Hot-Zone, The-Time-of-the-Red, Club, Maelstrom-Turf, Threat-Extreme
+**Tags:** Totentanz, Club, Hot-Zone, Watson, Maelstrom-Turf, The-Time-of-the-Red, Threat-Extreme
 
 
 **Type:** Ruined Club  

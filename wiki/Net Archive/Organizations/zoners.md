@@ -1,6 +1,6 @@
 # Zoners
 
-**Tags:** Time-of-the-Red, Night-City, Gang,  Corporation
+**Tags:** Zoners, Gang, Protest-Movement, Crew-Neutral, The-Time-of-the-Red, South-Night-City, The-Glen, Threat-Low-Medium
 
 
 **Type:** Gang / Protest Movement  

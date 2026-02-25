@@ -1,6 +1,6 @@
 # Badlands
 
-**Tags:** Badlands, Time-of-the-Red, Heywood
+**Tags:** Badlands, Region, The-Time-of-the-Red, Night-City-Surroundings
 
 
 **Type:** Wasteland Region  

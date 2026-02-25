@@ -1,6 +1,6 @@
 # Lucky Cat Stir Fry
 
-**Tags:** Restaurant, Budget-Eating, New-Westbrook, The-Time-of-the-Red, Threat-Low, Asian-Cuisine
+**Tags:** Lucky-Cat-Stir-Fry, Restaurant, Budget-Eating, New-Westbrook, The-Time-of-the-Red, Threat-Low, Asian-Cuisine
 
 
 **Type:** Budget Restaurant / Stir Fry House  

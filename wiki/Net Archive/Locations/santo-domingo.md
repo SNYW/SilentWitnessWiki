@@ -1,6 +1,6 @@
 # Santo Domingo
 
-**Tags:** Time-of-the-Red, Santo-Domingo, Industrial-Zone, Reclamation-Zone
+**Tags:** Santo-Domingo, District, Industrial-Zone, Reclamation-Zone, The-Time-of-the-Red
 
 **District Code:** M  
 **Type:** Industrial Reclamation Zone  

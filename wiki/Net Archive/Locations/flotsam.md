@@ -1,6 +1,6 @@
 # Flotsam
 
-**Tags:** South-Night-City,  Time-of-the-Red
+**Tags:** Flotsam, Drift-Town, Maritime-Community, South-Night-City, The-Time-of-the-Red, Night-City-Harbor
 
 
 **Type:** Drift Town / Maritime Community  

@@ -1,6 +1,6 @@
 # Old Japantown (RED Era)
 
-**Tags:** Old Japantown, Combat Zone, RED Era, Time of the Red, Central Night City, District
+**Tags:** Old-Japantown, Watson, Combat-Zone, District, The-Time-of-the-Red, Threat-Very-High, Central-Night-City
 **Territory:** Combat Zone / Lawless (RED Era, 2040s)  
 **Threat Rating:** Very High
 

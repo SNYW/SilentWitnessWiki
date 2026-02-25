@@ -1,6 +1,6 @@
 # Little China (RED Era)
 
-**Tags:** Little China, Combat Zone, RED Era, Time of the Red, Central Night City, District
+**Tags:** Little-China, Watson, Combat-Zone, District, The-Time-of-the-Red, Threat-Very-High, Central-Night-City
 **Territory:** Combat Zone / Lawless (RED Era, 2040s)  
 **Threat Rating:** Very High
 

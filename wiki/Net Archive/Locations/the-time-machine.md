@@ -1,6 +1,6 @@
 # The Time Machine
 
-**Tags:** Time-of-the-Red, Bar, Little-China, Watson
+**Tags:** The-Time-Machine, Bar, Little-China, Watson, The-Time-of-the-Red
 
 
 **Type:** Bar & Edgerunner Hangout  

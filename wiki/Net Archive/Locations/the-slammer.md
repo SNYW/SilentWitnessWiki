@@ -1,6 +1,6 @@
 # The Slammer
 
-**Tags:** Time-of-the-Red, Bar, South-Night-City, Combat-Zone, Hotel, Watson
+**Tags:** The-Slammer, Bar, Hotel, South-Night-City, Combat-Zone, The-Time-of-the-Red
 
 
 **Type:** Bar / Fighting Arena  

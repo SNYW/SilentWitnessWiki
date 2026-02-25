@@ -1,6 +1,6 @@
 # The Boneyard
 
-**Tags:** South-Night-City, Shanty-Town, Threat-Low, Sinful-Adams, Community, The-Time-of-the-Red, Safehouse, Night-City-Garden-of-Rest
+**Tags:** The-Boneyard, Shanty-Town, South-Night-City, The-Time-of-the-Red, Threat-Low, Safehouse
 
 **District:** South Night City  
 **Type:** Shanty-Town / Residential Area  

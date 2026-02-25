@@ -1,6 +1,6 @@
 # Highcourt Plaza Hotel
 
-**Tags:** Time-of-the-Red, Old-Japantown, Hotel,住宿
+**Tags:** Highcourt-Plaza-Hotel, Hotel, Old-Japantown, The-Time-of-the-Red
 
 **Type:** Hotel / Accommodation  
 **Area:** Old Japantown  

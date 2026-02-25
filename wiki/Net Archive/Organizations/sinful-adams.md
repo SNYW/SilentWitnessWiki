@@ -1,6 +1,6 @@
 # Sinful Adams
 
-**Tags:** Time-of-the-Red, Night-City, Gang,  Corporation
+**Tags:** Sinful-Adams, Gang, Community-Organization, Crew-Neutral, The-Time-of-the-Red, South-Night-City, The-Boneyard, Threat-Low-Medium
 
 
 **Type:** Gang / Community Organization  

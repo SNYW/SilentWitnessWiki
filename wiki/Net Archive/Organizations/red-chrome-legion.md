@@ -1,6 +1,6 @@
 # Red Chrome Legion
 
-**Tags:** Maelstrom, Time-of-the-Red, Gang
+**Tags:** Red-Chrome-Legion, Boostergang, Posergang, Crew-Hostile, The-Time-of-the-Red, Old-Japantown, Little-China, Threat-High
 
 
 **Type:** Boostergang / Posergang  
