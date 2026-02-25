@@ -101,6 +101,82 @@
           ]
         },
         {
+          "name": "Rules",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Agent Reference",
+              "type": "file",
+              "path": "Local Archive/Rules/agent-reference.md"
+            },
+            {
+              "name": "Character Creation And Lifepath",
+              "type": "file",
+              "path": "Local Archive/Rules/character-creation-and-lifepath.md"
+            },
+            {
+              "name": "Core Resolution And Skills",
+              "type": "file",
+              "path": "Local Archive/Rules/core-resolution-and-skills.md"
+            },
+            {
+              "name": "Cyberware",
+              "type": "file",
+              "path": "Local Archive/Rules/cyberware.md"
+            },
+            {
+              "name": "Damage And Healing",
+              "type": "file",
+              "path": "Local Archive/Rules/damage-and-healing.md"
+            },
+            {
+              "name": "Gear And Economy",
+              "type": "file",
+              "path": "Local Archive/Rules/gear-and-economy.md"
+            },
+            {
+              "name": "Gm Tools And Encounters",
+              "type": "file",
+              "path": "Local Archive/Rules/gm-tools-and-encounters.md"
+            },
+            {
+              "name": "Improvement Points",
+              "type": "file",
+              "path": "Local Archive/Rules/improvement-points.md"
+            },
+            {
+              "name": "Melee And Brawling",
+              "type": "file",
+              "path": "Local Archive/Rules/melee-and-brawling.md"
+            },
+            {
+              "name": "Netrunning",
+              "type": "file",
+              "path": "Local Archive/Rules/netrunning.md"
+            },
+            {
+              "name": "Quick Reference Index",
+              "type": "file",
+              "path": "Local Archive/Rules/quick-reference-index.md"
+            },
+            {
+              "name": "Ranged Combat",
+              "type": "file",
+              "path": "Local Archive/Rules/ranged-combat.md"
+            },
+            {
+              "name": "Roles And Abilities",
+              "type": "file",
+              "path": "Local Archive/Rules/roles-and-abilities.md"
+            },
+            {
+              "name": "Vehicles And Chases",
+              "type": "file",
+              "path": "Local Archive/Rules/vehicles-and-chases.md"
+            }
+          ]
+        },
+        {
           "name": "Sessions",
           "type": "folder",
           "children": [
