@@ -1,6 +1,6 @@
 # Iron Sights
 
-**Tags:** Time-of-the-Red, Gang, Organization, Maelstrom, Corporation
+**Tags:** Time-of-the-Red, Gang,  Maelstrom, 
 
 
 **Type:** Boostergang / Combat Gang  

@@ -1,6 +1,6 @@
 # Night City Wonderland League
 
-**Tags:** Time-of-the-Red, Night-City, Organization, Nomad, Corporation
+**Tags:** Time-of-the-Red, Night-City,  Nomad, 
 
 
 **Type:** Sports League / Organization

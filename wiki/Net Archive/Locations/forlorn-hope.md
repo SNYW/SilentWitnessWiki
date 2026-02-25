@@ -1,6 +1,6 @@
 # Forlorn Hope
 
-**Tags:** Time-of-the-Red, Location, Bar, Heywood
+**Tags:** Time-of-the-Red, Bar, Heywood
 
 
 **Type:** Bar / Edgerunner Hangout  

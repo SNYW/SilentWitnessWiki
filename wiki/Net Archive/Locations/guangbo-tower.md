@@ -1,6 +1,6 @@
 # Guăngbō Tower
 
-**Tags:** Time-of-the-Red, District, Location, Little-China
+**Tags:** The-Time-of-the-Red, Little-China, Commercial-Tower, Rehabilitation-Project, Threat-Medium
 
 
 **Type:** Rehabilitation Project / Commercial Tower  

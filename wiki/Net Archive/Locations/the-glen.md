@@ -1,6 +1,6 @@
 # The Glen
 
-**Tags:** District, Time-of-the-Red, South-Night-City, Combat-Zone, University-District, The-Glen, Location, Heywood
+**Tags:** Time-of-the-Red, South-Night-City, Combat-Zone, University-The-Glen, Heywood
 
 
 **District Code:** GL  
@@ -18,7 +18,7 @@ The Glen is a newly developed government district in central Night City, created
 
 During the rebuilding period of Night City, around a decade after the Fourth Corporate War, the Night City Council struck a deal with corporations to aid and fund the city's reconstruction. This project included The Glen, which was designed as the new seat of government power.
 
-The Glen's boundaries incorporated areas from South Night City, the University District, and Little Asia. Over the following years, significant money was poured into the district, with massive construction efforts.
+The Glen's boundaries incorporated areas from South Night City, the University and Little Asia. Over the following years, significant money was poured into the district, with massive construction efforts.
 
 By the 2040s, the new City Hall and Hall of Justice were already open to the public. The Glen became a burgeoning district containing most of Night City's governmental buildings, as well as corporate and financial facilities.
 

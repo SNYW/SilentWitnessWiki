@@ -1,6 +1,6 @@
 # Pacifica (Pacifica Playground)
 
-**Tags:** District, Time-of-the-Red, Combat-Zone, Pacifica, Location
+**Tags:** Time-of-the-Red, Combat-Zone, Pacifica
 
 
 **District Code:** W  

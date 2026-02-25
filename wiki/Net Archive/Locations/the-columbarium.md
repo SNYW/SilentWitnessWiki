@@ -1,6 +1,6 @@
 # The Columbarium
 
-**Tags:** South-Night-City, District, Location, Time-of-the-Red
+**Tags:** South-Night-City,  Time-of-the-Red
 
 
 **Type:** Necropolis/Burial Site  

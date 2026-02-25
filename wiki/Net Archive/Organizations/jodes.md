@@ -1,6 +1,6 @@
 # The Jodes
 
-**Tags:** Organization, Time-of-the-Red, Nomad, Aldecaldos
+**Tags:** Time-of-the-Red, Nomad, Aldecaldos
 
 
 **Type:** Nomad Clan / Family  

@@ -1,6 +1,6 @@
 # Short Circuit
 
-**Tags:** District, Bar, Little-Europe, Hot-Zone, Location
+**Tags:** Bar, Little-Europe, Hot-Zone
 
 
 **Type:** Bar / Techie Hangout

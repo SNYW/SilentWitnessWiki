@@ -1,6 +1,6 @@
 # Badlands
 
-**Tags:** Badlands, Location, Time-of-the-Red, Heywood
+**Tags:** Badlands, Time-of-the-Red, Heywood
 
 
 **Type:** Wasteland Region  

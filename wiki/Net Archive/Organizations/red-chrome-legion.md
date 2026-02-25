@@ -1,6 +1,6 @@
 # Red Chrome Legion
 
-**Tags:** Organization, Maelstrom, Time-of-the-Red, Gang
+**Tags:** Maelstrom, Time-of-the-Red, Gang
 
 
 **Type:** Boostergang / Posergang  

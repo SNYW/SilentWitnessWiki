@@ -1,6 +1,6 @@
 # Digital Divas
 
-**Tags:** Organization, Time-of-the-Red, Militech
+**Tags:** Time-of-the-Red, Militech
 
 
 **Type:** Electric Punk Band  

@@ -1,6 +1,6 @@
 # 6th Street
 
-**Tags:** Time-of-the-Red, Gang, Organization, Nomad, 6th-Street, Corporation
+**Tags:** Time-of-the-Red, Gang,  Nomad, 6th-Street, 
 
 
 **Type:** Gang / Militant Organization  

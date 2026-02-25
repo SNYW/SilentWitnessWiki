@@ -1,6 +1,6 @@
 # Vargtimmen
 
-**Tags:** District, Location, Time-of-the-Red, Watson
+**Tags:** Time-of-the-Red, Watson
 
 
 **Type:** Neo-Pagan Mead Hall  

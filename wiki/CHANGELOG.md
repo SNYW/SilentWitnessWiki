@@ -4,6 +4,9 @@
 
 ## Entries Added by Researcher
 
+### 2026-02-25 - Organizations - Militech International Armaments
+- Added Militech International Armaments - Major megacorp specializing in weapons manufacturing and military contracting, rival of Arasaka, active during Time of the Red
+
 ### 2026-02-24 - Organizations - Arasaka Corporation
 - Added Arasaka Corporation - Major megacorp with history in Night City, operating through NCCS and Tyger Claws proxies during RED era
 

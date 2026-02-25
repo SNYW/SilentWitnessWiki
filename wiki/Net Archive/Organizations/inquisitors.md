@@ -1,6 +1,6 @@
 # Inquisitors
 
-**Tags:** Time-of-the-Red, Gang, Organization, Maelstrom, Corporation
+**Tags:** Time-of-the-Red, Gang,  Maelstrom, 
 
 
 **Type:** Cult Gang / Anti-Cyberware Extremists  

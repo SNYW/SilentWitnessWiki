@@ -1,6 +1,6 @@
 # Afterlife
 
-**Tags:** District, Time-of-the-Red, Bar, Little-China, Watson, Location, Club
+**Tags:** Little-China, Watson, Edgerunner-Hub, Fixer-Contact, Mercenary-Bar, The-Time-of-the-Red, Rogue-Amendiares, Threat-Low
 
 
 **Type:** Club/Bar  

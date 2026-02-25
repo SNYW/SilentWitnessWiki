@@ -1,6 +1,6 @@
 # Burleson Tower
 
-**Tags:** District, Time-of-the-Red, Hotel, Hot-Zone, Location, Club
+**Tags:** The-Time-of-the-Red, Hotel, Hot-Zone, Maelstrom-Turf, Club, Threat-High
 
 
 **Type:** Ruined Hotel / Maelstrom Base  

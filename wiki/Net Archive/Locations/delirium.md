@@ -1,6 +1,7 @@
 # Delirium
 
-**Tags:** Location, Club, Virtuality-Club, Downtown, NightCity, The-Island, Time-of-the-Red, Goth, Punk, Alternate-Lifestyle
+**Tags:** Virtuality-Club, Downtown, The-Island, The-Time-of-the-Red, Goth, Punk, Alternate-Lifestyle, Threat-Medium
+
 
 **Type:** Virtuality Club  
 **District:** Downtown (The Island)  

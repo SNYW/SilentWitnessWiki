@@ -1,6 +1,6 @@
 # Shroomers
 
-**Tags:** Organization, Time-of-the-Red, Night-City, Corporation
+**Tags:** Time-of-the-Red, Night-City, 
 
 
 **Type:** Reclaimer Group  

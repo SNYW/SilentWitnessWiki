@@ -1,6 +1,6 @@
 # Wraiths
 
-**Tags:** Time-of-the-Red, Gang, Organization, Maelstrom, Nomad, Corporation
+**Tags:** Time-of-the-Red, Gang,  Maelstrom, Nomad, 
 
 
 **Type:** Nomad Gang / Raffen Shiv  

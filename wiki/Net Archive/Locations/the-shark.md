@@ -1,6 +1,6 @@
 # The Shark
 
-**Tags:** Time-of-the-Red, Location, Heywood
+**Tags:** Time-of-the-Red, Heywood
 
 
 **Type:** Apartment Complex  

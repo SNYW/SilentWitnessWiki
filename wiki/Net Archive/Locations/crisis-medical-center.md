@@ -1,6 +1,6 @@
 # Crisis Medical Center
 
-**Tags:** Time-of-the-Red, Old-Japantown, Location, Medical-Facility
+**Tags:** Time-of-the-Red, Old-Japantown, Medical-Facility
 
 **Type:** Medical Clinic / Emergency Facility  
 **Area:** Old Japantown  

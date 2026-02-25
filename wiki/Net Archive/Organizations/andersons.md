@@ -1,6 +1,6 @@
 # The Andersons
 
-**Tags:** Organization, Time-of-the-Red, Gang, Piranhas
+**Tags:** Time-of-the-Red, Gang, Piranhas
 
 
 **Type:** Yogang (Youth Gang)  

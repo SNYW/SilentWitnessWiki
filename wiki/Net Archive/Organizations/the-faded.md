@@ -1,6 +1,6 @@
 # The Faded
 
-**Tags:** Time-of-the-Red, Gang, Organization, Iron-Sights, Corporation
+**Tags:** Time-of-the-Red, Gang,  Iron-Sights, 
 
 
 **Type:** Gang / Edgerunner Collective

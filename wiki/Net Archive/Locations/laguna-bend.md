@@ -1,6 +1,6 @@
 # Laguna Bend
 
-**Tags:** Badlands, Location, Time-of-the-Red
+**Tags:** Badlands, Time-of-the-Red
 
 
 **Location Type:** Former Lake/Refugee Settlement

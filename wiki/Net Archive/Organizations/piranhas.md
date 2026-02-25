@@ -1,6 +1,6 @@
 # Piranhas
 
-**Tags:** Piranhas, Time-of-the-Red, Gang, Organization, Corporation
+**Tags:** Piranhas, Time-of-the-Red, Gang,  Corporation
 
 
 **Type:** Party Gang

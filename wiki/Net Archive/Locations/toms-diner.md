@@ -1,6 +1,6 @@
 # Tom's Diner
 
-**Tags:** Time-of-the-Red, Little-China, Watson, Location, Restaurant
+**Tags:** Time-of-the-Red, Little-China, Watson, Restaurant
 
 
 **Type:** Restaurant  

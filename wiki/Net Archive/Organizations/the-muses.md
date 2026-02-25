@@ -1,6 +1,6 @@
 # The Muses
 
-**Tags:** Organization, Time-of-the-Red, Night-City
+**Tags:** Posergang, The-Time-of-the-Red, North-Heywood, Woodland-Park, Night-City-Wonderland-League, Threat-Low-Medium
 
 
 **Type:** Posergang  

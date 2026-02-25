@@ -1,6 +1,6 @@
 # Toggle's Temple
 
-**Tags:** Hot-Zone, Time-of-the-Red, Location, Little-Europe
+**Tags:** Hot-Zone, Time-of-the-Red, Little-Europe
 
 
 **Type:** Underground Armory & Fire Range  

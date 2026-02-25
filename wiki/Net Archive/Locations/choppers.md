@@ -1,6 +1,6 @@
 # Chopper's
 
-**Tags:** Time-of-the-Red, District, Location, Bar
+**Tags:** Time-of-the-Red,  Bar
 
 
 **Type:** Bar / Survival Spot  

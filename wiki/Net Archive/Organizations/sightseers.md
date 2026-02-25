@@ -1,6 +1,6 @@
 # Sightseers
 
-**Tags:** Organization, Time-of-the-Red, Aldecaldos
+**Tags:** Time-of-the-Red, Aldecaldos
 
 
 A nomad pack of the Aldecaldos family, introduced in Cyberpunk RED.

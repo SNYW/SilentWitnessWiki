@@ -1,6 +1,7 @@
 # Herschel's Crematorium
 
-**Tags:** Time-of-the-Red, Reclamation-Zone, Location, Service
+**Tags:** The-Time-of-the-Red, Reclamation-Zone, Funeral-Home, Service, Threat-Low
+
 
 **Type:** Funeral Home / Cremation Services  
 **Area:** Reclamation Zone  

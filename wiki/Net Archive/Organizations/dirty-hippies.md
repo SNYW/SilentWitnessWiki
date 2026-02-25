@@ -1,6 +1,6 @@
 # The Dirty Hippies
 
-**Tags:** Time-of-the-Red, Night-City, Gang, Organization, Nomad, Corporation
+**Tags:** Time-of-the-Red, Night-City, Gang,  Nomad, 
 
 
 **Type:** Gang / Reclaimer Group  

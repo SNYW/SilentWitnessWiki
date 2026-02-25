@@ -1,6 +1,6 @@
 # MaxTac
 
-**Tags:** Organization, Maelstrom, Time-of-the-Red, Corporation
+**Tags:** Maelstrom, Time-of-the-Red, 
 
 
 **Type:** NCPD Special Forces / Cyberpsycho Suppression Unit  

@@ -1,6 +1,7 @@
 # Pol-Bud Cement Factory
 
-**Tags:** Location, Industrial-Ruin, Badlands, Scavenger-Haven, Threat-High, Fourth-Corporate-War, Abandoned, Time-of-the-Red
+**Tags:** Industrial-Ruin, Badlands, Scavenger-Haven, Threat-High, Fourth-Corporate-War, Abandoned, The-Time-of-the-Red
+
 
 **Location Type:** Industrial Ruin/Scrap Yard
 

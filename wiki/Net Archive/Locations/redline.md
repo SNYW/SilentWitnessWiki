@@ -1,6 +1,6 @@
 # The Redline
 
-**Tags:** District, Time-of-the-Red, Bar, Watson, Location
+**Tags:** Time-of-the-Red, Bar, Watson
 
 
 **Type:** Bar / Fighting Arena  

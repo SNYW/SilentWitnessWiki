@@ -1,6 +1,6 @@
 # Toecutters
 
-**Tags:** Time-of-the-Red, Night-City, Gang, Organization, Nomad
+**Tags:** Time-of-the-Red, Night-City, Gang,  Nomad
 
 
 **Type:** Nomad Gang (Raffen Shiv)  

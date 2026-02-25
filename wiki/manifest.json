@@ -458,6 +458,11 @@
               "path": "Net Archive/Organizations/max-tac.md"
             },
             {
+              "name": "Militech",
+              "type": "file",
+              "path": "Net Archive/Organizations/militech.md"
+            },
+            {
               "name": "Night City Gangs",
               "type": "file",
               "path": "Net Archive/Organizations/night-city-gangs.md"

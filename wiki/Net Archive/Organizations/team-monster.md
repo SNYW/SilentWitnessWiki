@@ -1,6 +1,6 @@
 # Team Monster
 
-**Tags:** Organization, Time-of-the-Red, Arasaka
+**Tags:** Time-of-the-Red, Arasaka
 
 
 **Type:** Edgerunner Mercenary Crew  

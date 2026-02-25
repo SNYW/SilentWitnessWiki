@@ -1,6 +1,6 @@
 # Sparrow
 
-**Tags:** NPC, Vultures, Runner, Messenger, Status-Alive, The-Precipice, Night-City
+**Tags:** NPC, Vultures, Runner, Messenger, Status-Alive, The-Precipice
 
 ## Basic Info
 - **Name:** Sparrow

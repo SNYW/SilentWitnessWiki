@@ -1,6 +1,6 @@
 # Sinful Adams
 
-**Tags:** Time-of-the-Red, Night-City, Gang, Organization, Corporation
+**Tags:** Time-of-the-Red, Night-City, Gang,  Corporation
 
 
 **Type:** Gang / Community Organization  

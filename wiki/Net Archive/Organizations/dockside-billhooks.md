@@ -1,6 +1,6 @@
 # Dockside Billhooks
 
-**Tags:** Organization, Night-City, Time-of-the-Red, Gang
+**Tags:** Night-City, Time-of-the-Red, Gang
 
 
 ## Overview

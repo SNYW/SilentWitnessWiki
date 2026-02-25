@@ -1,6 +1,6 @@
 # The Precipice
 
-**Tags:** District, Time-of-the-Red, Hotel, Medical-Facility, Hot-Zone, Location
+**Tags:** Time-of-the-Red, Hotel, Medical-Facility, Hot-Zone
 
 
 ## Basic Info

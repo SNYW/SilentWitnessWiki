@@ -1,6 +1,6 @@
 # Jesse James' Kosher Deli
 
-**Tags:** District, Time-of-the-Red, Combat-Zone, Location, Restaurant, Club
+**Tags:** Time-of-the-Red, Combat-Zone, Restaurant, Club
 
 
 **Type:** Restaurant / Survival Spot  

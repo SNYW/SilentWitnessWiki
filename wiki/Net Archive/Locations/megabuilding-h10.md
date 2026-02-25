@@ -1,6 +1,6 @@
 # Megabuilding H10
 
-**Tags:** District, Location, Time-of-the-Red, Watson
+**Tags:** Time-of-the-Red, Watson
 
 
 **District:** Watson Development  

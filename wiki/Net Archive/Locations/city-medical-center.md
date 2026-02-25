@@ -1,6 +1,6 @@
 # City Medical Center
 
-**Tags:** District, Location, Time-of-the-Red, Medical-Facility
+**Tags:** Time-of-the-Red, Medical-Facility
 
 
 **Type:** Hospital / Medical Facility  
