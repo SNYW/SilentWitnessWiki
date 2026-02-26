@@ -1,6 +1,5 @@
 # Time of the Red
 
-**Tags:** The-Time-of-the-Red, Lore
 
 
 ## Overview

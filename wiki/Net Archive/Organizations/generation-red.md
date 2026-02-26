@@ -1,6 +1,5 @@
 # Generation Red
 
-**Tags:** Yogang, Youth-Gang, The-Time-of-the-Red, Old-Combat-Zone, Danger-Gal-Sponsored, Threat-Medium
 
 
 A-Med yogang (youth gang) created during the Time of the Red, operating in Night City's Old Combat Zone.

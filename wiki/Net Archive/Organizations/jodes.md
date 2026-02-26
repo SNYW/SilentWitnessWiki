@@ -1,6 +1,5 @@
 # The Jodes
 
-**Tags:** Jodes, Nomad-Pack, Nomad-Clan, Crew-Neutral, The-Time-of-the-Red, Badlands, Night-City-Outskirts, Seven-Nations
 
 
 **Type:** Nomad Clan / Family  

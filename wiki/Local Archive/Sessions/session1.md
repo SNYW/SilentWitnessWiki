@@ -1,6 +1,5 @@
 # Session 1: The Transformer Job
 
-**Tags:** Session-Log, The-Time-of-the-Red, Session-1, Vultures-Arc, Bozos-Conflict, Combat-Encounter
 
 ## Background
 

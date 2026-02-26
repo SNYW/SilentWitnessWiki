@@ -1,6 +1,5 @@
 # Dockside Billhooks
 
-**Tags:** Dockside-Billhooks, Sports-Team, Roller-Derby, Night-City-Wonderland-League, Crew-Neutral, The-Time-of-the-Red, Night-City
 
 
 ## Overview

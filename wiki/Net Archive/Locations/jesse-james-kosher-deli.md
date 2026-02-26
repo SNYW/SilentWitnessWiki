@@ -1,6 +1,5 @@
 # Jesse James' Kosher Deli
 
-**Tags:** Jesse-James-Kosher-Deli, Restaurant, Survival-Spot, Combat-Zone, The-Time-of-the-Red, Threat-High
 
 
 **Type:** Restaurant / Survival Spot  

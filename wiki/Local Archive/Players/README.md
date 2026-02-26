@@ -1,6 +1,5 @@
 # Characters
 
-**Tags:** Wiki-Meta, Player-Characters, NPCs
 
 ## Player Characters
 | Name | Role | Background | Notes |

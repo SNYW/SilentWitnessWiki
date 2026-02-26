@@ -1,6 +1,5 @@
 # Delirium
 
-**Tags:** Delirium, Virtuality-Club, Downtown, The-Island, The-Time-of-the-Red, Goth, Punk, Alternate-Lifestyle, Threat-Medium
 
 
 **Type:** Virtuality Club  

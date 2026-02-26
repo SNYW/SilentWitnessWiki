@@ -1,6 +1,5 @@
 # Deravaja Dojo
 
-**Tags:** Deravaja-Dojo, Dojo, Martial-Arts, Training-Facility, Little-China, Watson, The-Time-of-the-Red, Threat-Medium
 
 **Type:** Martial Arts Dojo  
 **District:** Little China, Watson  

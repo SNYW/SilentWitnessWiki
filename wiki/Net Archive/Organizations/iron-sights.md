@@ -1,7 +1,6 @@
 # Iron Sights
 
 
-**Tags:** Iron-Sights, Gang, Defunct, Crew-Former, The-Time-of-the-Red, Night-City, Historical
 **Territory:** Old Combat Zone, Old Japantown, Little China (RED Era)  
 **Threat Rating:** High
 

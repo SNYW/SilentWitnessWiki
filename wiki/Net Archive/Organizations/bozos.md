@@ -1,6 +1,5 @@
 # Bozos
 
-**Tags:** Bozos, The-Time-of-the-Red, Gang, Combat-Zone
 
 **Type:** Posergang / Boostergang  
 **Territory:** Old Japantown, South Night City (RED Era)  

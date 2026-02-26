@@ -1,6 +1,5 @@
 # Regional Airport
 
-**Tags:** Regional-Airport, Airport, Badlands, Transportation-Hub, The-Time-of-the-Red, Threat-Medium, Waystation, Nomad
 
 
 **Location Type:** Abandoned Airport/Temporary Landing Zone

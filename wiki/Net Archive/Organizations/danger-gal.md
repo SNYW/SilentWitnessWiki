@@ -1,6 +1,5 @@
 # Danger Gal
 
-**Tags:** Danger-Gal, Security-Corp, Crew-Allied, The-Time-of-the-Red, Night-City, Anti-Arasaka, Arasaka-Opposition
 
 **Type:** Private Investigation, Bodyguard, and Security Corporation  
 **Headquarters:** Night City  

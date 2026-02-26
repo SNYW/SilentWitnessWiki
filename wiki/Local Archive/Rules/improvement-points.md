@@ -1,5 +1,4 @@
 # Improvement Points
-**Tags:** Core-Rules, Improvement-Points, Character-Progression, The-Time-of-the-Red, Game-Mechanics
 
 
 ---

@@ -1,6 +1,5 @@
 # The Redline
 
-**Tags:** Redline, Bar, Fighting-Arena, Watson, The-Time-of-the-Red, Threat-Medium
 
 
 **Type:** Bar / Fighting Arena  

@@ -1,6 +1,5 @@
 # CORE RESOLUTION AND SKILLS
 
-**Tags:** Core-Rules, Character-Statistics, Skills, The-Time-of-the-Red, Game-Mechanics
 
 > Synthesized from: *Fitted for the Future* (pp. 72-91), *Getting It Done* (pp. 125-166), *Running Cyberpunk* (pp. 408-412)
 

@@ -1,6 +1,5 @@
 # Militech International Armaments
 
-**Tags:** Militech, Megacorp, Crew-Hostile, The-Time-of-the-Red, Night-City, NUSA, Military
 
 **Type:** Megacorporation  
 **Headquarters:** Chicago, NUSA (formerly Arlington, Virginia)  

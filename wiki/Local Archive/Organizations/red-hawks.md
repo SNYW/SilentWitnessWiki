@@ -1,6 +1,5 @@
 # Red Hawks
 
-**Tags:** Red-Hawks, Nomad-Pack, Nomad-Clan, Gunslinger-Family, Crew-Allied, The-Time-of-the-Red, Badlands
 
 ## Basic Info
 - **Name:** Red Hawks

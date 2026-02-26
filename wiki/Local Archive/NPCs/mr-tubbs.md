@@ -1,6 +1,5 @@
 # Mr Tubbs
 
-**Tags:** NPC, Bozos, Gang-Leader, Status-Flatlined, Boostergang, Combat-Zone
 
 ## Basic Info
 - **Name:** Mr Tubbs

@@ -1,6 +1,5 @@
 # Team Monster
 
-**Tags:** Team-Monster, Mercenary-Crew, Ex-Arasaka, Crew-Neutral, The-Time-of-the-Red, Night-City, Forlorn-Hope, Threat-High
 
 
 **Type:** Edgerunner Mercenary Crew  

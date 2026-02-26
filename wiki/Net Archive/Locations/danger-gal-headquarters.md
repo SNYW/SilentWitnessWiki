@@ -1,6 +1,5 @@
 # Danger Gal Headquarters
 
-**Tags:** Danger-Gal-Headquarters, Corporate-Headquarters, Little-Europe, Danger-Gal, The-Time-of-the-Red, Threat-Low, Corporate-Security
 
 
 **Type:** Corporate Headquarters  

@@ -1,6 +1,5 @@
 # Bozos
 
-**Tags:** Bozos, Boostergang, Crew-Hostile, The-Time-of-the-Red, Combat-Zone, Night-City, The-Big-Top
 
 **Type:** Boostergang / Prankster Gang  
 **Territory:** Various districts across Night City (Little Europe, South Night City, formerly West Hill)  

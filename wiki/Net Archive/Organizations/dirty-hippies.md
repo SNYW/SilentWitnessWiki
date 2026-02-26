@@ -1,7 +1,6 @@
 # The Dirty Hippies
 
 
-**Tags:** Dirty-Hippies, Gang, Eco-Terrorist, Crew-Neutral, The-Time-of-the-Red, Night-City, Threat-Medium
 **Home Territory:** Rancho Coronado (District)  
 **Threat Rating:** Low-Medium
 

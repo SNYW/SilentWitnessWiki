@@ -1,5 +1,4 @@
 # Gear, Economy, and Lifestyle
-**Tags:** Core-Rules, Gear, Economy, Lifestyle, The-Time-of-the-Red, Game-Mechanics
 
 
 ---

@@ -1,6 +1,5 @@
 # Short Circuit
 
-**Tags:** Short-Circuit, Bar, Little-Europe, Hot-Zone, The-Time-of-the-Red
 
 
 **Type:** Bar / Techie Hangout

@@ -1,6 +1,5 @@
 # Night Market
 
-**Tags:** Night-Market, Black-Market, Fixer-Hub, The-Time-of-the-Red, Nomad-Trade, Concept, Reference, Cyberware, Contraband
 
 **Type:** Semi-illegal temporary market
 **Era:** Time of the Red (Cyberpunk RED - 2045)

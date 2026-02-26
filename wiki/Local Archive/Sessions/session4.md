@@ -1,6 +1,5 @@
 # Session 4: Pop goes the David
 
-**Tags:** Session-Log, The-Time-of-the-Red, Session-4, Night-Market-Arc, Bloam-Reveal, Tesla-Tyrants-Encounter
 
 ## TL;DR
 

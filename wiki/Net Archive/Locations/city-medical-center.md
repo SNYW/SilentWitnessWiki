@@ -1,6 +1,5 @@
 # City Medical Center
 
-**Tags:** City-Medical-Center, Medical-Facility, The-Time-of-the-Red
 
 
 **Type:** Hospital / Medical Facility  

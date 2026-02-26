@@ -1,6 +1,5 @@
 # Little China Redevelopment Association (LCRA)
 
-**Tags:** Little-China-Redevelopment-Association, LCRA, Organization, Community-Group, The-Time-of-the-Red, Rebuilding-Effort
 
 **Type:** Community Redevelopment Organization  
 **District:** Little China (Combat Zone)  

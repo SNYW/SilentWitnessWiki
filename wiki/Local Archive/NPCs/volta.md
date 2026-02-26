@@ -1,6 +1,5 @@
 # Volta
 
-**Tags:** Volta, Tesla-Tyrants, Night-Market, NPC, Leader
 
 ## Basic Info
 - **Name:** Volta

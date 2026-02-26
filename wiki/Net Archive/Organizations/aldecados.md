@@ -1,6 +1,5 @@
 # Aldecaldos
 
-**Tags:** Aldecaldos, Nomad-Pack, Crew-Neutral, The-Time-of-the-Red, Badlands, Nomad-Family
 
 **Type:** Nomad Family / Nomad Nation  
 **Territory:** Badlands, Night City Outskirts  

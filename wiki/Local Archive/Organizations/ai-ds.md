@@ -1,6 +1,5 @@
 # AI.DS (All Idiots Die Someday)
 
-**Tags:** AI-DS, Night-Market-Team, Bio-Weapons, Disease-Delivery, Cures, Crew-Hostile
 
 ## Basic Info
 - **Name:** AI.DS (All Idiots Die Someday)

@@ -1,6 +1,5 @@
 # Laguna Bend
 
-**Tags:** Laguna-Bend, Badlands, Abandoned- settlement, The-Time-of-the-Red
 
 
 **Location Type:** Former Lake/Refugee Settlement

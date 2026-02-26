@@ -1,6 +1,5 @@
 # Bloam
 
-**Tags:** Bloam, Mystery-Girl, Herald, Glow-Eyed-Queen, NPC, Vultures-Allied
 
 ## Basic Info
 

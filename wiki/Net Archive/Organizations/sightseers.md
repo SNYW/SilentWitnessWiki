@@ -1,6 +1,5 @@
 # Sightseers
 
-**Tags:** Sightseers, Nomad-Pack, Aldecaldos-Subgroup, Crew-Neutral, The-Time-of-the-Red, Badlands, Nomad-Family
 
 
 A nomad pack of the Aldecaldos family, introduced in Cyberpunk RED.

@@ -1,6 +1,5 @@
 # Night Corp
 
-**Tags:** Night-Corp, Corporation, Megacorp, Development, Public-Works, Night-City, The-Time-of-the-Red
 
 **Type:** Development Corporation / Public Works Contractor  
 **Headquarters:** Night City (City Center / The Glen)  

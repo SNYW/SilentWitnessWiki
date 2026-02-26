@@ -1,6 +1,5 @@
 # Mr Giggles
 
-**Tags:** NPC, Bozos, Lieutenant, Second-In-Command, Status-Alive, Boostergang, Combat-Zone, Crew-Hostile
 
 ## Basic Info
 - **Name:** Mr Giggles

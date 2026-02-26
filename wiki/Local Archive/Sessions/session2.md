@@ -1,6 +1,5 @@
 # Session 2: The Vault
 
-**Tags:** Session-Log, The-Time-of-the-Red, Session-2, Vault-Arc, Bozos-Conflict, Cryo-Zombie, Mystery
 
 ## Overview
 

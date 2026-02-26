@@ -1,6 +1,5 @@
 # Toxica
 
-**Tags:** Toxica, Creeping-Death, Night-Market, NPC, Leader
 
 ## Basic Info
 - **Name:** Toxica

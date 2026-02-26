@@ -1,6 +1,5 @@
 # Patient Zero
 
-**Tags:** Patient-Zero, AI-DS, Night-Market, NPC, Leader
 
 ## Basic Info
 - **Name:** Patient Zero

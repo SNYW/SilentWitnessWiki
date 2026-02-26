@@ -1,6 +1,5 @@
 # Thehorn
 
-**Tags:** Thehorn, Bar, Watson, Edgerunner-Hub, The-Time-of-the-Red
 
 
 **Type:** Bar and Lounge  

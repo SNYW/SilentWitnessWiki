@@ -1,6 +1,5 @@
 # The Glen
 
-**Tags:** The-Glen, District, Combat-Zone, South-Night-City, The-Time-of-the-Red, University-The-Glen
 
 
 **District Code:** GL  

@@ -1,6 +1,5 @@
 # Orbital Air
 
-**Tags:** Orbital-Air, Megacorp, Space-Transport, Neutral-Faction, Nairobi, Time-of-the-Red, Night-City, NCX-Spaceport
 
 **Type:** Megacorporation (Space Transport)
 **Headquarters:** Nairobi, Kenya

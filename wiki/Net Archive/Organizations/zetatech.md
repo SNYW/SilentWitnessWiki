@@ -1,6 +1,5 @@
 # Zetatech
 
-**Tags:** Zetatech, Second-Tier-Corp, Tech-Corp, Cyberware, Crew-Neutral, The-Time-of-the-Red, Night-City, Watson
 
 
 **Type:** Second-Tier Corporation  

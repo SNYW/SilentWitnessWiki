@@ -1,7 +1,6 @@
 # Wraiths
 
 
-**Tags:** Wraiths, Nomad-Pack, Boostergang, Crew-Neutral, The-Time-of-the-Red, Nomad-Turf, Badlands, Threat-High
 **Territory:** Badlands surrounding Night City  
 **Threat Rating:** High
 

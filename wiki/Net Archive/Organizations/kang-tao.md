@@ -1,6 +1,5 @@
 # Kang Tao
 
-**Tags:** Kang-Tao, Corporation, Weapons-Manufacturer, Megacorp, RED-Era, Chinese, Smart-Guns
 
 **Type:** Megacorporation  
 **Headquarters:** China (originally Taiwan)  

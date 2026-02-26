@@ -1,6 +1,5 @@
 # Character Creation and Lifepath
 
-**Tags:** Core-Rules, Character-Creation, Lifepath, The-Time-of-the-Red, Game-Mechanics
 
 ---
 

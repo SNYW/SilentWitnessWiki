@@ -1,6 +1,5 @@
 # Valentinos
 
-**Tags:** Valentinos, Organized-Crime, Crew-Neutral, The-Time-of-the-Red, Heywood, The-Glen, Vista-del-Rey, Threat-Medium
 
 **Type:** Gang / Organized Crime Family  
 **Primary Territory:** Heywood (The Glen, Vista del Rey, Wellsprings)  

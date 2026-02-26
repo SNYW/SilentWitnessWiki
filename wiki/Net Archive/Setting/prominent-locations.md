@@ -1,6 +1,5 @@
 # Notable RED Era Locations
 
-**Tags:** The-Time-of-the-Red, Lore
 
 
 ## Overview

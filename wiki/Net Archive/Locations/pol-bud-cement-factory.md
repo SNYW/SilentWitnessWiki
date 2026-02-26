@@ -1,6 +1,5 @@
 # Pol-Bud Cement Factory
 
-**Tags:** Pol-Bud-Cement-Factory, Industrial-Ruin, Badlands, Scavenger-Haven, The-Time-of-the-Red, Threat-High
 
 
 **Location Type:** Industrial Ruin/Scrap Yard

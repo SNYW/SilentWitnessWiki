@@ -1,6 +1,5 @@
 # South Night City
 
-**Tags:** South-Night-City, District, Combat-Zone, The-Time-of-the-Red, Threat-High
 
 **District Code:** I  
 **Type:** Combat Zone  

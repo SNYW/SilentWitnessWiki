@@ -1,6 +1,5 @@
 # Philharmonic Vampyres
 
-**Tags:** Philharmonic-Vampyres, Artsy-Prankster-Gang, University-District, The-Time-of-the-Red, Threat-Low, Crew-Neutral, Night-City-Gang
 
 **Type:** Artsy Prankster Gang  
 **Territory:** University District (RED Era)  

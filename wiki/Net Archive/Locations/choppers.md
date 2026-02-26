@@ -1,6 +1,5 @@
 # Chopper's
 
-**Tags:** Choppers, Bar, The-Time-of-the-Red
 
 
 **Type:** Bar / Survival Spot  

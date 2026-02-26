@@ -1,6 +1,5 @@
 # The Boneyard
 
-**Tags:** The-Boneyard, Shanty-Town, South-Night-City, The-Time-of-the-Red, Threat-Low, Safehouse
 
 **District:** South Night City  
 **Type:** Shanty-Town / Residential Area  

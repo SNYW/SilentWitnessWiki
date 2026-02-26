@@ -1,6 +1,5 @@
 # Digital Divas
 
-**Tags:** Digital-Divas, Band, Electric-Punk, Entertainment, Crew-Neutral, The-Time-of-the-Red, Night-City
 
 
 **Type:** Electric Punk Band  

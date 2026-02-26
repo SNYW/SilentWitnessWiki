@@ -1,6 +1,5 @@
 # Tesla Tyrants
 
-**Tags:** Tesla-Tyrants, Night-Market-Team, Tech-Gang, Recording-Equipment, Stun-Weaponry, Crew-Hostile
 
 ## Basic Info
 - **Name:** Tesla Tyrants

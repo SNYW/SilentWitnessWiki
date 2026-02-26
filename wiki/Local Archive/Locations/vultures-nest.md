@@ -1,6 +1,5 @@
 # The Vultures Nest
 
-**Tags:** Vultures-Nest, Safehouse, Workshop, The-Time-of-the-Red, The-Precipice, Vultures-Turf, Crew-Allied
 
 ## Overview
 

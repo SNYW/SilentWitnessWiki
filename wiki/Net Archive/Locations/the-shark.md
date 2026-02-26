@@ -1,6 +1,5 @@
 # The Shark
 
-**Tags:** The-Shark, Bar, Heywood, The-Time-of-the-Red
 
 
 **Type:** Apartment Complex  

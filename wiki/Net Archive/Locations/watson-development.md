@@ -1,6 +1,5 @@
 # Watson Development
 
-**Tags:** The-Time-of-the-Red, Watson, Central-Night-City, Corporate-Zone, NCCS-Protected
 
 **District Code:** U  
 **Type:** Corporate Development Zone  

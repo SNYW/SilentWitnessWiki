@@ -1,7 +1,6 @@
 # Kimen-Gumi
 
 
-**Tags:** Kimen-Gumi, Tyger-Claws-Subgroup, Guardian-Gang, Public-Security, Crew-Neutral, The-Time-of-the-Red, Kabuki, Old-Japantown, Corporate-Zone
 A public security subgroup of the Tyger Claws, established during the Time of the Red.
 
 ## Overview

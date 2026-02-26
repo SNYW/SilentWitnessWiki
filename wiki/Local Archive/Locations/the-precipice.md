@@ -1,6 +1,5 @@
 # The Precipice
 
-**Tags:** The-Precipice, Old-Japantown, Combat-Zone, The-Time-of-the-Red, Threat-High, Ripperdoc, Vultures-Turf
 
 ## Basic Info
 - **Type:** Cargo container community

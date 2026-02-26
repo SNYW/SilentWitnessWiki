@@ -1,6 +1,5 @@
 # Burleson Tower
 
-**Tags:** Burleson-Tower, Hotel, Hot-Zone, Watson, Maelstrom-Turf, The-Time-of-the-Red, Threat-High
 
 
 **Type:** Ruined Hotel / Maelstrom Base  

@@ -1,6 +1,5 @@
 # The Big Top
 
-**Tags:** Bozos, Gang-HQ, Combat-Zone, Threat-High, The-Time-of-the-Red, South-Night-City, Clown-Aesthetic
 
 ## Overview
 

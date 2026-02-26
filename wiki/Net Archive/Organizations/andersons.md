@@ -1,6 +1,5 @@
 # The Andersons
 
-**Tags:** Andersons, Yogang, Youth-Gang, Crew-Neutral, The-Time-of-the-Red, Old-Combat-Zone, Night-City, Threat-Low
 
 
 **Type:** Yogang (Youth Gang)  

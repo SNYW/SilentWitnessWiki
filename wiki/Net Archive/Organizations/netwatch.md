@@ -1,6 +1,5 @@
 # NetWatch
 
-**Tags:** NetWatch, Law-Enforcement, Net-Policing, Global-Agency, The-Time-of-the-Red
 
 **Type:** International Net Policing Organization  
 **Headquarters:** London, England  

@@ -1,6 +1,5 @@
 # Changelog
 
-**Tags:** Wiki-Meta, Changelog
 
 ## Entries Added 2026-02-26
 

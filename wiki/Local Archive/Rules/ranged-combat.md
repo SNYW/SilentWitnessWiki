@@ -1,5 +1,4 @@
 # RANGED COMBAT
-**Tags:** Core-Rules, Ranged-Combat, Weapons, The-Time-of-the-Red, Game-Mechanics
 
 
 > Synthesized from: *Fitted for the Future* (pp. 91-97), *Friday Night Firefight* (pp. 167-175, 182-186), *Putting the Cyber into the Punk* (pp. 107-120)

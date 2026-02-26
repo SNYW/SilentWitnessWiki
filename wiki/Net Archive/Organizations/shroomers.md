@@ -1,7 +1,6 @@
 # Shroomers
 
 
-**Tags:** Shroomers, Gang, Bio-Terrorist, Drug-Gang, Crew-Neutral, The-Time-of-the-Red, Night-City, Threat-Medium
 **Territory:** Disconnected NCART Track (Underground)  
 **Threat Rating:** Low
 

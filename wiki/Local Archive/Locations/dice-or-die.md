@@ -1,6 +1,5 @@
 # Dice or Die
 
-**Tags:** Dice-or-Die, Casino, Safehouse, Dive-Bar, The-Time-of-the-Red, The-Precipice, Threat-High
 
 ## Overview
 

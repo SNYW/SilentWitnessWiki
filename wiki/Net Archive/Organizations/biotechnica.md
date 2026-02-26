@@ -1,6 +1,5 @@
 # BioTechnica
 
-**Tags:** BioTechnica, Corporation, Megacorp, Biotech, Night-City, The-Time-of-the-Red
 
 **Type:** Megacorporation  
 **Headquarters:** Global (has facilities in Night City)  

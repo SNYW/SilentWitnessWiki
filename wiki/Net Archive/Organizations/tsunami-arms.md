@@ -1,6 +1,5 @@
 # Tsunami Arms
 
-**Tags:** Tsunami-Arms, Megacorp, Weapons-Manufacturer, Crew-Neutral, The-Time-of-the-Red, Night-City, Japanese-Corp
 
 
 **Type:** Megacorporation (Top-Tier Weapons Manufacturer)  

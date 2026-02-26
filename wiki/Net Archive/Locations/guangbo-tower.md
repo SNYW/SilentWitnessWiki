@@ -1,6 +1,5 @@
 # Guăngbō Tower
 
-**Tags:** Guangbo-Tower, Commercial-Tower, Little-China, The-Time-of-the-Red, Threat-Medium
 
 
 **Type:** Rehabilitation Project / Commercial Tower  

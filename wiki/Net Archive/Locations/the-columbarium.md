@@ -1,6 +1,5 @@
 # The Columbarium
 
-**Tags:** The-Columbarium, Necropolis, Burial-Site, South-Night-City, The-Time-of-the-Red, Threat-Low
 
 
 **Type:** Necropolis/Burial Site  

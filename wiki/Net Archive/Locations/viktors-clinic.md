@@ -1,6 +1,5 @@
 # Viktor's Clinic
 
-**Tags:** Viktor's-Clinic, Ripperdoc, Medical-Facility, Little-China, Watson, The-Time-of-the-Red, Threat-Low
 
 **Type:** Ripperdoc Clinic  
 **District:** Little China, Watson  

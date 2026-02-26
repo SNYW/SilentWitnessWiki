@@ -1,6 +1,5 @@
 # The Signboards
 
-**Tags:** The-Signboards, Badlands, The-Time-of-the-Red
 
 
 **Location Type:** Waystation/Trading Post

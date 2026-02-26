@@ -1,6 +1,5 @@
 # Maelstrom
 
-**Tags:** Maelstrom, Boostergang, Crew-Hostile, The-Time-of-the-Red, Watson, Combat-Zone, Burleson-Tower, Threat-High
 
 **Type:** Combat Gang / Boostergang  
 **Territory:** Watson Development (formerly Hot Zone / Burleson Tower)  

@@ -1,6 +1,5 @@
 # The Lair
 
-**Tags:** The-Lair, Residential, South-Night-City, The-Time-of-the-Red, Threat-Medium
 
 **District:** South Night City  
 **Type:** Private Residence/Former Adult Entertainment Venue  

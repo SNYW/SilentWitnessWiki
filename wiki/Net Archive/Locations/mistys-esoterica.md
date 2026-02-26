@@ -1,6 +1,5 @@
 # Misty's Esoterica
 
-**Tags:** Misty's-Esoterica, Tarot, Divination, Shop, Little-China, Watson, The-Time-of-the-Red, Threat-Low
 
 **Type:** Tarot and Divination Shop  
 **District:** Little China, Watson  

@@ -1,6 +1,5 @@
 # Ashcroft Hotel
 
-**Tags:** Ashcroft-Hotel, Hotel, Hot-Zone, The-Time-of-the-Red
 
 
 **Type:** Ruined Hotel / Former Luxury Establishment  

@@ -1,6 +1,5 @@
 # The Precipice
 
-**Tags:** The-Precipice, Hotel, Medical-Facility, Hot-Zone, The-Time-of-the-Red
 
 
 ## Basic Info

@@ -1,6 +1,5 @@
 # Pins
 
-**Tags:** Pins, The-ModLits, Night-Market, NPC, Leader
 
 ## Basic Info
 - **Name:** Pins

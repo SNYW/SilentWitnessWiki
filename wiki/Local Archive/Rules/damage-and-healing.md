@@ -1,5 +1,4 @@
 # DAMAGE AND HEALING
-**Tags:** Core-Rules, Damage, Healing, The-Time-of-the-Red, Game-Mechanics
 
 
 > Synthesized from: *Friday Night Firefight* (pp. 180-194), *Trauma Team* (pp. 219-231)

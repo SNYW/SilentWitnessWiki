@@ -1,6 +1,5 @@
 # Jig-Jig Street
 
-**Tags:** Jig-Jig-Street, Red-Light-District, Nightlife, Watson, The-Time-of-the-Red, Threat-Medium
 
 **Type:** Red Light District / Entertainment Zone  
 **District:** Watson, Northside  

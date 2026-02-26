@@ -1,6 +1,5 @@
 # NPCs
 
-**Tags:** Wiki-Meta, NPCs
 
 ## Fixers
 | Name | Reputation | Specialty | Contact |

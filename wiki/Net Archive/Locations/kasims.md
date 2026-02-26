@@ -1,6 +1,5 @@
 # Kasim's
 
-**Tags:** Kasims, Bar, The-Glen, Heywood, The-Time-of-the-Red
 
 
 **Type:** Turkish Coffeehouse and Bar  

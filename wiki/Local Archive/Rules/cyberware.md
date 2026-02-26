@@ -1,5 +1,4 @@
 # CYBERWARE
-**Tags:** Core-Rules, Cyberware, The-Time-of-the-Red, Game-Mechanics
 
 
 > Synthesized from: *Putting the Cyber into the Punk* (pp. 107-120)

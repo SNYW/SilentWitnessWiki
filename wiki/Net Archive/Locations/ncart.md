@@ -1,6 +1,5 @@
 # Night City Area Rapid Transit (NCART)
 
-**Tags:** NCART, Transportation, Public-Transit, The-Time-of-the-Red, Night-City-wide
 
 
 **Type:** Public Transportation System  

@@ -1,6 +1,5 @@
 # Afterlife
 
-**Tags:** Little-China, Watson, Edgerunner-Hub, Fixer-Contact, Mercenary-Bar, The-Time-of-the-Red, Rogue-Amendiares, Threat-Low
 
 
 **Type:** Club/Bar  

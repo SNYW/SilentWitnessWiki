@@ -1,6 +1,5 @@
 # Magpie
 
-**Tags:** Player-Character, Vultures, Techie, Scav, Status-Alive, The-Precipice
 
 ## Basic Info
 - **Name:** Jolo Barbossa

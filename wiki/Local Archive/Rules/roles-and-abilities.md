@@ -1,5 +1,4 @@
 # ROLES AND ABILITIES
-**Tags:** Core-Rules, Roles, Abilities, The-Time-of-the-Red, Game-Mechanics
 
 
 > Synthesized from: *Getting It Done* (pp. 143-166)

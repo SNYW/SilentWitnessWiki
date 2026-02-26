@@ -1,6 +1,5 @@
 # Creeping Death
 
-**Tags:** Creeping-Death, Night-Market-Team, Poison-Gang, Toxic-Weapons, Crew-Hostile
 
 ## Basic Info
 - **Name:** Creeping Death

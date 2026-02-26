@@ -1,6 +1,5 @@
 # Raptor
 
-**Tags:** NPC, Vultures, Gang-Leader, Status-Alive-Injured, The-Precipice
 
 ## Basic Info
 - **Name:** Raptor

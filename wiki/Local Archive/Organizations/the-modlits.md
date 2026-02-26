@@ -1,6 +1,5 @@
 # The ModLits
 
-**Tags:** ModLits, Night-Market-Team, Remote-Weaponry, Drones, Mines, Crew-Hostile
 
 ## Basic Info
 - **Name:** The ModLits

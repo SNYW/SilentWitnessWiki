@@ -1,6 +1,5 @@
 # Herschel's Crematorium
 
-**Tags:** Herschels-Crematorium, Reclamation-Zone, Funeral-Home, The-Time-of-the-Red, Threat-Low
 
 
 **Type:** Funeral Home / Cremation Services  
