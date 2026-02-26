@@ -1,6 +1,6 @@
 # Thehorn
 
-
+**Tags:** Thehorn, Watson, Dive-Bar, Night-City-Co-Prosperity-Sphere, Threat-Low, Fixer-Hub
 
 **Type:** Bar and Lounge  
 **District:** Watson Development  

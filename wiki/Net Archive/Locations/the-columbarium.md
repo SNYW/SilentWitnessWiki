@@ -1,6 +1,6 @@
 # The Columbarium
 
-
+**Tags:** The-Columbarium, South-Night-City, The-Island, Necropolis, Tombstone-Preservers, Threat-Low
 
 **Type:** Necropolis/Burial Site  
 **District:** The Island (South Night City)  
@@ -25,8 +25,8 @@ Founded in the early 2040s during the Time of the Red, the Columbarium was estab
 
 ## Notable Features
 
-- The main building features Gothic architecture with modern security
-- Laser grids and thermal sensors protect the perimeter
+- The main building features Gothic architecture with Laser grids and thermal modern security
+- sensors protect the perimeter
 - Private viewing chambers for family members
 - A registry office for tracking the deceased
 

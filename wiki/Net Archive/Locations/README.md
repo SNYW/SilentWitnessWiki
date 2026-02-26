@@ -1,5 +1,6 @@
 # Locations
 
+**Tags:** Reference, Locations
 
 ## Night City Areas
 | Location | District | Type | Notes |

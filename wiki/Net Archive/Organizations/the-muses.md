@@ -1,6 +1,6 @@
 # The Muses
 
-
+**Tags:** The-Muses, Posergang, Heywood, Woodland-Park, Night-City-Wonderland-League, Threat-Low-Medium
 
 **Type:** Posergang  
 **District:** North Heywood (Woodland Park)  

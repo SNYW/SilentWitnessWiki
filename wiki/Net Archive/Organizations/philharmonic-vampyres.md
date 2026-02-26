@@ -1,5 +1,6 @@
 # Philharmonic Vampyres
 
+**Tags:** Philharmonic-Vampyres, Gang, University-District, Threat-Low, Threat-Medium
 
 **Type:** Artsy Prankster Gang  
 **Territory:** University District (RED Era)  

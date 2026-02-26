@@ -253,6 +253,11 @@
           "type": "folder",
           "children": [
             {
+              "name": "944 Ncu Radio",
+              "type": "file",
+              "path": "Net Archive/Locations/944-ncu-radio.md"
+            },
+            {
               "name": "Afterlife",
               "type": "file",
               "path": "Net Archive/Locations/afterlife.md"
@@ -662,6 +667,11 @@
               "name": "Kimen Gumi",
               "type": "file",
               "path": "Net Archive/Organizations/kimen-gumi.md"
+            },
+            {
+              "name": "Kiroshi",
+              "type": "file",
+              "path": "Net Archive/Organizations/kiroshi.md"
             },
             {
               "name": "Little China Redevelopment Association",

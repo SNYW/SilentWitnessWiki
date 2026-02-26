@@ -1,6 +1,6 @@
 # Woodland Park
 
-
+**Tags:** Woodland-Park, Heywood, North-Heywood, Rebuilding-Neighborhood, The-Muses, Threat-Low-Medium
 
 **Type:** Rebuilding Urban Neighborhood  
 **Area:** North Heywood, Heywood  

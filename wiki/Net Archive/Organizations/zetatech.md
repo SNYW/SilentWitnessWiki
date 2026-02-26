@@ -1,6 +1,6 @@
 # Zetatech
 
-
+**Tags:** Zetatech, Corporate
 
 **Type:** Second-Tier Corporation  
 **Headquarters:** Zetatech Building, Berkeley Avenue, Night City  

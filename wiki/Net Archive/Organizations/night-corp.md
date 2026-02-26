@@ -1,5 +1,6 @@
 # Night Corp
 
+**Tags:** Night-Corp, Corporate, The-Glen, Development
 
 **Type:** Development Corporation / Public Works Contractor  
 **Headquarters:** Night City (City Center / The Glen)  

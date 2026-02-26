@@ -1,5 +1,6 @@
 # Union Chapel
 
+**Tags:** South-Night-City, Combat-Zone, Threat-Extreme, Location
 
 **Type:** Abandoned Church/Combat Zone Location  
 **Area:** South Night City (The Island)  

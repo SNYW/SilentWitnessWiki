@@ -1,5 +1,6 @@
 # University District
 
+**Tags:** University-District, District, Reclamation-Zone, Threat-Medium, Threat-High
 
 **Type:** Rebuilding Urban Zone  
 **Area:** The Island  

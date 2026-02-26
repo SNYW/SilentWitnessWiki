@@ -1,6 +1,6 @@
 # Toecutters
 
-
+**Tags:** Toecutters, Nomads, Badlands, Heywood, Threat-High
 
 **Type:** Nomad Gang (Raffen Shiv)  
 **Territory:** Badlands, Eastern edges of Night City, North Heywood  

@@ -1,5 +1,6 @@
 # The Big Top
 
+**Tags:** The-Big-Top, Bozos, Gang-HQ, Combat-Zone, Threat-High
 
 ## Overview
 

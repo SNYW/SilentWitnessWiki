@@ -1,6 +1,6 @@
 # Totentanz
 
-
+**Tags:** Club, Hot-Zone, Nightlife, Threat-Extreme, Combat-Zone
 
 **Type:** Ruined Club  
 **Area:** Hot Zone (Central The Island)  

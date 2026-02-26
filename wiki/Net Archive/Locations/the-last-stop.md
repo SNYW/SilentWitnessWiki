@@ -1,5 +1,6 @@
 # The Last Stop
 
+**Tags:** Bar, Watson, Little-China, Threat-Low, Threat-Medium
 
 **Type:** Working-class Bar & Tavern  
 **Area:** Watson (Little China border)  

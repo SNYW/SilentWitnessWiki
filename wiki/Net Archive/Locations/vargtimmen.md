@@ -1,6 +1,6 @@
 # Vargtimmen
 
-
+**Tags:** Bar, Watson, Nightlife, Threat-Low, Threat-Medium
 
 **Type:** Neo-Pagan Mead Hall  
 **District:** Watson Development (N12)  

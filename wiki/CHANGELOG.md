@@ -2,6 +2,10 @@
 
 
 ### Locations - Maelstrom Arena
+
+### Organizations - Kiroshi Opticals
+- Added Kiroshi Opticals - Japanese corporation specializing in optical cyberware, major player in Night City during Time of the Red
+
 - Added Maelstrom Arena - Underground fight club in Watson's NID, operated by Maelstrom gang, hosts illegal boxing, cyberboxing, and death matches during RED era
 
 

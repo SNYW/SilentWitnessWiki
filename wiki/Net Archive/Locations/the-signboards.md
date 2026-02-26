@@ -1,6 +1,6 @@
 # The Signboards
 
-
+**Tags:** The-Signboards, Badlands, Waystation, Trading-Post, Threat-High, Black-Market, Maelstrom, Raffen-Shiv
 
 **Location Type:** Waystation/Trading Post
 

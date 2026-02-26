@@ -1,5 +1,6 @@
 # Little China Redevelopment Association (LCRA)
 
+**Tags:** Little-China-Redevelopment-Association, Community-Organization, Little-China, Combat-Zone, Gold-Dragons, Time-of-the-Red
 
 **Type:** Community Redevelopment Organization  
 **District:** Little China (Combat Zone)  

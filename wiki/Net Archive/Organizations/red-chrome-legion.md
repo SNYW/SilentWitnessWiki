@@ -1,6 +1,6 @@
 # Red Chrome Legion
 
-
+**Tags:** Red-Chrome-Legion, Gang, Combat-Zone, Threat-High
 
 **Type:** Boostergang / Posergang  
 **Territory:** Old Japantown, Little China (RED Era)  

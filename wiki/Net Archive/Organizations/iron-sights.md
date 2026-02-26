@@ -1,5 +1,6 @@
 # Iron Sights
 
+**Tags:** Iron-Sights, Gang, Combat-Zone, Threat-High
 
 **Territory:** Old Combat Zone, Old Japantown, Little China (RED Era)  
 **Threat Rating:** High

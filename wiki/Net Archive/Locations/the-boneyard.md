@@ -1,5 +1,6 @@
 # The Boneyard
 
+**Tags:** South-Night-City, Residential, Combat-Zone, Threat-Low, Threat-Medium
 
 **District:** South Night City  
 **Type:** Shanty-Town / Residential Area  

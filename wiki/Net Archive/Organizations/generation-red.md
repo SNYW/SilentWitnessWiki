@@ -1,6 +1,6 @@
 # Generation Red
 
-
+**Tags:** Generation-Red, Gang, Combat-Zone, Threat-Medium, Youth-Gang
 
 A-Med yogang (youth gang) created during the Time of the Red, operating in Night City's Old Combat Zone.
 

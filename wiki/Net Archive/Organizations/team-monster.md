@@ -1,6 +1,6 @@
 # Team Monster
 
-
+**Tags:** Team-Monster, Mercs, Threat-High
 
 **Type:** Edgerunner Mercenary Crew  
 **Territory:** Various (hangs out at Forlorn Hope)  

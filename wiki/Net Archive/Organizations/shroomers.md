@@ -1,5 +1,6 @@
 # Shroomers
 
+**Tags:** Shroomers, Gang, Threat-Low, Reclaimers
 
 **Territory:** Disconnected NCART Track (Underground)  
 **Threat Rating:** Low
@@ -16,7 +17,7 @@ The Shroomers began as a group of Night City University students who had been gr
 
 ### The Great Fire (2025)
 
-In 2025, their food storehouse was burned down by unknown parties (likely desperate scavengers or rival groups). This catastrophic event forced the group to go underground—both literally and figuratively. They established a hidden village within a disconnected section of the NCART (Night City Area Rapid Transit) track system.
+In 2025, their food storehouse was burned down by unknown parties (likely desperate scav). This catastrophic event forced the group to go underground—both literallyengers or rival groups and figuratively. They established a hidden village within a disconnected section of the NCART (Night City Area Rapid Transit) track system.
 
 ### RED Era Operations (2040s)
 

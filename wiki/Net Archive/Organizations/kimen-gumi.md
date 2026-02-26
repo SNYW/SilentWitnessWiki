@@ -1,5 +1,6 @@
 # Kimen-Gumi
 
+**Tags:** Tyger-Claws, Kimen-Gumi, Gang, Kabuki, Watson, Threat-Medium
 
 A public security subgroup of the Tyger Claws, established during the Time of the Red.
 

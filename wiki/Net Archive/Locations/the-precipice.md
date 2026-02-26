@@ -1,6 +1,6 @@
 # The Precipice
 
-
+**Tags:** Old-Japantown, Residential, Combat-Zone, Threat-Medium
 
 ## Basic Info
 - **Type:** Cargo container community

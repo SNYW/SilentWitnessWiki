@@ -1,5 +1,7 @@
 # Maelstrom Arena
 
+**Tags:** Maelstrom-Arena, Watson, Northside-Industrial-District, Maelstrom, Fight-Club, Underground-Fight-Club, Threat-High, Combat-Zone
+
 **Type:** Underground Fight Club / Entertainment Venue  
 **District:** Northside Industrial District, Watson  
 **Threat Rating:** High

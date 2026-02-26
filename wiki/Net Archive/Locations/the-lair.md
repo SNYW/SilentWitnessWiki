@@ -1,5 +1,6 @@
 # The Lair
 
+**Tags:** South-Night-City, Residential, Threat-Medium
 
 **District:** South Night City  
 **Type:** Private Residence/Former Adult Entertainment Venue  

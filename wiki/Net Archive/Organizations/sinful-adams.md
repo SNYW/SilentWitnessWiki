@@ -1,6 +1,6 @@
 # Sinful Adams
 
-
+**Tags:** Sinful-Adams, Gang, South-Night-City, Threat-Low, Threat-Medium
 
 **Type:** Gang / Community Organization  
 **Territory:** The Boneyard, South Night City  

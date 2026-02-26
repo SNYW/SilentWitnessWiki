@@ -1,6 +1,6 @@
 # Piranhas
 
-
+**Tags:** Piranhas, Gang, Threat-Low, Threat-Medium, Pacifica, Party-Gang
 
 **Type:** Party Gang
 **Era:** Cyberpunk RED (Time of the Red)

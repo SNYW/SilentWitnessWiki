@@ -1,8 +1,9 @@
 # Orbital Air
 
+**Tags:** Orbital-Air, Corporate, Megacorp
 
-**Type:** Megacorporation (Space Transport)
-**Headquarters:** Nairobi, Kenya
+**Type:** Megacorporation (Space Transport)  
+**Headquarters:** Nairobi, Kenya  
 **Founded:** Early 21st Century
 
 ## Overview

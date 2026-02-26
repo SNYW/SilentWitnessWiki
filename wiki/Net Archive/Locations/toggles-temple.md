@@ -1,6 +1,6 @@
 # Toggle's Temple
 
-
+**Tags:** Shop, Shooting-Range, Combat-Zone, Threat-High, Hot-Zone
 
 **Type:** Underground Armory & Fire Range  
 **Area:** Hot Zone (beneath Old City Center)  

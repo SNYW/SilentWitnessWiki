@@ -1,5 +1,6 @@
 # Viktor's Clinic
 
+**Tags:** Ripperdoc, Little-China, Watson, Threat-Low, Shop
 
 **Type:** Ripperdoc Clinic  
 **District:** Little China, Watson  

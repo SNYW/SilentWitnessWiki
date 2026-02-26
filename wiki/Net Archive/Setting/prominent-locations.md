@@ -1,6 +1,6 @@
 # Notable RED Era Locations
 
-
+**Tags:** Setting, Night-City, Time-of-the-Red, Location-Overview
 
 ## Overview
 
@@ -162,7 +162,7 @@ Magpie operates his techie business here (Cargo Container CC05).
 
 ### History
 
-The Midnight Market is an exclusive quarterly black market event organized by Fixer Mister Kernaghan. It takes place above The Atlantis club in The Glen district.
+The Midnight Market is an exclusive quarterly black market event organized by Fixer Mister Kernaghan. It takes place above The Atlantis club in the Glen district.
 
 Kernaghan initially worked IT for the Night City Port Authority. After the Fourth Corporate War and the Night City Holocaust, he collected shipping data from his position and used it to establish profitable trade routes for essential goods like food, water, and medicine.
 

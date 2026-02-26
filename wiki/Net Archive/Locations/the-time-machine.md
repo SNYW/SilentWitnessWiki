@@ -1,6 +1,6 @@
 # The Time Machine
 
-
+**Tags:** Bar, Watson, Little-China, Threat-Medium
 
 **Type:** Bar & Edgerunner Hangout  
 **Area:** Watson, Little China (sub-district)  
@@ -16,7 +16,7 @@ During the Time of the Red (circa 2045), The Time Machine has maintained a reput
 
 ## Atmosphere
 
-The interior is dominated by worn leather booths, a scratched counter top, and a wall of old gig posters from the 2020s—some dating back to the pre-war era. A vintage jukebox in the corner plays pre-war music, though it's been modified to accept new credits. The lighting is dim, amber-tinted, and many regulars note the constant hum of the building's aging climate systems.
+The interior is dominated by worn leather booths, a scratched counter top, and a wall of old gig posters from the 2020s—some dating back to the pre-war era. A vintage jukebox in the corner plays though it's been modified pre-war music, to accept new credits. The lighting is dim, amber-tinted, and many regulars note the constant hum of the building's aging climate systems.
 
 ## Notable Features
 

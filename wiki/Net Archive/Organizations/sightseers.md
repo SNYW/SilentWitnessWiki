@@ -1,6 +1,6 @@
 # Sightseers
 
-
+**Tags:** Aldecaldos, Nomads, Gang, Threat-Low
 
 A nomad pack of the Aldecaldos family, introduced in Cyberpunk RED.
 

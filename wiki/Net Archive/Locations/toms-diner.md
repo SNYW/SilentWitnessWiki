@@ -1,6 +1,6 @@
 # Tom's Diner
 
-
+**Tags:** Restaurant, Little-China, Watson, Threat-Low, Nightlife
 
 **Type:** Restaurant  
 **Area:** Little China (Watson)  

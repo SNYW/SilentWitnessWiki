@@ -1,6 +1,6 @@
 # The Slammer
 
-
+**Tags:** Bar, South-Night-City, Combat-Zone, Threat-High, Fighting-Arena
 
 **Type:** Bar / Fighting Arena  
 **District:** South Night City  
