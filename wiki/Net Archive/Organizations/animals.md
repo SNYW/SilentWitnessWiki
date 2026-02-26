@@ -5,6 +5,8 @@
 **Territory:** No fixed turf—packs operate throughout the city
 **Threat Rating:** High (Combat-focused)
 
+**Tags:** Animals, Gang, Threat-High
+
 ## Overview
 
 The Animals are an aggressive street-fighting gang known for their obsession with physical prowess and peak human strength. Unlike most gangs that rely heavily on cyberware, the Animals focus on body enhancement through custom-brewed steroids, hormones, and biological augmentation. They roam Night City in packs, selling their services as bouncers and bodyguards while engaging in underground fight clubs.

@@ -4,13 +4,15 @@
 **District:** Watson (Kabuki)
 **Location:** Kabuki neighborhood, Watson district
 
+**Tags:** Bar, Club, Watson, Nightlife
+
 ## Overview
 
 Lizzie's Bar is an exclusive braindance club located in the Kabuki neighborhood of Watson. It serves as both the primary income source and headquarters for the Mox gang. Originally established as a third-rate brothel and sticky dive, it was rebuilt in 2067 following the death of its original owner, Elizabeth "Lizzie" Borden.
 
 ## History
 
-The original Lizzie's Bar was owned by Elizabeth "Lizzie" Borden, a former prostitute who became a strip club owner known for treating her workers fairly and defending them from violent clients.
+The original Lizie's Bar was owned by Elizabeth "Lizzie" Borden, a former prostitute who became a strip club owner known for treating her workers fairly and defending them from violent clients.
 
 On May 13, 2067, one of Lizzie's dancers was brutally raped and murdered by Tyger Claws gangers. Lizzie took brutal revenge by killing three of the assailants with an axe and displaying their bodies outside her club, warning that the same would happen to anyone else who hurt a prostitute.
 

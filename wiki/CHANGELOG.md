@@ -1,5 +1,9 @@
 # Changelog
 
+### 2026-02-26 (Early Afternoon) - Organizations - RED Era Corporations
+- Added SovOil - Major petrochemical corporation from the Neo-Soviet Union, active globally during Time of the Red, diversified into CHOOH2 and other industries by 2045
+- Added Kendachi - Japanese arms manufacturer specializing in monomolecular blade technology, operates orbital factories and has office in Night City
+
 ### 2026-02-26 (Afternoon) - Organizations - Major RED Era Gangs
 - Added Voodoo Boys - Enigmatic netrunner gang from Pacifica, formed by Haitian refugees in 2062, known for Blackwall probing and AI exploration during Time of the Red
 - Added Animals - Street-fighting gang focused on physical prowess and biological enhancement, active throughout Night City during Time of the Red

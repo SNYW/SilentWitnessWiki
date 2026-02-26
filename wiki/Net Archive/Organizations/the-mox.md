@@ -5,6 +5,8 @@
 **Territory:** Lizzie’s Bar and surrounding area in Kabuki
 **Threat Rating:** Medium (Defensive, non-territorial)
 
+**Tags:** The-Mox, Gang, Watson, Threat-Medium
+
 ## Overview
 
 The Mox (also called "Moxes") are a unique gang in Night City, formed from the survivors and supporters of Lizzie Borden—a strip club owner who was murdered by the Tyger Claws in 2067. Unlike traditional gangs, the Mox operate more as a protective union for sex workers, outcasts, and sexual minorities. Their name comes from the old slang term "moxie," representing determination and fighting spirit.
@@ -33,20 +35,20 @@ The Mox believe in:
 ## Territory
 
 The Mox do not control contiguous territory. Instead, they focus on:
-- Lizzie’s Bar (their headquarters and main income source)
+- Lizzie's Bar (their headquarters and main income source)
 - Protected brothels and clubs in the immediate vicinity
 - Various prostitution and entertainment establishments
 
 ## Income Sources
 
-- Lizzie’s Bar (exclusive braindance club)
+- Lizzie's Bar (exclusive braindance club)
 - Several protected brothels
 - Operating clinics for members
 - Protection fees from sex workers in their area
 
 ## Notable Members
 
-- **Susie "Q"** - Current leader of the Mox and owner of Lizzie’s Bar
+- **Susie "Q"** - Current leader of the Mox and owner of Lizzie's Bar
 - **Judy Álvarez** - Former braindance techie (left Night City in 2077)
 - **Rita Wheeler** - Bouncer
 - **Mateo Thiago** - Bartender

@@ -5,6 +5,8 @@
 **Territory:** The abandoned resort district of Pacifica, particularly around the old Hotels and the Gills section
 **Threat Rating:** High (Netrunner-focused)
 
+**Tags:** Voodoo-Boys, Gang, Pacifica, Threat-High
+
 ## Overview
 
 The Voodoo Boys are an enigmatic and secretive gang operating from the ruined district of Pacifica in Night City. Despite their name being given to them by outsiders, the gang takes their identity seriously—they follow voodoo traditions with genuine religious fervor, unlike the original 2020-era gang that used it as mere affectation.

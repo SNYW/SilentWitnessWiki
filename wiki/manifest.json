@@ -734,6 +734,11 @@
               "path": "Net Archive/Organizations/kang-tao.md"
             },
             {
+              "name": "Kendachi",
+              "type": "file",
+              "path": "Net Archive/Organizations/kendachi.md"
+            },
+            {
               "name": "Kimen Gumi",
               "type": "file",
               "path": "Net Archive/Organizations/kimen-gumi.md"
@@ -827,6 +832,11 @@
               "name": "Sinful Adams",
               "type": "file",
               "path": "Net Archive/Organizations/sinful-adams.md"
+            },
+            {
+              "name": "Sov Oil",
+              "type": "file",
+              "path": "Net Archive/Organizations/sov-oil.md"
             },
             {
               "name": "Team Monster",
