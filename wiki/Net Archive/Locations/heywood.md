@@ -1,6 +1,6 @@
 # Heywood
 
-**Tags:** Heywood, District, Corporate-Residential-Zone, Valentinos, 6th-Street, Threat-Medium
+**Tags:** Heywood, Corporate-Zone, Threat-Medium
 
 **District Code:** J  
 **Type:** Corporate Residential Zone  

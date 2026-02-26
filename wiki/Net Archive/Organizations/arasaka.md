@@ -1,6 +1,6 @@
 # Arasaka
 
-**Tags:** Arasaka, Megacorp, Tyger-Claw-Turf, Night-Corp-Partner, Corporate-War
+**Tags:** Corporate, Tyger-Claws, Threat-High
 
 **Type:** Megacorporation  
 **Headquarters:** Arasaka Tower, Night City (formerly); Tokyo, Japan (current)  

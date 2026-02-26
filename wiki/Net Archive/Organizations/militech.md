@@ -1,6 +1,6 @@
 # Militech International Armaments
 
-**Tags:** Militech, Megacorp, Weapons-Manufacturer, Military-Contractor, Corporate-War, NUSA
+**Tags:** Corporate, Militia, Threat-High
 
 **Type:** Megacorporation  
 **Headquarters:** Chicago, NUSA (formerly Arlington, Virginia)  
@@ -9,7 +9,7 @@
 
 ## Overview
 
-Militech International Armaments, commonly known simply as Militech, is one of the world's largest megacorporations specializing in weapons manufacturing and private military contracting. Based in the NUSA (United States of North America), Militech is the primary military hardware supplier for the NUSA government and military, as well as numerous other nations and corporations worldwide.
+Militech International Armaments, commonly known simply as Militech, is one of the world's largest megacorporations specializing in weapons manufacturing and private military the NUSA (United States of North America), based in, Militech is the primary military hardware supplier for the NUSA government and military, as well as numerous other nations and corporations worldwide.
 
 During the Time of the Red, Militech has emerged as one of the most powerful megacorporations, having effectively "won" the Fourth Corporate War against Arasaka—though at tremendous cost to Night City and the world at large.
 
@@ -19,7 +19,7 @@ During the Time of the Red, Militech has emerged as one of the most powerful meg
 
 Militech was founded in 1996 by Italian weapons designer Antonio Luccessi as Armatech-Luccessi International. The company gained prominence in 2004 when its Ronin Light Assault Rifle won the US military contract, beginning its rise to dominance in the global arms market.
 
-Under the leadership of CEO Donald Lundee, a former US Marine Corps General, Militech rapidly expanded to become one of the world's largest defense contractors. By 2020, the company had facilities on every continent and provided equipment to numerous nations, corporations, and governmental organizations.
+Under the leadership of CEO Donald Lundee, a former US Marine Corps General, Militech rapidly expanded to become one of the world's largest defense contractors. By 2020, the company had facilities on every continent and provided equipment to numerous nations, corporations, and governmental actors.
 
 ### The Fourth Corporate War
 

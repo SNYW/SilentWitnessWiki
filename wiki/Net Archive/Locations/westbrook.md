@@ -1,6 +1,6 @@
 # Westbrook
 
-**Tags:** Westbrook, District, Corporate-Zone, Threat-Low
+**Tags:** Westbrook, Corporate-Zone, Threat-Low
 
 **District Code:** F  
 **Type:** Executive Residential Zone  

@@ -398,6 +398,16 @@
               "path": "Net Archive/Locations/little-china.md"
             },
             {
+              "name": "Little Europe",
+              "type": "file",
+              "path": "Net Archive/Locations/little-europe.md"
+            },
+            {
+              "name": "Lizzies Bar",
+              "type": "file",
+              "path": "Net Archive/Locations/lizzies-bar.md"
+            },
+            {
               "name": "Lucky Cat Stir Fry",
               "type": "file",
               "path": "Net Archive/Locations/lucky-cat-stir-fry.md"
@@ -451,6 +461,11 @@
               "name": "Prosperity Gardens Tenements",
               "type": "file",
               "path": "Net Archive/Locations/prosperity-gardens-tenements.md"
+            },
+            {
+              "name": "Rancho Coronado",
+              "type": "file",
+              "path": "Net Archive/Locations/rancho-coronado.md"
             },
             {
               "name": "Randy Dandy",
@@ -644,6 +659,11 @@
               "path": "Net Archive/Organizations/andersons.md"
             },
             {
+              "name": "Animals",
+              "type": "file",
+              "path": "Net Archive/Organizations/animals.md"
+            },
+            {
               "name": "Arasaka",
               "type": "file",
               "path": "Net Archive/Organizations/arasaka.md"
@@ -819,6 +839,11 @@
               "path": "Net Archive/Organizations/the-faded.md"
             },
             {
+              "name": "The Mox",
+              "type": "file",
+              "path": "Net Archive/Organizations/the-mox.md"
+            },
+            {
               "name": "The Muses",
               "type": "file",
               "path": "Net Archive/Organizations/the-muses.md"
@@ -847,6 +872,11 @@
               "name": "Valentinos",
               "type": "file",
               "path": "Net Archive/Organizations/valentinos.md"
+            },
+            {
+              "name": "Voodoo Boys",
+              "type": "file",
+              "path": "Net Archive/Organizations/voodoo-boys.md"
             },
             {
               "name": "Wraiths",

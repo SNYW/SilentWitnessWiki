@@ -1,6 +1,6 @@
 # Maelstrom
 
-**Tags:** Maelstrom, Boostergang, Watson, Hot-Zone, Threat-High, Ripperdoc-Network
+**Tags:** Maelstrom, Gang, Watson, Combat-Zone, Threat-High
 
 **Type:** Combat Gang / Boostergang  
 **Territory:** Watson Development (formerly Hot Zone / Burleson Tower)  

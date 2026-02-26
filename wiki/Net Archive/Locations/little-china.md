@@ -1,6 +1,6 @@
 # Little China (RED Era)
 
-**Tags:** Little-China, District, Combat-Zone, Threat-Very-High, Red-Chrome-Legion, Gold-Dragons, Tyger-Claws, Weng-Fang-Tong
+**Tags:** Little-China, Combat-Zone, Tyger-Claws, Threat-High
 
 **Territory:** Combat Zone / Lawless (RED Era, 2040s)  
 **Threat Rating:** Very High
@@ -40,7 +40,7 @@ With David Ling Po appointed as the city manager by the LCRA, by 2045 the strugg
 - **Hacienda Hotel** - Hotel near the border with Upper Marina
 - **Forlorn Hope Ruins** - Remains of the old Forlorn Hope bar
 
-## gangs Present
+## Gangs Present
 
 - **Gold Dragons** - Asian cultural gang
 - **Red Chrome Legion** - Neo-fascist boostergang
@@ -56,7 +56,7 @@ Little China remains one of the most dangerous areas in Night City during the RE
 2. Limited NCPD presence
 3. David Ling Po's criminal operations
 4. General lawlessness of combat zones
-5. occasional corporate raids
+5. Occasional corporate raids
 
 However, there are signs of hope as the LCRA works to rebuild and restore the district.
 
@@ -70,4 +70,4 @@ This information is verified from Cyberpunk RED source materials:
 
 ## Notes
 
-Little China represents both the destruction of the Fourth Corporate War and the resilience of community efforts to rebuild during the Time of the Red. The conflict between the criminal elements (led by David Ling Po) and the legitimate community efforts (through the LCRA) creates a complex dynamic in this combat zone.
+Little China represents both the destruction War and the resilience of community efforts to rebuild during the Time of the Red. The conflict between the criminal elements (led by David Ling Po) and the legitimate community efforts (through the LCRA) creates a complex dynamic in this combat zone.

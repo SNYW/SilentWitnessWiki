@@ -1,6 +1,6 @@
 # Badlands
 
-**Tags:** Badlands, Wasteland, Nomad-Territory, Aldecaldos, Raffen-Shiv, Wraiths
+**Tags:** Badlands, Threat-Medium
 
 **Type:** Wasteland Region  
 **Location:** Surrounding Night City, Northern and Southern California  

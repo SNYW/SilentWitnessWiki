@@ -1,6 +1,6 @@
 # Afterlife
 
-**Tags:** Afterlife, Bar, Edgerunner-Hub, Little-China, Watson, Fixer-Hub, Rogue-Amendiares
+**Tags:** Bar, Club, Little-China, Watson, Threat-Medium
 
 **Type:** Club/Bar  
 **District:** Little China (Watson)  

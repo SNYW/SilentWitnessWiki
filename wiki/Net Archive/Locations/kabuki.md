@@ -1,10 +1,10 @@
 # Kabuki
 
-**Tags:** Kabuki, Sub-District, Watson, Black-Market, Tyger-Claw-Turf, Kimen-Gumi, Combat-Zone
+**Tags:** Watson, Combat-Zone, Tyger-Claws, Threat-High
 
 ## Overview
 
-Kabuki is a sub-district located in the [Watson Development](/wiki/watson-development) area of [Night City](/wiki/night-city), existing during the [Time of the Red](/wiki/time-of-the-red) in 2045. Once a thriving Japanese medical district adjacent to the famous Med Center, Kabuki has transformed into one of the poorest and most dangerous areas of the city.
+Kabuki is a sub-district located in the Watson Development area of Night City, existing during the Time of the Red in 2045. Once a thriving Japanese medical district adjacent to the famous Med Center, Kabuki has transformed into one of the poorest and most dangerous areas of the city.
 
 ## History
 
@@ -15,7 +15,7 @@ Kabuki was originally developed as a Japanese medical district, home to various 
 During and after the Fourth Corporate War, the Japanese medical corporations either dissolved or relocated. Arasaka absorbed many competitors, and those that remained moved to other areas. This left Kabuki in economic ruin.
 
 ### Time of the Red
-In the aftermath of the war, Kabuki experienced a massive influx of Chinese immigrants who transformed the area into a bustling bazaar. The district became known for its black market activities, with narrow alleyways filled with chop suey joints, cosmetic boutiques, and cheap junk shops decorated with Chinese lanternions and flickering neon lights.
+In the aftermath of the war, Kabuki experienced a massive influx of Chinese immigrants who transformed the area into a bustling bazaar. The district became known for its black market activities, with narrow alleyways filled with chop suey joints, cosmetic boutiques, and cheap junk shops decorated with Chinese lanterns and flickering neon lights.
 
 By 2045, Kabuki had become the heart of Night City's black market for illegal transactions, including implants, organs, combat drugs, prototype cyber augmentations, steroids, synth-viruses, and illicit braindance recordings.
 
