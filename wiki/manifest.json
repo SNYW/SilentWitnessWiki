@@ -915,6 +915,16 @@
           "type": "folder",
           "children": [
             {
+              "name": "Blackwall",
+              "type": "file",
+              "path": "Net Archive/Setting/blackwall.md"
+            },
+            {
+              "name": "Data Krash",
+              "type": "file",
+              "path": "Net Archive/Setting/data-krash.md"
+            },
+            {
               "name": "Night City History",
               "type": "file",
               "path": "Net Archive/Setting/night-city-history.md"

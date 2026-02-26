@@ -1,5 +1,9 @@
 # Changelog
 
+### 2026-02-26 (Evening) - Setting - Net Lore
+- Added DataKrash - Catastrophic event from June 2022 where Rache Bartmoss's virus destroyed the original NET, leading to the fragmented Net of the RED era
+- Added The Blackwall - Massive virtual firewall created by NetWatch in 2044, separating human-controlled Net from AI-infested ruins of the old NET
+
 ### 2026-02-26 (Evening) - Locations - Pacifica
 - Added Playland by the Sea - Amusement park in Pacifica district, Night City's premiere tourist destination during Time of the Red (2040s), survived amid Pacifica's decay thanks to corporate sponsors
 
