@@ -1,5 +1,7 @@
 # The N54
 
+**Tags:** Hot-Zone, The-Island, Combat-Zone, Threat-High, Radiation-Hazard, Scavver-Hub, Maelstrom
+
 **District:** Hot Zone - Old Corporate Center (The Island)
 **Threat Rating:** Combat (Highest)
 

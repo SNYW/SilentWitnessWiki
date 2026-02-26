@@ -1,5 +1,7 @@
 # Arasaka Towers Ruins
 
+**Tags:** Hot-Zone, The-Island, Combat-Zone, Threat-High, Arasaka, Historical-Site, Radiation-Hazard, Johnny-Silverhand, The-Time-of-the-Red
+
 **District:** Hot Zone - Old Corporate Center (The Island)
 **Threat Rating:** Combat (Highest)
 

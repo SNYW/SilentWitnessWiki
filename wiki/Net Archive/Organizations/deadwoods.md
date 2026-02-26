@@ -1,5 +1,7 @@
 # DeadWoods
 
+**Tags:** The-Island, Port-of-Night-City, Boostergang, Smuggling, DeadWoods, Crew-Neutral, Organized-Crime
+
 **Type:** Gang
 **Territory:** Port of Night City (The Island)
 **Threat Level:** Medium-High

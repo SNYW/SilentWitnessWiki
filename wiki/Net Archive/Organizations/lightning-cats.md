@@ -1,5 +1,7 @@
 # Lightning Cats
 
+**Tags:** Hot-Zone, The-Island, Boostergang, Lightning-Cats, Crew-Hostile, Organized-Crime
+
 **Type:** Gang
 **Territory:** Hot Zone (The Island)
 **Threat Level:** Extreme

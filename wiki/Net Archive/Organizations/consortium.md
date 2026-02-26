@@ -1,5 +1,7 @@
 # Consortium
 
+**Tags:** The-Island, Port-of-Night-City, Boostergang, Smuggling, Consortium, Crew-Neutral, Organized-Crime
+
 **Type:** Gang/Organization
 **Territory:** Port of Night City (The Island)
 **Threat Level:** Medium-High

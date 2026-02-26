@@ -1,5 +1,7 @@
 # Tent City
 
+**Tags:** Hot-Zone, The-Island, Combat-Zone, Threat-High, Scavver-Hub, Tent-City, Reckoners, Maelstrom
+
 **District:** Hot Zone (The Island)
 **Threat Rating:** Combat (Highest)
 

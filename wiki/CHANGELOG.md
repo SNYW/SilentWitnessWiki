@@ -1,5 +1,11 @@
 # Changelog
 
+### 2026-02-26 (Morning) - Locations - RED Era Little China
+- Added Virtex's Virtuality Venue - VR arcade on top floor of Guangbo Tower in Little China, popular attraction during Time of the Red, later became base for rogue AI "The Reaper"
+- Added Ling Po Public Library - Community library on floor 10 of Guangbo Tower in Little China, financed by David Ling Po
+- Added Prosperity Gardens Tenements - Apartment complex in Little China, known as one of the safest places in the district despite Gold Dragon protection
+- Added Brookhaven Co-op - Former apartment complex in Little China Combat Zone, built with accidentally excellent plumbing, site of Maelstrom incident in 2044
+
 ### 2026-02-26 - Locations - Hot Zone
 - Added Tent City - Makeshift encampment in Hot Zone, home to scavvers and desperate survivors during Time of the Red
 - Added The N54 - Ruined Network 54 offices in Hot Zone's Old Corporate Center

@@ -278,6 +278,11 @@
               "path": "Net Archive/Locations/badlands.md"
             },
             {
+              "name": "Brookhaven Co Op",
+              "type": "file",
+              "path": "Net Archive/Locations/brookhaven-co-op.md"
+            },
+            {
               "name": "Burleson Tower",
               "type": "file",
               "path": "Net Archive/Locations/burleson-tower.md"
@@ -383,6 +388,11 @@
               "path": "Net Archive/Locations/laguna-bend.md"
             },
             {
+              "name": "Ling Po Public Library",
+              "type": "file",
+              "path": "Net Archive/Locations/ling-po-public-library.md"
+            },
+            {
               "name": "Little China",
               "type": "file",
               "path": "Net Archive/Locations/little-china.md"
@@ -436,6 +446,11 @@
               "name": "Pol Bud Cement Factory",
               "type": "file",
               "path": "Net Archive/Locations/pol-bud-cement-factory.md"
+            },
+            {
+              "name": "Prosperity Gardens Tenements",
+              "type": "file",
+              "path": "Net Archive/Locations/prosperity-gardens-tenements.md"
             },
             {
               "name": "Randy Dandy",
@@ -586,6 +601,11 @@
               "name": "Viktors Clinic",
               "type": "file",
               "path": "Net Archive/Locations/viktors-clinic.md"
+            },
+            {
+              "name": "Virtexs Virtuality Venue",
+              "type": "file",
+              "path": "Net Archive/Locations/virtexs-virtuality-venue.md"
             },
             {
               "name": "Watson Development",
