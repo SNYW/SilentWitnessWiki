@@ -1,6 +1,6 @@
 # Ashcroft Hotel
 
-
+**Tags:** Hotel, Combat-Zone, Threat-Extreme, Maelstrom
 
 **Type:** Ruined Hotel / Former Luxury Establishment  
 **District:** Hot Zone (formerly Central Night City)  

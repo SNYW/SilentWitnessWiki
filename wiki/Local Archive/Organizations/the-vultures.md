@@ -1,7 +1,8 @@
 # The Vultures
 
+**Tags:** The-Vultures, Scavenger-Gang, The-Precipice, Campaign-Gang, Magpie, Raptor, Bekah-Bluejay
 
-## Basic Info
+**Basic Info**
 - **Name:** The Vultures
 - **Type:** Scavenger Gang
 - **Status:** Active

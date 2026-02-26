@@ -1,6 +1,6 @@
 # Chrome Cross Bar
 
-
+**Tags:** Bar, Combat-Zone, Little-China, Watson, Threat-High, Red-Hawks
 
 **Type:** Bar / Gang Headquarters  
 **Area:** Little China (Watson)  

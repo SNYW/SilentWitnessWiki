@@ -1,5 +1,6 @@
 # Night Market
 
+**Tags:** Shopping, Threat-Medium
 
 **Type:** Semi-illegal temporary market
 **Era:** Time of the Red (Cyberpunk RED - 2045)

@@ -1,5 +1,6 @@
 # Militech International Armaments
 
+**Tags:** Militech, Megacorp, Weapons-Manufacturer, Military-Contractor, Corporate-War, NUSA
 
 **Type:** Megacorporation  
 **Headquarters:** Chicago, NUSA (formerly Arlington, Virginia)  

@@ -1,5 +1,6 @@
 # Danger Gal
 
+**Tags:** Danger-Gal, Security-Firm, Night-City, Anti-Arasaka, Puma-Squad
 
 **Type:** Private Investigation, Bodyguard, and Security Corporation  
 **Headquarters:** Night City  

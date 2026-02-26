@@ -1,6 +1,6 @@
 # Chopper's
 
-
+**Tags:** Bar, Watson, Threat-Medium
 
 **Type:** Bar / Survival Spot  
 **Area:** Upper Marina (District B)  

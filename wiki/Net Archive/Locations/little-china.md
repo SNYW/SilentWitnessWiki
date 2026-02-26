@@ -1,5 +1,7 @@
 # Little China (RED Era)
 
+**Tags:** Little-China, District, Combat-Zone, Threat-Very-High, Red-Chrome-Legion, Gold-Dragons, Tyger-Claws, Weng-Fang-Tong
+
 **Territory:** Combat Zone / Lawless (RED Era, 2040s)  
 **Threat Rating:** Very High
 

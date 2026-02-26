@@ -1,5 +1,6 @@
 # Deravaja Dojo
 
+**Tags:** Shop, Little-China, Watson, Threat-Medium
 
 **Type:** Martial Arts Dojo  
 **District:** Little China, Watson  
@@ -22,7 +23,7 @@ By the 2040s, the dojo had evolved to offer practical combat training for Night 
 ## Training Programs
 
 - **Basic Combat Arts:** Foundational techniques for beginners
-- **Advanced Combat:** Complex moves for experienced fighters
+- **Combat:** Complex moves for experienced fighters
 - **Cyberware Integration:** Training that incorporates implanted enhancements
 - **Weapons Training:** Melee weapons, from knives to monowire
 - **Bodyguard Training:** Protection techniques for VIP security

@@ -1,6 +1,6 @@
 # Executive Zone
 
-
+**Tags:** Corporate-Zone, Threat-Low, Westbrook
 
 **Type:** Gated Community / Executive District  
 **Area:** Near New Westbrook (Northeast of Central Night City)  

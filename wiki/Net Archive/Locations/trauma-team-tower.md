@@ -1,5 +1,6 @@
 # Trauma Team Tower
 
+**Tags:** Trauma-Team-Tower, Corporate-Medical, Watson, Megacorp-Facility, Trauma-Team
 
 **Type:** Corporate Medical Headquarters  
 **Area:** Watson Development  

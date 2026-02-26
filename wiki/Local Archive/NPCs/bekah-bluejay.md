@@ -1,11 +1,13 @@
 # Bekah "Bluejay"
 
+**Tags:** Bekah-Bluejay, The-Vultures, Scout, Combat-Zone, Status-Alive
 
-## Basic Info
+**Basic Info**
 - **Name:** Bekah
 - **Nickname:** Bluejay
 - **Affiliation:** Vultures (Night City)
 - **Role:** Combat member / Scout
+- **Status:** Status-Alive
 
 ## Background
 

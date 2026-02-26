@@ -1,6 +1,6 @@
 # City Medical Center
 
-
+**Tags:** Corporate-Zone, Shop, Threat-Low
 
 **Type:** Hospital / Medical Facility  
 **Area:** Upper Marina (District B)  

@@ -1,6 +1,6 @@
 # Burleson Tower
 
-
+**Tags:** Hotel, Combat-Zone, Threat-Extreme, Maelstrom, Club
 
 **Type:** Ruined Hotel / Maelstrom Base  
 **District:** Hot Zone (formerly City Center)  

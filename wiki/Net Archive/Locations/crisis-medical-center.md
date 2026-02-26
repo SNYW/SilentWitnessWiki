@@ -1,5 +1,6 @@
 # Crisis Medical Center
 
+**Tags:** Shop, Threat-High, Westbrook
 
 **Type:** Medical Clinic / Emergency Facility  
 **Area:** Old Japantown  

@@ -1,6 +1,6 @@
 # Lucky Cat Stir Fry
 
-
+**Tags:** Restaurant, Westbrook, Threat-Low
 
 **Type:** Budget Restaurant / Stir Fry House  
 **Area:** New Westbrook  

@@ -1,5 +1,6 @@
 # Tyger Claws
 
+**Tags:** Tyger-Claws, Guardian-Gang, Kabuki, Watson, Old-Japantown, NCCS, Arasaka-Backed, Threat-High
 
 **Type:** Gang / Guardian Gang  
 **Territory:** Watson Development, Kabuki, Old Japantown  

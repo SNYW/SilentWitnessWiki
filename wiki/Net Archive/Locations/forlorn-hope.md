@@ -1,6 +1,6 @@
 # Forlorn Hope
 
-
+**Tags:** Bar, Heywood, Threat-High
 
 **Type:** Bar / Edgerunner Hangout  
 **Area:** North Heywood (Woodland Park)  

@@ -1,6 +1,6 @@
 # Regional Airport
 
-
+**Tags:** Badlands, Threat-Medium
 
 **Location Type:** Abandoned Airport/Temporary Landing Zone
 

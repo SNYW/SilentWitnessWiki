@@ -1,6 +1,6 @@
 # Reclaimed Perimeter
 
-
+**Tags:** Badlands, Threat-Low
 
 **Type:** Collection of Repopulated Settlements  
 **Area:** Badlands / Night City Surroundings  
@@ -14,7 +14,7 @@ The Reclaimed Perimeter refers to the settlements in the vicinity of Del Coronad
 
 ### The Collapse and Exodus (2020s)
 
-The Fourth Corporate War devastated Night City and its surroundings, leaving many citizens homeless. With the suburbs overpopulated, a large number of refugees began leaving the ruined metropolis in search of new homes around 2026.
+The Fourth Corporate War devastated Night City and its surroundings, leaving many citizens homeless. With the suburbs overpopulated, a large number of refugees began leaving the ruined metropolis in search of new homes after 2026.
 
 Night City was a major regional hub, neighboring many smaller towns and suburbs. Most of these settlements had been abandoned during the Collapse of the 1990s-2000s, as they were too far out to be protected from roving gangs. With support from nomad populations and private security, refugees attempted to make new homes in these abandoned places.
 

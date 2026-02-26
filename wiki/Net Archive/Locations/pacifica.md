@@ -1,6 +1,6 @@
 # Pacifica (Pacifica Playground)
 
-
+**Tags:** Pacifica, District, Playland-by-the-Sea, Tourist-Destination, Piranhas, Philharmonic-Vampyres, Threat-Medium
 
 **District Code:** W  
 **Type:** Rebuilding Urban Zone  

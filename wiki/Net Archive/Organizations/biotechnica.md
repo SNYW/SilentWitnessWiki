@@ -1,5 +1,6 @@
 # BioTechnica
 
+**Tags:** BioTechnica, Megacorp, University-District, BioTech
 
 **Type:** Megacorporation  
 **Headquarters:** Global (has facilities in Night City)  

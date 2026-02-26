@@ -1,6 +1,6 @@
 # The Redline
 
-
+**Tags:** Bar, Watson, Threat-Medium
 
 **Type:** Bar / Fighting Arena  
 **District:** Watson Development (N6)  

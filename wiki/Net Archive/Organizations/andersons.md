@@ -1,6 +1,6 @@
 # The Andersons
 
-
+**Tags:** The-Andersons, Boostergang, Combat-Zone, Old-Japantown, Salvagers
 
 **Type:** Yogang (Youth Gang)  
 **Home Territory:** Old Combat Zone, Night City  

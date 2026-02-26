@@ -1,5 +1,6 @@
 # Highcourt Plaza Hotel
 
+**Tags:** Hotel, Westbrook, Threat-Medium
 
 **Type:** Hotel / Accommodation  
 **Area:** Old Japantown  

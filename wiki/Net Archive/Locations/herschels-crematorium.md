@@ -1,6 +1,6 @@
 # Herschel's Crematorium
 
-
+**Tags:** Reclamation-Zone, Threat-Low
 
 **Type:** Funeral Home / Cremation Services  
 **Area:** Reclamation Zone  

@@ -1,6 +1,6 @@
 # Guăngbō Tower
 
-
+**Tags:** Shop, Little-China, Watson, Threat-Medium
 
 **Type:** Rehabilitation Project / Commercial Tower  
 **District:** Little China (The Island)  

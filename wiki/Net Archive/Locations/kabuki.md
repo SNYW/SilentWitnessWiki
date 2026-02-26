@@ -1,5 +1,6 @@
 # Kabuki
 
+**Tags:** Kabuki, Sub-District, Watson, Black-Market, Tyger-Claw-Turf, Kimen-Gumi, Combat-Zone
 
 ## Overview
 

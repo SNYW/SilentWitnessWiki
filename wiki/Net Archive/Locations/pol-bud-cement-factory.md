@@ -1,6 +1,6 @@
 # Pol-Bud Cement Factory
 
-
+**Tags:** Badlands, Threat-High
 
 **Location Type:** Industrial Ruin/Scrap Yard
 

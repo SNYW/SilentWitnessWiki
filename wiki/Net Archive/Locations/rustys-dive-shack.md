@@ -1,6 +1,6 @@
 # Rusty's Dive Shack
 
-
+**Tags:** Bar, Threat-Medium
 
 **Type:** Bar / Dive Restaurant  
 **Area:** Port of Night City  

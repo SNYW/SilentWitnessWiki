@@ -1,5 +1,6 @@
 # Jig-Jig Street
 
+**Tags:** Watson, Nightlife, Threat-Medium, Tyger-Claws
 
 **Type:** Red Light District / Entertainment Zone  
 **District:** Watson, Northside  

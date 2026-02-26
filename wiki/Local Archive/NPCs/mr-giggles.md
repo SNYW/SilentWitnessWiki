@@ -1,10 +1,12 @@
 # Mr Giggles
 
+**Tags:** Mr-Giggles, Bozos, Solo, Combat-Zone, Enemy, Threat-High
 
-## Basic Info
+**Basic Info**
 - **Name:** Mr Giggles
 - **Affiliation:** Bozos
 - **Role:** 2nd in Command / Lieutenant
+- **Status:** Status-Alive
 
 ## Appearance
 

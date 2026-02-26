@@ -1,5 +1,6 @@
 # Watson Development
 
+**Tags:** Watson, District, Corporate-Zone, NCCS, Tyger-Claw-Turf, Megabuilding, Threat-Low
 
 **District Code:** U  
 **Type:** Corporate Development Zone  

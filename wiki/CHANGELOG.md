@@ -1,6 +1,12 @@
 # Changelog
 
 
+### Locations - Maelstrom Arena
+- Added Maelstrom Arena - Underground fight club in Watson's NID, operated by Maelstrom gang, hosts illegal boxing, cyberboxing, and death matches during RED era
+
+
+
+
 ## Entries Added 2026-02-26
 
 ### Organizations - NetWatch

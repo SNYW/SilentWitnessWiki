@@ -1,6 +1,6 @@
 # Digital Divas
 
-
+**Tags:** Digital-Divas, Electric-Punk, Heywood, Entertainment
 
 **Type:** Electric Punk Band  
 **Era:** Time of the Red (2045)  

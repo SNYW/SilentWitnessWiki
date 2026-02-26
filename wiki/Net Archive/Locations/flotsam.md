@@ -1,6 +1,6 @@
 # Flotsam
 
-
+**Tags:** Threat-Medium, Santo-Domingo
 
 **Type:** Drift Town / Maritime Community  
 **Location:** Port of Night City, Del Coronado Bay

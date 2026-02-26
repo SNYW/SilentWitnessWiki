@@ -1,8 +1,8 @@
 # Dockside Billhooks
 
+**Tags:** Dockside-Billhooks, Roller-Derby, Night-City-Wonderland-League, Heywood, Upper-Marina, Sports-Team
 
-
-## Overview
+**Overview**
 
 The Dockside Billhooks are a roller derby team in the Night City Wonderland League, active during the Time of the Red (2040s).
 

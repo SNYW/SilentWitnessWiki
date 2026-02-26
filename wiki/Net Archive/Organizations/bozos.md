@@ -1,5 +1,6 @@
 # Bozos
 
+**Tags:** Bozos, Boostergang, Combat-Zone, Old-Japantown, South-Night-City, Threat-High
 
 **Type:** Posergang / Boostergang  
 **Territory:** Old Japantown, South Night City (RED Era)  

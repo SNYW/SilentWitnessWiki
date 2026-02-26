@@ -1,6 +1,6 @@
 # Tsunami Arms
 
-
+**Tags:** Tsunami-Arms, Megacorp, Weapons-Manufacturer, Japan
 
 **Type:** Megacorporation (Top-Tier Weapons Manufacturer)  
 **Headquarters:** Osaka, Japan  

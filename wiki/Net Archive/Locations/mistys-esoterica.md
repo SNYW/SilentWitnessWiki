@@ -1,5 +1,6 @@
 # Misty's Esoterica
 
+**Tags:** Shop, Little-China, Watson, Threat-Low
 
 **Type:** Tarot and Divination Shop  
 **District:** Little China, Watson  

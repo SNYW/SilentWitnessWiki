@@ -1,6 +1,6 @@
 # Delirium
 
-
+**Tags:** Club, Nightlife, Threat-Medium
 
 **Type:** Virtuality Club  
 **District:** Downtown (The Island)  

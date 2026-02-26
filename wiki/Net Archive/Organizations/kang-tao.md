@@ -1,5 +1,6 @@
 # Kang Tao
 
+**Tags:** Kang-Tao, Megacorp, Weapons-Manufacturer, Smart-Weapons
 
 **Type:** Megacorporation  
 **Headquarters:** China (originally Taiwan)  

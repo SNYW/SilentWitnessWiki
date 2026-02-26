@@ -1,10 +1,11 @@
 # Pins
 
+**Tags:** Pins, The-ModLits, Netrunner, Drone-Specialist, Combat-Zone
 
-## Basic Info
+**Basic Info**
 - **Name:** Pins
 - **Role:** Leader of The ModLits
-- **Status:** Active
+- **Status:** Status-Alive
 - **Affiliation:** The ModLits
 
 ## Overview

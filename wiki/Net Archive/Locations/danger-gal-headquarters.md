@@ -1,6 +1,6 @@
 # Danger Gal Headquarters
 
-
+**Tags:** Corporate, Corporate-Zone, Threat-Low
 
 **Type:** Corporate Headquarters  
 **Area:** Little Europe (Central Night City)  

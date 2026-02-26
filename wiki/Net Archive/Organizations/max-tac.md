@@ -1,5 +1,6 @@
 # MaxTac
 
+**Tags:** MaxTac, Law-Enforcement, NCPD, Cyberpsycho-Hunter, Threat-Maximum
 
 **Territory:** All of Night City  
 **Threat Rating:** Maximum
@@ -34,7 +35,7 @@ MaxTac operates in SPAR teams (Special Purpose Assault Rescue). Each team is equ
 - Advanced cyberware
 - Specialized vehicles
 
-Many MaxTac officers are chromed to the point they themselves are on the watch list for cyberpsychosis. The NCPD's "fight fire with fire" strategy is considered effective, though controversial.
+Many MaxTac officers are chromed to the point they themselves are on the watch list for cyberpsychPD's "fightosis. The NC fire with fire" strategy is considered effective, though controversial.
 
 ## Equipment
 

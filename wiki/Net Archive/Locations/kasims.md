@@ -1,6 +1,6 @@
 # Kasim's
 
-
+**Tags:** Bar, Heywood, The-Glen, Threat-Low
 
 **Type:** Turkish Coffeehouse and Bar  
 **District:** The Glen, Heywood  

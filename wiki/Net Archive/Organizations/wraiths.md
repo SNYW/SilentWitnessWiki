@@ -1,5 +1,6 @@
 # Wraiths
 
+**Tags:** Wraiths, Raffen-Shiv, Nomad-Pack, Badlands, Aldecaldos-Rival, Threat-High
 
 **Territory:** Badlands surrounding Night City  
 **Threat Rating:** High

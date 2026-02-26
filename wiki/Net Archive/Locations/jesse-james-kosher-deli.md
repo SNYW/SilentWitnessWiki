@@ -1,6 +1,6 @@
 # Jesse James' Kosher Deli
 
-
+**Tags:** Restaurant, Combat-Zone, Threat-High
 
 **Type:** Restaurant / Survival Spot  
 **Area:** Old Combat Zone (District K)  

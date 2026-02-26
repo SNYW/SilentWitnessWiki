@@ -1,5 +1,6 @@
 # Valentinos
 
+**Tags:** Valentinos, Organized-Crime, Heywood, The-Glen, Vista-del-Rey, Threat-Medium-High
 
 **Type:** Gang / Organized Crime Family  
 **Primary Territory:** Heywood (The Glen, Vista del Rey, Wellsprings)  

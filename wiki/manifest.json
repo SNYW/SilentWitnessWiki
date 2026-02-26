@@ -378,6 +378,11 @@
               "path": "Net Archive/Locations/lucky-cat-stir-fry.md"
             },
             {
+              "name": "Maelstrom Arena",
+              "type": "file",
+              "path": "Net Archive/Locations/maelstrom-arena.md"
+            },
+            {
               "name": "Megabuilding H10",
               "type": "file",
               "path": "Net Archive/Locations/megabuilding-h10.md"

@@ -1,6 +1,6 @@
 # Short Circuit
 
-
+**Tags:** Bar, Corporate-Zone, Threat-Low
 
 **Type:** Bar / Techie Hangout
 **District:** Little Europe

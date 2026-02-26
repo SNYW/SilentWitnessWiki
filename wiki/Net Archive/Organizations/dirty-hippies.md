@@ -1,5 +1,6 @@
 # The Dirty Hippies
 
+**Tags:** The-Dirty-Hippies, Nomad-Pack, Rancho-Coronado, Guerrilla-Gardening, Threat-Low
 
 **Home Territory:** Rancho Coronado (District)  
 **Threat Rating:** Low-Medium

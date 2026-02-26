@@ -1,5 +1,6 @@
 # The Randy Dandy
 
+**Tags:** Bar, Threat-Medium
 
 **Type:** Mobile Bar / Passenger Ferry  
 **Location:** Flotsam, Del Coronado Bay (off the coast of Night City)

@@ -1,5 +1,6 @@
 # 6th Street
 
+**Tags:** 6th-Street, Organized-Crime, Law-Enforcement, Heywood, Santo-Domingo
 
 **Primary Territory:** North Heywood, Santo Domingo  
 **Threat Rating:** Medium-High
