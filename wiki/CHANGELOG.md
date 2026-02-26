@@ -2,6 +2,11 @@
 
 **Tags:** Wiki-Meta, Changelog
 
+## Entries Added 2026-02-26
+
+### Organizations - NetWatch
+- Added NetWatch - Global Net policing organization active during Time of the Red, responsible for developing the Blackwall in 2044 and monitoring netrunner activity worldwide
+
 ## Entries Added 2026-02-25
 
 ### Session 4 + Night Market Teams
@@ -74,7 +79,7 @@
 - Added Militech International Armaments - Major megacorp specializing in weapons manufacturing and military contracting, rival of Arasaka, active during Time of the Red
 
 ### 2026-02-24 - Organizations - Arasaka Corporation
-- Added Arasaka Corporation - Major megacorp with history in Night City, operating through NCCS and Tyger Claws proxies during RED era
+- Added Arasaka Corporation - Major history in Night City megacorp with, operating through NCCS and Tyger Claws proxies during RED era
 
 ### 2026-02-24 - Locations - RED Era Additions
 - Added Trauma Team Tower - Corporate medical headquarters in Watson Development

@@ -674,6 +674,11 @@
               "path": "Net Archive/Organizations/militech.md"
             },
             {
+              "name": "Netwatch",
+              "type": "file",
+              "path": "Net Archive/Organizations/netwatch.md"
+            },
+            {
               "name": "Night City Wonderland League",
               "type": "file",
               "path": "Net Archive/Organizations/night-city-wonderland-league.md"
