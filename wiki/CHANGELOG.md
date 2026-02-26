@@ -10,7 +10,7 @@
 ## Entries Added 2026-02-25
 
 ### Session 4 + Night Market Teams
-- Added Session 4 session log: The Night Market
+- Added Session 4 session log: Pop goes the David
 - Added Tesla Tyrants organization (Night Market team, recording/stun tech)
 - Added Creeping Death organization (Night Market team, poison specialists)
 - Added The ModLits organization (Night Market team, drone/mine specialists)
@@ -19,6 +19,7 @@
 - Added NPC: Toxica (Creeping Death leader)
 - Added NPC: Pins (ModLits leader)
 - Added NPC: Patient Zero (AI.DS leader)
+- Added NPC: Bloam (mystery girl, potential Herald)
 
 ### Organizations - Little China Redevelopment Association
 

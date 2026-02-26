@@ -37,6 +37,11 @@
               "path": "Local Archive/NPCs/bekah-bluejay.md"
             },
             {
+              "name": "Bloam",
+              "type": "file",
+              "path": "Local Archive/NPCs/bloam.md"
+            },
+            {
               "name": "Mr Giggles",
               "type": "file",
               "path": "Local Archive/NPCs/mr-giggles.md"
