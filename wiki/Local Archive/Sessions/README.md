@@ -1,5 +1,6 @@
 # Story
 
+**Tags:** Reference, Session
 
 Campaign narrative and session logs.
 

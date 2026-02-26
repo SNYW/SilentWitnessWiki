@@ -1,5 +1,6 @@
 # Red Hawks
 
+**Tags:** Red-Hawks, Nomad-Pack, Badlands, Crew-ally, Threat-Medium
 
 ## Basic Info
 - **Name:** Red Hawks

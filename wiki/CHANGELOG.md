@@ -1,5 +1,8 @@
 # Changelog
 
+### 2026-02-26 (Evening) - Locations - Pacifica
+- Added Playland by the Sea - Amusement park in Pacifica district, Night City's premiere tourist destination during Time of the Red (2040s), survived amid Pacifica's decay thanks to corporate sponsors
+
 ### 2026-02-26 (Early Afternoon) - Organizations - RED Era Corporations
 - Added SovOil - Major petrochemical corporation from the Neo-Soviet Union, active globally during Time of the Red, diversified into CHOOH2 and other industries by 2045
 - Added Kendachi - Japanese arms manufacturer specializing in monomolecular blade technology, operates orbital factories and has office in Night City

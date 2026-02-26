@@ -1,5 +1,7 @@
 # Gear, Economy, and Lifestyle
 
+**Tags:** Character-Creation, Lifepath, GM-Tools, Rules
+
 
 ---
 

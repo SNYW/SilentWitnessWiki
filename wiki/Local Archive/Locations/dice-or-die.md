@@ -1,5 +1,6 @@
 # Dice or Die
 
+**Tags:** Bar, Combat-Zone, Gambling, Threat-Medium, The-Precipice
 
 ## Overview
 

@@ -1,5 +1,7 @@
 # Quick Reference Index
 
+**Tags:** Character-Creation, Lifepath, GM-Tools, Rules
+
 
 A cross-reference guide to all rules files in this collection. Use this to quickly find where a specific mechanic, table, or topic is documented.
 

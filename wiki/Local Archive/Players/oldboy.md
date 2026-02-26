@@ -1,5 +1,6 @@
 # Gallahan "Old Boy" Murtock
 
+**Tags:** Player, Vultures, Detective, Solo, Red-Hawks, Session-1, Session-2, Session-3, Session-4
 
 ## Basic Info
 - **Name:** Gallahan Murtock

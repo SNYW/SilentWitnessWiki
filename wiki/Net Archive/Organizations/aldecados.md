@@ -1,6 +1,6 @@
 # Aldecaldos
 
-**Tags:** Aldecaldos, Nomad-Pack, Seven-Nations, Badlands
+**Tags:** Gang, Badlands, Threat-Low
 
 **Type:** Nomad Family / Nomad Nation  
 **Territory:** Badlands, Night City Outskirts  

@@ -1,5 +1,6 @@
 # The ModLits
 
+**Tags:** ModLits, Night-Market-Team, Tech-Gang, Crew-Neutral, Organized-Crime, Threat-Medium
 
 ## Basic Info
 - **Name:** The ModLits

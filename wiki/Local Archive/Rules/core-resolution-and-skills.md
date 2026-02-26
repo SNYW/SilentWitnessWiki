@@ -1,5 +1,7 @@
 # CORE RESOLUTION AND SKILLS
 
+**Tags:** Character-Creation, Lifepath, GM-Tools, Rules
+
 
 > Synthesized from: *Fitted for the Future* (pp. 72-91), *Getting It Done* (pp. 125-166), *Running Cyberpunk* (pp. 408-412)
 

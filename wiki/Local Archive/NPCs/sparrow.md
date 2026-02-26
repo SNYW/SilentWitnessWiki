@@ -1,5 +1,6 @@
 # Sparrow
 
+**Tags:** NPC, Status-Alive, Vultures, Messenger, Session-3
 
 ## Basic Info
 - **Name:** Sparrow

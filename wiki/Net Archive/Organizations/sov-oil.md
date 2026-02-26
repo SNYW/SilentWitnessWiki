@@ -1,5 +1,7 @@
 # SovOil
 
+**Tags:** Corporate
+
 **Type:** Corporation (Megacorporation)
 **Headquarters:** Neo-Soviet Union (Russia)
 **Founded:** 1997 (as Soviet World Oil Industries)

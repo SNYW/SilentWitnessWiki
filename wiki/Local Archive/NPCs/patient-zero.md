@@ -1,5 +1,6 @@
 # Patient Zero
 
+**Tags:** NPC, Status-Alive, AI-DS, Fixer, Megacorp, Bioweapons, Night-Market-Arc
 
 ## Basic Info
 - **Name:** Patient Zero

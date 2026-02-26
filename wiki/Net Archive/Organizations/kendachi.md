@@ -1,5 +1,7 @@
 # Kendachi
 
+**Tags:** Corporate
+
 **Type:** Corporation (Arms Manufacturer)
 **Headquarters:** Tokyo, Japan
 **Founded:** 21st Century

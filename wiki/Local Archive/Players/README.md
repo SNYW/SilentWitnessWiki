@@ -1,5 +1,6 @@
 # Characters
 
+**Tags:** Reference
 
 ## Player Characters
 | Name | Role | Background | Notes |

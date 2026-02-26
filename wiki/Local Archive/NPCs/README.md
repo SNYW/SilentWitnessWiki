@@ -1,5 +1,6 @@
 # NPCs
 
+**Tags:** Reference
 
 ## Fixers
 | Name | Reputation | Specialty | Contact |

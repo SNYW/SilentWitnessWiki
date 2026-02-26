@@ -1,5 +1,6 @@
 # Session 3: Awakening
 
+**Tags:** Session, Session-3, Combat-Encounter, Vultures, Bozos, Bloam
 
 ## Overview
 

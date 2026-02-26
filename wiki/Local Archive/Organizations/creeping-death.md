@@ -1,5 +1,6 @@
 # Creeping Death
 
+**Tags:** Creeping-Death, Night-Market-Team, Toxicity, Crew-Neutral, Organized-Crime, Threat-High
 
 ## Basic Info
 - **Name:** Creeping Death

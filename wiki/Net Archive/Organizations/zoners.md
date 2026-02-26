@@ -1,6 +1,6 @@
 # Zoners
 
-**Tags:** Zoners, Gang, Combat-Zone, Threat-Low, Threat-Medium, South-Night-City, The-Glen
+**Tags:** Gang, Combat-Zone, Threat-Medium
 
 **Type:** Gang / Protest Movement  
 **Primary Territory:** South Night City (Combat Zone), The Glen  

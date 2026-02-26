@@ -1,5 +1,6 @@
 # Toxica
 
+**Tags:** NPC, Status-Alive, Creeping-Death, Fixer, Night-Market-Arc, Toxicity
 
 ## Basic Info
 - **Name:** Toxica

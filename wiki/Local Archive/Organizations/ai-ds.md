@@ -1,5 +1,6 @@
 # AI.DS (All Idiots Die Someday)
 
+**Tags:** AI-DS, Night-Market-Team, Bioweapons, Crew-Neutral, Organized-Crime, Threat-Extreme
 
 ## Basic Info
 - **Name:** AI.DS (All Idiots Die Someday)

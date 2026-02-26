@@ -1,5 +1,7 @@
 # DAMAGE AND HEALING
 
+**Tags:** Character-Creation, Lifepath, GM-Tools, Rules
+
 
 > Synthesized from: *Friday Night Firefight* (pp. 180-194), *Trauma Team* (pp. 219-231)
 

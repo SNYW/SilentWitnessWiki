@@ -1,5 +1,7 @@
 # ROLES AND ABILITIES
 
+**Tags:** Character-Creation, Lifepath, GM-Tools, Rules
+
 
 > Synthesized from: *Getting It Done* (pp. 143-166)
 

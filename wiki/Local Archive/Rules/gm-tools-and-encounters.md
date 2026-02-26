@@ -1,5 +1,7 @@
 # GM Tools, Mooks, and Encounters
 
+**Tags:** Character-Creation, Lifepath, GM-Tools, Rules
+
 
 ---
 

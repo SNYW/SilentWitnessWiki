@@ -1,5 +1,6 @@
 # Volta
 
+**Tags:** NPC, Status-Alive, Tesla-Tyrants, Gang-Leader, Crew-Hostile, Night-Market-Arc
 
 ## Basic Info
 - **Name:** Volta

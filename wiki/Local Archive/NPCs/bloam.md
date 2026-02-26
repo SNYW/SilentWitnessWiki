@@ -1,5 +1,6 @@
 # Bloam
 
+**Tags:** NPC, Status-Alive, Vultures, Mystery, Glow-Eyed-Queen, Session-2, Session-3, Session-4
 
 ## Basic Info
 

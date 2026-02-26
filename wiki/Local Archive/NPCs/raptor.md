@@ -1,5 +1,6 @@
 # Raptor
 
+**Tags:** NPC, Status-Injured, Vultures, Gang-Leader, Session-3
 
 ## Basic Info
 - **Name:** Raptor

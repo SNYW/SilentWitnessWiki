@@ -1,5 +1,6 @@
 # Bozos
 
+**Tags:** Bozos, Gang, Combat-Zone, Crew-Hostile, Organized-Crime, Threat-Extreme
 
 **Type:** Boostergang / Prankster Gang  
 **Territory:** Various districts across Night City (Little Europe, South Night City, formerly West Hill)  

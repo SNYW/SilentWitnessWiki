@@ -1,5 +1,6 @@
 # The Precipice
 
+**Tags:** Location, Combat-Zone, Old-Japantown, Safehouse, Threat-High, Radiation-Hazard
 
 ## Basic Info
 - **Type:** Cargo container community

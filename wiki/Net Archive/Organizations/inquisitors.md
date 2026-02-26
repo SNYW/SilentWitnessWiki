@@ -1,6 +1,6 @@
 # Inquisitors
 
-**Tags:** Inquisitors, Anti-Cyberware-Cult, Cult, Threat-Very-High, Maelstrom-Rival
+**Tags:** Cult, Threat-Extreme
 
 **Territory:** Mobile / No Fixed Turf (RED Era)  
 **Threat Rating:** Very High

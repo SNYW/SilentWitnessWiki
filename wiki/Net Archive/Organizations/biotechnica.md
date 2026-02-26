@@ -1,6 +1,6 @@
 # BioTechnica
 
-**Tags:** BioTechnica, Megacorp, University-District, BioTech
+**Tags:** Corporate, Westbrook, Threat-Low
 
 **Type:** Megacorporation  
 **Headquarters:** Global (has facilities in Night City)  

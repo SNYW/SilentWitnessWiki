@@ -1,5 +1,7 @@
 # MELEE COMBAT AND BRAWLING
 
+**Tags:** Character-Creation, Lifepath, GM-Tools, Rules
+
 
 > Synthesized from: *Fitted for the Future* (pp. 93, 137-138), *Friday Night Firefight* (pp. 175-180)
 

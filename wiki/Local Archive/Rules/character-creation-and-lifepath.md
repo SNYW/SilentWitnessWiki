@@ -1,5 +1,7 @@
 # Character Creation and Lifepath
 
+**Tags:** Character-Creation, Lifepath, GM-Tools, Rules
+
 
 ---
 

@@ -1,5 +1,6 @@
 # Session 2: The Vault
 
+**Tags:** Session, Session-2, Combat-Encounter, Vultures, Bozos, Bloam
 
 ## Overview
 

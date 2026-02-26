@@ -1,11 +1,11 @@
 # Voodoo Boys
 
+**Tags:** Gang, Pacifica, Threat-High
+
 **Type:** Gang (Netrunner Syndicate)
 **District:** Pacifica
 **Territory:** The abandoned resort district of Pacifica, particularly around the old Hotels and the Gills section
 **Threat Rating:** High (Netrunner-focused)
-
-**Tags:** Voodoo-Boys, Gang, Pacifica, Threat-High
 
 ## Overview
 

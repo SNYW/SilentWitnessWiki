@@ -1,5 +1,6 @@
 # Mr Tubbs
 
+**Tags:** NPC, Status-Flatlined, Bozos, Gang, Combat-Zone, Session-1
 
 ## Basic Info
 - **Name:** Mr Tubbs
@@ -21,7 +22,7 @@ Mr Tubbs was a mid-level leader within the Bozos gang. He was known for harassin
 
 ## Death
 
-During Session 1, Mr Tubbs confronted the party at the transformer location. After refusing to leave and attempting to follow the party, combat ensued. The team killed him and looted his cyber arm and eye.
+During Session 1, Mr Tubbs confronted the party at the transformer location. and attempting to follow the party, combat ensued. The team After refusing to leave killed him and looted his cyber arm and eye.
 
 ## Loot Taken
 

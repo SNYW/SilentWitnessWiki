@@ -1,6 +1,6 @@
 # NetWatch
 
-**Tags:** NetWatch, Law-Enforcement, Netrunner-Agency, Blackwall, International-Organization
+**Tags:** Law-Enforcement, Threat-High
 
 **Type:** International Net Policing Organization  
 **Headquarters:** London, England  

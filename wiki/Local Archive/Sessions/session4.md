@@ -1,5 +1,6 @@
 # Session 4: Pop goes the David
 
+**Tags:** Session, Session-4, Night-Market-Arc, Combat-Encounter, Vultures, Bozos, Tesla-Tyrants, Bloam, Glow-Eyed-Queen
 
 ## TL;DR
 
@@ -68,7 +69,7 @@ The gonk tries to run. Hits **Sal** with a stun gun, breaks the grapple. **Roadb
 
 The crew decides fast: hit back at the **Tesla Tyrants**. They know about **Bloam** now, which means word's gonna spread. Hit first, ask questions later.
 
-**Vulture** stands over **Sparrow** — still unconscious, but breathing. Kid belongs to the crew now. **Roadblock** speaks up: call him **Sparrowhawk** from here on out.
+**Vulture** stands over **Sparrow** — still unconscious, but breathing. Kid belongs to the crew now. **Roadblock** speaks up: call him **Sparrowhawk** from here on.
 
 They've got a month to prep. A captured gonk from a rival crew. And a mystery girl who can turn a man into red mist.
 

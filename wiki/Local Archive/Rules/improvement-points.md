@@ -1,5 +1,7 @@
 # Improvement Points
 
+**Tags:** Character-Creation, Lifepath, GM-Tools, Rules
+
 
 ---
 

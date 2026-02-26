@@ -1,11 +1,11 @@
 # The Mox
 
+**Tags:** Gang, Watson, Threat-Medium
+
 **Type:** Gang (Protective Syndicate)
 **District:** Watson (Kabuki)
-**Territory:** Lizzie’s Bar and surrounding area in Kabuki
+**Territory:** Lizzie's Bar and surrounding area in Kabuki
 **Threat Rating:** Medium (Defensive, non-territorial)
-
-**Tags:** The-Mox, Gang, Watson, Threat-Medium
 
 ## Overview
 

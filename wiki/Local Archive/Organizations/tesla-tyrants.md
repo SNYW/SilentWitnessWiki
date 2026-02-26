@@ -1,5 +1,6 @@
 # Tesla Tyrants
 
+**Tags:** Tesla-Tyrants, Night-Market-Team, Tech-Gang, Crew-Hostile, Organized-Crime, Threat-High
 
 ## Basic Info
 - **Name:** Tesla Tyrants

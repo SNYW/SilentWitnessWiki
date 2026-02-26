@@ -1,5 +1,7 @@
 # NETRUNNING
 
+**Tags:** Character-Creation, Lifepath, GM-Tools, Rules
+
 
 > Synthesized from: *Netrunning* (pp. 196-218), *Getting It Done* (p. 148)
 

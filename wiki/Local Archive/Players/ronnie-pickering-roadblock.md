@@ -1,5 +1,6 @@
 # Ronnie "Roadblock" Pickering
 
+**Tags:** Player, Vultures, Solo, NCPD, Session-1, Session-2, Session-3, Session-4
 
 ## Basic Info
 - **Name:** Ronnie Pickering

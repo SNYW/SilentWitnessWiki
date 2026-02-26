@@ -1,6 +1,6 @@
 # MaxTac
 
-**Tags:** MaxTac, Law-Enforcement, NCPD, Cyberpsycho-Hunter, Threat-Maximum
+**Tags:** Law-Enforcement, Threat-Extreme
 
 **Territory:** All of Night City  
 **Threat Rating:** Maximum

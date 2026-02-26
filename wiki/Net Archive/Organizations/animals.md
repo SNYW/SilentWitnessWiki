@@ -1,11 +1,11 @@
 # Animals
 
+**Tags:** Gang, Threat-High
+
 **Type:** Gang (Boostergang/Street Fighter)
 **District:** Mobile throughout Night City
 **Territory:** No fixed turf—packs operate throughout the city
 **Threat Rating:** High (Combat-focused)
-
-**Tags:** Animals, Gang, Threat-High
 
 ## Overview
 
