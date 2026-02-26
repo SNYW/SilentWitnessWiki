@@ -1,5 +1,7 @@
 # Changelog
 
+### Organizations - Night City Co-Prosperity Sphere
+- Added Night City Co-Prosperity Sphere (NCCS) - Corporate consortium of Japanese corporations formed after Fourth Corporate War, responsible for Watson Development reconstruction and sponsor of Tyger Claws gang
 
 ### Locations - Maelstrom Arena
 
@@ -33,7 +35,7 @@
 ### Organizations - Little China Redevelopment Association
 
 ### 2026-02-25 (Late) - Organizations - Little China Redevelopment Association
-- Added Little China Redevelopment Association (LCRA) - Community organization working to revitalize Little China Combat Zone during Time of the Red, known for Guăngbō Tower rehabilitation project
+- Added Little China Redevelopment Association (LCRA) - Community organization working to revitalize Little China Combat Zone during Time of the Red, known for Guǎngbō Tower rehabilitation project
 
 ### 2026-02-25 (Late) - Organizations - Kang Tao
 - Added Kang Tao - Weapons manufacturer restructured in 2046, known for smart-gun technology, major player during RED era

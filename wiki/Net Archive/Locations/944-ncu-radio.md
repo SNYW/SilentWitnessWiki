@@ -1,5 +1,7 @@
 # 94.4 NCU Radio
 
+**Tags:** University-District, Radio-Station, Nightlife, Cultural-Hub, Threat-Medium
+
 **Type:** Radio Station  
 **Era:** Time of the Red (2045)  
 **Location:** Night City University, University District  
