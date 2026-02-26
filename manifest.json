@@ -1,0 +1,902 @@
+{
+  "name": ".",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Local Archive",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Locations",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Dice Or Die",
+              "type": "file",
+              "path": "Local Archive/Locations/dice-or-die.md"
+            },
+            {
+              "name": "The Precipice",
+              "type": "file",
+              "path": "Local Archive/Locations/the-precipice.md"
+            },
+            {
+              "name": "Vultures Nest",
+              "type": "file",
+              "path": "Local Archive/Locations/vultures-nest.md"
+            }
+          ]
+        },
+        {
+          "name": "NPCs",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Bekah Bluejay",
+              "type": "file",
+              "path": "Local Archive/NPCs/bekah-bluejay.md"
+            },
+            {
+              "name": "Bloam",
+              "type": "file",
+              "path": "Local Archive/NPCs/bloam.md"
+            },
+            {
+              "name": "Mr Giggles",
+              "type": "file",
+              "path": "Local Archive/NPCs/mr-giggles.md"
+            },
+            {
+              "name": "Mr Tubbs",
+              "type": "file",
+              "path": "Local Archive/NPCs/mr-tubbs.md"
+            },
+            {
+              "name": "Patient Zero",
+              "type": "file",
+              "path": "Local Archive/NPCs/patient-zero.md"
+            },
+            {
+              "name": "Pins",
+              "type": "file",
+              "path": "Local Archive/NPCs/pins.md"
+            },
+            {
+              "name": "Raptor",
+              "type": "file",
+              "path": "Local Archive/NPCs/raptor.md"
+            },
+            {
+              "name": "Sparrow",
+              "type": "file",
+              "path": "Local Archive/NPCs/sparrow.md"
+            },
+            {
+              "name": "Toxica",
+              "type": "file",
+              "path": "Local Archive/NPCs/toxica.md"
+            },
+            {
+              "name": "Volta",
+              "type": "file",
+              "path": "Local Archive/NPCs/volta.md"
+            }
+          ]
+        },
+        {
+          "name": "Organizations",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Ai Ds",
+              "type": "file",
+              "path": "Local Archive/Organizations/ai-ds.md"
+            },
+            {
+              "name": "Bozos",
+              "type": "file",
+              "path": "Local Archive/Organizations/bozos.md"
+            },
+            {
+              "name": "Creeping Death",
+              "type": "file",
+              "path": "Local Archive/Organizations/creeping-death.md"
+            },
+            {
+              "name": "Red Hawks",
+              "type": "file",
+              "path": "Local Archive/Organizations/red-hawks.md"
+            },
+            {
+              "name": "Tesla Tyrants",
+              "type": "file",
+              "path": "Local Archive/Organizations/tesla-tyrants.md"
+            },
+            {
+              "name": "The Modlits",
+              "type": "file",
+              "path": "Local Archive/Organizations/the-modlits.md"
+            },
+            {
+              "name": "The Vultures",
+              "type": "file",
+              "path": "Local Archive/Organizations/the-vultures.md"
+            }
+          ]
+        },
+        {
+          "name": "Players",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Magpie",
+              "type": "file",
+              "path": "Local Archive/Players/magpie.md"
+            },
+            {
+              "name": "Oldboy",
+              "type": "file",
+              "path": "Local Archive/Players/oldboy.md"
+            },
+            {
+              "name": "Ronnie Pickering Roadblock",
+              "type": "file",
+              "path": "Local Archive/Players/ronnie-pickering-roadblock.md"
+            }
+          ]
+        },
+        {
+          "name": "Rules",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Character Creation And Lifepath",
+              "type": "file",
+              "path": "Local Archive/Rules/character-creation-and-lifepath.md"
+            },
+            {
+              "name": "Core Resolution And Skills",
+              "type": "file",
+              "path": "Local Archive/Rules/core-resolution-and-skills.md"
+            },
+            {
+              "name": "Cyberware",
+              "type": "file",
+              "path": "Local Archive/Rules/cyberware.md"
+            },
+            {
+              "name": "Damage And Healing",
+              "type": "file",
+              "path": "Local Archive/Rules/damage-and-healing.md"
+            },
+            {
+              "name": "Gear And Economy",
+              "type": "file",
+              "path": "Local Archive/Rules/gear-and-economy.md"
+            },
+            {
+              "name": "Gm Tools And Encounters",
+              "type": "file",
+              "path": "Local Archive/Rules/gm-tools-and-encounters.md"
+            },
+            {
+              "name": "Improvement Points",
+              "type": "file",
+              "path": "Local Archive/Rules/improvement-points.md"
+            },
+            {
+              "name": "Melee And Brawling",
+              "type": "file",
+              "path": "Local Archive/Rules/melee-and-brawling.md"
+            },
+            {
+              "name": "Netrunning",
+              "type": "file",
+              "path": "Local Archive/Rules/netrunning.md"
+            },
+            {
+              "name": "Quick Reference Index",
+              "type": "file",
+              "path": "Local Archive/Rules/quick-reference-index.md"
+            },
+            {
+              "name": "Ranged Combat",
+              "type": "file",
+              "path": "Local Archive/Rules/ranged-combat.md"
+            },
+            {
+              "name": "Roles And Abilities",
+              "type": "file",
+              "path": "Local Archive/Rules/roles-and-abilities.md"
+            },
+            {
+              "name": "Vehicles And Chases",
+              "type": "file",
+              "path": "Local Archive/Rules/vehicles-and-chases.md"
+            }
+          ]
+        },
+        {
+          "name": "Sessions",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Session1",
+              "type": "file",
+              "path": "Local Archive/Sessions/session1.md"
+            },
+            {
+              "name": "Session2",
+              "type": "file",
+              "path": "Local Archive/Sessions/session2.md"
+            },
+            {
+              "name": "Session3",
+              "type": "file",
+              "path": "Local Archive/Sessions/session3.md"
+            },
+            {
+              "name": "Session4",
+              "type": "file",
+              "path": "Local Archive/Sessions/session4.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net Archive",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Locations",
+          "type": "folder",
+          "children": [
+            {
+              "name": "944 Ncu Radio",
+              "type": "file",
+              "path": "Net Archive/Locations/944-ncu-radio.md"
+            },
+            {
+              "name": "Afterlife",
+              "type": "file",
+              "path": "Net Archive/Locations/afterlife.md"
+            },
+            {
+              "name": "Arasaka Towers Ruins",
+              "type": "file",
+              "path": "Net Archive/Locations/arasaka-towers-ruins.md"
+            },
+            {
+              "name": "Ashcroft Hotel",
+              "type": "file",
+              "path": "Net Archive/Locations/ashcroft-hotel.md"
+            },
+            {
+              "name": "Badlands",
+              "type": "file",
+              "path": "Net Archive/Locations/badlands.md"
+            },
+            {
+              "name": "Brookhaven Co Op",
+              "type": "file",
+              "path": "Net Archive/Locations/brookhaven-co-op.md"
+            },
+            {
+              "name": "Burleson Tower",
+              "type": "file",
+              "path": "Net Archive/Locations/burleson-tower.md"
+            },
+            {
+              "name": "Choppers",
+              "type": "file",
+              "path": "Net Archive/Locations/choppers.md"
+            },
+            {
+              "name": "Chrome Cross Bar",
+              "type": "file",
+              "path": "Net Archive/Locations/chrome-cross-bar.md"
+            },
+            {
+              "name": "City Medical Center",
+              "type": "file",
+              "path": "Net Archive/Locations/city-medical-center.md"
+            },
+            {
+              "name": "Crisis Medical Center",
+              "type": "file",
+              "path": "Net Archive/Locations/crisis-medical-center.md"
+            },
+            {
+              "name": "Danger Gal Headquarters",
+              "type": "file",
+              "path": "Net Archive/Locations/danger-gal-headquarters.md"
+            },
+            {
+              "name": "Delirium",
+              "type": "file",
+              "path": "Net Archive/Locations/delirium.md"
+            },
+            {
+              "name": "Deravaja Dojo",
+              "type": "file",
+              "path": "Net Archive/Locations/deravaja-dojo.md"
+            },
+            {
+              "name": "Executive Zone",
+              "type": "file",
+              "path": "Net Archive/Locations/executive-zone.md"
+            },
+            {
+              "name": "Flotsam",
+              "type": "file",
+              "path": "Net Archive/Locations/flotsam.md"
+            },
+            {
+              "name": "Forlorn Hope",
+              "type": "file",
+              "path": "Net Archive/Locations/forlorn-hope.md"
+            },
+            {
+              "name": "Guangbo Tower",
+              "type": "file",
+              "path": "Net Archive/Locations/guangbo-tower.md"
+            },
+            {
+              "name": "Hardhats Warehouse",
+              "type": "file",
+              "path": "Net Archive/Locations/hardhats-warehouse.md"
+            },
+            {
+              "name": "Herschels Crematorium",
+              "type": "file",
+              "path": "Net Archive/Locations/herschels-crematorium.md"
+            },
+            {
+              "name": "Heywood",
+              "type": "file",
+              "path": "Net Archive/Locations/heywood.md"
+            },
+            {
+              "name": "Highcourt Plaza Hotel",
+              "type": "file",
+              "path": "Net Archive/Locations/highcourt-plaza-hotel.md"
+            },
+            {
+              "name": "Jesse James Kosher Deli",
+              "type": "file",
+              "path": "Net Archive/Locations/jesse-james-kosher-deli.md"
+            },
+            {
+              "name": "Jig Jig Street",
+              "type": "file",
+              "path": "Net Archive/Locations/jig-jig-street.md"
+            },
+            {
+              "name": "Kabuki",
+              "type": "file",
+              "path": "Net Archive/Locations/kabuki.md"
+            },
+            {
+              "name": "Kasims",
+              "type": "file",
+              "path": "Net Archive/Locations/kasims.md"
+            },
+            {
+              "name": "Laguna Bend",
+              "type": "file",
+              "path": "Net Archive/Locations/laguna-bend.md"
+            },
+            {
+              "name": "Ling Po Public Library",
+              "type": "file",
+              "path": "Net Archive/Locations/ling-po-public-library.md"
+            },
+            {
+              "name": "Little China",
+              "type": "file",
+              "path": "Net Archive/Locations/little-china.md"
+            },
+            {
+              "name": "Little Europe",
+              "type": "file",
+              "path": "Net Archive/Locations/little-europe.md"
+            },
+            {
+              "name": "Lucky Cat Stir Fry",
+              "type": "file",
+              "path": "Net Archive/Locations/lucky-cat-stir-fry.md"
+            },
+            {
+              "name": "Maelstrom Arena",
+              "type": "file",
+              "path": "Net Archive/Locations/maelstrom-arena.md"
+            },
+            {
+              "name": "Megabuilding H10",
+              "type": "file",
+              "path": "Net Archive/Locations/megabuilding-h10.md"
+            },
+            {
+              "name": "Megabuilding H8",
+              "type": "file",
+              "path": "Net Archive/Locations/megabuilding-h8.md"
+            },
+            {
+              "name": "Mistys Esoterica",
+              "type": "file",
+              "path": "Net Archive/Locations/mistys-esoterica.md"
+            },
+            {
+              "name": "Ncart",
+              "type": "file",
+              "path": "Net Archive/Locations/ncart.md"
+            },
+            {
+              "name": "Night Market",
+              "type": "file",
+              "path": "Net Archive/Locations/night-market.md"
+            },
+            {
+              "name": "Old Japantown",
+              "type": "file",
+              "path": "Net Archive/Locations/old-japantown.md"
+            },
+            {
+              "name": "Pacifica",
+              "type": "file",
+              "path": "Net Archive/Locations/pacifica.md"
+            },
+            {
+              "name": "Pol Bud Cement Factory",
+              "type": "file",
+              "path": "Net Archive/Locations/pol-bud-cement-factory.md"
+            },
+            {
+              "name": "Prosperity Gardens Tenements",
+              "type": "file",
+              "path": "Net Archive/Locations/prosperity-gardens-tenements.md"
+            },
+            {
+              "name": "Rancho Coronado",
+              "type": "file",
+              "path": "Net Archive/Locations/rancho-coronado.md"
+            },
+            {
+              "name": "Randy Dandy",
+              "type": "file",
+              "path": "Net Archive/Locations/randy-dandy.md"
+            },
+            {
+              "name": "Reclaimed Perimeter",
+              "type": "file",
+              "path": "Net Archive/Locations/reclaimed-perimeter.md"
+            },
+            {
+              "name": "Redline",
+              "type": "file",
+              "path": "Net Archive/Locations/redline.md"
+            },
+            {
+              "name": "Regional Airport",
+              "type": "file",
+              "path": "Net Archive/Locations/regional-airport.md"
+            },
+            {
+              "name": "Rustys Dive Shack",
+              "type": "file",
+              "path": "Net Archive/Locations/rustys-dive-shack.md"
+            },
+            {
+              "name": "Santo Domingo",
+              "type": "file",
+              "path": "Net Archive/Locations/santo-domingo.md"
+            },
+            {
+              "name": "Short Circuit",
+              "type": "file",
+              "path": "Net Archive/Locations/short-circuit.md"
+            },
+            {
+              "name": "South Night City",
+              "type": "file",
+              "path": "Net Archive/Locations/south-night-city.md"
+            },
+            {
+              "name": "Tent City",
+              "type": "file",
+              "path": "Net Archive/Locations/tent-city.md"
+            },
+            {
+              "name": "The Big Top",
+              "type": "file",
+              "path": "Net Archive/Locations/the-big-top.md"
+            },
+            {
+              "name": "The Boneyard",
+              "type": "file",
+              "path": "Net Archive/Locations/the-boneyard.md"
+            },
+            {
+              "name": "The Columbarium",
+              "type": "file",
+              "path": "Net Archive/Locations/the-columbarium.md"
+            },
+            {
+              "name": "The Glen",
+              "type": "file",
+              "path": "Net Archive/Locations/the-glen.md"
+            },
+            {
+              "name": "The Lair",
+              "type": "file",
+              "path": "Net Archive/Locations/the-lair.md"
+            },
+            {
+              "name": "The Last Stop",
+              "type": "file",
+              "path": "Net Archive/Locations/the-last-stop.md"
+            },
+            {
+              "name": "The N54",
+              "type": "file",
+              "path": "Net Archive/Locations/the-n54.md"
+            },
+            {
+              "name": "The Precipice",
+              "type": "file",
+              "path": "Net Archive/Locations/the-precipice.md"
+            },
+            {
+              "name": "The Shark",
+              "type": "file",
+              "path": "Net Archive/Locations/the-shark.md"
+            },
+            {
+              "name": "The Signboards",
+              "type": "file",
+              "path": "Net Archive/Locations/the-signboards.md"
+            },
+            {
+              "name": "The Slammer",
+              "type": "file",
+              "path": "Net Archive/Locations/the-slammer.md"
+            },
+            {
+              "name": "The Time Machine",
+              "type": "file",
+              "path": "Net Archive/Locations/the-time-machine.md"
+            },
+            {
+              "name": "Thehorn",
+              "type": "file",
+              "path": "Net Archive/Locations/thehorn.md"
+            },
+            {
+              "name": "Toggles Temple",
+              "type": "file",
+              "path": "Net Archive/Locations/toggles-temple.md"
+            },
+            {
+              "name": "Toms Diner",
+              "type": "file",
+              "path": "Net Archive/Locations/toms-diner.md"
+            },
+            {
+              "name": "Totentanz",
+              "type": "file",
+              "path": "Net Archive/Locations/totentanz.md"
+            },
+            {
+              "name": "Trauma Team Tower",
+              "type": "file",
+              "path": "Net Archive/Locations/trauma-team-tower.md"
+            },
+            {
+              "name": "Union Chapel",
+              "type": "file",
+              "path": "Net Archive/Locations/union-chapel.md"
+            },
+            {
+              "name": "University District",
+              "type": "file",
+              "path": "Net Archive/Locations/university-district.md"
+            },
+            {
+              "name": "Vargtimmen",
+              "type": "file",
+              "path": "Net Archive/Locations/vargtimmen.md"
+            },
+            {
+              "name": "Viktors Clinic",
+              "type": "file",
+              "path": "Net Archive/Locations/viktors-clinic.md"
+            },
+            {
+              "name": "Virtexs Virtuality Venue",
+              "type": "file",
+              "path": "Net Archive/Locations/virtexs-virtuality-venue.md"
+            },
+            {
+              "name": "Watson Development",
+              "type": "file",
+              "path": "Net Archive/Locations/watson-development.md"
+            },
+            {
+              "name": "Westbrook",
+              "type": "file",
+              "path": "Net Archive/Locations/westbrook.md"
+            },
+            {
+              "name": "Woodland Park",
+              "type": "file",
+              "path": "Net Archive/Locations/woodland-park.md"
+            }
+          ]
+        },
+        {
+          "name": "Organizations",
+          "type": "folder",
+          "children": [
+            {
+              "name": "6Th Street",
+              "type": "file",
+              "path": "Net Archive/Organizations/6th-street.md"
+            },
+            {
+              "name": "Aldecados",
+              "type": "file",
+              "path": "Net Archive/Organizations/aldecados.md"
+            },
+            {
+              "name": "Andersons",
+              "type": "file",
+              "path": "Net Archive/Organizations/andersons.md"
+            },
+            {
+              "name": "Arasaka",
+              "type": "file",
+              "path": "Net Archive/Organizations/arasaka.md"
+            },
+            {
+              "name": "Biotechnica",
+              "type": "file",
+              "path": "Net Archive/Organizations/biotechnica.md"
+            },
+            {
+              "name": "Bozos",
+              "type": "file",
+              "path": "Net Archive/Organizations/bozos.md"
+            },
+            {
+              "name": "Consortium",
+              "type": "file",
+              "path": "Net Archive/Organizations/consortium.md"
+            },
+            {
+              "name": "Danger Gal",
+              "type": "file",
+              "path": "Net Archive/Organizations/danger-gal.md"
+            },
+            {
+              "name": "Deadwoods",
+              "type": "file",
+              "path": "Net Archive/Organizations/deadwoods.md"
+            },
+            {
+              "name": "Digital Divas",
+              "type": "file",
+              "path": "Net Archive/Organizations/digital-divas.md"
+            },
+            {
+              "name": "Dirty Hippies",
+              "type": "file",
+              "path": "Net Archive/Organizations/dirty-hippies.md"
+            },
+            {
+              "name": "Dockside Billhooks",
+              "type": "file",
+              "path": "Net Archive/Organizations/dockside-billhooks.md"
+            },
+            {
+              "name": "Generation Red",
+              "type": "file",
+              "path": "Net Archive/Organizations/generation-red.md"
+            },
+            {
+              "name": "Inquisitors",
+              "type": "file",
+              "path": "Net Archive/Organizations/inquisitors.md"
+            },
+            {
+              "name": "Iron Sights",
+              "type": "file",
+              "path": "Net Archive/Organizations/iron-sights.md"
+            },
+            {
+              "name": "Jodes",
+              "type": "file",
+              "path": "Net Archive/Organizations/jodes.md"
+            },
+            {
+              "name": "Kang Tao",
+              "type": "file",
+              "path": "Net Archive/Organizations/kang-tao.md"
+            },
+            {
+              "name": "Kimen Gumi",
+              "type": "file",
+              "path": "Net Archive/Organizations/kimen-gumi.md"
+            },
+            {
+              "name": "Kiroshi",
+              "type": "file",
+              "path": "Net Archive/Organizations/kiroshi.md"
+            },
+            {
+              "name": "Lightning Cats",
+              "type": "file",
+              "path": "Net Archive/Organizations/lightning-cats.md"
+            },
+            {
+              "name": "Little China Redevelopment Association",
+              "type": "file",
+              "path": "Net Archive/Organizations/little-china-redevelopment-association.md"
+            },
+            {
+              "name": "Maelstrom",
+              "type": "file",
+              "path": "Net Archive/Organizations/maelstrom.md"
+            },
+            {
+              "name": "Max Tac",
+              "type": "file",
+              "path": "Net Archive/Organizations/max-tac.md"
+            },
+            {
+              "name": "Militech",
+              "type": "file",
+              "path": "Net Archive/Organizations/militech.md"
+            },
+            {
+              "name": "Netwatch",
+              "type": "file",
+              "path": "Net Archive/Organizations/netwatch.md"
+            },
+            {
+              "name": "Night City Co Prosperity Sphere",
+              "type": "file",
+              "path": "Net Archive/Organizations/night-city-co-prosperity-sphere.md"
+            },
+            {
+              "name": "Night City Wonderland League",
+              "type": "file",
+              "path": "Net Archive/Organizations/night-city-wonderland-league.md"
+            },
+            {
+              "name": "Night Corp",
+              "type": "file",
+              "path": "Net Archive/Organizations/night-corp.md"
+            },
+            {
+              "name": "Orbital Air",
+              "type": "file",
+              "path": "Net Archive/Organizations/orbital-air.md"
+            },
+            {
+              "name": "Philharmonic Vampyres",
+              "type": "file",
+              "path": "Net Archive/Organizations/philharmonic-vampyres.md"
+            },
+            {
+              "name": "Piranhas",
+              "type": "file",
+              "path": "Net Archive/Organizations/piranhas.md"
+            },
+            {
+              "name": "Reckoners",
+              "type": "file",
+              "path": "Net Archive/Organizations/reckoners.md"
+            },
+            {
+              "name": "Red Chrome Legion",
+              "type": "file",
+              "path": "Net Archive/Organizations/red-chrome-legion.md"
+            },
+            {
+              "name": "Shroomers",
+              "type": "file",
+              "path": "Net Archive/Organizations/shroomers.md"
+            },
+            {
+              "name": "Sightseers",
+              "type": "file",
+              "path": "Net Archive/Organizations/sightseers.md"
+            },
+            {
+              "name": "Sinful Adams",
+              "type": "file",
+              "path": "Net Archive/Organizations/sinful-adams.md"
+            },
+            {
+              "name": "Team Monster",
+              "type": "file",
+              "path": "Net Archive/Organizations/team-monster.md"
+            },
+            {
+              "name": "The Faded",
+              "type": "file",
+              "path": "Net Archive/Organizations/the-faded.md"
+            },
+            {
+              "name": "The Muses",
+              "type": "file",
+              "path": "Net Archive/Organizations/the-muses.md"
+            },
+            {
+              "name": "Toecutters",
+              "type": "file",
+              "path": "Net Archive/Organizations/toecutters.md"
+            },
+            {
+              "name": "Tsunami Arms",
+              "type": "file",
+              "path": "Net Archive/Organizations/tsunami-arms.md"
+            },
+            {
+              "name": "Tyger Claws",
+              "type": "file",
+              "path": "Net Archive/Organizations/tyger-claws.md"
+            },
+            {
+              "name": "Undertow",
+              "type": "file",
+              "path": "Net Archive/Organizations/undertow.md"
+            },
+            {
+              "name": "Valentinos",
+              "type": "file",
+              "path": "Net Archive/Organizations/valentinos.md"
+            },
+            {
+              "name": "Wraiths",
+              "type": "file",
+              "path": "Net Archive/Organizations/wraiths.md"
+            },
+            {
+              "name": "Zetatech",
+              "type": "file",
+              "path": "Net Archive/Organizations/zetatech.md"
+            },
+            {
+              "name": "Zoners",
+              "type": "file",
+              "path": "Net Archive/Organizations/zoners.md"
+            }
+          ]
+        },
+        {
+          "name": "Setting",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Night City History",
+              "type": "file",
+              "path": "Net Archive/Setting/night-city-history.md"
+            },
+            {
+              "name": "Prominent Locations",
+              "type": "file",
+              "path": "Net Archive/Setting/prominent-locations.md"
+            },
+            {
+              "name": "Time Of The Red",
+              "type": "file",
+              "path": "Net Archive/Setting/time-of-the-red.md"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
