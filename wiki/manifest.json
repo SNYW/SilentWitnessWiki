@@ -263,6 +263,11 @@
               "path": "Net Archive/Locations/afterlife.md"
             },
             {
+              "name": "Arasaka Towers Ruins",
+              "type": "file",
+              "path": "Net Archive/Locations/arasaka-towers-ruins.md"
+            },
+            {
               "name": "Ashcroft Hotel",
               "type": "file",
               "path": "Net Archive/Locations/ashcroft-hotel.md"
@@ -331,6 +336,11 @@
               "name": "Guangbo Tower",
               "type": "file",
               "path": "Net Archive/Locations/guangbo-tower.md"
+            },
+            {
+              "name": "Hardhats Warehouse",
+              "type": "file",
+              "path": "Net Archive/Locations/hardhats-warehouse.md"
             },
             {
               "name": "Herschels Crematorium",
@@ -468,6 +478,11 @@
               "path": "Net Archive/Locations/south-night-city.md"
             },
             {
+              "name": "Tent City",
+              "type": "file",
+              "path": "Net Archive/Locations/tent-city.md"
+            },
+            {
               "name": "The Big Top",
               "type": "file",
               "path": "Net Archive/Locations/the-big-top.md"
@@ -496,6 +511,11 @@
               "name": "The Last Stop",
               "type": "file",
               "path": "Net Archive/Locations/the-last-stop.md"
+            },
+            {
+              "name": "The N54",
+              "type": "file",
+              "path": "Net Archive/Locations/the-n54.md"
             },
             {
               "name": "The Precipice",
@@ -619,9 +639,19 @@
               "path": "Net Archive/Organizations/bozos.md"
             },
             {
+              "name": "Consortium",
+              "type": "file",
+              "path": "Net Archive/Organizations/consortium.md"
+            },
+            {
               "name": "Danger Gal",
               "type": "file",
               "path": "Net Archive/Organizations/danger-gal.md"
+            },
+            {
+              "name": "Deadwoods",
+              "type": "file",
+              "path": "Net Archive/Organizations/deadwoods.md"
             },
             {
               "name": "Digital Divas",
@@ -672,6 +702,11 @@
               "name": "Kiroshi",
               "type": "file",
               "path": "Net Archive/Organizations/kiroshi.md"
+            },
+            {
+              "name": "Lightning Cats",
+              "type": "file",
+              "path": "Net Archive/Organizations/lightning-cats.md"
             },
             {
               "name": "Little China Redevelopment Association",
@@ -727,6 +762,11 @@
               "name": "Piranhas",
               "type": "file",
               "path": "Net Archive/Organizations/piranhas.md"
+            },
+            {
+              "name": "Reckoners",
+              "type": "file",
+              "path": "Net Archive/Organizations/reckoners.md"
             },
             {
               "name": "Red Chrome Legion",

@@ -1,5 +1,17 @@
 # Changelog
 
+### 2026-02-26 - Locations - Hot Zone
+- Added Tent City - Makeshift encampment in Hot Zone, home to scavvers and desperate survivors during Time of the Red
+- Added The N54 - Ruined Network 54 offices in Hot Zone's Old Corporate Center
+- Added Hardhat's Warehouse - Derelict warehouse in Hot Zone's Old City Center used by scavvers
+- Added Arasaka Towers Ruins - Nuclear-devastated remains of Arasaka headquarters in Hot Zone
+
+### 2026-02-26 - Organizations - Hot Zone Gangs
+- Added DeadWoods - Gang operating in Port of Night City during Time of the Red
+- Added Reckoners - Radical eco-terrorist gang in Hot Zone during Time of the Red
+- Added Lightning Cats - Dangerous gang operating in Hot Zone during Time of the Red
+- Added Consortium - Criminal organization in Port of Night City competing with DeadWoods
+
 ### Organizations - Night City Co-Prosperity Sphere
 - Added Night City Co-Prosperity Sphere (NCCS) - Corporate consortium of Japanese corporations formed after Fourth Corporate War, responsible for Watson Development reconstruction and sponsor of Tyger Claws gang
 
