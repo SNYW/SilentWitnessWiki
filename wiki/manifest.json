@@ -239,6 +239,11 @@
               "name": "Session4",
               "type": "file",
               "path": "Local Archive/Sessions/session4.md"
+            },
+            {
+              "name": "Session5",
+              "type": "file",
+              "path": "Local Archive/Sessions/session5.md"
             }
           ]
         }
