@@ -4,7 +4,7 @@
 
 ## TL;DR
 
-The crew gears up to hit the Tesla Tyrants' hidden base — a secret underground facility beneath a night club in Upper Marina called **Sparks**. After securing wheels from Old Boy's chop shop contacts, they route through Little China but get harassed by NCPD along the way. Roadblock scores intel on the Tesla Tyrants' leader from his day job, while Magpie rallies the crew toward their目标是 — stealing a high-powered battery for his R.O.O.K. project.
+The crew gears up to hit the Tesla Tyrants at their night club in Upper Marina called **Sparks**. After securing wheels from Old Boy's chop shop contacts, they route through Little China but get harassed by NCPD along the way. Roadblock scores intel on the Tesla Tyrants' leader from his day job, while Magpie rallies the crew toward their goal — stealing a high-powered battery for his R.O.O.K. project.
 
 ## Wheels of Fortune
 
@@ -16,7 +16,7 @@ Problem is, the target's in Upper Marina. Three-hour walk through terrain that w
 
 He goes. Gets the wheels.
 
-Meanwhile, **Roadblock** swings by **Precipice Securities** — his day job, his in with the corps. Catches up with the boys, then corners his boss, **Danny Roman**, for the real talk. Danny's got the file on the Tesla Tyrants' head honcho: **Volta**. Never leaves the house. Never needs to. She's got eyes everywhere — cameras, drones, enough surveillance gear to make MaxTac jealous. Danny hands it over only after Roadblock promises it'll score them the big one. Roadblock takes the file and leaves.
+Meanwhile, **Roadblock** swings by **Precipice Securities**. Catches up with the boys, then corners his boss, **Danny Roman**, for the real talk. Danny's got the file on the Tesla Tyrants' head honcho: **Volta**. Never leaves the house. Never needs to. She's got eyes everywhere — cameras, enough surveillance gear to make MaxTac jealous. Danny hands it over only after Roadblock promises it'll score them the big one. Roadblock takes the file and leaves.
 
 ## Wake Up Call
 
@@ -44,7 +44,7 @@ Situation cools. Party explains where they're headed and why. Cops make a note: 
 
 Pigs.
 
-The crew pays the fine and keeps rolling toward **Sparks**.
+The crew resolved to pay the fine and keeps rolling toward **Sparks**.
 
 ---
 
@@ -62,7 +62,7 @@ The crew pays the fine and keeps rolling toward **Sparks**.
 
 ## Plot Threads
 
-- Assault on Sparks Club / Tesla base — in progress
+- Assault on Sparks Club — in progress
 - Magpie's R.O.O.K. project needs a high-powered battery
 - Roadblock's intel on Volta — shut-in, heavy surveillance
 - NCPD antagonism — 150eb fine outstanding
@@ -72,7 +72,7 @@ The crew pays the fine and keeps rolling toward **Sparks**.
 ## Notes
 
 - Transportation secured (dune buggy)
-- Tesla Tyrants base identified (Sparks Club, Upper Marina)
+- Tesla Tyrants info gained (Sparks Club, Upper Marina)
 - Party chose Little China route — successful avoidance of Combat Zone
 - NCPD encounter resulted in minor fine, no major complications
 - Roadblock obtained Volta dossier
