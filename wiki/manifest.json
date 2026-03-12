@@ -150,6 +150,11 @@
           "type": "folder",
           "children": [
             {
+              "name": "Agent Reference",
+              "type": "file",
+              "path": "Local Archive/Rules/agent-reference.md"
+            },
+            {
               "name": "Character Creation And Lifepath",
               "type": "file",
               "path": "Local Archive/Rules/character-creation-and-lifepath.md"
@@ -293,6 +298,11 @@
               "path": "Net Archive/Locations/burleson-tower.md"
             },
             {
+              "name": "Charter Hill",
+              "type": "file",
+              "path": "Net Archive/Locations/charter-hill.md"
+            },
+            {
               "name": "Choppers",
               "type": "file",
               "path": "Net Archive/Locations/choppers.md"
@@ -328,6 +338,11 @@
               "path": "Net Archive/Locations/deravaja-dojo.md"
             },
             {
+              "name": "Downtown",
+              "type": "file",
+              "path": "Net Archive/Locations/downtown.md"
+            },
+            {
               "name": "Executive Zone",
               "type": "file",
               "path": "Net Archive/Locations/executive-zone.md"
@@ -358,6 +373,16 @@
               "path": "Net Archive/Locations/herschels-crematorium.md"
             },
             {
+              "name": "Heywood Docks",
+              "type": "file",
+              "path": "Net Archive/Locations/heywood-docks.md"
+            },
+            {
+              "name": "Heywood Industrial Zone",
+              "type": "file",
+              "path": "Net Archive/Locations/heywood-industrial-zone.md"
+            },
+            {
               "name": "Heywood",
               "type": "file",
               "path": "Net Archive/Locations/heywood.md"
@@ -366,6 +391,11 @@
               "name": "Highcourt Plaza Hotel",
               "type": "file",
               "path": "Net Archive/Locations/highcourt-plaza-hotel.md"
+            },
+            {
+              "name": "Hot Zone",
+              "type": "file",
+              "path": "Net Archive/Locations/hot-zone.md"
             },
             {
               "name": "Jesse James Kosher Deli",
@@ -423,6 +453,11 @@
               "path": "Net Archive/Locations/maelstrom-arena.md"
             },
             {
+              "name": "Mainland",
+              "type": "file",
+              "path": "Net Archive/Locations/mainland.md"
+            },
+            {
               "name": "Megabuilding H10",
               "type": "file",
               "path": "Net Archive/Locations/megabuilding-h10.md"
@@ -443,14 +478,44 @@
               "path": "Net Archive/Locations/ncart.md"
             },
             {
+              "name": "New Westbrook",
+              "type": "file",
+              "path": "Net Archive/Locations/new-westbrook.md"
+            },
+            {
               "name": "Night Market",
               "type": "file",
               "path": "Net Archive/Locations/night-market.md"
             },
             {
+              "name": "Norcal Military Base",
+              "type": "file",
+              "path": "Net Archive/Locations/norcal-military-base.md"
+            },
+            {
+              "name": "North Heywood",
+              "type": "file",
+              "path": "Net Archive/Locations/north-heywood.md"
+            },
+            {
+              "name": "Northside",
+              "type": "file",
+              "path": "Net Archive/Locations/northside.md"
+            },
+            {
+              "name": "Old Combat Zone",
+              "type": "file",
+              "path": "Net Archive/Locations/old-combat-zone.md"
+            },
+            {
               "name": "Old Japantown",
               "type": "file",
               "path": "Net Archive/Locations/old-japantown.md"
+            },
+            {
+              "name": "Pacifica Playground",
+              "type": "file",
+              "path": "Net Archive/Locations/pacifica-playground.md"
             },
             {
               "name": "Pacifica",
@@ -466,6 +531,11 @@
               "name": "Pol Bud Cement Factory",
               "type": "file",
               "path": "Net Archive/Locations/pol-bud-cement-factory.md"
+            },
+            {
+              "name": "Port Of Night City",
+              "type": "file",
+              "path": "Net Archive/Locations/port-of-night-city.md"
             },
             {
               "name": "Prosperity Gardens Tenements",
@@ -486,6 +556,11 @@
               "name": "Reclaimed Perimeter",
               "type": "file",
               "path": "Net Archive/Locations/reclaimed-perimeter.md"
+            },
+            {
+              "name": "Reclamation Zone",
+              "type": "file",
+              "path": "Net Archive/Locations/reclamation-zone.md"
             },
             {
               "name": "Redline",
@@ -518,6 +593,11 @@
               "path": "Net Archive/Locations/south-night-city.md"
             },
             {
+              "name": "Southside",
+              "type": "file",
+              "path": "Net Archive/Locations/southside.md"
+            },
+            {
               "name": "Tent City",
               "type": "file",
               "path": "Net Archive/Locations/tent-city.md"
@@ -541,6 +621,11 @@
               "name": "The Glen",
               "type": "file",
               "path": "Net Archive/Locations/the-glen.md"
+            },
+            {
+              "name": "The Island",
+              "type": "file",
+              "path": "Net Archive/Locations/the-island.md"
             },
             {
               "name": "The Lair",
@@ -616,6 +701,11 @@
               "name": "University District",
               "type": "file",
               "path": "Net Archive/Locations/university-district.md"
+            },
+            {
+              "name": "Upper Marina",
+              "type": "file",
+              "path": "Net Archive/Locations/upper-marina.md"
             },
             {
               "name": "Vargtimmen",
@@ -792,6 +882,11 @@
               "name": "Night City Co Prosperity Sphere",
               "type": "file",
               "path": "Net Archive/Organizations/night-city-co-prosperity-sphere.md"
+            },
+            {
+              "name": "Night City Gangs",
+              "type": "file",
+              "path": "Net Archive/Organizations/night-city-gangs.md"
             },
             {
               "name": "Night City Wonderland League",
