@@ -8,6 +8,7 @@
 - **Age:** 24
 - **Gender:** Male
 - **Affiliation:** Vultures (Night City)
+- **Employer:** Precipice Securities
 - **Role:** Detective / Gunslinger
 
 ## Appearance

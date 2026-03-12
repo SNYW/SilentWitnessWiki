@@ -8,6 +8,7 @@
 - **Age:** 65
 - **Gender:** Male
 - **Affiliation:** Vultures (Night City)
+- **Employer:** Precipice Securities
 - **Role:** Defensive specialist / Team wall
 
 ## Appearance
