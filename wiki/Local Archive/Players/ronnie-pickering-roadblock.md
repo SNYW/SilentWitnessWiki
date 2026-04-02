@@ -1,6 +1,6 @@
 # Ronnie "Roadblock" Pickering
 
-**Tags:** Player, Vultures, Solo, NCPD, Session-1, Session-2, Session-3, Session-4
+**Tags:** Player, Vultures, Lawman, NCPD, Session-1, Session-2, Session-3, Session-4
 
 ## Basic Info
 - **Name:** Ronnie Pickering
@@ -19,7 +19,7 @@ Huge, broad guy built like a tank. Looks like Reinhardt without the helmet — b
 
 Ronnie grew up working class and joined NCPD early. He worked riot control and earned the nickname **Roadblock** because once he planted his shield, nothing got past him.
 
-He left the police and started running with the Vultures.
+He left the police and started running with the Vultures. He brings two trusted backup dudes with him on operations: **Kenshi** and **Deadeye**.
 
 ## Skills & Abilities
 
