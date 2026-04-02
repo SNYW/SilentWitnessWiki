@@ -30,7 +30,7 @@ Free drinks? In Night City? Should've known it was too good to be true.
 
 The bartender thinks they're there to make a trade. "You bringing Adam for the exchange, right?"
 
-**Adam.** The Tesla spy from back in the day. The one they iced, froze, and probably scavved by now. They got nothing to trade — the guy's a corpse.
+**Adam.** The Tesla spy from back in the day. The one they iced, froze, and scavved. They got nothing to trade — the guy's a corpse.
 
 **Magpie** plays it cool. "We'll exchange Adam for a battery." Classic Magpie — always angling. But he pushes further: wants to talk to **Volta** directly.
 
@@ -90,7 +90,6 @@ The party readies up. Bartender on one side, Julie on the other. Old Boy's gone 
 - Team combat — fighting the bartender and Julie
 - Magpie's R.O.O.K. project — still needs that battery
 - Secret door discovered — leads to unknown area beneath Sparks
-- Roadblock's identity — bartender seems to recognize him
 
 ## Notes
 
