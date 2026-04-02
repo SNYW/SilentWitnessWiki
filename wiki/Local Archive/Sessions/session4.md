@@ -14,18 +14,18 @@ He's also tapped some Netrunners to dig up dirt on the other crews gunning for i
 
 - **Tesla Tyrants** — These gonks stream everything. Recording tech, stun batons, maximum spectacle.
 - **Creeping Death** — Poisons. 'Nuff said.
-- **The ModLits** — Drones and mines. Remote warfare for those who don't wanna get their hands dirty.
-- **AI.DS** — Bioweapons. Diseases and the "cures" that somehow cost more than getting sick.
+- **The Modlits** — Drones and mines. Remote warfare for those who don't wanna get their hands dirty.
+- **AI-DS** — Bioweapons. Diseases and the "cures" that somehow cost more than getting sick.
 
 The crew can play it safe and cook up their own impressiveness, or they can go hunting and take what they need from the competition. Either way, they've got options.
 
-While **Vulture's** laying out the plan, **Bloam** — that weird mystery girl they pulled from the vault — wanders out of the workshop like she's got somewhere to be. The crew tells **Roadblock** to tail her. He follows.
+While **Vulture**'s laying out the plan, **Bloam** — that weird mystery girl they pulled from the vault — wanders out of the workshop like she's got somewhere to be. The crew tells **Roadblock** to tail her. He follows.
 
 A few minutes later, a kid screams.
 
 ## The Bat and the Bird
 
-**Roadblock** moves fast. Rounds the corner and finds **Sparrow** — that scrapper kid who's always running messages for the Vultures — getting worked over by his old man, **David**. **David's** hammered, swinging a baseball bat. Kid's got money hidden somewhere, and that's the only thing his pops care about.
+**Roadblock** moves fast. Rounds the corner and finds **Sparrow** — that scrapper kid who's always running messages for **The Vultures** — getting worked over by his old man, **David**. **David's** hammered, swinging a baseball bat. Kid's got money hidden somewhere, and that's the only thing his pops care about.
 
 **Roadblock** steps in. Grabs **David** by the throat, lifts him clean off the ground. But then **Bloam** arrives.
 
@@ -82,13 +82,13 @@ Time to go big or go home.
 | NPC | Role | Status |
 |-----|------|--------|
 | **Bloam** | Mystery Girl | Active — Revealed terrifying power |
-| **Sparrow** | Messenger Kid | Active — Wants to join Vultures |
-| **David** | Sparrow's Father | Deceased — Disintegrated by Bloam |
+| **Sparrow** | Messenger Kid | Active — Wants to join **The Vultures** |
+| **David** | **Sparrow**'s Father | Deceased — Disintegrated by **Bloam** |
 | **Roadblock** | Vultures Security | Active |
 | **Old Boy** | Vultures Security | Active |
 | **Magpie** | Vultures Tech | Active |
 | **Sal** | New Player Character (Medtech) | Active |
-| **Spy** | Tesla Tyrants Member | Captured |
+| **Spy** | **Tesla Tyrants** Member | Captured |
 
 ## Night Market Teams
 
@@ -96,22 +96,22 @@ Time to go big or go home.
 |------|-----------|
 | **Tesla Tyrants** | High-tech recording, stun weapons |
 | **Creeping Death** | Poisons, toxins |
-| **The ModLits** | Drones, mines |
-| **AI.DS** | Bioweapons, diseases |
+| **The Modlits** | Drones, mines |
+| **AI-DS** | Bioweapons, diseases |
 
 ## Plot Threads
 
 - Night Market in one month — crew needs impressive tech
-- Bloam's true nature — connected to Glow Eyed Queen?
-- Roadblock's vendetta against her
-- Tesla Tyrants know about Bloam — retaliation planned
-- Sparrow/Sparrowhawk joining the Vultures
-- Induction for Sparrow — TBD
+- **Bloam**'s true nature — connected to Glow Eyed Queen?
+- **Roadblock**'s vendetta against her
+- **Tesla Tyrants** know about **Bloam** — retaliation planned
+- **Sparrow**/Sparrowhawk joining **The Vultures**
+- Induction for **Sparrow** — TBD
 
 ## Notes
 
-- Bloam's devastating power revealed
+- **Bloam**'s devastating power revealed
 - New PC Sal introduced
-- Rival team (Tesla Tyrants) identified and captured
+- Rival team (**Tesla Tyrants**) identified and captured
 - Long-term hook: Night Market access
 - Story arc: Night Market preparations

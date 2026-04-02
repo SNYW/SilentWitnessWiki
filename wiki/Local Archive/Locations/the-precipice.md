@@ -20,13 +20,13 @@ The Precipice is a cargo container community located in the Old Japantown distri
 
 ## Campaign Relevance
 
-- **Vultures Nest:** Magpie's cargo container home (CC05) is located here. This serves as the Vultures' base of operations.
-- **Session 1:** The Bozos were harassing Magpie in this area before the confrontation at the transformer
-- **Session 3:** Raptor was brought back here after being injured by the Bozos
+- **Vultures Nest:** **Magpie**'s cargo container home (CC05) is located here. This serves as **The Vultures**' base of operations.
+- **Session 1:** The **Bozos** were harassing **Magpie** in this area before the confrontation at the transformer
+- **Session 3:** **Raptor** was brought back here after being injured by the **Bozos**
 
 ## Notable Locations
 
-- **Vultures Nest** — Magpie's container, serves as living area, workshop, and ripper lab for the Vultures
+- **Vultures Nest** — **Magpie**'s container, serves as living area, workshop, and ripper lab for **The Vultures**
 
 ## Related Locations
 
@@ -36,5 +36,5 @@ The Precipice is a cargo container community located in the Old Japantown distri
 
 ## Session Log
 
-- Session 1: Bozos harassment in the area
-- Session 3: Raptor brought back injured, stabilized at Vultures Nest
+- **Session 1**: **Bozos** harassment in the area
+- **Session 3**: **Raptor** brought back injured, stabilized at **Vultures Nest**

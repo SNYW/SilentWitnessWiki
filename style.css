@@ -85,4 +85,14 @@ h1, h2, h3, .search-box input, .tree-item, .district-code, .threat-rating { font
 .empty-state p { font-size: 1.1rem; }
 .loading { text-align: center; padding: 80px; color: var(--teal); font-size: 1.2rem; font-family: 'Fira Code', monospace; text-transform: uppercase; animation: pulse 1.5s infinite;}
 @keyframes pulse { 0% { opacity: 0.5; } 50% { opacity: 1; text-shadow: 0 0 15px var(--teal); } 100% { opacity: 0.5; } }
+.page-badges { display: flex; gap: 8px; margin: -15px 0 20px 0; flex-wrap: wrap; align-items: center; }
+.type-badge, .status-badge { display: inline-flex; align-items: center; padding: 3px 10px; border-radius: 3px; font-size: 0.72rem; font-weight: 700; letter-spacing: 1.5px; font-family: 'Fira Code', monospace; text-transform: uppercase; }
+.type-badge { background: rgba(192, 132, 252, 0.1); color: var(--purple); border: 1px solid rgba(192, 132, 252, 0.4); }
+.status-alive { background: rgba(78, 204, 163, 0.1); color: var(--teal); border: 1px solid rgba(78, 204, 163, 0.4); }
+.status-deceased { background: rgba(233, 69, 96, 0.1); color: var(--red); border: 1px solid rgba(233, 69, 96, 0.4); animation: pulse-threat 2s infinite; }
+.status-missing { background: rgba(251, 191, 36, 0.1); color: #fbbf24; border: 1px solid rgba(251, 191, 36, 0.4); }
+.status-inactive { background: rgba(113, 113, 122, 0.1); color: var(--text-muted); border: 1px solid #3f3f46; }
+.wiki-link { color: var(--teal); cursor: pointer; border-bottom: 1px solid rgba(78, 204, 163, 0.35); transition: all 0.15s ease; }
+.wiki-link:hover { border-bottom-color: var(--teal); text-shadow: 0 0 6px rgba(78, 204, 163, 0.6); }
+.wiki-link-missing { color: var(--text-muted); border-bottom: 1px dashed #3f3f46; cursor: help; }
 @media (max-width: 768px) { .menu-toggle { display: block; } .header { padding: 12px 15px; } .header h1 { font-size: 1.4rem; letter-spacing: 2px; } .header .subtitle { font-size: 0.7rem; letter-spacing: 1px; } .sidebar { position: absolute; top: 0; left: 0; height: 100%; width: 260px; transform: translateX(-100%); box-shadow: 5px 0 25px rgba(0, 0, 0, 0.8); } .sidebar.open { transform: translateX(0); } .mobile-backdrop.open { display: block; opacity: 1; } .content-area { padding: 20px 15px; } .content-body h1 { font-size: 1.8rem; } .content-body h2 { font-size: 1.4rem; } .content-body p { font-size: 1rem; } }

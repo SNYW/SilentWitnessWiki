@@ -4,13 +4,13 @@
 
 ## Basic Info
 - **Name:** Mr Tubbs
-- **Affiliation:** Bozos
+- **Affiliation:** **Bozos**
 - **Role:** Mid-level gang leader
 - **Status:** Deceased
 
 ## Appearance
 
-A very overweight member of the Bozos gang.
+A very overweight member of the **Bozos** gang.
 
 ## Personality
 
@@ -18,11 +18,11 @@ Known for a generally positive attitude, but has a mean streak.
 
 ## History
 
-Mr Tubbs was a mid-level leader within the Bozos gang. He was known for harassing Magpie and trying to recruit him away from the Vultures.
+Mr Tubbs was a mid-level leader within the **Bozos** gang. He was known for harassing **Magpie** and trying to recruit him away from **The Vultures**.
 
 ## Death
 
-During Session 1, Mr Tubbs confronted the party at the transformer location. and attempting to follow the party, combat ensued. The team After refusing to leave killed him and looted his cyber arm and eye.
+During **Session 1**, Mr Tubbs confronted the party at the transformer location. and attempting to follow the party, combat ensued. The team After refusing to leave killed him and looted his cyber arm and eye.
 
 ## Loot Taken
 
@@ -38,4 +38,4 @@ During Session 1, Mr Tubbs confronted the party at the transformer location. and
 ## Notes
 
 - First major combat death of the campaign
-- His aggression toward the party (and toward Magpie working with them) escalated the conflict
+- His aggression toward the party (and toward **Magpie** working with them) escalated the conflict

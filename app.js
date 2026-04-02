@@ -110,6 +110,32 @@ let cachedChangelogHTML = '';
 let currentFile = null;
 let currentFetch = null;
 
+// Wiki link lookup: normalized name -> file path, built from manifest on load
+const wikiLinkMap = {};
+function buildWikiLinkMap(nodes) {
+for (const node of nodes) {
+if (node.children) { buildWikiLinkMap(node.children); continue; }
+if (!node.path) continue;
+const baseName = (node.name || '').replace(/\.md$/i, '');
+const key = baseName.toLowerCase().replace(/[\s\-_'"()]/g, '');
+if (key) wikiLinkMap[key] = node.path;
+// Alias each hyphen-separated segment of the actual filename (not display name)
+// so e.g. "ronnie-pickering-roadblock.md" registers "roadblock" as an alias
+const fileName = node.path.split('/').pop().replace(/\.md$/i, '');
+for (const part of fileName.split('-')) {
+if (part.length >= 4 && !wikiLinkMap[part]) wikiLinkMap[part] = node.path;
+}
+}
+}
+
+// Event delegation for wiki-links and tag-pills rendered inside content
+contentDiv.addEventListener('click', e => {
+const wikiLink = e.target.closest('.wiki-link');
+if (wikiLink && wikiLink.dataset.file) { loadContent(wikiLink.dataset.file); return; }
+const tagPill = e.target.closest('.tag-pill');
+if (tagPill && tagPill.dataset.tag) { searchByTag(tagPill.dataset.tag); }
+});
+
 function showWelcome() {
 currentFile = null;
 if (currentFetch) { currentFetch.abort(); currentFetch = null; }
@@ -164,20 +190,52 @@ el.style.animationDelay = `${index * 0.04}s`;
 
 function renderMarkdown(text) {
 let tagHtml = '';
+let badgeHtml = '';
 text = text.replace(/^(?:\*\*Tags:\*\*|Tags:)\s*(.+)$/gim, (match, tagsString) => {
 const tags = tagsString.split(',').map(t => t.trim().replace(/[*_`]/g, ''));
-const pills = tags.map(t => `<span class="tag-pill" onclick="searchByTag('${t}')">${t}</span>`).join('');
+// Use data-tag attribute; clicks handled by contentDiv delegation
+const pills = tags.map(t => `<span class="tag-pill" data-tag="${t}">${t}</span>`).join('');
 tagHtml = `<div class="tag-container">${pills}</div>`;
+// Generate page-type and status badges from tags
+const lowerTags = tags.map(t => t.toLowerCase());
+const badges = [];
+const typeMap = [['npc','NPC'],['player','PC'],['session','SESSION'],['location','LOCATION'],['bar','LOCATION']];
+for (const [key, label] of typeMap) { if (lowerTags.includes(key)) { badges.push(`<span class="type-badge">${label}</span>`); break; } }
+const statusMap = [
+['status-alive','status-alive','● ALIVE'],['status-active','status-alive','● ACTIVE'],
+['status-deceased','status-deceased','● DECEASED'],['status-dead','status-deceased','● DECEASED'],
+['status-missing','status-missing','? MISSING'],['status-inactive','status-inactive','○ INACTIVE']
+];
+for (const [tag, css, label] of statusMap) { if (lowerTags.includes(tag)) { badges.push(`<span class="status-badge ${css}">${label}</span>`); break; } }
+if (badges.length) badgeHtml = `<div class="page-badges">${badges.join('')}</div>`;
 return '';
 });
 let html = marked.parse(text);
-if (tagHtml) {
-if (html.includes('</h1>')) { html = html.replace('</h1>', '</h1>\n' + tagHtml); }
-else { html = tagHtml + '\n' + html; }
+// Insert badges then tags after h1, or prepend if no h1
+if (html.includes('</h1>')) {
+const insertions = [badgeHtml, tagHtml].filter(Boolean).join('\n');
+if (insertions) html = html.replace('</h1>', '</h1>\n' + insertions);
+} else if (badgeHtml || tagHtml) {
+html = [badgeHtml, tagHtml].filter(Boolean).join('\n') + '\n' + html;
 }
 html = html.replace(/Threat Rating:\s*(\w+)/gi, (match, rating) => `Threat Rating: <span class="threat-rating threat-${rating.toLowerCase()}">${rating}</span>`);
 html = html.replace(/\(District Code: ([A-Z])\)/gi, '<span class="district-code">$1</span>');
 html = html.replace(/District Code:\s*([A-Z])/gi, '<span class="district-code">$1</span>');
+// [[Wiki Links]] — explicit link syntax
+html = html.replace(/\[\[([^\]]+)\]\]/g, (match, name) => {
+const key = name.toLowerCase().replace(/[\s\-_'"()]/g, '');
+const path = wikiLinkMap[key];
+if (path && path !== currentFile) return `<span class="wiki-link" data-file="${path}">${name}</span>`;
+if (path) return name;
+return `<span class="wiki-link-missing" title="No page found: ${name}">${name}</span>`;
+});
+// Auto-link bold names that match a wiki page
+html = html.replace(/<strong>([^<]+)<\/strong>/g, (match, name) => {
+const key = name.toLowerCase().replace(/[\s\-_'"()]/g, '');
+const path = wikiLinkMap[key];
+if (path && path !== currentFile) return `<strong><span class="wiki-link" data-file="${path}">${name}</span></strong>`;
+return match;
+});
 contentDiv.innerHTML = `<div class="content-body" id="rendered-content">${html}</div>`;
 applyCascadeAnimation('rendered-content');
 document.querySelector('.content-area').scrollTop = 0;
@@ -204,6 +262,7 @@ fetch(wikiBase + 'manifest.json?t=' + Date.now())
 .then(data => {
 const treeData = Array.isArray(data) ? { children: data } : data;
 if (!treeData.children) treeData.children = [];
+buildWikiLinkMap(treeData.children);
 document.getElementById('tree').innerHTML = treeData.children.map(c => buildTreeHTML(c, 0)).join('') || '<p style="padding:20px;color:#71717a;">No files found in directory.</p>';
 const initialHash = window.location.hash.slice(1);
 if (initialHash) { loadContent(decodeURIComponent(initialHash)); }

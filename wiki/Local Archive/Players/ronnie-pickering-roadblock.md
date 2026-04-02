@@ -7,8 +7,8 @@
 - **Nickname:** Roadblock
 - **Age:** 65
 - **Gender:** Male
-- **Affiliation:** Vultures (Night City)
-- **Employer:** Precipice Securities
+- **Affiliation:** **The Vultures** (Night City)
+- **Employer:** **Precipice Securities**
 - **Role:** Defensive specialist / Team wall
 
 ## Appearance
@@ -19,7 +19,7 @@ Huge, broad guy built like a tank. Looks like Reinhardt without the helmet — b
 
 Ronnie grew up working class and joined NCPD early. He worked riot control and earned the nickname **Roadblock** because once he planted his shield, nothing got past him.
 
-He left the police and started running with the Vultures. He brings two trusted backup dudes with him on operations: **Kenshi** and **Deadeye**.
+He left the police and started running with **The Vultures**. He brings two trusted backup dudes with him on operations: **Kenshi** and **Deadeye**.
 
 ## Skills & Abilities
 
@@ -38,12 +38,12 @@ Ronnie hides his pain behind jokes and acting tough. He pushes himself to be str
 
 | Character | Type | Notes |
 |-----------|------|-------|
-| Raptor | Gang Leader | Leader of the Vultures |
-| Magpie | Boss | Vulture techie — Roadblock works directly for Magpie |
-| Old Boy | Protegé | Young detective, became like a nephew to Ronnie |
+| **Raptor** | Gang Leader | Leader of **The Vultures** |
+| **Magpie** | Boss | Vulture techie — Roadblock works directly for **Magpie** |
+| **Old Boy** | Protegé | Young detective, became like a nephew to Ronnie |
 | Kenshi | Ally | Cyber samurai, similar to Genji. Fast and deadly with a blade. |
 | Deadeye | Ally | Sniper who covers Ronnie from range. |
-| Bekah | Ally | Magpie's sister, fellow Vulture combat member |
+| **Bekah** | Ally | **Magpie**'s sister, fellow Vulture combat member |
 
 ## Equipment
 

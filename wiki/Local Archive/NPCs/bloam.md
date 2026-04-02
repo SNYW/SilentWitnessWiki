@@ -6,8 +6,8 @@
 
 - **Name:** Bloam (original designation from cryo-pod: 6L04M)
 - **Role:** Mystery Girl / Potential Herald of the Glow Eyed Queen
-- **Status:** Active — Allied with the Vultures
-- **Affiliation:** The Vultures (tentative)
+- **Status:** Active — Allied with **The Vultures**
+- **Affiliation:** **The Vultures** (tentative)
 
 ## Appearance
 
@@ -42,7 +42,7 @@ In **Session 4**, **Bloam's** terrifying power was revealed when **Sparrow's** a
 
 | Entity | Status |
 |--------|--------|
-| **The Vultures** | Tentative ally — resides at Vultures Nest |
+| **The Vultures** | Tentative ally — resides at **Vultures Nest** |
 | **Magpie** | Interested in her potential value |
 | **Roadblock** | Wants her destroyed — suspects she's a Herald |
 | **Sparrow/Sparrowhawk** | Neutral — she walked away after his father was killed |
@@ -51,7 +51,7 @@ In **Session 4**, **Bloam's** terrifying power was revealed when **Sparrow's** a
 
 - **Original Designation:** 6L04M (found on her cryo-pod)
 - **Cryo-Pod:** Highly technological unit, facility dates back to at least 2018
-- **Glow Eyed Queen Connection:** Roadblock believes she's a Herald of the Rampant AI responsible for the 2020 terrorist attack
+- **Glow Eyed Queen Connection:** **Roadblock** believes she's a Herald of the Rampant AI responsible for the 2020 terrorist attack
 - **Behavior:** Silent, seemingly indifferent to violence, walks away after using her power
 
 ## Plot Threads
@@ -69,4 +69,4 @@ In **Session 4**, **Bloam's** terrifying power was revealed when **Sparrow's** a
 
 ## Status
 
-Active — presence at Vultures Nest, potential asset or danger
+Active — presence at **Vultures Nest**, potential asset or danger

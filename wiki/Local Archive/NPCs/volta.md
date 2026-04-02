@@ -4,9 +4,9 @@
 
 ## Basic Info
 - **Name:** Volta
-- **Role:** Leader of the Tesla Tyrants
+- **Role:** Leader of the **Tesla Tyrants**
 - **Status:** Active
-- **Affiliation:** Tesla Tyrants
+- **Affiliation:** **Tesla Tyrants**
 
 ## Overview
 
