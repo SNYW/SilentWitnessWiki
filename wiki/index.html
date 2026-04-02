@@ -211,6 +211,13 @@ async function loadContent(file) {
 currentFile = file;
 contentDiv.innerHTML = '<div class="loading">Decrypting Data...</div>';
 if (window.innerWidth <= 768 && sidebar.classList.contains('open')) { toggleMenu(); }
+
+// Update URL hash for sharing
+const hash = '#wiki/' + encodeURIComponent(file);
+if (window.location.hash !== hash) {
+history.replaceState(null, '', hash);
+}
+
 try {
 const response = await fetch(wikiBase + file);
 if (!response.ok) throw new Error('Data corrupted or missing');
@@ -284,6 +291,20 @@ applyCascadeAnimation('rendered-changelog');
 console.error('Error:', err);
 document.getElementById('tree').innerHTML = `<p style="padding:20px;color:#f87171;font-family:'Fira Code', monospace;">> SYS_ERR: ${err.message}</p>`;
 });
-</script>
+
+// URL Hash Support - Load specific page from URL hash
+function handleHashNavigation() {
+const hash = window.location.hash;
+if (hash && hash.startsWith('#wiki/')) {
+const filePath = decodeURIComponent(hash.slice(5)); // Remove '#wiki/' and decode
+if (filePath) {
+console.log('> Loading from URL hash:', filePath);
+loadContent(filePath);
+}
+}
+}
+// Check hash on load and after hash changes
+window.addEventListener('hashchange', handleHashNavigation);
+window.addEventListener('load', handleHashNavigation);
 </body>
 </html>
