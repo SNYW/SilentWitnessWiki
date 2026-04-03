@@ -15,7 +15,7 @@ AI.DS deals in the deadliest commodity: biological weapons. They specialize in l
 ## Known Members
 
 ### Leadership
-- **Patient Zero** — Team Leader. Former Arasaka bioweapons researcher. Never touches anything without gloves. Extremely paranoid about infection.
+- [[Patient Zero]] — Team Leader. Former Arasaka bioweapons researcher. Never touches anything without gloves. Extremely paranoid about infection.
 
 ### Subordinates
 - 5 unknown members

@@ -2,9 +2,9 @@
 
 **Tags:** Bozos, Gang, Combat-Zone, Crew-Hostile, Organized-Crime, Threat-Extreme
 
-**Type:** Boostergang / Prankster Gang  
-**Territory:** Various districts across Night City (Little Europe, South Night City, formerly West Hill)  
-**Threat Rating:** Extreme  
+**Type:** Boostergang / Prankster Gang
+**Territory:** Various districts across Night City (Little Europe, South Night City, formerly West Hill)
+**Threat Rating:** Extreme
 
 ## Overview
 
@@ -29,6 +29,7 @@ In 2045, during the annual Hilaria event, Big Top — one of the gang's powerful
 ### Leadership
 - **Big Top** - Powerful circus leader who attacked Forlorn Hope in 2045
 - **The Great Bozo** - Mythical leader whose existence was never confirmed
+- [[Mr Giggles]] - 2nd in Command / field lieutenant
 
 ### Sub-Groups
 - **Dirty Bozos** - Twisted mechanical clown subgroup that turned on their own
@@ -50,6 +51,11 @@ During the RED era, Bozo territories are scattered across Night City:
 - **Hilaria** - Annual event of maximum destruction and chaos
 - **MAE (Mass Addiction Events)** - Sending rigged boxes with SynthCoke variants
 - Targeted attacks on businesses and civilians
+
+## Campaign Events
+
+- [[Mr Tubbs]] — Mid-level leader killed by the party during **Session 1**
+- [[Mr Giggles]] — Led pursuit after the vault job (**Session 2**), attacked [[Raptor]] at [[Dice or Die]] (**Session 3**)
 
 ## Related Organizations
 

@@ -4,9 +4,9 @@
 
 ## Basic Info
 - **Name:** Toxica
-- **Role:** Leader of **Creeping Death**
+- **Role:** Leader of [[Creeping Death]]
 - **Status:** Active
-- **Affiliation:** **Creeping Death**
+- **Affiliation:** [[Creeping Death]]
 
 ## Overview
 

@@ -15,7 +15,7 @@ The Tesla Tyrants are a Night Market crew specializing in high-tech recording eq
 ## Known Members
 
 ### Leadership
-- **Volta** — Team Leader. Former Militech technician turned streaming criminal. Obsessed with documenting everything.
+- [[Volta]] — Team Leader. Former Militech technician turned streaming criminal. Obsessed with documenting everything.
 
 ### Subordinates
 - 3-4 unknown members

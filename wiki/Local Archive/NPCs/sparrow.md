@@ -4,17 +4,17 @@
 
 ## Basic Info
 - **Name:** Sparrow
-- **Affiliation:** **The Vultures**
+- **Affiliation:** [[The Vultures]]
 - **Role:** Runner / Messenger
 
 ## Description
 
-A local boy in **The Precipice** who works as a messenger for **The Vultures**. Young, quick, and willing to take risks.
+A local boy in [[The Precipice]] who works as a messenger for [[The Vultures]]. Young, quick, and willing to take risks.
 
 ## In Session 3
 
-- Came to summon the party for **The Vultures**
-- This was very risky in **The Precipice**
+- Came to summon the party for [[The Vultures]]
+- This was very risky in [[The Precipice]]
 - Was paid **50eb** for the job
 
 ## Notes

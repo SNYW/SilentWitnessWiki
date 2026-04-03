@@ -4,9 +4,9 @@
 
 ## Basic Info
 - **Name:** Patient Zero
-- **Role:** Leader of **AI-DS**
+- **Role:** Leader of [[AI-DS]]
 - **Status:** Active
-- **Affiliation:** **AI-DS** (All Idiots Die Someday)
+- **Affiliation:** [[AI-DS]] (All Idiots Die Someday)
 
 ## Overview
 

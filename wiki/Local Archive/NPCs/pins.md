@@ -4,9 +4,9 @@
 
 **Basic Info**
 - **Name:** Pins
-- **Role:** Leader of **The Modlits**
+- **Role:** Leader of [[The ModLits]]
 - **Status:** Status-Alive
-- **Affiliation:** **The Modlits**
+- **Affiliation:** [[The ModLits]]
 
 ## Overview
 

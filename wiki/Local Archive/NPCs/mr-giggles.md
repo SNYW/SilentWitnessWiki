@@ -4,7 +4,7 @@
 
 **Basic Info**
 - **Name:** Mr Giggles
-- **Affiliation:** **Bozos**
+- **Affiliation:** [[Bozos]]
 - **Role:** 2nd in Command / Lieutenant
 - **Status:** Status-Alive
 
@@ -18,7 +18,7 @@ Known for his terrifying appearance and intimidating presence. Leads Bozo operat
 
 ## History
 
-Mr Giggles is the second-in-command of the **Bozos** gang. He led the pursuit of the party in **Session 2**, chasing them after they raided the vault facility.
+**Mr Giggles** is the second-in-command of the [[Bozos]] gang. He led the pursuit of the party in **Session 2**, chasing them after they raided the vault facility.
 
 ## Current Status
 
@@ -26,12 +26,12 @@ Active — still hunting the party.
 
 ## Related Sessions
 
-- **Session 2**: Led Bozo forces in pursuit of the party after the vault job
-- **Session 3**: Confronted party at **Dice or Die**, injured **Raptor**
+- **Session 2**: Led [[Bozos]] forces in pursuit of the party after the vault job
+- **Session 3**: Confronted party at [[Dice or Die]], injured [[Raptor]]
 
 ## Notes
 
 - The party successfully evaded him during **Session 2**
 - Confrontation likely inevitable
 - His horrifying appearance is his trademark
-- Issued challenge to party to visit "The Big Top" (**Bozos** base)
+- Issued challenge to party to visit "The Big Top" ([[Bozos]] base)

@@ -14,7 +14,7 @@ The crew ventures into a bombed-out facility to locate and extract a mysterious 
 
 ### Exploration
 - Encountered and killed several **cryo-zombies**
-- Looted cybertech from the fallen zombies for **Magpie** to scavenge
+- Looted cybertech from the fallen zombies for [[Magpie]] to scavenge
 - Found one zombie with a **keycard**
 - Scanned the keycard to gain entry to the main chamber
 
@@ -31,26 +31,26 @@ The crew ventures into a bombed-out facility to locate and extract a mysterious 
 - Water-based cryogenic fluid began seeping into knee-high water, flash freezing
 
 ### Confrontation
-- Successfully evaded the **Bozos** who were searching for them
-- Bozo pursuers led by **Mr Giggles**, the horrific 2nd in command
+- Successfully evaded the [[Bozos]] who were searching for them
+- Bozo pursuers led by [[Mr Giggles]], the horrific 2nd in command
   - Description: Bozo gang leader with surgically removed lips, always smiling
 
 ### Return
 - Made it back to the hideout safely
 - Pulled the girl out of the pod — she didn't stir
-- Given to **Bekah** for safe keeping
+- Given to [[Bekah Bluejay]] for safe keeping
 
 ## NPCs Involved
 
 | NPC | Status | Notes |
 |-----|--------|-------|
-| **Mr Giggles** | Active | 2nd in command of **Bozos**, horrific appearance, surgically removed lips |
+| [[Mr Giggles]] | Active | 2nd in command of [[Bozos]], horrific appearance, surgically removed lips |
 | **Cryo-Zombies** | Deceased | Killed by the crew, dropped cybertech |
-| **Mysterious Girl** | Retrieved | In cryosleep, now in **Bekah**'s custody |
+| [[Bloam]] | Retrieved | In cryosleep, now in [[Bekah Bluejay]]'s custody |
 
 ## Loot
 
-- Cybertech from cryo-zombies (for **Magpie**)
+- Cybertech from cryo-zombies (for [[Magpie]])
 - Keycard (for entry to main chamber)
 
 ## The Vault Details
@@ -79,11 +79,11 @@ The crew ventures into a bombed-out facility to locate and extract a mysterious 
 
 ## Plot Threads
 
-- The mysterious girl — who is she? Why was she in cryo?
-- **Bekah** is now guarding the girl
-- **Bozos** are still hunting the party (led by **Mr Giggles**)
+- [[Bloam]] — who is she? Why was she in cryo?
+- [[Bekah Bluejay]] is now guarding [[Bloam]]
+- [[Bozos]] are still hunting the party (led by [[Mr Giggles]])
 - The vault facility — more to explore?
-- **Mr Giggles** — confrontation inevitable?
+- [[Mr Giggles]] — confrontation inevitable?
 
 ## Notes
 

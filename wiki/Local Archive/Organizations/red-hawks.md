@@ -12,15 +12,15 @@
 
 The Red Hawks are a nomadic tribe of gunslingers who roam the wastes, living by a code of honor: protect the innocent, give to those less fortunate, and never betray your brothers.
 
-Led by Gallahan's father, the clan was once large and prosperous. When he was betrayed and gunned down by his own brother, the clan fractured. Many members scattered to neighboring clans or went into hiding.
+Led by [[Old Boy]]'s father, the clan was once large and prosperous. When he was betrayed and gunned down by his own brother, the clan fractured. Many members scattered to neighboring clans or went into hiding.
 
 ## Current Status
 
-The clan currently exists in a diminished state. Gallahan plans to reclaim it in his father's name.
+The clan currently exists in a diminished state. [[Old Boy]] plans to reclaim it in his father's name.
 
 ## Known Members
 
-- **Gallahan "Old Boy" Murtock** — Heir to the clan, seeking to reclaim it
+- [[Old Boy]] — Heir to the clan, seeking to reclaim it
 - **Father (deceased)** — Former leader, killed by his own brother
 
 ## Philosophy

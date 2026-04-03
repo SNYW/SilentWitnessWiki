@@ -15,7 +15,7 @@ The ModLits (short for "Modified Little Things") specialize in remote warfare �
 ## Known Members
 
 ### Leadership
-- **Pins** — Team Leader. Cybernetic specialist with implant addiction. Never goes outside without a minimum of a dozen drones.
+- [[Pins]] — Team Leader. Cybernetic specialist with implant addiction. Never goes outside without a minimum of a dozen drones.
 
 ### Subordinates
 - 3 unknown members

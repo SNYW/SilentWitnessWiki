@@ -15,7 +15,7 @@ Creeping Death deals in poisons — both delivery systems and the poisons themse
 ## Known Members
 
 ### Leadership
-- **Toxica** — Team Leader. Former biotechnica researcher. Speaks in riddles about "the sweet death."
+- [[Toxica]] — Team Leader. Former Biotechnica researcher. Speaks in riddles about "the sweet death."
 
 ### Subordinates
 - 4 unknown members

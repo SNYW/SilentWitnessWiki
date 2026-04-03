@@ -7,7 +7,7 @@
 - **Nickname:** Magpie
 - **Age:** 26
 - **Gender:** Male
-- **Affiliation:** **The Vultures** (Night City)
+- **Affiliation:** [[The Vultures]] (Night City)
 - **Role:** Scav Techie / Cyberware specialist
 
 ## Appearance
@@ -23,7 +23,7 @@
 
 ## Background
 
-Street scum alongside his family, **The Vultures** — an adoptive Scav group that picks clean what isn't useful. Both Jolo and his sister **Bekah** were orphaned at an early age and "adopted" by the Vultures.
+Street scum alongside his family, [[The Vultures]] — an adoptive Scav group that picks clean what isn't useful. Both Jolo and his sister [[Bekah Bluejay]] were orphaned at an early age and "adopted" by the Vultures.
 
 Spent his youth crawling along the bottom of Night City, being thrown trash tech and told to make good in exchange for a crappy roof over their heads and food. Became a central part of the Vulture Scavs operations.
 
@@ -35,20 +35,20 @@ Spent his youth crawling along the bottom of Night City, being thrown trash tech
 
 ## Motivations
 
-- **Goal:** Get him and his sister **Bekah** out of the gutter
+- **Goal:** Get him and his sister [[Bekah Bluejay]] out of the gutter
 - **Flaw:** He's obvious street trash, ignored by anyone higher on the ladder
 
 ## Relationships
 
 | Character | Type | Notes |
 |-----------|------|-------|
-| **Raptor** | Boss | Vulture Gang Leader |
-| **Roadblock** | Subordinate | Defensive specialist who works directly for Magpie |
-| **Bekah Bluejay** | Sister | Fellow Vulture member |
+| [[Raptor]] | Boss | Vulture Gang Leader |
+| [[Roadblock]] | Subordinate | Defensive specialist who works directly for Magpie |
+| [[Bekah Bluejay]] | Sister | Fellow Vulture member |
 
 ## Allies, Enemies & Connections
 
-- **Allies:** Vulture Scavs
+- **Allies:** [[The Vultures]]
 - **Enemies:** Low tier local gangs, corporate scouts looking for talent, NCPD
 - **Connections:** Techie services for locals, small corps and rival gangs when Vulture requires him to work with them
 
@@ -63,9 +63,9 @@ As a scav, his morals have been formed on the bottom rung of the city streets �
 
 ## Location
 
-**The Vultures Nest** — **The Precipice**, Night City
+[[Vultures Nest]] — [[The Precipice]], Night City
 
-The Vultures' base. A run-down living area/workshop/ripper lab. Magpie and **Bekah** sleep on the floor in one container, while Magpie's lab is in another. There's a hole cut between the two containers for access.
+The Vultures' base. A run-down living area/workshop/ripper lab. Magpie and [[Bekah Bluejay]] sleep on the floor in one container, while Magpie's lab is in another. There's a hole cut between the two containers for access.
 
 ## Session Log
 
