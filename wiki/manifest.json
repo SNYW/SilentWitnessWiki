@@ -264,6 +264,11 @@
               "name": "Session6",
               "type": "file",
               "path": "Local Archive/Sessions/session6.md"
+            },
+            {
+              "name": "Session7",
+              "type": "file",
+              "path": "Local Archive/Sessions/session7.md"
             }
           ]
         }
