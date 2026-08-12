@@ -103,7 +103,7 @@ On success, escape to an adjacent floor (not past Passwords). The Black ICE stop
 
 Uses **multiple NET Actions** (GM determines how many). Must be at the **lowest level** of the Architecture. Leave a custom Virus to perform up to **2 actions/changes**. Describe to the GM what you want; they set DV and NET Action cost. More powerful = higher DV and more Actions. The DV to destroy the Virus = your **Virus Check result**. This is the **only way** to make a persistent change to an Architecture. (p. 201)
 
-### Zap (p. 202)
+### Zap (p. 201)
 
 Uses a **NET Action**. Basic attack against a Program or enemy Netrunner:
 
@@ -113,7 +113,7 @@ On success, deal **1d6 damage** to the Program's REZ or directly to the Netrunne
 
 ---
 
-## NET Combat (p. 202)
+## NET Combat (p. 201)
 
 **Your Interface + Program ATK + 1d10**
 or **Black ICE ATK + 1d10**
@@ -122,14 +122,14 @@ or **Black ICE ATK + 1d10**
 
 On a hit, the target suffers the **Effect** of the attacking Program. Programs targeting a specific type (Anti-Personnel, Anti-Program) are only effective against that type. (p. 202)
 
-### Defeating a Program (p. 202)
+### Defeating a Program (p. 201)
 
 - **Derezzed** (0 REZ): Still installed but useless. Spend **2 NET Actions** (Deactivate then Activate) to restore full REZ. (p. 202)
 - **Destroyed**: Permanently erased. Must buy a new one. (p. 202)
 
 ---
 
-## Programs (pp. 202-205)
+## Programs (pp. 202-204)
 
 Activating or Deactivating a Program is a **NET Action**. Each loaded Program can only be Activated **once per Meatspace Round**. Multiple copies of the same Program can be run simultaneously and their effects **stack** (unless noted). Installing/Uninstalling a Program takes **1 hour**. (p. 202)
 
@@ -158,7 +158,7 @@ Activating or Deactivating a Program is a **NET Action**. Each loaded Program ca
 | **Flak** | Defender | 0 | 0 | 7 | Reduces ATK of all Non-Black ICE Attacker Programs to **0** while Rezzed. Only 1 copy running at a time. Once per Netrun. | 50eb (Costly) |
 | **Shield** | Defender | 0 | 0 | 7 | Stops first successful Non-Black ICE Program Effect from dealing brain damage, then Derezzes itself. Only 1 copy at a time. Once per Netrun. | 20eb (Everyday) |
 
-### Attacker Programs (pp. 203-205)
+### Attacker Programs (pp. 203-204)
 
 | Name | Class | ATK | DEF | REZ | Effect | Cost |
 |---|---|---|---|---|---|---|
@@ -173,7 +173,7 @@ Activating or Deactivating a Program is a **NET Action**. Each loaded Program ca
 
 ---
 
-## Black ICE (pp. 204-208)
+## Black ICE (pp. 204-207)
 
 Black ICE are deadly Programs that hunt targets across an Architecture. They take **2 deck slots** (non-Black ICE take 1). Activating/Deactivating is a NET Action. Install/Uninstall takes 1 hour. (p. 204)
 
@@ -203,7 +203,7 @@ Activate via NET Action in two ways:
 
 To reassign target: Deactivate (NET Action) then Activate again (NET Action). The GM plays all Black ICE Turns. (p. 205)
 
-### Anti-Personnel Black ICE Table (pp. 206-208)
+### Anti-Personnel Black ICE Table (pp. 206-207)
 
 | Name | PER | SPD | ATK | DEF | REZ | Effect | Cost |
 |---|---|---|---|---|---|---|---|
@@ -264,7 +264,7 @@ A NET Architecture is like an **elevator**. Each floor has something waiting beh
 | **Interface for a fighting chance** | 2 | 4 | 6 | 8 |
 | **Interface that might die before bottom** | N/A | 2 or less | 4 or less | 6 or less |
 
-### Building a NET Architecture (pp. 210-212)
+### Building a NET Architecture (pp. 210-211)
 
 **Step 0:** Choose Difficulty Rating. (p. 210)
 

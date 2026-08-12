@@ -3,11 +3,11 @@
 **Tags:** Character-Creation, Lifepath, GM-Tools, Rules
 
 
-> Synthesized from: *Fitted for the Future* (pp. 93, 137-138), *Friday Night Firefight* (pp. 175-180)
+> Synthesized from: *Fitted for the Future* (pp. 92, 137-138), *Friday Night Firefight* (pp. 176-180)
 
 ---
 
-## Melee Weapons Table (p. 93, 175)
+## Melee Weapons Table (p. 92, 176)
 
 | Melee Weapon Type | Example Weapons | Hands Required | Damage | ROF | Concealable? | Cost |
 |---|---|---|---|---|---|---|
@@ -18,25 +18,25 @@
 
 ---
 
-## Resolving Melee Combat (p. 177)
+## Resolving Melee Combat (p. 176)
 
 **Attacker's DEX + Relevant Melee Attack Skill + 1d10**
 **vs.**
 **Defender's DEX + Evasion Skill + 1d10**
 
-- If you **beat** the Defender's roll, you hit. **Defender wins ties.** (p. 177)
-- All melee combat is **2 ROF** (2 strikes per Attack Action), **except Very Heavy Melee Weapons** which are **1 ROF**. (p. 177)
-- Targets must be within your **reach (2 m/yds)**. (p. 177)
+- If you **beat** the Defender's roll, you hit. **Defender wins ties.** (p. 176)
+- All melee combat is **2 ROF** (2 strikes per Attack Action), **except Very Heavy Melee Weapons** which are **1 ROF**. (p. 176)
+- Targets must be within your **reach (2 m/yds)**. (p. 176)
 
 ---
 
-## Melee Weapons in Combat (p. 176-177)
+## Melee Weapons in Combat (p. 176)
 
 - Melee weapons use the **Melee Weapon Skill** to attack.
 - When dealing damage, all melee weapons **ignore half of the Defender's armor (round up)**. (p. 176)
 - Damage is dealt based on the **classification** of the melee weapon, not the specific weapon.
-- **Very Heavy Melee Weapons** cannot attack twice in an Attack Action (**1 ROF**). (p. 177)
-- Melee weapons must be wielded in the number of hands they were designed for, **with one exception**: A Character with **BODY 8 or higher** can wield a two-handed Melee Weapon in a single hand. (p. 177)
+- **Very Heavy Melee Weapons** cannot attack twice in an Attack Action (**1 ROF**). (p. 176)
+- Melee weapons must be wielded in the number of hands they were designed for, **with one exception**: A Character with **BODY 8 or higher** can wield a two-handed Melee Weapon in a single hand. (p. 176)
 
 ---
 
@@ -52,17 +52,17 @@ At a maximum of **1 ROF**, you can aim a single Melee Attack by taking your enti
 
 ---
 
-## Brawling, Bare Knuckle Boxing, and Grappling (p. 177)
+## Brawling, Bare Knuckle Boxing, and Grappling (p. 176)
 
 ### Brawling Attacks
 
 - Uses the **Brawling Skill** to attack.
 - Brawling is **2 ROF** (2 strikes per Attack Action).
 - Damage scales with the attacker's **BODY STAT**.
-- **Exception**: With a **Cyberarm**, your Brawling damage is always **at least 2d6** (but higher if your BODY is 7+). (p. 177)
-- **Brawling attacks do NOT ignore half the Defender's armor** (unlike melee weapons and martial arts). (p. 177)
+- **Exception**: With a **Cyberarm**, your Brawling damage is always **at least 2d6** (but higher if your BODY is 7+). (p. 176)
+- **Brawling attacks do NOT ignore half the Defender's armor** (unlike melee weapons and martial arts). (p. 176)
 
-### Brawling Damage Table (p. 177)
+### Brawling Damage Table (p. 176)
 
 | BODY | 4 or Under | 5 to 6 (or 4 or under w/ Cyberarm) | 7 to 10 | 11 or Higher |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ At a maximum of **1 ROF**, you can aim a single Melee Attack by taking your enti
 
 ---
 
-## Grab (p. 177-178)
+## Grab (p. 177)
 
-As an Action, you can **grab and hold** someone, **take an object** they are carrying, or **escape a grapple**. You need a **free hand** to initiate a Grab (that hand cannot be used for anything else during the Grapple). (p. 177)
+As an Action, you can **grab and hold** someone, **take an object** they are carrying, or **escape a grapple**. You need a **free hand** to initiate a Grab (that hand cannot be used for anything else during the Grapple). (p. 176)
 
 ### Resolution
 
@@ -80,9 +80,9 @@ Both you and your target (within reach) roll:
 
 **DEX + Brawling Skill + 1d10**
 
-- If you win, you choose to either **grab hold of the Defender** or **take one held object** into a free hand. (p. 178)
+- If you win, you choose to either **grab hold of the Defender** or **take one held object** into a free hand. (p. 177)
 
-### Grapple Rules (p. 178)
+### Grapple Rules (p. 177)
 
 If you grab hold of the Defender:
 
@@ -91,31 +91,31 @@ If you grab hold of the Defender:
 - No Character in the Grapple can use a **weapon requiring two hands**, even if they have more than two arms.
 - The **Attacker** can end the Grapple at any time **without using an Action**.
 - The **Defender** (or any other Character) must use an Action and roll a **successful Grab** against the Attacker to break the Grapple, which ends it for everyone involved.
-- Grabbing a person is a **prerequisite** for Choking or Throwing them. (p. 178)
+- Grabbing a person is a **prerequisite** for Choking or Throwing them. (p. 177)
 
 ---
 
-## Choke (p. 178)
+## Choke (p. 177)
 
 If you are currently the **Attacker** in a Grapple, you can use an Action to Choke the Defender:
 
 - Deals your **BODY STAT directly to their Hit Points** in damage.
-- If Choke damage would reduce a target with more than 1 HP to less than 0 HP, they are instead left at **1 HP and Unconscious**. (p. 178)
-- This damage **ignores the Defender's armor** and **doesn't ablate it**. (p. 178)
-- If you Choke the same target for **3 successive Rounds**, they go **Unconscious** regardless of HP total. (p. 178)
+- If Choke damage would reduce a target with more than 1 HP to less than 0 HP, they are instead left at **1 HP and Unconscious**. (p. 177)
+- This damage **ignores the Defender's armor** and **doesn't ablate it**. (p. 177)
+- If you Choke the same target for **3 successive Rounds**, they go **Unconscious** regardless of HP total. (p. 177)
 
 ---
 
-## Throw (p. 178)
+## Throw (p. 177)
 
 If you are currently the **Attacker** in a Grapple, you can use an Action to **Throw** the Defender onto the ground:
 
-- Deals your **BODY STAT directly to their Hit Points** in damage. (p. 178)
-- This damage **ignores the Defender's armor** and **doesn't ablate it**. (p. 178)
-- Throwing your target **ends the Grapple** (freeing both participants of the -2 penalty). (p. 178)
-- Leaves the target **Prone** (unable to use Move Action until they use the Get Up Action). (p. 178)
+- Deals your **BODY STAT directly to their Hit Points** in damage. (p. 177)
+- This damage **ignores the Defender's armor** and **doesn't ablate it**. (p. 177)
+- Throwing your target **ends the Grapple** (freeing both participants of the -2 penalty). (p. 177)
+- Leaves the target **Prone** (unable to use Move Action until they use the Get Up Action). (p. 177)
 
-### Throwing Objects (p. 178)
+### Throwing Objects (p. 177)
 
 To throw an object, use an Action to make a Ranged Attack:
 
@@ -125,25 +125,25 @@ To throw an object, use an Action to make a Ranged Attack:
 - If throwing at a person who can dodge bullets (**REF 8+**), they can dodge.
 - **Melee weapons** deal their stated damage when thrown, but **don't halve SP**.
 - **Grenades** deal the same damage as when fired from a grenade launcher.
-- An **improvised thrown weapon** does as much damage as the GM thinks it would. (p. 178)
+- An **improvised thrown weapon** does as much damage as the GM thinks it would. (p. 177)
 
 ---
 
-## Martial Arts (p. 179-181)
+## Martial Arts (p. 178-180)
 
-Martial Arts uses the **Martial Arts Skill** to make Martial Arts Attacks and perform Special Moves. You **cannot** use Martial Arts Attacks without at least **one point** in the Skill. (p. 179)
+Martial Arts uses the **Martial Arts Skill** to make Martial Arts Attacks and perform Special Moves. You **cannot** use Martial Arts Attacks without at least **one point** in the Skill. (p. 178)
 
-- Martial Arts Attacks are made at **2 ROF**. (p. 179)
-- When dealing damage, Martial Arts Attacks **ignore half of the Defender's armor (round up)**. (p. 179)
+- Martial Arts Attacks are made at **2 ROF**. (p. 178)
+- When dealing damage, Martial Arts Attacks **ignore half of the Defender's armor (round up)**. (p. 178)
 - Damage is based on **BODY**:
 
-### Martial Arts Damage Table (p. 179)
+### Martial Arts Damage Table (p. 178)
 
 | BODY | 4 or Under | 5 to 6 | 7 to 10 | 11 or Higher |
 |---|---|---|---|---|
 | **Damage** | **1d6** | **2d6** | **3d6** | **4d6** |
 
-### Martial Arts Attack / Special Move Resolution (p. 179)
+### Martial Arts Attack / Special Move Resolution (p. 178)
 
 **DEX + That Form's Skill + 1d10**
 **vs.**
@@ -151,23 +151,23 @@ Martial Arts uses the **Martial Arts Skill** to make Martial Arts Attacks and pe
 
 ---
 
-## Forms and Special Moves (p. 179-181)
+## Forms and Special Moves (p. 178-180)
 
-All Forms can use **Shared Special Moves**. Each Form has **two unique Special Moves**. You cannot use a Special Move without at least one point in that move's Form. Unless stated otherwise, Martial Arts Special Moves **cannot** be used to make Aimed Shots. (p. 179)
+All Forms can use **Shared Special Moves**. Each Form has **two unique Special Moves**. You cannot use a Special Move without at least one point in that move's Form. Unless stated otherwise, Martial Arts Special Moves **cannot** be used to make Aimed Shots. (p. 178)
 
 ---
 
-### Shared Special Moves (All Forms) (p. 180)
+### Shared Special Moves (All Forms) (p. 179)
 
 #### Recovery
 
 **No Requirement.** All Forms may use this Move.
 
-Whenever you use the **Get Up** Action, you can attempt to beat a **DV13** with the Martial Arts Special Move Resolution. If you succeed, that Get Up Action **didn't cost an Action**. (p. 180)
+Whenever you use the **Get Up** Action, you can attempt to beat a **DV13** with the Martial Arts Special Move Resolution. If you succeed, that Get Up Action **didn't cost an Action**. (p. 179)
 
 ---
 
-### Aikido (p. 180)
+### Aikido (p. 179)
 
 A soft form practicing sweeping hand and body techniques to lock and disarm opponents.
 
@@ -175,17 +175,17 @@ A soft form practicing sweeping hand and body techniques to lock and disarm oppo
 
 **Requirement:** You hit the same target with a **Brawling Attack and a Martial Arts Attack** this Turn.
 
-Once per Turn, when you fulfill this requirement, you can attempt to beat a **DV15**. If you succeed, any **one object** held in the hands of the target you hit twice this Turn is either **held by you** or is **on the floor**. (p. 180)
+Once per Turn, when you fulfill this requirement, you can attempt to beat a **DV15**. If you succeed, any **one object** held in the hands of the target you hit twice this Turn is either **held by you** or is **on the floor**. (p. 179)
 
 #### Iron Grip
 
 **Requirement:** You have a target successfully Grabbed that isn't already affected by Iron Grip.
 
-Once per Turn, as an Action, attempt to beat a **DV15**. If you succeed, the grappled target makes all future attempts to **escape the Grapple at an additional -2**. Additionally, until the Grapple is broken, your target **cannot make any Ranged Attacks**. (p. 180)
+Once per Turn, as an Action, attempt to beat a **DV15**. If you succeed, the grappled target makes all future attempts to **escape the Grapple at an additional -2**. Additionally, until the Grapple is broken, your target **cannot make any Ranged Attacks**. (p. 179)
 
 ---
 
-### Karate (p. 180)
+### Karate (p. 179)
 
 A hard form practicing strikes and blows designed to break bones or armor.
 
@@ -193,19 +193,19 @@ A hard form practicing strikes and blows designed to break bones or armor.
 
 **Requirement:** You hit the same target with a **Melee Weapon and a Martial Arts Attack** this Turn.
 
-Once per Turn, attempt to beat a **DV15**. If you succeed, the target you hit twice this Turn has **all their worn armor ablated by an additional 2 points**. (p. 180)
+Once per Turn, attempt to beat a **DV15**. If you succeed, the target you hit twice this Turn has **all their worn armor ablated by an additional 2 points**. (p. 179)
 
 #### Bone Breaking Strike
 
 **Requirement:** **WILL 8 or higher.**
 
-Instead of making 2 attacks with your Martial Arts Attack Action, you can make a single **Bone Breaking Strike**. If you hit, your target suffers the **Broken Ribs Critical Injury** in addition to damage. If they already have this Critical Injury, they do not suffer another. (p. 180)
+Instead of making 2 attacks with your Martial Arts Attack Action, you can make a single **Bone Breaking Strike**. If you hit, your target suffers the **Broken Ribs Critical Injury** in addition to damage. If they already have this Critical Injury, they do not suffer another. (p. 179)
 
-If you take a **-8 to your Check**, you can instead target the **head** (like an Aimed Shot). If you hit, the target suffers the **Cracked Skull Critical Injury** instead. (p. 180)
+If you take a **-8 to your Check**, you can instead target the **head** (like an Aimed Shot). If you hit, the target suffers the **Cracked Skull Critical Injury** instead. (p. 179)
 
 ---
 
-### Judo (p. 180)
+### Judo (p. 179)
 
 A soft form practicing grabs, throws, and escapes.
 
@@ -213,17 +213,17 @@ A soft form practicing grabs, throws, and escapes.
 
 **Requirement:** You dodged **all Melee Attacks** targeted at you since your last Turn.
 
-Once per Turn, as an Action, attempt to beat a **DV15**. If you succeed, you use the **Throw Action** on one target in melee range whose Melee Attack you dodged. This throw **cannot be avoided**. You **don't need to be grappling them**. (p. 180)
+Once per Turn, as an Action, attempt to beat a **DV15**. If you succeed, you use the **Throw Action** on one target in melee range whose Melee Attack you dodged. This throw **cannot be avoided**. You **don't need to be grappling them**. (p. 179)
 
 #### Grab Escape
 
 **Requirement:** You hit a target that is grappling you with **2 Melee Attacks** this Turn.
 
-Once per Turn, attempt to beat a **DV15**. If you succeed, you are **no longer grappled** by that target, and they suffer the **Broken Arm Critical Injury** (if they don't already have it). You pick the arm. (p. 180)
+Once per Turn, attempt to beat a **DV15**. If you succeed, you are **no longer grappled** by that target, and they suffer the **Broken Arm Critical Injury** (if they don't already have it). You pick the arm. (p. 179)
 
 ---
 
-### Taekwondo (p. 181)
+### Taekwondo (p. 180)
 
 A hard form practicing high kicks and precision strikes to break through defenses and attack pressure points.
 
@@ -231,15 +231,15 @@ A hard form practicing high kicks and precision strikes to break through defense
 
 **Requirement:** **WILL 8 or higher.**
 
-Instead of making 2 attacks with your Martial Arts Attack Action, you can make a single **Pressure Point Strike**. If you hit, your target suffers the **Spinal Injury Critical Injury** in addition to damage. If they already have this Critical Injury, they do not suffer another. (p. 181)
+Instead of making 2 attacks with your Martial Arts Attack Action, you can make a single **Pressure Point Strike**. If you hit, your target suffers the **Spinal Injury Critical Injury** in addition to damage. If they already have this Critical Injury, they do not suffer another. (p. 180)
 
-If you take a **-8 to your Check**, you can instead target the **head** (like an Aimed Shot). If you hit, the target suffers the **Brain Injury Critical Injury** instead. (p. 181)
+If you take a **-8 to your Check**, you can instead target the **head** (like an Aimed Shot). If you hit, the target suffers the **Brain Injury Critical Injury** instead. (p. 180)
 
 #### Flying Kick
 
 **Requirement:** **MOVE 8 or higher.** You must have moved at least **4 m/yds** already this Turn.
 
-Instead of making 2 attacks, you can make a single **Flying Kick**. Use your Action **and all your remaining movement** this Turn to fling forward in a straight line toward a target up to **4 m/yds away**. If you hit, you deal damage to the target's body location as normal. Additionally, if you hit, the target is **Prone** and is **removed from any motorcycle or other vehicle lacking a fully enclosed cabin**. (p. 181)
+Instead of making 2 attacks, you can make a single **Flying Kick**. Use your Action **and all your remaining movement** this Turn to fling forward in a straight line toward a target up to **4 m/yds away**. If you hit, you deal damage to the target's body location as normal. Additionally, if you hit, the target is **Prone** and is **removed from any motorcycle or other vehicle lacking a fully enclosed cabin**. (p. 180)
 
 ---
 

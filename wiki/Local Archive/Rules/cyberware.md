@@ -9,9 +9,9 @@
 
 ## General Rules (pp. 108-112)
 
-### Installation Levels (p. 110)
+### Installation Levels (descriptions p. 110; Surgery DVs and costs p. 226)
 
-| Level | Description | Surgery DV (Medtech) | Hospital Cost |
+| Level | Description | Surgery DV (Medtech only) | Cost to Install at a Hospital |
 |---|---|---|---|
 | **Mall** | Walk-in bio-mod shop; like ear-piercing | DV13 | 100eb (Premium) |
 | **Clinic** | Actual Medtech in a medical surgery clinic; most ripperdocs | DV15 | 500eb (Expensive) |
@@ -27,7 +27,7 @@
 
 ### Humanity Loss and Cyberpsychosis (pp. 109-110)
 
-- Every **10 points of Humanity = 1 EMP**. Losing Humanity lowers EMP when the tens place drops. (p. 81)
+- Every **10 points of Humanity = 1 EMP**. Losing Humanity lowers EMP when the tens place drops. (p. 80)
 - If **HUM drops below zero**, the Character enters **Cyberpsychosis**. (p. 109)
 - **Medical-Grade Cyberware** (replacement-only, no enhancement) has **no Humanity cost**. (p. 110)
 - **Bodysculpting** (therapeutic body modification) has **no Humanity cost**. (p. 110)
@@ -62,7 +62,7 @@
 | **Kerenzikov** | Clinic | Speedware. +2 to Initiative. Only 1 Speedware at a time. Requires Neural Link. | 500eb (Expensive) | 14 (4d6) |
 | **Sandevistan** | Clinic | Speedware. Activated as Action: +3 to Initiative for 1 minute. 1 hour cooldown. Only 1 Speedware at a time. Requires Neural Link. | 500eb (Expensive) | 7 (2d6) |
 
-### Chipware (Requires Chipware Socket) (p. 113)
+### Chipware (Requires Chipware Socket) (p. 112)
 
 | Name | Install | Description & Data | Cost | HL |
 |---|---|---|---|---|
@@ -187,7 +187,7 @@
 | **Talon Foot** | Clinic | Blade in foot. Light Melee Weapon. Concealable. Can install in meat leg only. | 500eb (Expensive) | 3 (1d6) |
 | **Web Foot** | Clinic | Thin webbing between toes. Negates movement penalty when swimming. Requires 2 Cyberlegs, must be paired. | 500eb (Expensive) | 3 (1d6) |
 
-### Cyberlimb Accessories (p. 117)
+### Cyberlimb Accessories (p. 116)
 
 | Name | Install | Description & Data | Cost | HL |
 |---|---|---|---|---|
@@ -198,7 +198,7 @@
 
 ---
 
-## Borgware (p. 117)
+## Borgware (p. 116)
 
 | Name | Install | Description & Data | Cost | HL |
 |---|---|---|---|---|

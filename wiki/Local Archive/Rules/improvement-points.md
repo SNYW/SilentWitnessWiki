@@ -28,7 +28,7 @@ Cyberpunk RED uses **Playstyle-Based Improvement**. Each player identifies their
 
 After each session, the GM awards I.P. based on **Group performance** (if the mission was completed) or **individual Playstyle performance** (if unfinished). The GM can also award from any playstyle column if a player did something standout.
 
-### Playstyle Improvement Point Table (pp. 410-412)
+### Playstyle Improvement Point Table (pp. 410-411)
 
 | I.P. | Group | Warrior | Socializer | Explorer | Roleplayer |
 |---|---|---|---|---|---|

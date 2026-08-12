@@ -13,7 +13,7 @@ You cannot start with two Roles at Character creation. You can change Roles afte
 
 ---
 
-## Rockerboy: Charismatic Impact (p. 144-146)
+## Rockerboy: Charismatic Impact (pp. 144-145)
 
 Rockerboys influence others through sheer force of personality -- music, art, dance, poetry, or physical presence. Their Role Ability, **Charismatic Impact**, works only on **Fans**.
 
@@ -35,7 +35,7 @@ The GM determines if someone already met is a Fan.
 
 When asking a favor of Fans, the GM checks if the favor is within the Rockerboy's current Rank capability. If so, the Rockerboy rolls **Charismatic Impact + 1d10** against the DV for the group size (DV8 Single / DV10 Small / DV12 Huge). On failure, the same favor cannot be asked of those fans for **1 week**. (p. 144)
 
-### Charismatic Impact Ranks (pp. 144-146)
+### Charismatic Impact Ranks (pp. 144-145)
 
 | Rank | Venues | Single Fan (DV8) | Small Group (DV10) | Huge Group (DV12) |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ When asking a favor of Fans, the GM checks if the favor is within the Rockerboy'
 
 ---
 
-## Solo: Combat Awareness (p. 147)
+## Solo: Combat Awareness (p. 146)
 
 Solos divide their total **Combat Awareness** points among the following abilities. Points can be reassigned: before Initiative is rolled, anytime outside of combat, or with an **Action** during combat. Previous assignments persist if not changed. (p. 147)
 
@@ -63,17 +63,17 @@ Solos divide their total **Combat Awareness** points among the following abiliti
 
 ---
 
-## Netrunner: Interface (p. 148)
+## Netrunner: Interface (p. 147)
 
 The Netrunner's Role Ability is **Interface**, which allows them to Netrun, determines how many NET Actions they can take per Turn, and grants access to Interface Abilities. (See *netrunning.md* for full rules.)
 
-### NET Actions per Turn (p. 148)
+### NET Actions per Turn (p. 147)
 
 | Interface Rank | 1-3 | 4-6 | 7-9 | 10 |
 |---|---|---|---|---|
 | **NET Actions** | 2 | 3 | 4 | 5 |
 
-### Interface Abilities (p. 148)
+### Interface Abilities (p. 147)
 
 | Ability | Effect |
 |---|---|
@@ -89,18 +89,18 @@ The Netrunner's Role Ability is **Interface**, which allows them to Netrun, dete
 
 ---
 
-## Tech: Maker (p. 148-150)
+## Tech: Maker (pp. 147-148)
 
 Techs fix, improve, modify, make, and invent items. Their Role Ability is **Maker**. Each Rank increase grants **1 Rank in two different Maker Specialties** of choice. (p. 148)
 
 ### Maker Specialties
 
-#### Field Expertise (p. 148)
+#### Field Expertise (p. 147)
 
 - Add Rank in this Specialty to any **Basic Tech, Cybertech, Electronics/Security Tech, Weaponstech, Land/Sea/Air Vehicle Tech** Check for non-Maker purposes.
 - With at least 1 Rank: Can **jury-rig** a broken item to perfect condition as an Action (same DV as full repair). Holds for **10 minutes per Rank**. Cannot be jury-rigged again until fully repaired. (p. 148)
 
-#### Upgrade Expertise (p. 149)
+#### Upgrade Expertise (pp. 147-148)
 
 Improve an item in one of the following ways (only 1 upgrade per item from this specialty):
 
@@ -117,17 +117,17 @@ Improve an item in one of the following ways (only 1 upgrade per item from this 
 
 **Roll:** TECH + appropriate TECH Skill + Rank in this Specialty + 1d10 vs. DV (p. 149)
 
-#### Fabrication Expertise (p. 149)
+#### Fabrication Expertise (p. 147)
 
 Create an existing item or invention from materials. Materials cost **one price category lower** than the item (Super Luxury items require materials equal to half their price).
 
 **Roll:** TECH + appropriate TECH Skill + Rank in this Specialty + 1d10 vs. DV (p. 149)
 
-#### Invention Expertise (p. 149-150)
+#### Invention Expertise (pp. 147-148)
 
 Invent a new item or upgrade. Describe the desired function to your GM using existing technologies. The GM writes rules, sets a Price Category (minimum Expensive), DV, and time. Once invented, it can be fabricated using Fabrication or Upgrade Expertise. (p. 149)
 
-### Upgrade / Fabricate / Invent DV and Time Table (p. 150)
+### Upgrade / Fabricate / Invent DV and Time Table (p. 148)
 
 | Price Category | DV | Time |
 |---|---|---|
@@ -143,15 +143,15 @@ On a failed Check, halfway through the process you realize you must start from s
 
 ---
 
-## Medtech: Medicine (p. 150-151)
+## Medtech: Medicine (pp. 149-150)
 
 The Medtech Role Ability is **Medicine**. Each Rank increase, the Medtech chooses one of three Medicine Specialties to allocate **1 point** to. (p. 150)
 
-### Surgery (p. 150)
+### Surgery (p. 149)
 
 For every point allocated: gain **2 points** in the **Surgery Skill** (max 10). Surgery is the TECH Skill for treating the most severe Critical Injuries and implanting cyberware. Only available to Medtechs. (p. 150)
 
-### Medical Tech (Pharmaceuticals) (p. 150-151)
+### Medical Tech (Pharmaceuticals) (pp. 149-150)
 
 For every point allocated: gain **1 point** in the **Medical Tech Skill** (max 10, combined with Cryosystem Operation). Max **5 points** in this specialty. Each point also grants access to one pharmaceutical. Synthesize doses: **DV13 Medical Tech Check**, 200eb of materials yields doses equal to Medical Tech Skill Level in 1 hour. (p. 150)
 
@@ -165,7 +165,7 @@ For every point allocated: gain **1 point** in the **Medical Tech Skill** (max 1
 
 Applying a dose takes an **Action**. On unwilling targets, use a **Melee Weapon Attack** with Airhypo. Non-Medtechs cannot administer these correctly. (p. 151)
 
-### Medical Tech (Cryosystem Operation) (p. 151)
+### Medical Tech (Cryosystem Operation) (p. 150)
 
 For every point allocated: gain **1 point** in the **Medical Tech Skill** (max 10, combined with Pharmaceuticals). Max **5 points** in this specialty. (p. 151)
 
@@ -179,11 +179,11 @@ For every point allocated: gain **1 point** in the **Medical Tech Skill** (max 1
 
 ---
 
-## Media: Credibility (pp. 152-154)
+## Media: Credibility (pp. 151-152)
 
 The Media Role Ability is **Credibility**. Medias convince audiences of what they publish, access sources, and passively pick up rumors. (p. 152)
 
-### Rumors (p. 152)
+### Rumors (p. 151)
 
 At least twice per week the GM secretly rolls **Credibility Rank + 1d10** against Passive DVs. The Media learns the highest DV rumor their Check beats. Actively searching uses relevant Skill + STAT + 1d10 against Active DV. (p. 152)
 
@@ -194,7 +194,7 @@ At least twice per week the GM secretly rolls **Credibility Rank + 1d10** agains
 | Substantial Rumor | 11 | 17 |
 | Detailed Rumor | 13 | 21 |
 
-### Publishing Stories (pp. 152-154)
+### Publishing Stories (pp. 151-152)
 
 - **Believability:** Roll 1d10; if result is within your Believability range, the audience buys it. +1 if story has at least 1 verifiable evidence piece. +2 more if it has 4+ distinct pieces. LUCK cannot be spent on this. (p. 153)
 - **Impact:** GM determines the scale of change caused by the story. Cannot publish another story on the same topic without new information. (p. 153)
@@ -210,7 +210,7 @@ At least twice per week the GM secretly rolls **Credibility Rank + 1d10** agains
 
 ---
 
-## Exec: Teamwork (pp. 153-158)
+## Exec: Teamwork (pp. 153-157)
 
 The Exec Role Ability is **Teamwork**. Execs build a team to accomplish goals. (p. 153)
 
@@ -218,7 +218,7 @@ The Exec Role Ability is **Teamwork**. Execs build a team to accomplish goals. (
 
 Given a **Businesswear Jacket, Top, Bottom, and Footwear**. Cannot resell without raising suspicion. (p. 153)
 
-### Corporate Housing (p. 154)
+### Corporate Housing (p. 153)
 
 | Rank | Housing |
 |---|---|
@@ -235,7 +235,7 @@ Transfers to new Corporation if the Exec changes employers. (p. 154)
 | **6** | Trauma Team Silver (paid by Corporation) |
 | **8** | Upgraded to Trauma Team Executive |
 
-### Team Members (pp. 154-158)
+### Team Members (pp. 154-157)
 
 | Rank | Team Members |
 |---|---|
@@ -263,7 +263,7 @@ Transfers to new Corporation if the Exec changes employers. (p. 154)
 | Risk physical harm for them | +8 | Throw them under the bus | -6 |
 | | | Abandon them under fire | -8 |
 
-### Team Member Types (pp. 155-158)
+### Team Member Types (pp. 155-157)
 
 | Type | Cover Jobs | Key Skills at +6 | Key Cyberware |
 |---|---|---|---|
@@ -277,7 +277,7 @@ Team Member STATs are rolled on a **1d6 table** specific to each type. Starting 
 
 ---
 
-## Lawman: Backup (pp. 158-160)
+## Lawman: Backup (pp. 158-159)
 
 The Lawman Role Ability is **Backup**. Lawmen call fellow law enforcers for help.
 
@@ -290,7 +290,7 @@ As an **Action**, roll **1d10**. If result is **equal to or lower** than your Ba
 - Abuse = Boss throws you off the force or fines you. (p. 159)
 - **Backup cannot dodge bullets.** (p. 158)
 
-### Backup Ranks (pp. 158-160)
+### Backup Ranks (pp. 158-159)
 
 | Rank | Type | Combat Number | SP | HP | MOVE & BODY | Equipment |
 |---|---|---|---|---|---|---|
@@ -305,7 +305,7 @@ Rank 10 backup sticks around after conflict to investigate. Same 2 agents always
 
 ---
 
-## Fixer: Operator (pp. 159-162)
+## Fixer: Operator (pp. 159-161)
 
 The Fixer Role Ability is **Operator**. Fixers navigate black markets and maintain vast networks.
 
@@ -315,7 +315,7 @@ The Fixer Role Ability is **Operator**. Fixers navigate black markets and mainta
 
 Only **1 Fixer deal** can be made per transaction. (p. 159)
 
-### Operator Ranks (pp. 160-162)
+### Operator Ranks (pp. 160-161)
 
 | Rank | Contacts & Clients | Reach | Haggle (on success) | Grease |
 |---|---|---|---|---|
@@ -328,7 +328,7 @@ Only **1 Fixer deal** can be made per transaction. (p. 159)
 
 ---
 
-## Nomad: Moto (pp. 161-166)
+## Nomad: Moto (pp. 161-165)
 
 The Nomad Role Ability is **Moto**. Nomads have better vehicles and deep mechanical knowledge.
 
@@ -353,7 +353,7 @@ Only **one Family Vehicle out at a time** (swapped the following morning). If de
 | **7-8** | AV-4, Cabin Cruiser, Superbike |
 | **9-10** | Aerozep, AV-9, Super Groundcar, Yacht |
 
-### Nomad Vehicle Upgrades (pp. 163-166)
+### Nomad Vehicle Upgrades (pp. 163-165)
 
 Unless stated otherwise, each upgrade can only be taken once per vehicle. Rarely sold on open market. (p. 163)
 
@@ -371,7 +371,7 @@ Unless stated otherwise, each upgrade can only be taken once per vehicle. Rarely
 | **Smuggling Upgrade** | 1 | 2 Hidden Holsters + 1 large hidden space (DV17 Conceal/Reveal Object). Multiple allowed (not Bikes/Jetskis/Gyrocopters). |
 | **Armored Chassis** | 5 | SP13 armor on vehicle (not glass). |
 
-#### Vehicles Except Bikes, Jetskis, Gyrocopters (p. 165)
+#### Vehicles Except Bikes, Jetskis, Gyrocopters (p. 164)
 
 | Upgrade | Rank Req. | Effect |
 |---|---|---|
@@ -379,38 +379,38 @@ Unless stated otherwise, each upgrade can only be taken once per vehicle. Rarely
 | **Onboard Rocket Pod** | 5 | Front-mounted Rocket Launcher (3 rockets). Cannot reload while driving. Requires Heavy Chassis. |
 | **Vehicle Heavy Weapon Mount** | 5 | Transforms seat into swivel mount for any 2-handed ranged weapon. Passenger fires with Action. First purchase includes free Tsunami Arms Helix, Rhinemetall EMG-86 Railgun, or Militech "Cowboy" U-56 Grenade Launcher. Requires Heavy Chassis. |
 
-#### All Land and Sea Vehicles (p. 165)
+#### All Land and Sea Vehicles (p. 164)
 
 | Upgrade | Rank Req. | Effect |
 |---|---|---|
 | **Onboard Melee Weapon** | 1 | Very Heavy Melee Weapon mounted front/side/back. Driver attacks with Action. Multiple allowed. |
 
-#### All Land Vehicles (p. 165)
+#### All Land Vehicles (p. 164)
 
 | Upgrade | Rank Req. | Effect |
 |---|---|---|
 | **Hover Upgrade** | 5 | Travel on water at Cabin Cruiser speed. |
 | **AV-4 Engine Upgrade** | 7 | Adds vectored thrust turbofan for flight. Treat as AV-4 in air. Use Pilot Air Vehicle Skill. |
 
-#### All Land and Sea Vehicles Except Bikes and Jetskis (p. 165)
+#### All Land and Sea Vehicles Except Bikes and Jetskis (p. 164)
 
 | Upgrade | Rank Req. | Effect |
 |---|---|---|
 | **Combat Plow** | 1 | Ramming causes no damage to your vehicle and no Whiplash to occupants. If NOS-boosted, ramming deals +2d6 damage. |
 
-#### Bikes Only (p. 166)
+#### Bikes Only (p. 165)
 
 | Upgrade | Rank Req. | Effect |
 |---|---|---|
 | **Enhanced Interface Plug Integration** | 5 | When using Interface Plugs to drive: if you can dodge bullets (REF 8+), you can attempt to dodge attacks targeting you, a passenger, or the bike as if on foot. |
 
-#### Groundcars Only (p. 166)
+#### Groundcars Only (p. 165)
 
 | Upgrade | Rank Req. | Effect |
 |---|---|---|
 | **Deployable Spike Strip** | 1 | Deployed as Action. Trailing vehicles with tires must pass DV17 Drive Land Vehicle or take 4d6 damage to weak point (x2 through SP). Replacements: 10eb. Multiple upgrades = more strips before reload. |
 
-#### Aerozep, AV-4, Cabin Cruiser, Groundcars, Yacht (p. 166)
+#### Aerozep, AV-4, Cabin Cruiser, Groundcars, Yacht (p. 165)
 
 | Upgrade | Rank Req. | Effect |
 |---|---|---|

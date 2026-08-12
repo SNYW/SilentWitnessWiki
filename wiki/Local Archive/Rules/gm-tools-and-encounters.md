@@ -5,7 +5,7 @@
 
 ---
 
-## Adversary Tiers (p. 412)
+## Adversary Tiers (p. 399)
 
 Cyberpunk RED uses a tiered adversary system for building encounters. NPCs in this section have **no Roles, Role Abilities, or LUCK** unless noted otherwise.
 
@@ -278,7 +278,7 @@ The Beat Chart is the GM's adventure scripting tool. Adventures are structured a
 3. **Climax** — The final major scene (Final Battle or Final Revelation).
 4. **Resolution** — The epilogue that ties up or teases loose ends.
 
-### Hook Types (pp. 397-399)
+### Hook Types (p. 398)
 
 | Hook | Description |
 |---|---|
@@ -289,7 +289,7 @@ The Beat Chart is the GM's adventure scripting tool. Adventures are structured a
 | **Revelation** | A hidden fact dramatically changes their lives |
 | **Development as Hook** | Secret Meeting, Mistaken Identity, Romance, or Treachery |
 
-### Cliffhanger Types (pp. 399-402)
+### Cliffhanger Types (p. 400)
 
 Cliffhangers are physical conflict scenes. Save the best for last.
 

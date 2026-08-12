@@ -13,17 +13,20 @@
             {
               "name": "Dice Or Die",
               "type": "file",
-              "path": "Local Archive/Locations/dice-or-die.md"
+              "path": "Local Archive/Locations/dice-or-die.md",
+              "tags": "bar,combat-zone,gambling,threat-medium,the-precipice"
             },
             {
               "name": "The Precipice",
               "type": "file",
-              "path": "Local Archive/Locations/the-precipice.md"
+              "path": "Local Archive/Locations/the-precipice.md",
+              "tags": "location,combat-zone,old-japantown,safehouse,threat-high,radiation-hazard"
             },
             {
               "name": "Vultures Nest",
               "type": "file",
-              "path": "Local Archive/Locations/vultures-nest.md"
+              "path": "Local Archive/Locations/vultures-nest.md",
+              "tags": "safehouse,combat-zone,vultures,the-precipice,threat-high"
             }
           ]
         },
@@ -34,52 +37,62 @@
             {
               "name": "Bekah Bluejay",
               "type": "file",
-              "path": "Local Archive/NPCs/bekah-bluejay.md"
+              "path": "Local Archive/NPCs/bekah-bluejay.md",
+              "tags": "bekah-bluejay,the-vultures,scout,combat-zone,status-alive"
             },
             {
               "name": "Bloam",
               "type": "file",
-              "path": "Local Archive/NPCs/bloam.md"
+              "path": "Local Archive/NPCs/bloam.md",
+              "tags": "npc,status-alive,vultures,mystery,glow-eyed-queen,session-2,session-3,session-4"
             },
             {
               "name": "Mr Giggles",
               "type": "file",
-              "path": "Local Archive/NPCs/mr-giggles.md"
+              "path": "Local Archive/NPCs/mr-giggles.md",
+              "tags": "mr-giggles,bozos,solo,combat-zone,enemy,threat-high"
             },
             {
               "name": "Mr Tubbs",
               "type": "file",
-              "path": "Local Archive/NPCs/mr-tubbs.md"
+              "path": "Local Archive/NPCs/mr-tubbs.md",
+              "tags": "npc,status-flatlined,bozos,gang,combat-zone,session-1"
             },
             {
               "name": "Patient Zero",
               "type": "file",
-              "path": "Local Archive/NPCs/patient-zero.md"
+              "path": "Local Archive/NPCs/patient-zero.md",
+              "tags": "npc,status-alive,ai-ds,fixer,megacorp,bioweapons,night-market-arc"
             },
             {
               "name": "Pins",
               "type": "file",
-              "path": "Local Archive/NPCs/pins.md"
+              "path": "Local Archive/NPCs/pins.md",
+              "tags": "pins,the-modlits,netrunner,drone-specialist,combat-zone"
             },
             {
               "name": "Raptor",
               "type": "file",
-              "path": "Local Archive/NPCs/raptor.md"
+              "path": "Local Archive/NPCs/raptor.md",
+              "tags": "npc,status-injured,vultures,gang-leader,session-3"
             },
             {
               "name": "Sparrow",
               "type": "file",
-              "path": "Local Archive/NPCs/sparrow.md"
+              "path": "Local Archive/NPCs/sparrow.md",
+              "tags": "npc,status-alive,vultures,messenger,session-3"
             },
             {
               "name": "Toxica",
               "type": "file",
-              "path": "Local Archive/NPCs/toxica.md"
+              "path": "Local Archive/NPCs/toxica.md",
+              "tags": "npc,status-alive,creeping-death,fixer,night-market-arc,toxicity"
             },
             {
               "name": "Volta",
               "type": "file",
-              "path": "Local Archive/NPCs/volta.md"
+              "path": "Local Archive/NPCs/volta.md",
+              "tags": "npc,status-alive,tesla-tyrants,gang-leader,crew-hostile,night-market-arc"
             }
           ]
         },
@@ -90,42 +103,50 @@
             {
               "name": "Ai Ds",
               "type": "file",
-              "path": "Local Archive/Organizations/ai-ds.md"
+              "path": "Local Archive/Organizations/ai-ds.md",
+              "tags": "ai-ds,night-market-team,bioweapons,crew-neutral,organized-crime,threat-extreme"
             },
             {
               "name": "Bozos",
               "type": "file",
-              "path": "Local Archive/Organizations/bozos.md"
+              "path": "Local Archive/Organizations/bozos.md",
+              "tags": "bozos,gang,combat-zone,crew-hostile,organized-crime,threat-extreme"
             },
             {
               "name": "Creeping Death",
               "type": "file",
-              "path": "Local Archive/Organizations/creeping-death.md"
+              "path": "Local Archive/Organizations/creeping-death.md",
+              "tags": "creeping-death,night-market-team,toxicity,crew-neutral,organized-crime,threat-high"
             },
             {
               "name": "Precipice Securities",
               "type": "file",
-              "path": "Local Archive/Organizations/precipice-securities.md"
+              "path": "Local Archive/Organizations/precipice-securities.md",
+              "tags": "organization,security-company,precipice,night-city"
             },
             {
               "name": "Red Hawks",
               "type": "file",
-              "path": "Local Archive/Organizations/red-hawks.md"
+              "path": "Local Archive/Organizations/red-hawks.md",
+              "tags": "red-hawks,nomad-pack,badlands,crew-ally,threat-medium"
             },
             {
               "name": "Tesla Tyrants",
               "type": "file",
-              "path": "Local Archive/Organizations/tesla-tyrants.md"
+              "path": "Local Archive/Organizations/tesla-tyrants.md",
+              "tags": "tesla-tyrants,night-market-team,tech-gang,crew-hostile,organized-crime,threat-high"
             },
             {
               "name": "The Modlits",
               "type": "file",
-              "path": "Local Archive/Organizations/the-modlits.md"
+              "path": "Local Archive/Organizations/the-modlits.md",
+              "tags": "modlits,night-market-team,tech-gang,crew-neutral,organized-crime,threat-medium"
             },
             {
               "name": "The Vultures",
               "type": "file",
-              "path": "Local Archive/Organizations/the-vultures.md"
+              "path": "Local Archive/Organizations/the-vultures.md",
+              "tags": "the-vultures,scavenger-gang,the-precipice,campaign-gang,magpie,raptor,bekah-bluejay"
             }
           ]
         },
@@ -136,22 +157,26 @@
             {
               "name": "Magpie",
               "type": "file",
-              "path": "Local Archive/Players/magpie.md"
+              "path": "Local Archive/Players/magpie.md",
+              "tags": "player,vultures,techie,solo,session-1,session-2,session-3,session-4"
             },
             {
               "name": "Oldboy",
               "type": "file",
-              "path": "Local Archive/Players/oldboy.md"
+              "path": "Local Archive/Players/oldboy.md",
+              "tags": "player,vultures,detective,solo,red-hawks,session-1,session-2,session-3,session-4"
             },
             {
               "name": "Ronnie Pickering Roadblock",
               "type": "file",
-              "path": "Local Archive/Players/ronnie-pickering-roadblock.md"
+              "path": "Local Archive/Players/ronnie-pickering-roadblock.md",
+              "tags": "player,vultures,lawman,ncpd,session-1,session-2,session-3,session-4"
             },
             {
               "name": "Sal",
               "type": "file",
-              "path": "Local Archive/Players/sal.md"
+              "path": "Local Archive/Players/sal.md",
+              "tags": "player,vultures,medtech,session-1,session-2,session-3,session-4"
             }
           ]
         },
@@ -160,74 +185,82 @@
           "type": "folder",
           "children": [
             {
-              "name": "Agent Reference",
-              "type": "file",
-              "path": "Local Archive/Rules/agent-reference.md"
-            },
-            {
               "name": "Character Creation And Lifepath",
               "type": "file",
-              "path": "Local Archive/Rules/character-creation-and-lifepath.md"
+              "path": "Local Archive/Rules/character-creation-and-lifepath.md",
+              "tags": "character-creation,lifepath,gm-tools,rules"
             },
             {
               "name": "Core Resolution And Skills",
               "type": "file",
-              "path": "Local Archive/Rules/core-resolution-and-skills.md"
+              "path": "Local Archive/Rules/core-resolution-and-skills.md",
+              "tags": "character-creation,lifepath,gm-tools,rules"
             },
             {
               "name": "Cyberware",
               "type": "file",
-              "path": "Local Archive/Rules/cyberware.md"
+              "path": "Local Archive/Rules/cyberware.md",
+              "tags": "character-creation,lifepath,gm-tools,rules"
             },
             {
               "name": "Damage And Healing",
               "type": "file",
-              "path": "Local Archive/Rules/damage-and-healing.md"
+              "path": "Local Archive/Rules/damage-and-healing.md",
+              "tags": "character-creation,lifepath,gm-tools,rules"
             },
             {
               "name": "Gear And Economy",
               "type": "file",
-              "path": "Local Archive/Rules/gear-and-economy.md"
+              "path": "Local Archive/Rules/gear-and-economy.md",
+              "tags": "character-creation,lifepath,gm-tools,rules"
             },
             {
               "name": "Gm Tools And Encounters",
               "type": "file",
-              "path": "Local Archive/Rules/gm-tools-and-encounters.md"
+              "path": "Local Archive/Rules/gm-tools-and-encounters.md",
+              "tags": "character-creation,lifepath,gm-tools,rules"
             },
             {
               "name": "Improvement Points",
               "type": "file",
-              "path": "Local Archive/Rules/improvement-points.md"
+              "path": "Local Archive/Rules/improvement-points.md",
+              "tags": "character-creation,lifepath,gm-tools,rules"
             },
             {
               "name": "Melee And Brawling",
               "type": "file",
-              "path": "Local Archive/Rules/melee-and-brawling.md"
+              "path": "Local Archive/Rules/melee-and-brawling.md",
+              "tags": "character-creation,lifepath,gm-tools,rules"
             },
             {
               "name": "Netrunning",
               "type": "file",
-              "path": "Local Archive/Rules/netrunning.md"
+              "path": "Local Archive/Rules/netrunning.md",
+              "tags": "character-creation,lifepath,gm-tools,rules"
             },
             {
               "name": "Quick Reference Index",
               "type": "file",
-              "path": "Local Archive/Rules/quick-reference-index.md"
+              "path": "Local Archive/Rules/quick-reference-index.md",
+              "tags": "character-creation,lifepath,gm-tools,rules"
             },
             {
               "name": "Ranged Combat",
               "type": "file",
-              "path": "Local Archive/Rules/ranged-combat.md"
+              "path": "Local Archive/Rules/ranged-combat.md",
+              "tags": "character-creation,lifepath,gm-tools,rules"
             },
             {
               "name": "Roles And Abilities",
               "type": "file",
-              "path": "Local Archive/Rules/roles-and-abilities.md"
+              "path": "Local Archive/Rules/roles-and-abilities.md",
+              "tags": "character-creation,lifepath,gm-tools,rules"
             },
             {
               "name": "Vehicles And Chases",
               "type": "file",
-              "path": "Local Archive/Rules/vehicles-and-chases.md"
+              "path": "Local Archive/Rules/vehicles-and-chases.md",
+              "tags": "character-creation,lifepath,gm-tools,rules"
             }
           ]
         },
@@ -238,37 +271,44 @@
             {
               "name": "Session1",
               "type": "file",
-              "path": "Local Archive/Sessions/session1.md"
+              "path": "Local Archive/Sessions/session1.md",
+              "tags": "session,session-1,combat-encounter,vultures,bozos"
             },
             {
               "name": "Session2",
               "type": "file",
-              "path": "Local Archive/Sessions/session2.md"
+              "path": "Local Archive/Sessions/session2.md",
+              "tags": "session,session-2,combat-encounter,vultures,bozos,bloam"
             },
             {
               "name": "Session3",
               "type": "file",
-              "path": "Local Archive/Sessions/session3.md"
+              "path": "Local Archive/Sessions/session3.md",
+              "tags": "session,session-3,combat-encounter,vultures,bozos,bloam"
             },
             {
               "name": "Session4",
               "type": "file",
-              "path": "Local Archive/Sessions/session4.md"
+              "path": "Local Archive/Sessions/session4.md",
+              "tags": "session,session-4,night-market-arc,combat-encounter,vultures,bozos,tesla-tyrants,bloam,glow-eyed-queen"
             },
             {
               "name": "Session5",
               "type": "file",
-              "path": "Local Archive/Sessions/session5.md"
+              "path": "Local Archive/Sessions/session5.md",
+              "tags": "session,session-5,upper-marina,sparks-club,tesla-tyrants,infiltration,vehicle-chase"
             },
             {
               "name": "Session6",
               "type": "file",
-              "path": "Local Archive/Sessions/session6.md"
+              "path": "Local Archive/Sessions/session6.md",
+              "tags": "session,session-6,upper-marina,sparks-club,tesla-tyrants,infiltration,combat"
             },
             {
               "name": "Session7",
               "type": "file",
-              "path": "Local Archive/Sessions/session7.md"
+              "path": "Local Archive/Sessions/session7.md",
+              "tags": "session,session-7,upper-marina,sparks-club,tesla-tyrants,combat,loot,fire"
             }
           ]
         }
@@ -285,477 +325,572 @@
             {
               "name": "944 Ncu Radio",
               "type": "file",
-              "path": "Net Archive/Locations/944-ncu-radio.md"
+              "path": "Net Archive/Locations/944-ncu-radio.md",
+              "tags": "university-district,radio-station,nightlife,cultural-hub,threat-medium"
             },
             {
               "name": "Afterlife",
               "type": "file",
-              "path": "Net Archive/Locations/afterlife.md"
+              "path": "Net Archive/Locations/afterlife.md",
+              "tags": "bar,club,little-china,watson,threat-medium"
             },
             {
               "name": "Arasaka Towers Ruins",
               "type": "file",
-              "path": "Net Archive/Locations/arasaka-towers-ruins.md"
+              "path": "Net Archive/Locations/arasaka-towers-ruins.md",
+              "tags": "hot-zone,the-island,combat-zone,threat-high,arasaka,historical-site,radiation-hazard,johnny-silverhand,the-time-of-the-red"
             },
             {
               "name": "Ashcroft Hotel",
               "type": "file",
-              "path": "Net Archive/Locations/ashcroft-hotel.md"
+              "path": "Net Archive/Locations/ashcroft-hotel.md",
+              "tags": "hotel,combat-zone,threat-extreme,maelstrom"
             },
             {
               "name": "Badlands",
               "type": "file",
-              "path": "Net Archive/Locations/badlands.md"
+              "path": "Net Archive/Locations/badlands.md",
+              "tags": "badlands,threat-medium"
             },
             {
               "name": "Brookhaven Co Op",
               "type": "file",
-              "path": "Net Archive/Locations/brookhaven-co-op.md"
+              "path": "Net Archive/Locations/brookhaven-co-op.md",
+              "tags": "brookhaven-co-op,housing,combat-zone,little-china,maelstrom,night-city"
             },
             {
               "name": "Burleson Tower",
               "type": "file",
-              "path": "Net Archive/Locations/burleson-tower.md"
+              "path": "Net Archive/Locations/burleson-tower.md",
+              "tags": "hotel,combat-zone,threat-extreme,maelstrom,club"
             },
             {
               "name": "Charter Hill",
               "type": "file",
-              "path": "Net Archive/Locations/charter-hill.md"
+              "path": "Net Archive/Locations/charter-hill.md",
+              "tags": "district,location,charter-hill"
             },
             {
               "name": "Choppers",
               "type": "file",
-              "path": "Net Archive/Locations/choppers.md"
+              "path": "Net Archive/Locations/choppers.md",
+              "tags": "bar,watson,threat-medium"
             },
             {
               "name": "Chrome Cross Bar",
               "type": "file",
-              "path": "Net Archive/Locations/chrome-cross-bar.md"
+              "path": "Net Archive/Locations/chrome-cross-bar.md",
+              "tags": "bar,combat-zone,little-china,watson,threat-high,red-hawks"
             },
             {
               "name": "City Medical Center",
               "type": "file",
-              "path": "Net Archive/Locations/city-medical-center.md"
+              "path": "Net Archive/Locations/city-medical-center.md",
+              "tags": "corporate-zone,shop,threat-low"
             },
             {
               "name": "Crisis Medical Center",
               "type": "file",
-              "path": "Net Archive/Locations/crisis-medical-center.md"
+              "path": "Net Archive/Locations/crisis-medical-center.md",
+              "tags": "shop,threat-high,westbrook"
             },
             {
               "name": "Danger Gal Headquarters",
               "type": "file",
-              "path": "Net Archive/Locations/danger-gal-headquarters.md"
+              "path": "Net Archive/Locations/danger-gal-headquarters.md",
+              "tags": "corporate,corporate-zone,threat-low"
             },
             {
               "name": "Delirium",
               "type": "file",
-              "path": "Net Archive/Locations/delirium.md"
+              "path": "Net Archive/Locations/delirium.md",
+              "tags": "club,nightlife,threat-medium"
             },
             {
               "name": "Deravaja Dojo",
               "type": "file",
-              "path": "Net Archive/Locations/deravaja-dojo.md"
+              "path": "Net Archive/Locations/deravaja-dojo.md",
+              "tags": "shop,little-china,watson,threat-medium"
             },
             {
               "name": "Downtown",
               "type": "file",
-              "path": "Net Archive/Locations/downtown.md"
+              "path": "Net Archive/Locations/downtown.md",
+              "tags": "district,location,little-europe"
             },
             {
               "name": "Executive Zone",
               "type": "file",
-              "path": "Net Archive/Locations/executive-zone.md"
+              "path": "Net Archive/Locations/executive-zone.md",
+              "tags": "corporate-zone,threat-low,westbrook"
             },
             {
               "name": "Flotsam",
               "type": "file",
-              "path": "Net Archive/Locations/flotsam.md"
+              "path": "Net Archive/Locations/flotsam.md",
+              "tags": "threat-medium,santo-domingo"
             },
             {
               "name": "Forlorn Hope",
               "type": "file",
-              "path": "Net Archive/Locations/forlorn-hope.md"
+              "path": "Net Archive/Locations/forlorn-hope.md",
+              "tags": "bar,heywood,threat-high"
             },
             {
               "name": "Guangbo Tower",
               "type": "file",
-              "path": "Net Archive/Locations/guangbo-tower.md"
+              "path": "Net Archive/Locations/guangbo-tower.md",
+              "tags": "shop,little-china,watson,threat-medium"
             },
             {
               "name": "Hardhats Warehouse",
               "type": "file",
-              "path": "Net Archive/Locations/hardhats-warehouse.md"
+              "path": "Net Archive/Locations/hardhats-warehouse.md",
+              "tags": "hot-zone,the-island,combat-zone,threat-high,scavver-hub,maelstrom,safehouse"
             },
             {
               "name": "Herschels Crematorium",
               "type": "file",
-              "path": "Net Archive/Locations/herschels-crematorium.md"
+              "path": "Net Archive/Locations/herschels-crematorium.md",
+              "tags": "reclamation-zone,threat-low"
             },
             {
               "name": "Heywood Docks",
               "type": "file",
-              "path": "Net Archive/Locations/heywood-docks.md"
+              "path": "Net Archive/Locations/heywood-docks.md",
+              "tags": "district,location,heywood"
             },
             {
               "name": "Heywood Industrial Zone",
               "type": "file",
-              "path": "Net Archive/Locations/heywood-industrial-zone.md"
+              "path": "Net Archive/Locations/heywood-industrial-zone.md",
+              "tags": "district,location,heywood"
             },
             {
               "name": "Heywood",
               "type": "file",
-              "path": "Net Archive/Locations/heywood.md"
+              "path": "Net Archive/Locations/heywood.md",
+              "tags": "heywood,corporate-zone,threat-medium"
             },
             {
               "name": "Highcourt Plaza Hotel",
               "type": "file",
-              "path": "Net Archive/Locations/highcourt-plaza-hotel.md"
+              "path": "Net Archive/Locations/highcourt-plaza-hotel.md",
+              "tags": "hotel,westbrook,threat-medium"
             },
             {
               "name": "Hot Zone",
               "type": "file",
-              "path": "Net Archive/Locations/hot-zone.md"
+              "path": "Net Archive/Locations/hot-zone.md",
+              "tags": "hotel,district,location,hot-zone"
             },
             {
               "name": "Jesse James Kosher Deli",
               "type": "file",
-              "path": "Net Archive/Locations/jesse-james-kosher-deli.md"
+              "path": "Net Archive/Locations/jesse-james-kosher-deli.md",
+              "tags": "restaurant,combat-zone,threat-high"
             },
             {
               "name": "Jig Jig Street",
               "type": "file",
-              "path": "Net Archive/Locations/jig-jig-street.md"
+              "path": "Net Archive/Locations/jig-jig-street.md",
+              "tags": "watson,nightlife,threat-medium,tyger-claws"
             },
             {
               "name": "Kabuki",
               "type": "file",
-              "path": "Net Archive/Locations/kabuki.md"
+              "path": "Net Archive/Locations/kabuki.md",
+              "tags": "watson,combat-zone,tyger-claws,threat-high"
             },
             {
               "name": "Kasims",
               "type": "file",
-              "path": "Net Archive/Locations/kasims.md"
+              "path": "Net Archive/Locations/kasims.md",
+              "tags": "bar,heywood,the-glen,threat-low"
             },
             {
               "name": "Laguna Bend",
               "type": "file",
-              "path": "Net Archive/Locations/laguna-bend.md"
+              "path": "Net Archive/Locations/laguna-bend.md",
+              "tags": "badlands,threat-medium"
             },
             {
               "name": "Ling Po Public Library",
               "type": "file",
-              "path": "Net Archive/Locations/ling-po-public-library.md"
+              "path": "Net Archive/Locations/ling-po-public-library.md",
+              "tags": "ling-po-public-library,library,education,little-china,night-city"
             },
             {
               "name": "Little China",
               "type": "file",
-              "path": "Net Archive/Locations/little-china.md"
+              "path": "Net Archive/Locations/little-china.md",
+              "tags": "little-china,combat-zone,tyger-claws,threat-high"
             },
             {
               "name": "Little Europe",
               "type": "file",
-              "path": "Net Archive/Locations/little-europe.md"
+              "path": "Net Archive/Locations/little-europe.md",
+              "tags": "little europe,district,rebuilding-urban-center,threat-low,eurotrashers,maelstrom,6th-street"
             },
             {
               "name": "Lizzies Bar",
               "type": "file",
-              "path": "Net Archive/Locations/lizzies-bar.md"
+              "path": "Net Archive/Locations/lizzies-bar.md",
+              "tags": "bar,club,watson,nightlife"
             },
             {
               "name": "Lucky Cat Stir Fry",
               "type": "file",
-              "path": "Net Archive/Locations/lucky-cat-stir-fry.md"
+              "path": "Net Archive/Locations/lucky-cat-stir-fry.md",
+              "tags": "restaurant,westbrook,threat-low"
             },
             {
               "name": "Maelstrom Arena",
               "type": "file",
-              "path": "Net Archive/Locations/maelstrom-arena.md"
+              "path": "Net Archive/Locations/maelstrom-arena.md",
+              "tags": "maelstrom-arena,watson,northside-industrial-district,maelstrom,fight-club,underground-fight-club,threat-high,combat-zone"
             },
             {
               "name": "Mainland",
               "type": "file",
-              "path": "Net Archive/Locations/mainland.md"
+              "path": "Net Archive/Locations/mainland.md",
+              "tags": "time-of-the-red,location,heywood,charter-hill"
             },
             {
               "name": "Megabuilding H10",
               "type": "file",
-              "path": "Net Archive/Locations/megabuilding-h10.md"
+              "path": "Net Archive/Locations/megabuilding-h10.md",
+              "tags": "megabuilding,watson,threat-low"
             },
             {
               "name": "Megabuilding H8",
               "type": "file",
-              "path": "Net Archive/Locations/megabuilding-h8.md"
+              "path": "Net Archive/Locations/megabuilding-h8.md",
+              "tags": "megabuilding,watson,threat-low"
             },
             {
               "name": "Mistys Esoterica",
               "type": "file",
-              "path": "Net Archive/Locations/mistys-esoterica.md"
+              "path": "Net Archive/Locations/mistys-esoterica.md",
+              "tags": "shop,little-china,watson,threat-low"
             },
             {
               "name": "Ncart",
               "type": "file",
-              "path": "Net Archive/Locations/ncart.md"
+              "path": "Net Archive/Locations/ncart.md",
+              "tags": "shopping,threat-low"
             },
             {
               "name": "New Westbrook",
               "type": "file",
-              "path": "Net Archive/Locations/new-westbrook.md"
+              "path": "Net Archive/Locations/new-westbrook.md",
+              "tags": "district,location,combat-zone"
             },
             {
               "name": "Night Market",
               "type": "file",
-              "path": "Net Archive/Locations/night-market.md"
+              "path": "Net Archive/Locations/night-market.md",
+              "tags": "shopping,threat-medium"
             },
             {
               "name": "Norcal Military Base",
               "type": "file",
-              "path": "Net Archive/Locations/norcal-military-base.md"
+              "path": "Net Archive/Locations/norcal-military-base.md",
+              "tags": "pacifica,district,location"
             },
             {
               "name": "North Heywood",
               "type": "file",
-              "path": "Net Archive/Locations/north-heywood.md"
+              "path": "Net Archive/Locations/north-heywood.md",
+              "tags": "district,location,bar,heywood"
             },
             {
               "name": "Northside",
               "type": "file",
-              "path": "Net Archive/Locations/northside.md"
+              "path": "Net Archive/Locations/northside.md",
+              "tags": "location,watson"
             },
             {
               "name": "Old Combat Zone",
               "type": "file",
-              "path": "Net Archive/Locations/old-combat-zone.md"
+              "path": "Net Archive/Locations/old-combat-zone.md",
+              "tags": "district,location,combat-zone"
             },
             {
               "name": "Old Japantown",
               "type": "file",
-              "path": "Net Archive/Locations/old-japantown.md"
+              "path": "Net Archive/Locations/old-japantown.md",
+              "tags": "combat-zone,westbrook,threat-high,tyger-claws,maelstrom"
             },
             {
               "name": "Pacifica Playground",
               "type": "file",
-              "path": "Net Archive/Locations/pacifica-playground.md"
+              "path": "Net Archive/Locations/pacifica-playground.md",
+              "tags": "pacifica,district,location,combat-zone"
             },
             {
               "name": "Pacifica",
               "type": "file",
-              "path": "Net Archive/Locations/pacifica.md"
+              "path": "Net Archive/Locations/pacifica.md",
+              "tags": "pacifica,threat-medium"
             },
             {
               "name": "Playland By The Sea",
               "type": "file",
-              "path": "Net Archive/Locations/playland-by-the-sea.md"
+              "path": "Net Archive/Locations/playland-by-the-sea.md",
+              "tags": "playland-by-the-sea,location,pacifica,red-era,amusement-park"
             },
             {
               "name": "Pol Bud Cement Factory",
               "type": "file",
-              "path": "Net Archive/Locations/pol-bud-cement-factory.md"
+              "path": "Net Archive/Locations/pol-bud-cement-factory.md",
+              "tags": "badlands,threat-high"
             },
             {
               "name": "Port Of Night City",
               "type": "file",
-              "path": "Net Archive/Locations/port-of-night-city.md"
+              "path": "Net Archive/Locations/port-of-night-city.md",
+              "tags": "location,district,port,waterfront,nightcity,thelas-nation,nomad-turf,threat-medium,trading-post,black-market"
             },
             {
               "name": "Prosperity Gardens Tenements",
               "type": "file",
-              "path": "Net Archive/Locations/prosperity-gardens-tenements.md"
+              "path": "Net Archive/Locations/prosperity-gardens-tenements.md",
+              "tags": "prosperity-gardens-tenements,housing,little-china,gold-dragons,night-city"
             },
             {
               "name": "Rancho Coronado",
               "type": "file",
-              "path": "Net Archive/Locations/rancho-coronado.md"
+              "path": "Net Archive/Locations/rancho-coronado.md",
+              "tags": "rancho coronado,district,overpacked-suburb,threat-high,albino-alligators,voodoo-boys"
             },
             {
               "name": "Randy Dandy",
               "type": "file",
-              "path": "Net Archive/Locations/randy-dandy.md"
+              "path": "Net Archive/Locations/randy-dandy.md",
+              "tags": "bar,threat-medium"
             },
             {
               "name": "Reclaimed Perimeter",
               "type": "file",
-              "path": "Net Archive/Locations/reclaimed-perimeter.md"
+              "path": "Net Archive/Locations/reclaimed-perimeter.md",
+              "tags": "badlands,threat-low"
             },
             {
               "name": "Reclamation Zone",
               "type": "file",
-              "path": "Net Archive/Locations/reclamation-zone.md"
+              "path": "Net Archive/Locations/reclamation-zone.md",
+              "tags": "district,location"
             },
             {
               "name": "Redline",
               "type": "file",
-              "path": "Net Archive/Locations/redline.md"
+              "path": "Net Archive/Locations/redline.md",
+              "tags": "bar,watson,threat-medium"
             },
             {
               "name": "Regional Airport",
               "type": "file",
-              "path": "Net Archive/Locations/regional-airport.md"
+              "path": "Net Archive/Locations/regional-airport.md",
+              "tags": "badlands,threat-medium"
             },
             {
               "name": "Rustys Dive Shack",
               "type": "file",
-              "path": "Net Archive/Locations/rustys-dive-shack.md"
+              "path": "Net Archive/Locations/rustys-dive-shack.md",
+              "tags": "bar,threat-medium"
             },
             {
               "name": "Santo Domingo",
               "type": "file",
-              "path": "Net Archive/Locations/santo-domingo.md"
+              "path": "Net Archive/Locations/santo-domingo.md",
+              "tags": "santo-domingo,reclamation-zone,threat-medium,maelstrom,bozos"
             },
             {
               "name": "Short Circuit",
               "type": "file",
-              "path": "Net Archive/Locations/short-circuit.md"
+              "path": "Net Archive/Locations/short-circuit.md",
+              "tags": "bar,corporate-zone,threat-low"
             },
             {
               "name": "South Night City",
               "type": "file",
-              "path": "Net Archive/Locations/south-night-city.md"
+              "path": "Net Archive/Locations/south-night-city.md",
+              "tags": "south-night-city,district,combat-zone,threat-high"
             },
             {
               "name": "Southside",
               "type": "file",
-              "path": "Net Archive/Locations/southside.md"
+              "path": "Net Archive/Locations/southside.md",
+              "tags": "pacifica,location"
             },
             {
               "name": "Tent City",
               "type": "file",
-              "path": "Net Archive/Locations/tent-city.md"
+              "path": "Net Archive/Locations/tent-city.md",
+              "tags": "hot-zone,the-island,combat-zone,threat-high,scavver-hub,tent-city,reckoners,maelstrom"
             },
             {
               "name": "The Big Top",
               "type": "file",
-              "path": "Net Archive/Locations/the-big-top.md"
+              "path": "Net Archive/Locations/the-big-top.md",
+              "tags": "the-big-top,bozos,gang-hq,combat-zone,threat-high"
             },
             {
               "name": "The Boneyard",
               "type": "file",
-              "path": "Net Archive/Locations/the-boneyard.md"
+              "path": "Net Archive/Locations/the-boneyard.md",
+              "tags": "south-night-city,residential,combat-zone,threat-low,threat-medium"
             },
             {
               "name": "The Columbarium",
               "type": "file",
-              "path": "Net Archive/Locations/the-columbarium.md"
+              "path": "Net Archive/Locations/the-columbarium.md",
+              "tags": "the-columbarium,south-night-city,the-island,necropolis,tombstone-preservers,threat-low"
             },
             {
               "name": "The Glen",
               "type": "file",
-              "path": "Net Archive/Locations/the-glen.md"
+              "path": "Net Archive/Locations/the-glen.md",
+              "tags": "the-glen,district,heywood,government-zone,night-corp,ncpd,threat-low"
             },
             {
               "name": "The Island",
               "type": "file",
-              "path": "Net Archive/Locations/the-island.md"
+              "path": "Net Archive/Locations/the-island.md",
+              "tags": "little-china,south-night-city,little-europe,hot-zone,university-district,the-glen,location"
             },
             {
               "name": "The Lair",
               "type": "file",
-              "path": "Net Archive/Locations/the-lair.md"
+              "path": "Net Archive/Locations/the-lair.md",
+              "tags": "south-night-city,residential,threat-medium"
             },
             {
               "name": "The Last Stop",
               "type": "file",
-              "path": "Net Archive/Locations/the-last-stop.md"
+              "path": "Net Archive/Locations/the-last-stop.md",
+              "tags": "bar,watson,little-china,threat-low,threat-medium"
             },
             {
               "name": "The N54",
               "type": "file",
-              "path": "Net Archive/Locations/the-n54.md"
+              "path": "Net Archive/Locations/the-n54.md",
+              "tags": "hot-zone,the-island,combat-zone,threat-high,radiation-hazard,scavver-hub,maelstrom"
             },
             {
               "name": "The Precipice",
               "type": "file",
-              "path": "Net Archive/Locations/the-precipice.md"
+              "path": "Net Archive/Locations/the-precipice.md",
+              "tags": "old-japantown,residential,combat-zone,threat-medium"
             },
             {
               "name": "The Shark",
               "type": "file",
-              "path": "Net Archive/Locations/the-shark.md"
+              "path": "Net Archive/Locations/the-shark.md",
+              "tags": "the-shark,heywood,woodland-park,apartment-complex,threat-low-medium"
             },
             {
               "name": "The Signboards",
               "type": "file",
-              "path": "Net Archive/Locations/the-signboards.md"
+              "path": "Net Archive/Locations/the-signboards.md",
+              "tags": "the-signboards,badlands,waystation,trading-post,threat-high,black-market,maelstrom,raffen-shiv"
             },
             {
               "name": "The Slammer",
               "type": "file",
-              "path": "Net Archive/Locations/the-slammer.md"
+              "path": "Net Archive/Locations/the-slammer.md",
+              "tags": "bar,south-night-city,combat-zone,threat-high,fighting-arena"
             },
             {
               "name": "The Time Machine",
               "type": "file",
-              "path": "Net Archive/Locations/the-time-machine.md"
+              "path": "Net Archive/Locations/the-time-machine.md",
+              "tags": "bar,watson,little-china,threat-medium"
             },
             {
               "name": "Thehorn",
               "type": "file",
-              "path": "Net Archive/Locations/thehorn.md"
+              "path": "Net Archive/Locations/thehorn.md",
+              "tags": "thehorn,watson,dive-bar,night-city-co-prosperity-sphere,threat-low,fixer-hub"
             },
             {
               "name": "Toggles Temple",
               "type": "file",
-              "path": "Net Archive/Locations/toggles-temple.md"
+              "path": "Net Archive/Locations/toggles-temple.md",
+              "tags": "shop,shooting-range,combat-zone,threat-high,hot-zone"
             },
             {
               "name": "Toms Diner",
               "type": "file",
-              "path": "Net Archive/Locations/toms-diner.md"
+              "path": "Net Archive/Locations/toms-diner.md",
+              "tags": "restaurant,little-china,watson,threat-low,nightlife"
             },
             {
               "name": "Totentanz",
               "type": "file",
-              "path": "Net Archive/Locations/totentanz.md"
+              "path": "Net Archive/Locations/totentanz.md",
+              "tags": "club,hot-zone,nightlife,threat-extreme,combat-zone"
             },
             {
               "name": "Trauma Team Tower",
               "type": "file",
-              "path": "Net Archive/Locations/trauma-team-tower.md"
+              "path": "Net Archive/Locations/trauma-team-tower.md",
+              "tags": "trauma-team-tower,corporate-medical,watson,megacorp-facility,trauma-team"
             },
             {
               "name": "Union Chapel",
               "type": "file",
-              "path": "Net Archive/Locations/union-chapel.md"
+              "path": "Net Archive/Locations/union-chapel.md",
+              "tags": "south-night-city,combat-zone,threat-extreme,location"
             },
             {
               "name": "University District",
               "type": "file",
-              "path": "Net Archive/Locations/university-district.md"
+              "path": "Net Archive/Locations/university-district.md",
+              "tags": "university-district,district,reclamation-zone,threat-medium,threat-high"
             },
             {
               "name": "Upper Marina",
               "type": "file",
-              "path": "Net Archive/Locations/upper-marina.md"
+              "path": "Net Archive/Locations/upper-marina.md",
+              "tags": "district,location,medical-facility"
             },
             {
               "name": "Vargtimmen",
               "type": "file",
-              "path": "Net Archive/Locations/vargtimmen.md"
+              "path": "Net Archive/Locations/vargtimmen.md",
+              "tags": "bar,watson,nightlife,threat-low,threat-medium"
             },
             {
               "name": "Viktors Clinic",
               "type": "file",
-              "path": "Net Archive/Locations/viktors-clinic.md"
+              "path": "Net Archive/Locations/viktors-clinic.md",
+              "tags": "ripperdoc,little-china,watson,threat-low,shop"
             },
             {
               "name": "Virtexs Virtuality Venue",
               "type": "file",
-              "path": "Net Archive/Locations/virtexs-virtuality-venue.md"
+              "path": "Net Archive/Locations/virtexs-virtuality-venue.md",
+              "tags": "virtexs-virtuality-venue,entertainment,arcade,little-china,night-city"
             },
             {
               "name": "Watson Development",
               "type": "file",
-              "path": "Net Archive/Locations/watson-development.md"
+              "path": "Net Archive/Locations/watson-development.md",
+              "tags": "watson,district,corporate-zone,nccs,tyger-claw-turf,megabuilding,threat-low"
             },
             {
               "name": "Westbrook",
               "type": "file",
-              "path": "Net Archive/Locations/westbrook.md"
+              "path": "Net Archive/Locations/westbrook.md",
+              "tags": "westbrook,corporate-zone,threat-low"
             },
             {
               "name": "Woodland Park",
               "type": "file",
-              "path": "Net Archive/Locations/woodland-park.md"
+              "path": "Net Archive/Locations/woodland-park.md",
+              "tags": "woodland-park,heywood,north-heywood,rebuilding-neighborhood,the-muses,threat-low-medium"
             }
           ]
         },
@@ -764,269 +899,322 @@
           "type": "folder",
           "children": [
             {
-              "name": "6Th Street",
+              "name": "6th Street",
               "type": "file",
-              "path": "Net Archive/Organizations/6th-street.md"
+              "path": "Net Archive/Organizations/6th-street.md",
+              "tags": "gang,law-enforcement,heywood,santo-domingo,threat-medium"
             },
             {
               "name": "Aldecados",
               "type": "file",
-              "path": "Net Archive/Organizations/aldecados.md"
+              "path": "Net Archive/Organizations/aldecados.md",
+              "tags": "gang,badlands,threat-low"
             },
             {
               "name": "Andersons",
               "type": "file",
-              "path": "Net Archive/Organizations/andersons.md"
+              "path": "Net Archive/Organizations/andersons.md",
+              "tags": "gang,combat-zone,threat-low"
             },
             {
               "name": "Animals",
               "type": "file",
-              "path": "Net Archive/Organizations/animals.md"
+              "path": "Net Archive/Organizations/animals.md",
+              "tags": "gang,threat-high"
             },
             {
               "name": "Arasaka",
               "type": "file",
-              "path": "Net Archive/Organizations/arasaka.md"
+              "path": "Net Archive/Organizations/arasaka.md",
+              "tags": "corporate,tyger-claws,threat-high"
             },
             {
               "name": "Biotechnica",
               "type": "file",
-              "path": "Net Archive/Organizations/biotechnica.md"
+              "path": "Net Archive/Organizations/biotechnica.md",
+              "tags": "corporate,westbrook,threat-low"
             },
             {
               "name": "Bozos",
               "type": "file",
-              "path": "Net Archive/Organizations/bozos.md"
+              "path": "Net Archive/Organizations/bozos.md",
+              "tags": "bozos,gang,combat-zone,threat-high"
             },
             {
               "name": "Consortium",
               "type": "file",
-              "path": "Net Archive/Organizations/consortium.md"
+              "path": "Net Archive/Organizations/consortium.md",
+              "tags": "the-island,port-of-night-city,boostergang,smuggling,consortium,crew-neutral,organized-crime"
             },
             {
               "name": "Danger Gal",
               "type": "file",
-              "path": "Net Archive/Organizations/danger-gal.md"
+              "path": "Net Archive/Organizations/danger-gal.md",
+              "tags": "corporate,mercs,westbrook,threat-medium"
             },
             {
               "name": "Deadwoods",
               "type": "file",
-              "path": "Net Archive/Organizations/deadwoods.md"
+              "path": "Net Archive/Organizations/deadwoods.md",
+              "tags": "the-island,port-of-night-city,boostergang,smuggling,deadwoods,crew-neutral,organized-crime"
             },
             {
               "name": "Digital Divas",
               "type": "file",
-              "path": "Net Archive/Organizations/digital-divas.md"
+              "path": "Net Archive/Organizations/digital-divas.md",
+              "tags": "digital-divas,electric-punk,heywood,entertainment"
             },
             {
               "name": "Dirty Hippies",
               "type": "file",
-              "path": "Net Archive/Organizations/dirty-hippies.md"
+              "path": "Net Archive/Organizations/dirty-hippies.md",
+              "tags": "the-dirty-hippies,nomad-pack,rancho-coronado,guerrilla-gardening,threat-low"
             },
             {
               "name": "Dockside Billhooks",
               "type": "file",
-              "path": "Net Archive/Organizations/dockside-billhooks.md"
+              "path": "Net Archive/Organizations/dockside-billhooks.md",
+              "tags": "dockside-billhooks,roller-derby,night-city-wonderland-league,heywood,upper-marina,sports-team"
             },
             {
               "name": "Generation Red",
               "type": "file",
-              "path": "Net Archive/Organizations/generation-red.md"
+              "path": "Net Archive/Organizations/generation-red.md",
+              "tags": "generation-red,gang,combat-zone,threat-medium,youth-gang"
             },
             {
               "name": "Inquisitors",
               "type": "file",
-              "path": "Net Archive/Organizations/inquisitors.md"
+              "path": "Net Archive/Organizations/inquisitors.md",
+              "tags": "cult,threat-extreme"
             },
             {
               "name": "Iron Sights",
               "type": "file",
-              "path": "Net Archive/Organizations/iron-sights.md"
+              "path": "Net Archive/Organizations/iron-sights.md",
+              "tags": "iron-sights,gang,combat-zone,threat-high"
             },
             {
               "name": "Jodes",
               "type": "file",
-              "path": "Net Archive/Organizations/jodes.md"
+              "path": "Net Archive/Organizations/jodes.md",
+              "tags": "the-jodes,nomad-pack,seven-nations,badlands,zoners-ally"
             },
             {
               "name": "Kang Tao",
               "type": "file",
-              "path": "Net Archive/Organizations/kang-tao.md"
+              "path": "Net Archive/Organizations/kang-tao.md",
+              "tags": "kang-tao,megacorp,weapons-manufacturer,smart-weapons"
             },
             {
               "name": "Kendachi",
               "type": "file",
-              "path": "Net Archive/Organizations/kendachi.md"
+              "path": "Net Archive/Organizations/kendachi.md",
+              "tags": "corporate"
             },
             {
               "name": "Kimen Gumi",
               "type": "file",
-              "path": "Net Archive/Organizations/kimen-gumi.md"
+              "path": "Net Archive/Organizations/kimen-gumi.md",
+              "tags": "tyger-claws,kimen-gumi,gang,kabuki,watson,threat-medium"
             },
             {
               "name": "Kiroshi",
               "type": "file",
-              "path": "Net Archive/Organizations/kiroshi.md"
+              "path": "Net Archive/Organizations/kiroshi.md",
+              "tags": "corporation,cyberware,japanese,tech"
             },
             {
               "name": "Lightning Cats",
               "type": "file",
-              "path": "Net Archive/Organizations/lightning-cats.md"
+              "path": "Net Archive/Organizations/lightning-cats.md",
+              "tags": "hot-zone,the-island,boostergang,lightning-cats,crew-hostile,organized-crime"
             },
             {
               "name": "Little China Redevelopment Association",
               "type": "file",
-              "path": "Net Archive/Organizations/little-china-redevelopment-association.md"
+              "path": "Net Archive/Organizations/little-china-redevelopment-association.md",
+              "tags": "little-china-redevelopment-association,community-organization,little-china,combat-zone,gold-dragons,time-of-the-red"
             },
             {
               "name": "Maelstrom",
               "type": "file",
-              "path": "Net Archive/Organizations/maelstrom.md"
+              "path": "Net Archive/Organizations/maelstrom.md",
+              "tags": "maelstrom,gang,watson,combat-zone,threat-high"
             },
             {
               "name": "Max Tac",
               "type": "file",
-              "path": "Net Archive/Organizations/max-tac.md"
+              "path": "Net Archive/Organizations/max-tac.md",
+              "tags": "law-enforcement,threat-extreme"
             },
             {
               "name": "Militech",
               "type": "file",
-              "path": "Net Archive/Organizations/militech.md"
+              "path": "Net Archive/Organizations/militech.md",
+              "tags": "corporate,militia,threat-high"
             },
             {
               "name": "Netwatch",
               "type": "file",
-              "path": "Net Archive/Organizations/netwatch.md"
+              "path": "Net Archive/Organizations/netwatch.md",
+              "tags": "law-enforcement,threat-high"
             },
             {
               "name": "Night City Co Prosperity Sphere",
               "type": "file",
-              "path": "Net Archive/Organizations/night-city-co-prosperity-sphere.md"
+              "path": "Net Archive/Organizations/night-city-co-prosperity-sphere.md",
+              "tags": "nccs,corporation,japanese-conglomerate,night-city,guardian-gang,tyger-claws,kimen-gumi"
             },
             {
               "name": "Night City Gangs",
               "type": "file",
-              "path": "Net Archive/Organizations/night-city-gangs.md"
+              "path": "Net Archive/Organizations/night-city-gangs.md",
+              "tags": "maelstrom"
             },
             {
               "name": "Night City Wonderland League",
               "type": "file",
-              "path": "Net Archive/Organizations/night-city-wonderland-league.md"
+              "path": "Net Archive/Organizations/night-city-wonderland-league.md",
+              "tags": "night-city-wonderland-league,sports-league,entertainment,time-of-the-red"
             },
             {
               "name": "Night Corp",
               "type": "file",
-              "path": "Net Archive/Organizations/night-corp.md"
+              "path": "Net Archive/Organizations/night-corp.md",
+              "tags": "night-corp,corporate,the-glen,development"
             },
             {
               "name": "Orbital Air",
               "type": "file",
-              "path": "Net Archive/Organizations/orbital-air.md"
+              "path": "Net Archive/Organizations/orbital-air.md",
+              "tags": "orbital-air,corporate,megacorp"
             },
             {
               "name": "Philharmonic Vampyres",
               "type": "file",
-              "path": "Net Archive/Organizations/philharmonic-vampyres.md"
+              "path": "Net Archive/Organizations/philharmonic-vampyres.md",
+              "tags": "philharmonic-vampyres,gang,university-district,threat-low,threat-medium"
             },
             {
               "name": "Piranhas",
               "type": "file",
-              "path": "Net Archive/Organizations/piranhas.md"
+              "path": "Net Archive/Organizations/piranhas.md",
+              "tags": "piranhas,gang,threat-low,threat-medium,pacifica,party-gang"
             },
             {
               "name": "Reckoners",
               "type": "file",
-              "path": "Net Archive/Organizations/reckoners.md"
+              "path": "Net Archive/Organizations/reckoners.md",
+              "tags": "hot-zone,the-island,boostergang,eco-terrorists,reckoners,crew-hostile,organized-crime"
             },
             {
               "name": "Red Chrome Legion",
               "type": "file",
-              "path": "Net Archive/Organizations/red-chrome-legion.md"
+              "path": "Net Archive/Organizations/red-chrome-legion.md",
+              "tags": "red-chrome-legion,gang,combat-zone,threat-high"
             },
             {
               "name": "Shroomers",
               "type": "file",
-              "path": "Net Archive/Organizations/shroomers.md"
+              "path": "Net Archive/Organizations/shroomers.md",
+              "tags": "shroomers,gang,threat-low,reclaimers"
             },
             {
               "name": "Sightseers",
               "type": "file",
-              "path": "Net Archive/Organizations/sightseers.md"
+              "path": "Net Archive/Organizations/sightseers.md",
+              "tags": "gang,badlands,threat-low"
             },
             {
               "name": "Sinful Adams",
               "type": "file",
-              "path": "Net Archive/Organizations/sinful-adams.md"
+              "path": "Net Archive/Organizations/sinful-adams.md",
+              "tags": "sinful-adams,gang,south-night-city,threat-low,threat-medium"
             },
             {
               "name": "Sov Oil",
               "type": "file",
-              "path": "Net Archive/Organizations/sov-oil.md"
+              "path": "Net Archive/Organizations/sov-oil.md",
+              "tags": "corporate"
             },
             {
               "name": "Team Monster",
               "type": "file",
-              "path": "Net Archive/Organizations/team-monster.md"
+              "path": "Net Archive/Organizations/team-monster.md",
+              "tags": "team-monster,mercs,threat-high"
             },
             {
               "name": "The Faded",
               "type": "file",
-              "path": "Net Archive/Organizations/the-faded.md"
+              "path": "Net Archive/Organizations/the-faded.md",
+              "tags": "the-faded,gang,combat-zone,threat-medium"
             },
             {
               "name": "The Mox",
               "type": "file",
-              "path": "Net Archive/Organizations/the-mox.md"
+              "path": "Net Archive/Organizations/the-mox.md",
+              "tags": "gang,watson,threat-medium"
             },
             {
               "name": "The Muses",
               "type": "file",
-              "path": "Net Archive/Organizations/the-muses.md"
+              "path": "Net Archive/Organizations/the-muses.md",
+              "tags": "the-muses,posergang,heywood,woodland-park,night-city-wonderland-league,threat-low-medium"
             },
             {
               "name": "Toecutters",
               "type": "file",
-              "path": "Net Archive/Organizations/toecutters.md"
+              "path": "Net Archive/Organizations/toecutters.md",
+              "tags": "toecutters,nomads,badlands,heywood,threat-high"
             },
             {
               "name": "Tsunami Arms",
               "type": "file",
-              "path": "Net Archive/Organizations/tsunami-arms.md"
+              "path": "Net Archive/Organizations/tsunami-arms.md",
+              "tags": "tsunami-arms,megacorp,weapons-manufacturer,japan"
             },
             {
               "name": "Tyger Claws",
               "type": "file",
-              "path": "Net Archive/Organizations/tyger-claws.md"
+              "path": "Net Archive/Organizations/tyger-claws.md",
+              "tags": "tyger-claws,gang,watson,threat-high"
             },
             {
               "name": "Undertow",
               "type": "file",
-              "path": "Net Archive/Organizations/undertow.md"
+              "path": "Net Archive/Organizations/undertow.md",
+              "tags": "undertow,gang,little-europe,threat-medium"
             },
             {
               "name": "Valentinos",
               "type": "file",
-              "path": "Net Archive/Organizations/valentinos.md"
+              "path": "Net Archive/Organizations/valentinos.md",
+              "tags": "gang,heywood,threat-high"
             },
             {
               "name": "Voodoo Boys",
               "type": "file",
-              "path": "Net Archive/Organizations/voodoo-boys.md"
+              "path": "Net Archive/Organizations/voodoo-boys.md",
+              "tags": "gang,pacifica,threat-high"
             },
             {
               "name": "Wraiths",
               "type": "file",
-              "path": "Net Archive/Organizations/wraiths.md"
+              "path": "Net Archive/Organizations/wraiths.md",
+              "tags": "gang,badlands,threat-high"
             },
             {
               "name": "Zetatech",
               "type": "file",
-              "path": "Net Archive/Organizations/zetatech.md"
+              "path": "Net Archive/Organizations/zetatech.md",
+              "tags": "zetatech,corporate"
             },
             {
               "name": "Zoners",
               "type": "file",
-              "path": "Net Archive/Organizations/zoners.md"
+              "path": "Net Archive/Organizations/zoners.md",
+              "tags": "gang,combat-zone,threat-medium"
             }
           ]
         },
@@ -1037,27 +1225,32 @@
             {
               "name": "Blackwall",
               "type": "file",
-              "path": "Net Archive/Setting/blackwall.md"
+              "path": "Net Archive/Setting/blackwall.md",
+              "tags": "lore,net-history,time-of-the-red,technology"
             },
             {
               "name": "Data Krash",
               "type": "file",
-              "path": "Net Archive/Setting/data-krash.md"
+              "path": "Net Archive/Setting/data-krash.md",
+              "tags": "lore,net-history,time-of-the-red,event"
             },
             {
               "name": "Night City History",
               "type": "file",
-              "path": "Net Archive/Setting/night-city-history.md"
+              "path": "Net Archive/Setting/night-city-history.md",
+              "tags": "lore,history,the-time-of-the-red,night-city"
             },
             {
               "name": "Prominent Locations",
               "type": "file",
-              "path": "Net Archive/Setting/prominent-locations.md"
+              "path": "Net Archive/Setting/prominent-locations.md",
+              "tags": "setting,night-city,time-of-the-red,location-overview"
             },
             {
               "name": "Time Of The Red",
               "type": "file",
-              "path": "Net Archive/Setting/time-of-the-red.md"
+              "path": "Net Archive/Setting/time-of-the-red.md",
+              "tags": "lore,the-time-of-the-red,night-city"
             }
           ]
         }

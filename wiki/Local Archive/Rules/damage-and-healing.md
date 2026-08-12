@@ -210,7 +210,7 @@ A 2 m/yd x 2 m/yd section (1 square) of cover can be attacked. At **0 HP**, cove
 
 ---
 
-## Other Ways to Get Hurt (p. 180-182)
+## Other Ways to Get Hurt (pp. 180-181)
 
 ### Being on Fire (p. 180)
 
@@ -228,10 +228,10 @@ While **On Fire**, you take damage direct to HP at the end of your Turn until yo
 - When Drowning, at the beginning of each Turn you take your **BODY STAT directly to HP**. Ignores armor, doesn't ablate. (p. 180)
 - **Asphyxiation** is treated like Drowning. Asphyxiating in **space** deals additional **1d6 damage** to INT, REF, and DEX at end of Turn. If **INT reaches 0**, you die. Damage reversed if you get air. (p. 180)
 
-### Electrocution (p. 181)
+### Electrocution (p. 180)
 
 - Immediately take **6d6 damage**. Soaked by armor as normal.
-- If you don't move away, damage repeats at the end of each Turn starting with your next Turn. (p. 181)
+- If you don't move away, damage repeats at the end of each Turn starting with your next Turn. (p. 180)
 
 ### Exposure (p. 181)
 
@@ -239,18 +239,18 @@ While **On Fire**, you take damage direct to HP at the end of your Turn until yo
 - While exposed, even if Stabilized, you **cannot heal naturally**.
 - Proper equipment negates exposure. (p. 181)
 
-### Falling (p. 182)
+### Falling (p. 181)
 
-- Falling Characters fall **40 m/yds** at end of their Turn. (p. 182)
-- If an edge/ledge is nearby, one attempt: **DV15 Athletics Check** (no Check needed with Grapple Hand, Grapple Gun, etc.). (p. 182)
-- Upon hitting ground after falling **10 m/yds or more**: **2d6 damage per 10 m/yds** (soaked by body armor). (p. 182)
-- Unless they succeed a **DV15 Athletics Check**, also suffer **Broken Leg** Critical Injury. (p. 182)
-- Characters with **2 Cyberlegs** do not take this damage or Critical Injury (unless fall exceeds **30 m/yds**). (p. 182)
-- Falling off a skyscraper without a parachute = dead, don't bother rolling. (p. 182)
+- Falling Characters fall **40 m/yds** at end of their Turn. (p. 181)
+- If an edge/ledge is nearby, one attempt: **DV15 Athletics Check** (no Check needed with Grapple Hand, Grapple Gun, etc.). (p. 181)
+- Upon hitting ground after falling **10 m/yds or more**: **2d6 damage per 10 m/yds** (soaked by body armor). (p. 181)
+- Unless they succeed a **DV15 Athletics Check**, also suffer **Broken Leg** Critical Injury. (p. 181)
+- Characters with **2 Cyberlegs** do not take this damage or Critical Injury (unless fall exceeds **30 m/yds**). (p. 181)
+- Falling off a skyscraper without a parachute = dead, don't bother rolling. (p. 181)
 
-### Poisons (p. 182)
+### Poisons (p. 181)
 
-Roll **Resist Torture/Drugs** vs. poison DV. If you fail, suffer the effect. Armor is not ablated. (p. 182)
+Roll **Resist Torture/Drugs** vs. poison DV. If you fail, suffer the effect. Armor is not ablated. (p. 181)
 
 | Intensity | Examples | DV | Effect |
 |---|---|---|---|
@@ -258,9 +258,9 @@ Roll **Resist Torture/Drugs** vs. poison DV. If you fail, suffer the effect. Arm
 | **Strong** | Arsenic | 13 | **2d6** damage direct to HP |
 | **Deadly** | Biotoxin, Designer Poison, Stonefish Venom | 15 | **2d6** damage direct to HP |
 
-### Drugs (p. 182)
+### Drugs (p. 181)
 
-Roll **Resist Torture/Drugs** vs. drug DV. If you fail, suffer the effect. (p. 182)
+Roll **Resist Torture/Drugs** vs. drug DV. If you fail, suffer the effect. (p. 181)
 
 | Intensity | Examples | DV | Effect |
 |---|---|---|---|
@@ -270,11 +270,11 @@ Roll **Resist Torture/Drugs** vs. drug DV. If you fail, suffer the effect. (p. 1
 
 > For full street drug mechanics (Black Lace, Blue Glass, Boost, Smash, Synthcoke), see pp. 227-229.
 
-### Radiation (p. 182)
+### Radiation (p. 181)
 
-- **Low level**: Won't kill immediately; over time causes sickness and potentially cancer (GM interpretation). (p. 182)
-- **High level**: Every Turn in the hot zone, treated as **Mildly On Fire** (2 damage/Turn direct to HP) except you **cannot** use an Action to put yourself out while in the zone. (p. 182)
-- **Extremely hot zone** (leaking reactor): Treated as **Deadly On Fire** (6 damage/Turn direct to HP). (p. 182)
+- **Low level**: Won't kill immediately; over time causes sickness and potentially cancer (GM interpretation). (p. 181)
+- **High level**: Every Turn in the hot zone, treated as **Mildly On Fire** (2 damage/Turn direct to HP) except you **cannot** use an Action to put yourself out while in the zone. (p. 181)
+- **Extremely hot zone** (leaking reactor): Treated as **Deadly On Fire** (6 damage/Turn direct to HP). (p. 181)
 
 ---
 
@@ -326,15 +326,15 @@ A Mortally Wounded target who receives successful stabilization is immediately h
 | **Paramedic (x2)** | Can Stabilize. Can Quick Fix or Treat all but the deadliest Critical Injuries. (p. 223) |
 | **Surgery** | Can Treat even the deadliest Critical Injuries. Only available to Medtechs through their Role Ability, Medicine. (p. 223) |
 
-### Critical Injuries and Cybertech (p. 224)
+### Critical Injuries and Cybertech (p. 223)
 
-If you suffer a Critical Injury to a section replaced with cyberware (Cyberarm, Cyberleg, Cybereye, Cyberaudio, etc.), you still suffer the Effect and Bonus Damage, but you can use the **Cybertech Skill** for Quick Fix or Treatment in place of First Aid, Paramedic, or Surgery at the same DV and time. (p. 224)
+If you suffer a Critical Injury to a section replaced with cyberware (Cyberarm, Cyberleg, Cybereye, Cyberaudio, etc.), you still suffer the Effect and Bonus Damage, but you can use the **Cybertech Skill** for Quick Fix or Treatment in place of First Aid, Paramedic, or Surgery at the same DV and time. (p. 223)
 
 ---
 
 ## Trauma Team (p. 224-225)
 
-### Service Plans (p. 224)
+### Service Plans (p. 223)
 
 | Plan | Cost/Month | Surgery Coverage |
 |---|---|---|

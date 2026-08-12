@@ -27,8 +27,8 @@ Every Character has 10 primary Statistics. (p. 72)
 ### STAT Generation Methods (p. 74)
 
 - **Streetrat (Templates):** Roll **1d10** on the template table for your Role. Stats are pre-assigned.
-- **Edgerunner (Fast and Dirty):** Distribute **62 points** among the 10 STATs. No STAT may be below **2** or above **8** at creation.
-- **Complete Package (Calculated):** Distribute **62 points** among the 10 STATs. No STAT may be below **2** or above **8** at creation.
+- **Edgerunner (Fast and Dirty):** Roll **1d10** for **each STAT individually** and read the result off the column for that STAT on your Role's Template table (p. 74). You do **not** distribute points. (p. 77)
+- **Complete Package (Calculated):** Distribute **62 points** among the 10 STATs. No STAT may be higher than **8** or lower than **2**. (p. 78)
 
 ---
 
@@ -53,7 +53,7 @@ Every Character has 10 primary Statistics. (p. 72)
 - **Seriously Wounded Threshold** = Half of total HP (rounded up). (p. 79)
 - **Death Save** = **BODY** Statistic. (p. 79)
 
-### Humanity (HUM) (p. 81)
+### Humanity (HUM) (p. 80)
 
 For every point of **EMP**, the Character has **10 points of Humanity**.
 
@@ -61,7 +61,7 @@ For every point of **EMP**, the Character has **10 points of Humanity**.
 |---|---|---|---|---|---|---|---|---|---|---|
 | **HUM** | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 |
 
-Every time you lose enough Humanity that the tens place changes (e.g. 50 to 46), your **EMP** is effectively lowered to match the tens place (EMP 5 becomes EMP 4). (p. 81)
+Every time you lose enough Humanity that the tens place changes (e.g. 50 to 46), your **EMP** is effectively lowered to match the tens place (EMP 5 becomes EMP 4). (p. 80)
 
 If **HUM** drops below zero, the Character enters **Cyberpsychosis**. (See *Therapy and You*, p. 229)
 
@@ -145,19 +145,19 @@ You can take your Action **in the middle of** your Move Action and keep moving a
 
 ---
 
-## Skill Check Resolution (p. 128-130)
+## Skill Check Resolution (pp. 129-130)
 
 ### Opposed Checks
 
 **Attacker's STAT + Skill + 1d10 vs. Defender's STAT + Skill + 1d10**
 
-In case of a tie, the **Defender always wins**. (p. 130)
+In case of a tie, the **Defender always wins**. (p. 129)
 
 ### Checks Against a Difficulty Value (DV)
 
 **STAT + Skill + 1d10 vs. Difficulty Value (DV)**
 
-### Difficulty Values (DV) Table (p. 130)
+### Difficulty Values (DV) Table (p. 129)
 
 | Difficulty | DV | Description |
 |---|---|---|
@@ -169,19 +169,19 @@ In case of a tie, the **Defender always wins**. (p. 130)
 | **Incredible** | 24 | Among the very best professionally; truly Olympian |
 | **Legendary** | 29 | People write stories about this; spoken of for years |
 
-### Critical Success (p. 131)
+### Critical Success (p. 130)
 
 When you roll a **natural 10** on your **d10**, roll another **1d10** and add the result. A second 10 does **not** trigger another Critical Success.
 
-### Critical Failure (p. 131)
+### Critical Failure (p. 130)
 
 When you roll a **natural 1** on your **d10**, roll another **1d10** and **subtract** the result from your total. A second 1 does **not** trigger another Critical Failure.
 
-> Note: A highly skilled Character can still succeed after a Critical Failure, and a high DV can still defeat a Character who achieves a Critical Success. (p. 131)
+> Note: A highly skilled Character can still succeed after a Critical Failure, and a high DV can still defeat a Character who achieves a Critical Success. (p. 130)
 
-### Negative Modifier Examples (p. 131)
+### Negative Modifier Examples (p. 130)
 
-Modifiers are cumulative. (p. 131)
+Modifiers are cumulative. (p. 130)
 
 | Condition | Modifier |
 |---|---|
@@ -196,21 +196,21 @@ Modifiers are cumulative. (p. 131)
 | Trying to perform task secretly | -4 |
 | Task obscured by smoke, darkness | -4 |
 
-> Positive Modifiers generally come from gear, cyberware, Role Abilities, or drugs. (p. 131)
+> Positive Modifiers generally come from gear, cyberware, Role Abilities, or drugs. (p. 130)
 
-### Complementary Skills (p. 131)
+### Complementary Skills (p. 130)
 
 At GM discretion, a good roll in one Skill may grant a **+1 bonus** to a subsequent related Skill Check. This **+1** only affects one subsequent attempt and does **not** stack. Another Character can make the complementary Check.
 
-### Taking Extra Time (p. 131)
+### Taking Extra Time (p. 130)
 
 When the GM tells you how long a task takes, you can gain a single **+1 bonus** by taking **four times longer**.
 
-### When You Don't Have A Skill (p. 131)
+### When You Don't Have A Skill (p. 130)
 
 If you don't have the required Skill, you roll only **STAT + 1d10**. No Skill value is added.
 
-### Using Your LUCK (p. 131)
+### Using Your LUCK (p. 130)
 
 Before you roll, you can spend points from your **LUCK Pool** (equal to your LUCK Statistic, refills at the start of each game session). Each point spent adds **+1** to the roll.
 
@@ -218,28 +218,58 @@ Before you roll, you can spend points from your **LUCK Pool** (equal to your LUC
 
 ## Master Skill List
 
-Below is the complete Skill list organized by category. Skills marked **(x2)** cost twice as much to purchase and improve. Each Skill is linked to its governing STAT. (pp. 130-143)
+Below is the complete Skill list organized by category. Each Skill is linked to its governing STAT. (pp. 130-143)
+
+**Legend:**
+- **(x2)** — Difficult Skill. Costs twice as much to purchase and improve.
+- **[BASIC]** — Basic Skill. Every Character must have this at **Level 2 or higher** at character creation. (p. 90)
+
+### Basic Skills — Quick List (p. 90)
+
+These are the **13 Basic Skills**. Under the **Complete Package** method, every Character must have each of them at **Level 2** or higher. None of them are Difficult (x2) Skills, so each Level costs 1 point.
+
+**Minimum spend: 26 of your 86 Skill points** (13 Skills × 2 points), leaving **60** points for all other Skills.
+
+| Basic Skill | Linked STAT | Category |
+|---|---|---|
+| Athletics | **DEX** | Body |
+| Brawling | **DEX** | Fighting |
+| Concentration | **WILL** | Awareness |
+| Conversation | **EMP** | Social |
+| Education | **INT** | Education |
+| Evasion | **DEX** | Fighting |
+| First Aid | **TECH** | Technique |
+| Human Perception | **EMP** | Social |
+| Language (Streetslang) | **INT** | Education |
+| Local Expert (your home) | **INT** | Education |
+| Perception | **INT** | Awareness |
+| Persuasion | **COOL** | Social |
+| Stealth | **DEX** | Body |
+
+> Two Basic Skills name a specification. Your **Language** Basic Skill is **Streetslang**, the common tongue of Night City. Your **Local Expert** Basic Skill is your home neighborhood or community. (p. 90)
+>
+> Your Cultural Origin language is a **separate** Language Skill, granted free at **Rank 4** by the Lifepath. It is in addition to Language (Streetslang) and does not replace it. You still buy Language (Streetslang) to Level 2 like every other Basic Skill. (p. 45)
 
 ### Awareness Skills
 
 | Skill | Linked STAT | Description (p.) |
 |---|---|---|
-| Concentration | **WILL** | Focus, mental control, memory, recall, physiological control (p. 131) |
+| Concentration **[BASIC]** | **WILL** | Focus, mental control, memory, recall, physiological control (p. 131) |
 | Conceal/Reveal Object | **INT** | Hiding objects and finding hidden objects; concealing weapons (p. 131) |
 | Lip Reading | **INT** | Reading someone's lips to determine what they are saying (p. 132) |
-| Perception | **INT** | Spotting hidden things: clues, traps, people using Stealth (not objects hidden with Conceal/Reveal) (p. 132) |
+| Perception **[BASIC]** | **INT** | Spotting hidden things: clues, traps, people using Stealth (not objects hidden with Conceal/Reveal) (p. 132) |
 | Tracking | **INT** | Following a trail by observing tracks and other clues (p. 132) |
 
 ### Body Skills
 
 | Skill | Linked STAT | Description (p.) |
 |---|---|---|
-| Athletics | **DEX** | Jumping, climbing, throwing, swimming, lifting weights, etc. Also covers thrown weapons (p. 132) |
+| Athletics **[BASIC]** | **DEX** | Jumping, climbing, throwing, swimming, lifting weights, etc. Also covers thrown weapons (p. 132) |
 | Contortionist | **DEX** | Escaping handcuffs or bindings, fitting into inaccessible spaces (p. 132) |
 | Dance | **DEX** | Dancing at a professional level (p. 133) |
 | Endurance | **WILL** | Withstanding harsh conditions, pain, discomfort over time (p. 133) |
 | Resist Torture/Drugs | **WILL** | Resisting painful effects, interrogation, torture, and drugs (p. 133) |
-| Stealth | **DEX** | Moving quietly, hiding, acting discreetly, evading detection (opposed by Perception) (p. 133) |
+| Stealth **[BASIC]** | **DEX** | Moving quietly, hiding, acting discreetly, evading detection (opposed by Perception) (p. 133) |
 
 ### Control Skills
 
@@ -262,11 +292,11 @@ Below is the complete Skill list organized by category. Skills marked **(x2)** c
 | Criminology | **INT** | Discovering clues: fingerprints, ballistics, evidence, police records (p. 135) |
 | Cryptography | **INT** | Encrypting and decoding messages (p. 135) |
 | Deduction | **INT** | Taking clues and leaping to non-obvious conclusions or medical diagnosis (p. 135) |
-| Education | **INT** | General knowledge equivalent to a basic school education (p. 136) |
+| Education **[BASIC]** | **INT** | General knowledge equivalent to a basic school education (p. 136) |
 | Gamble | **INT** | Figuring odds and playing games of chance (p. 136) |
-| Language | **INT** | Speaking a particular language (must choose a specific language each time) (p. 136) |
+| Language **[BASIC]** | **INT** | Speaking a particular language (must choose a specific language each time) (p. 136) |
 | Library Search | **INT** | Using databases, the Data Pool, libraries, and compiled info sources (p. 136) |
-| Local Expert | **INT** | Knowing a specific area well; factions, political and criminal (must choose a specific neighborhood/community) (p. 136) |
+| Local Expert **[BASIC]** | **INT** | Knowing a specific area well; factions, political and criminal (must choose a specific neighborhood/community) (p. 136) |
 | Science | **INT** | Designing experiments, writing papers, testing hypotheses (must choose a field: Geology, Mathematics, Physics, Zoology, Anthropology, Biology, Chemistry, History) (p. 136) |
 | Tactics | **INT** | Managing large-scale battles effectively (p. 137) |
 | Wilderness Survival | **INT** | Surviving in the wilderness: traps, foraging, shelters, fires (p. 137) |
@@ -275,8 +305,8 @@ Below is the complete Skill list organized by category. Skills marked **(x2)** c
 
 | Skill | Linked STAT | Description (p.) |
 |---|---|---|
-| Brawling | **DEX** | Fighting and grappling with brute strength (p. 137) |
-| Evasion | **DEX** | Getting out of the way of melee attacks. Characters with **REF 8+** can also dodge Ranged Attacks and Explosions (p. 138) |
+| Brawling **[BASIC]** | **DEX** | Fighting and grappling with brute strength (p. 137) |
+| Evasion **[BASIC]** | **DEX** | Getting out of the way of melee attacks. Characters with **REF 8+** can also dodge Ranged Attacks and Explosions (p. 138) |
 | Martial Arts **(x2)** | **DEX** | Fighting with a Martial Arts Form. Must choose a Form each time (Karate, Taekwondo, Judo, Aikido). Can learn multiple forms separately (p. 138) |
 | Melee Weapon | **DEX** | Fighting with melee weapons: fencing, knife fighting, clubs, staves (p. 138) |
 
@@ -302,10 +332,10 @@ Below is the complete Skill list organized by category. Skills marked **(x2)** c
 | Skill | Linked STAT | Description (p.) |
 |---|---|---|
 | Bribery | **COOL** | Knowing when, how, and how much to bribe someone (p. 139) |
-| Conversation | **EMP** | Extracting information without alerting through careful conversation (p. 139) |
-| Human Perception | **EMP** | Reading facial expressions and body language; detecting lies (p. 140) |
+| Conversation **[BASIC]** | **EMP** | Extracting information without alerting through careful conversation (p. 139) |
+| Human Perception **[BASIC]** | **EMP** | Reading facial expressions and body language; detecting lies (p. 140) |
 | Interrogation | **COOL** | Forcibly extracting information from people (p. 140) |
-| Persuasion | **COOL** | Convincing, persuading, or influencing individuals or groups (p. 140) |
+| Persuasion **[BASIC]** | **COOL** | Convincing, persuading, or influencing individuals or groups (p. 140) |
 | Personal Grooming | **COOL** | Grooming, hair styling, maximizing physical attractiveness (p. 140) |
 | Streetwise | **COOL** | Knowing where to get illegal/contraband things, talking to criminal element (p. 140) |
 | Trading | **COOL** | Striking a good bargain with merchants or customers (p. 140) |
@@ -320,12 +350,12 @@ Below is the complete Skill list organized by category. Skills marked **(x2)** c
 | Cybertech | **TECH** | Identifying, understanding, and repairing cybernetics (p. 141) |
 | Demolitions **(x2)** | **TECH** | Setting, defusing, and using explosives (p. 141) |
 | Electronics/Security Tech **(x2)** | **TECH** | Complex electronic devices, cyberdecks, security systems, bugs, tracers (p. 142) |
-| First Aid | **TECH** | Basic medical treatment; stabilization and Quick Fixing common Critical Injuries (p. 142) |
+| First Aid **[BASIC]** | **TECH** | Basic medical treatment; stabilization and Quick Fixing common Critical Injuries (p. 142) |
 | Forgery | **TECH** | Creating and detecting false documents, art, identification (p. 142) |
 | Land Vehicle Tech | **TECH** | Repairing and maintaining land vehicles (p. 142) |
 | Paint/Draw/Sculpt | **TECH** | Producing professional paintings, drawings, or sculpture (p. 142) |
-| Paramedic **(x2)** | **TECH** | Advanced medical treatment; stabilization and treating all Surgery (p. 142) |
- Critical Injuries not requiring| Photography/Film | **TECH** | Producing professional photographs, motion pictures, or braindances (p. 143) |
+| Paramedic **(x2)** | **TECH** | Advanced medical treatment; stabilization and treating all Critical Injuries not requiring Surgery (p. 142) |
+| Photography/Film | **TECH** | Producing professional photographs, motion pictures, or braindances (p. 143) |
 | Pick Lock | **TECH** | Picking non-electronic locks and countering non-electronic security (p. 143) |
 | Pick Pocket | **TECH** | Picking pockets and shoplifting without being noticed (p. 143) |
 | Sea Vehicle Tech | **TECH** | Repairing and maintaining sea vehicles (p. 143) |
@@ -357,7 +387,7 @@ Below is the complete Skill list organized by category. Skills marked **(x2)** c
 
 ---
 
-## Trying Again (p. 131)
+## Trying Again (p. 130)
 
 If you fail a Skill Check, you **cannot try again** unless your chances of success have improved: you took longer, used a better tool, or someone made a Complementary Skill Check.
 

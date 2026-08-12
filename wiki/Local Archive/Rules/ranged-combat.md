@@ -28,7 +28,7 @@ OR
 |---|---|---|---|---|---|---|---|
 | **Medium Pistol** | Handgun | **2d6** | 12 (M Pistol) | 2 | 1 | YES | 50eb (Costly) |
 | **Heavy Pistol** | Handgun | **3d6** | 8 (H Pistol) | 2 | 1 | YES | 100eb (Premium) |
-| **Very Heavy Pistol** | Handgun | **4d6** | 8 (H Pistol) | 1 | 1 | NO | 100eb (Premium) |
+| **Very Heavy Pistol** | Handgun | **4d6** | 8 (VH Pistol) | 1 | 1 | NO | 100eb (Premium) |
 | **SMG** | Handgun | **2d6** | 30 (M Pistol) | 1 | 1 | YES | 100eb (Premium) |
 | **Heavy SMG** | Handgun | **3d6** | 40 (H Pistol) | 1 | 1 | NO | 100eb (Premium) |
 | **Shotgun** | Shoulder Arms | **5d6** | 4 (Slug) | 1 | 2 | NO | 500eb (Expensive) |
@@ -82,9 +82,9 @@ OR
 
 ---
 
-## Aimed Shots (Ranged) (p. 170)
+## Aimed Shots (p. 170)
 
-At a maximum of **1 ROF**, you can aim a single Ranged Attack by taking your entire Action and a **-8 to your Check**.
+At a maximum of **1 ROF**, you can aim a single **Ranged or Melee** Attack by taking your entire Action and a **-8 to your Check**. If you hit, you deal the attack's damage as normal *and* gain the additional effect for the area you aimed at.
 
 | Aiming For... | Effect |
 |---|---|
@@ -105,7 +105,7 @@ At a maximum of **1 ROF**, you can aim a single Ranged Attack by taking your ent
 - If **both dice come up 6**, you also inflict a **Critical Injury**. (p. 173)
 - Armor reduces damage as normal.
 
-### Autofire DVs Based on Range (p. 174)
+### Autofire DVs Based on Range (p. 173)
 
 | Weapon Type | 0-6 m/yds | 7-12 m/yds | 13-25 m/yds | 26-50 m/yds | 51-100 m/yds |
 |---|---|---|---|---|---|
@@ -161,23 +161,29 @@ Use the **Grenade Launcher DV** entry on the range table. If throwing at a perso
 
 ---
 
-## Weapon Attachments (p. 97)
+## Weapon Attachments (p. 96)
 
-Each **Non-Exotic** Ranged Weapon has **three Attachment Slots**. You can combine multiple attachments in the same physical location, but must pay the slot cost independently. Equipping the same attachment twice does nothing. Attachments are weapon-type specific and cannot be easily retrofitted. (p. 97)
+Each **Non-Exotic** Ranged Weapon has **three Attachment Slots**. You can combine multiple attachments in the same physical location, but must pay the slot cost of both independently. Equipping the same attachment twice does nothing. Attachments are made for specific weapon types and cannot be easily retrofitted to others. (p. 96)
 
 Specialized attachments are available in the Night Market Section (p. 342).
 
 ---
 
-## Special Ammunition (p. 97)
+## Special Ammunition (p. 96)
 
 All Non-Exotic Ranged Weapons can be loaded with non-Basic types of ammunition such as Incendiary Shells, Poisoned Arrows, Armor-Piercing Bullets, and others. Specialized ammunition and individual grenades are found in the Night Market Section (p. 344). You **cannot mix ammunition types** in a magazine. (p. 170)
 
 ---
 
-## Exotic Weapons (p. 96)
+## Exotic Weapons (p. 95)
 
-Exotic Weapons are overly specialized or too unique to be easily described. They are typically variants of existing weapon types. All Exotic Weapons use the **Handgun Skill** and are **1 ROF**. They fire specialized ammunition unique to them. Exotic Weapons don't have Attachment Slots by default. (p. 96)
+Exotic Weapons are weapons that are overly specialized or too unique to be easily described. They are **typically variants of existing weapon types** — in most cases an Exotic Weapon refers back to a Non-Exotic weapon on the Melee or Ranged Weapons table, and functions identically to that counterpart except where its own entry says otherwise.
+
+- All Exotic Weapons are **Average Weapon Quality**.
+- All Exotic Weapons are **incompatible with all Weapon Attachments and all Non-Basic Ammunition**, unless the weapon's own entry states otherwise. (p. 95)
+- Because each Exotic Weapon inherits from its Non-Exotic counterpart, there is **no single Skill or ROF** shared by all of them — check the individual weapon's entry.
+
+Full descriptions and rules for each Exotic Weapon are on p. 347.
 
 ---
 

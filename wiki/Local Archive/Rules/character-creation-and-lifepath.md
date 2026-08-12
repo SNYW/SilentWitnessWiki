@@ -30,12 +30,16 @@
 
 ### Complete Package Flow (p. 42)
 
-1. **Pick a Role** (p. 29) — Set Role Ability to **4**
-2. **Run Your Lifepath** (p. 43) — General + Role-Based Lifepath
-3. **Buy Your STATs** (p. 78) — No STAT higher than **8** or lower than **2**
-4. **Calculate Derived STATs** (p. 79)
-5. **Buy Your Skills** (p. 90) — Basic Skills must be at least Level **2**; no Skill higher than **6**
-6. **Buy Your Stuff** (p. 104) — **2,550eb** for weapons, armor, gear, cyberware; **800eb** for Fashion/Fashionware only
+The book's flow chart on p. 42 has **six** numbered steps:
+
+1. **Pick a Role** (p. 29) — Set your Role Ability to **4**
+2. **Run Your Lifepath** (p. 43) — Run **both** the general Lifepath and your Role-Based Lifepath. Pick your Cultural Origin Language; you get it as a Skill at **Rank 4**
+3. **Buy Your Statistics (STATs)** (p. 78) — **62 points**; no STAT higher than **8** or lower than **2**
+4. **Calculate Derived Statistics** (p. 79) — HP, Seriously Wounded, Death Save, Humanity
+5. **Set Your Skills** (p. 90) — **86 points**; the 13 Basic Skills at Level **2** minimum; no Skill higher than **6**
+6. **Buy Your Stuff** (p. 104) — **2,550eb** for weapons, armor, gear, and cyberware (**unspent eb is kept**), plus **800eb** for Fashion/Fashionware only (**unspent eb is lost**)
+
+**Lifestyle and Housing** (p. 105) follows on from step 6 — it is not separately numbered on the chart, but you do resolve it during creation. Cyberware is bought within step 6 and is described as the last step of creation (p. 105).
 
 ---
 
@@ -328,7 +332,7 @@ After the general Lifepath, each Role has a specific supplemental Lifepath with 
 
 ### The 10 STATs (p. 72)
 
-**INT** (Intelligence), **REF** (Reflexes), **DEX** (Dexterity), **TECH** (Technical Ability), **COOL** (Cool/Willpower), **WILL** (Willpower), **LUCK** (Luck), **MOVE** (Movement Allowance), **BODY** (Body Type), **EMP** (Empathy)
+**INT** (Intelligence), **REF** (Reflexes), **DEX** (Dexterity), **TECH** (Technique), **COOL** (Cool), **WILL** (Willpower), **LUCK** (Luck), **MOVE** (Movement Allowance), **BODY** (Body Type), **EMP** (Empathy)
 
 ### Streetrat Method (p. 73)
 
@@ -336,11 +340,25 @@ STATs are **pre-assigned** by the template chosen.
 
 ### Edgerunner Method (p. 77)
 
-Roll **1d10** for each STAT. If any result is **<2**, it becomes **2**. Reroll any result of **>8** (no STAT above 8 at creation).
+Go to the Template table for your Role (p. 74). Roll **1d10** for **each STAT individually**, comparing the roll for that STAT against the value in that STAT's column. Fill the resulting values into your STAT Block.
+
+You do **not** distribute points under this method, and you do not reroll or adjust results — the Template tables already keep every value within range.
 
 ### Complete Package Method (p. 78)
 
 You have **62 points** to distribute among all 10 STATs. No STAT higher than **8** or lower than **2**.
+
+62 is the **Starting Character** allotment and the recommended default. The GM may choose a different rank:
+
+| Rank of Character | STAT Points |
+|---|---|
+| Minor Supporting Character | 50 |
+| **Starting Character** | **62** |
+| Major Supporting Character | 70 |
+| Minor Hero | 75 |
+| Major Hero | 80 |
+
+> On 62 points you can put roughly **6 points in each STAT** with a couple left over. (p. 78)
 
 ---
 
@@ -355,16 +373,21 @@ You have **62 points** to distribute among all 10 STATs. No STAT higher than **8
 
 ### HP by BODY + WILL (p. 79)
 
-| BODY + WILL | HP |
-|---|---|
-| 2-3 | 15 |
-| 4-5 | 20 |
-| 6-7 | 25 |
-| 8-9 | 30 |
-| 10-11 | 35 |
-| 12-13 | 40 |
-| 14-15 | 45 |
-| 16 | 50 |
+The average is **rounded up**, so an odd BODY + WILL total rounds to the same HP as the even total above it.
+
+| BODY + WILL | Average (round up) | HP |
+|---|---|---|
+| 4 | 2 | 20 |
+| 5-6 | 3 | 25 |
+| 7-8 | 4 | 30 |
+| 9-10 | 5 | 35 |
+| 11-12 | 6 | 40 |
+| 13-14 | 7 | 45 |
+| 15-16 | 8 | 50 |
+| 17-18 | 9 | 55 |
+| 19-20 | 10 | 60 |
+
+> At character creation no STAT can be below **2**, so the lowest possible starting total is BODY 2 + WILL 2 = **4** (20 HP). For the full BODY × WILL cross-reference matrix, see `core-resolution-and-skills.md`.
 
 ---
 
@@ -376,14 +399,77 @@ Skills are **predetermined** by the template. No choices required.
 
 ### Edgerunner (p. 88)
 
-Receive a set number of Skill points distributed across role-specific and general categories. Details vary by Role.
+Which Skills you have is **predetermined by your Role**, but the **Level of each one is up to you**.
+
+- Edgerunners get **86 Skill points** to distribute among the Skills listed for their Role. These points may **not** be spent on any Skill outside that list.
+- No Skill can be higher than **6** or lower than **2**.
+- The same **13 Basic Skills** must be at least Level **2** (they appear on every Role's list).
+- Skills marked **(x2)** cost **2 Skill points** per Level. All others cost **1**.
+- You also get **4 Levels of Language** free from your Cultural Origin (p. 45). This does not come out of the 86.
+
+> **Hot Tip (p. 88):** every Role is allotted **20 Skills**. Dividing 86 by 20 gives a rough average of **4 points per Skill**, with **6 points left over** to push your key Skills higher.
+
+#### Edgerunner Skill Lists by Role (pp. 88-89)
+
+All ten Roles share the same 13 Basic Skills, then add **7 Role-specific Skills**:
+
+**Shared by every Role (the 13 Basic Skills):** Athletics, Brawling, Concentration, Conversation, Education, Evasion, First Aid, Human Perception, Language (Streetslang), Local Expert (Your Home), Perception, Persuasion, Stealth
+
+| Role | The 7 Role-Specific Skills |
+|---|---|
+| **Rockerboy** | Composition, Handgun, Melee Weapon, Personal Grooming, Play Instrument (choose 1), Streetwise, Wardrobe & Style |
+| **Solo** | Autofire **(x2)**, Handgun, Interrogation, Melee Weapon, Resist Torture/Drugs, Shoulder Arms, Tactics |
+| **Netrunner** | Basic Tech, Conceal/Reveal Object, Cryptography, Cybertech, Electronics/Security Tech **(x2)**, Handgun, Library Search |
+| **Tech** | Basic Tech, Cybertech, Electronics/Security Tech **(x2)**, Land Vehicle Tech, Shoulder Arms, Science (choose 1), Weaponstech |
+| **Medtech** | Basic Tech, Cybertech, Deduction, Paramedic **(x2)**, Resist Torture/Drugs, Science (choose 1), Shoulder Arms |
+| **Media** | Bribery, Composition, Deduction, Handgun, Library Search, Lip Reading, Photography/Film |
+| **Lawman** | Autofire **(x2)**, Criminology, Deduction, Handgun, Interrogation, Shoulder Arms, Tracking |
+| **Exec** | Accounting, Bureaucracy, Business, Deduction, Handgun, Lip Reading, Personal Grooming |
+| **Fixer** | Bribery, Business, Forgery, Handgun, Pick Lock, Streetwise, Trading |
+| **Nomad** | Animal Handling, Drive Land Vehicle, Handgun, Melee Weapon, Tracking, Trading, Wilderness Survival |
+
+> Do not confuse these with the **Streetrat** tables on pp. 86-87, which list the same Skills but with **fixed, predetermined Levels**. Under Edgerunner you choose the Levels yourself with your 86 points.
 
 ### Complete Package (p. 90)
 
 - **86 points** to distribute across Skills.
-- All **Basic Skills** (marked as such on the Skill list) must be at least Level **2**.
+- All **13 Basic Skills** (listed below) must be at least Level **2**.
 - No Skill can be higher than Level **6** at creation.
-- Your Cultural Origin Language starts at **Rank 4** (free from Lifepath).
+- Your Cultural Origin Language must be at a minimum of **Level 4**. The Lifepath grants this free (p. 45), so it does not come out of your 86 points. This is a **separate** Skill from the Language (Streetslang) Basic Skill.
+- **Difficult Skills**, marked **(x2)** on the Skill list, cost **2 points per Level**. No Basic Skill is a Difficult Skill.
+
+#### The 13 Basic Skills (p. 90)
+
+Every Character must have each of these at **Level 2** or higher. None are Difficult (x2) Skills, so each Level costs 1 point.
+
+**Minimum spend from your 86 points:** 13 Basic Skills × 2 points = **26 points**, leaving **60** points for all other Skills.
+
+| Basic Skill | Linked STAT | Category |
+|---|---|---|
+| Athletics | **DEX** | Body |
+| Brawling | **DEX** | Fighting |
+| Concentration | **WILL** | Awareness |
+| Conversation | **EMP** | Social |
+| Education | **INT** | Education |
+| Evasion | **DEX** | Fighting |
+| First Aid | **TECH** | Technique |
+| Human Perception | **EMP** | Social |
+| Language (Streetslang) | **INT** | Education |
+| Local Expert (your home) | **INT** | Education |
+| Perception | **INT** | Awareness |
+| Persuasion | **COOL** | Social |
+| Stealth | **DEX** | Body |
+
+Two Basic Skills require you to name a specification:
+
+- **Language** — **Streetslang**, the common tongue of Night City. Buy it to Level 2 like every other Basic Skill.
+- **Local Expert** — your home neighborhood or community.
+
+Your Cultural Origin language is a **separate** Language Skill, granted free at **Rank 4** by the Lifepath (p. 45). It is in addition to Language (Streetslang), not a replacement for it, and it does not reduce the 26-point minimum.
+
+> Basic Skills are the same 13 for every Role. They do not change based on which Role you pick. Your Role adds its Role Ability at Rank 4 on top of these (p. 29).
+
+For the full Skill list with linked STATs, categories, Difficult (x2) markers, and Basic Skill markers, see `core-resolution-and-skills.md` (Master Skill List).
 
 ---
 
@@ -408,10 +494,18 @@ Each Role receives a **predetermined loadout**. Examples:
 
 All Streetrat and Edgerunner characters also receive **500eb** to spend or save.
 
-### Complete Package Starting Money (p. 104)
+### Complete Package Starting Money (pp. 104-105)
 
-- **2,550eb** for weapons, armor, gear, and cyberware.
-- **Additional 800eb** for Fashion and Fashionware only (unspent is lost).
+Two **separate** pools that behave differently. This is the most commonly missed detail in the method:
+
+| Pool | Amount | Spend it on | Leftover |
+|---|---|---|---|
+| Main | **2,550eb** | Weapons, armor, gear, outfits, **cyberware** | **You keep it.** (p. 104) |
+| Fashion | **800eb** | **Fashion and Fashionware only** | **It is lost.** "Anything you don't spend goes away." (p. 105) |
+
+- The 800eb is *in addition to* the 2,550eb, not part of it.
+- You cannot spend the 800eb on anything except Fashion/Fashionware, and you cannot roll it into the main pool.
+- Cyberware comes out of the **2,550eb**, so leave money for it — it is the last step of creation. (p. 104)
 
 ---
 
@@ -423,9 +517,11 @@ See `cyberware.md` for the complete Starting Cyberware by Role table and full cy
 
 ## Lifestyle and Housing at Creation (p. 105)
 
-- **Non-Execs:** Rented **Cargo Container** (Suburbs or Combat Zone) + **Kibble Lifestyle**. First month free. Owe **1,100eb** on the 1st of next month.
-- **Execs:** **Corporate Conapt** (Corporate Zone) + **Good Prepak Lifestyle** (600eb/month), rent-free.
-- **Nomads:** Additional housing option via **Moto** Role Ability.
+- **Non-Execs:** Rented **Cargo Container**, either in the Overcrowded Suburbs or a Combat Zone, with a **Kibble Lifestyle**. First month's rent and kibble are **free**. You owe **1,100eb** on the 1st of next month, or you are evicted on the 2nd.
+- **Execs:** **Corporate Conapt** in a Corporate Zone with a **Good Prepak Lifestyle**, already paid for this month. **Rent is free** — but this is not the same as costing nothing: maintaining the Good Prepak Lifestyle costs **600eb on the 1st of every month**.
+- **Nomads:** Have an **additional** housing option via the **Moto** Role Ability (p. 165). This is on top of the above, not instead of it.
+
+> Full details on living situations are on p. 377.
 
 ---
 

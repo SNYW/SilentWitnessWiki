@@ -3,38 +3,55 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Night City Data Term</title>
-<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Rajdhani:wght@500;600;700&display=swap" rel="stylesheet">
+<title>The Red Library — Night City Data Term</title>
+<meta name="description" content="Campaign wiki for the Silent Witness Cyberpunk RED campaign.">
+<meta name="color-scheme" content="dark">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Inter:wght@400;600&family=Rajdhani:wght@600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div class="header">
-<div class="header-content">
-<button class="menu-toggle" id="menuToggle" aria-label="Toggle Menu"><span></span><span></span><span></span></button>
-<div class="titles">
-<h1>The Red Library</h1>
-<div class="subtitle">A Comprehensive guide to the Silent Witness campaign</div>
-</div>
-</div>
-</div>
+<a class="skip-link" href="#content">Skip to content</a>
+
+<header class="header">
+  <div class="header-content">
+    <button class="menu-toggle" id="menuToggle" aria-label="Toggle navigation" aria-expanded="false" aria-controls="sidebar">
+      <span></span><span></span><span></span>
+    </button>
+    <div class="titles">
+      <h1 tabindex="0" role="button" aria-label="Return to home">The Red Library</h1>
+      <p class="subtitle">A comprehensive guide to the Silent Witness campaign</p>
+    </div>
+  </div>
+</header>
+
 <div class="main-container">
-<div class="sidebar" id="sidebar">
-<div class="search-box"><input type="text" id="search" placeholder="Query Databank or Tags..."></div>
-<div id="tree" class="tree"></div>
+  <nav class="sidebar" id="sidebar" aria-label="Wiki contents">
+    <div class="search-box">
+      <label class="visually-hidden" for="search">Search pages and tags</label>
+      <input type="search" id="search" placeholder="Query databank or #tags…" autocomplete="off" spellcheck="false">
+      <span class="result-count" id="resultCount"></span>
+    </div>
+    <div id="tree" class="tree" role="tree" aria-label="Wiki file tree"></div>
+  </nav>
+
+  <div class="mobile-backdrop" id="backdrop"></div>
+
+  <main class="content-area">
+    <div class="content-wrapper" id="content" tabindex="-1">
+      <div class="empty-state" id="welcome">
+        <h2>Connection established</h2>
+        <p>Select a file from the directory to decrypt.</p>
+        <p class="prompt">&gt; Awaiting input…</p>
+        <div id="changelog"></div>
+      </div>
+    </div>
+  </main>
 </div>
-<div class="mobile-backdrop" id="backdrop"></div>
-<div class="content-area">
-<div class="content-wrapper" id="content">
-<div class="empty-state" id="welcome">
-<h2>Connection Established</h2>
-<p>Select a file from the directory to decrypt.</p>
-<p style="color: var(--teal); margin-top: 20px; font-family: 'Fira Code', monospace;">> Awaiting input...</p>
-<div id="changelog" style="margin-top: 40px; text-align: left; max-width: 600px; margin-left: auto; margin-right: auto;"></div>
-</div>
-</div>
-</div>
-</div>
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+<p class="visually-hidden" id="status" role="status" aria-live="polite"></p>
+
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

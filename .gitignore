@@ -1,0 +1,25 @@
+# Raw Cyberpunk RED rulebook page text.
+#
+# These 452 files are a local reference for the discord-librarian agent only.
+# They live at wiki/Local Archive/Rules/Rulebook/ on the VPS so the agent can
+# read verbatim page text, but they must never be committed: the repo is public
+# and publishing them would put the full rulebook online.
+#
+# They are also excluded from manifest.json by regenerate-wiki-manifest.py, so
+# they do not appear in the site's file tree either. This entry is the backstop
+# that makes an accidental `git add .` safe.
+wiki/Local Archive/Rules/Rulebook/
+
+# OpenClaw agent scaffolding - never site content
+wiki/**/AGENTS.md
+wiki/**/SOUL.md
+wiki/**/TOOLS.md
+wiki/**/USER.md
+wiki/**/HEARTBEAT.md
+wiki/**/IDENTITY.md
+wiki/**/BOOTSTRAP.md
+wiki/**/MEMORY.md
+
+# Local repo metadata that the copy step can drag across
+wiki/.openclaw/
+wiki/.pi/
