@@ -1,6 +1,6 @@
 # Eddie Blaze "RoadRunner"
 
-**Tags:** Player, Vultures, Nomad, Driver, Badlands, Status-Alive, Session-8, Session-9
+**Tags:** Player, Vultures, Nomad, Driver, Badlands, Status-Alive, Session-8, Session-9, Session-10
 
 ## Basic Info
 
@@ -60,4 +60,5 @@ His arrival coincides with [[Magpie]] completing **R.O.O.K.**, giving the Vultur
 ## Session Log
 
 - **Session 8:** Joins the crew following Roadblock's departure.
+- **Session 10:** Drives the crew to the lab coordinates under fire from two helicopters, hauling [[R.O.O.K.]] on a trailer. **Avoids every microwave mine** seeded across the road. Brings up the car's mounted weapon for Old Boy to finish the second gunship.
 - **Session 9:** Voices apprehension about accepting Rippa's job and is overruled by the group. Drives the crew out of the Night Market under fire, with helicopters in pursuit.

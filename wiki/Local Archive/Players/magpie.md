@@ -1,6 +1,6 @@
 # Magpie
 
-**Tags:** Player, Vultures, Techie, Solo, R.O.O.K., Session-1, Session-2, Session-3, Session-4, Session-7, Session-8, Session-9
+**Tags:** Player, Vultures, Techie, Solo, R.O.O.K., Session-1, Session-2, Session-3, Session-4, Session-7, Session-8, Session-9, Session-10
 
 ## Basic Info
 - **Name:** Jolo Barbossa
@@ -76,3 +76,4 @@ The Vultures' base. A run-down living area/workshop/ripper lab. Magpie and Bekah
 - **Session 7:** Loots the Sparks venue; acquires the hyperdense Tesla battery, the last R.O.O.K. component.
 - **Session 8:** Completes **R.O.O.K.** and advertises it at the Night Market to attract work.
 - **Session 9:** Works the Market fielding interest in R.O.O.K. Badly injured in the air attack. Encounters **microwave weapons unlike any technology he has ever seen** — a rare thing for a man who has spent his life inside salvaged tech. Searching R.O.O.K.'s databanks, he recovers an **almost complete schematic of [[Bloam]]**, carried over from the cryo unit R.O.O.K. was built from — with a deliberate **void** where her womb should be.
+- **Session 10:** Rides [[R.O.O.K.]] on the trailer through the chase, destroying two microwave emitters on one helicopter. At [[The Lab]], jacks into [[Bloam]]'s readouts and is hit by a flood of pain, grief and desperation to be fixed — her skin opens for him where he means to work. Helps stabilise her before having to jack out. Calls [[Bekah "Bluejay"]], learns she is being pursued by clowns, and hangs up.

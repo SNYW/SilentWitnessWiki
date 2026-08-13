@@ -17,6 +17,12 @@
               "tags": "bar,combat-zone,gambling,threat-medium,the-precipice"
             },
             {
+              "name": "The Lab",
+              "type": "file",
+              "path": "Local Archive/Locations/the-lab.md",
+              "tags": "location,crater-combat-zones,medical,asset,bloam,session-10"
+            },
+            {
               "name": "The Precipice",
               "type": "file",
               "path": "Local Archive/Locations/the-precipice.md",
@@ -38,13 +44,13 @@
               "name": "Bekah Bluejay",
               "type": "file",
               "path": "Local Archive/NPCs/bekah-bluejay.md",
-              "tags": "bekah-bluejay,the-vultures,scout,combat-zone,status-alive"
+              "tags": "bekah-bluejay,the-vultures,scout,combat-zone,status-alive,bozos,session-9,session-10"
             },
             {
               "name": "Bloam",
               "type": "file",
               "path": "Local Archive/NPCs/bloam.md",
-              "tags": "npc,status-alive,vultures,mystery,glow-eyed-queen,maelstrom,session-2,session-3,session-4,session-8,session-9"
+              "tags": "npc,status-alive,vultures,mystery,glow-eyed-queen,maelstrom,session-2,session-3,session-4,session-8,session-9,session-10"
             },
             {
               "name": "Lord Smile",
@@ -92,7 +98,7 @@
               "name": "Rook",
               "type": "file",
               "path": "Local Archive/NPCs/rook.md",
-              "tags": "npc,vultures,magpie,vehicle,construct,bloam,session-7,session-8,session-9"
+              "tags": "npc,vultures,magpie,vehicle,construct,bloam,session-7,session-8,session-9,session-10"
             },
             {
               "name": "Sparrow",
@@ -182,19 +188,19 @@
               "name": "Magpie",
               "type": "file",
               "path": "Local Archive/Players/magpie.md",
-              "tags": "player,vultures,techie,solo,r.o.o.k.,session-1,session-2,session-3,session-4,session-7,session-8,session-9"
+              "tags": "player,vultures,techie,solo,r.o.o.k.,session-1,session-2,session-3,session-4,session-7,session-8,session-9,session-10"
             },
             {
               "name": "Oldboy",
               "type": "file",
               "path": "Local Archive/Players/oldboy.md",
-              "tags": "player,vultures,detective,solo,red-hawks,session-1,session-2,session-3,session-4,session-8,session-9"
+              "tags": "player,vultures,detective,solo,red-hawks,session-1,session-2,session-3,session-4,session-8,session-9,session-10"
             },
             {
               "name": "Roadrunner",
               "type": "file",
               "path": "Local Archive/Players/roadrunner.md",
-              "tags": "player,vultures,nomad,driver,badlands,status-alive,session-8,session-9"
+              "tags": "player,vultures,nomad,driver,badlands,status-alive,session-8,session-9,session-10"
             },
             {
               "name": "Ronnie Pickering Roadblock",
@@ -206,7 +212,7 @@
               "name": "Sal",
               "type": "file",
               "path": "Local Archive/Players/sal.md",
-              "tags": "player,vultures,medtech,session-1,session-2,session-3,session-4,session-9"
+              "tags": "player,vultures,medtech,session-1,session-2,session-3,session-4,session-9,session-10"
             }
           ]
         },
@@ -303,6 +309,12 @@
               "type": "file",
               "path": "Local Archive/Sessions/session1.md",
               "tags": "session,session-1,combat-encounter,vultures,bozos"
+            },
+            {
+              "name": "Session10",
+              "type": "file",
+              "path": "Local Archive/Sessions/session10.md",
+              "tags": "session,session-10,vehicle-chase,combat,bloam,the-lab,crater-combat-zones,microwave-weapons"
             },
             {
               "name": "Session2",

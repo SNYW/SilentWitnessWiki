@@ -1,6 +1,6 @@
 # Bloam
 
-**Tags:** NPC, Status-Alive, Vultures, Mystery, Glow-Eyed-Queen, Maelstrom, Session-2, Session-3, Session-4, Session-8, Session-9
+**Tags:** NPC, Status-Alive, Vultures, Mystery, Glow-Eyed-Queen, Maelstrom, Session-2, Session-3, Session-4, Session-8, Session-9, Session-10
 
 ## Basic Info
 
@@ -77,6 +77,22 @@ There is a **void** in it. Where her womb would be, there is nothing — not cor
 
 Somebody removed precisely that, and left everything else intact.
 
+### She Feels (Session 10)
+
+At [[The Lab]] in **Session 10**, with Bloam dying, [[Magpie]] jacked directly into her readouts.
+
+What came back was not data. It was **pain** — an overwhelming flood of it, layered with grief, and beneath everything a vast wordless **desperation to be fixed**.
+
+Whatever Bloam is, she suffers, and she wants to be repaired, and she is capable of wanting it.
+
+Then Magpie reached out to touch her, and her skin — the same skin nothing has ever marked — **opened**. Not torn, not cut. It parted exactly where he intended to work, as though it already knew.
+
+She let him in.
+
+Between [[Sal]]'s work at the Arasaka triage bed and Magpie's connection, they **stabilised** her before the flood forced him to jack out.
+
+She is alive. **She is not fixed.** Whatever is actually wrong with her remains untouched.
+
 ## Capabilities
 
 - **Inert State:** When her power is disrupted, her structure switches off entirely. She liquefies, and becomes enormously heavy — effectively immovable without machinery.
@@ -112,6 +128,8 @@ Somebody removed precisely that, and left everything else intact.
 - Who knew she would be at the Night Market, and why did they come for her?
 - Why do microwave weapons disable her when nothing else does?
 - What was removed from her schematic, and who removed it?
+- She feels pain and wants to be fixed. What does that make her?
+- Why did her skin open for Magpie specifically?
 
 ## Session Log
 
@@ -120,7 +138,8 @@ Somebody removed precisely that, and left everything else intact.
 - **Session 4:** Revealed disintegration power when she killed David
 - **Session 8:** Rippa calls her "the princess" and tasks the crew with curing an unknown condition
 - **Session 9:** Targeted directly by unknown attackers at the Night Market. Instantly disabled by microwave weapons and badly injured
+- **Session 10:** Brought to The Lab dying. Magpie jacks in and meets pain, grief and a desperation to be fixed; her skin opens for him. Stabilised by Sal and Magpie, but not repaired
 
 ## Status
 
-**Injured and disabled** as of Session 9. Something is wrong with her, the crew has been tasked with fixing it, and she is now demonstrably a target. Potential asset, potential danger, and now the subject of Maelstrom's attention.
+**Stabilised but not fixed** as of Session 10 — still badly damaged. Something is wrong with her, the crew has been tasked with fixing it, and she is now demonstrably a target. Potential asset, potential danger, and now the subject of Maelstrom's attention.

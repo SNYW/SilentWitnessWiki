@@ -1,6 +1,6 @@
 # R.O.O.K.
 
-**Tags:** NPC, Vultures, Magpie, Vehicle, Construct, Bloam, Session-7, Session-8, Session-9
+**Tags:** NPC, Vultures, Magpie, Vehicle, Construct, Bloam, Session-7, Session-8, Session-9, Session-10
 
 ## Basic Info
 
@@ -52,6 +52,14 @@ R.O.O.K. was the only thing there capable of moving her. They loaded her in and 
 
 The machine built out of her cryo pod carried her out of the fire.
 
+## Patient Readouts
+
+R.O.O.K. does not merely carry Bloam. It **monitors** her.
+
+Through the run to [[The Lab]] in **Session 10** it was lit red end to end, throwing **"Patient Damaged"** readouts — a machine built from her cryo pod, reporting on the condition of its former occupant.
+
+It is transported on a **trailer** behind [[RoadRunner]]'s car, with [[Magpie]] riding it in the open.
+
 ## Plot Threads
 
 - **What else is in R.O.O.K.'s databanks?** The schematic was found by looking. Nobody has finished looking.
@@ -64,3 +72,4 @@ The machine built out of her cryo pod carried her out of the fire.
 - **Session 7:** Final component acquired — the hyperdense Tesla battery from Volta's basement.
 - **Session 8:** Completed. Taken to the Night Market and advertised to attract work.
 - **Session 9:** Present at the Market. Its databanks yield an almost complete schematic of Bloam with a deliberate void. Carries the disabled, lead-heavy Bloam out during the retreat.
+- **Session 10:** Hauled on a trailer through the helicopter chase with Magpie riding it. Runs "Patient Damaged" readouts on Bloam throughout.

@@ -1,6 +1,6 @@
 # Sal
 
-**Tags:** Player, Vultures, Medtech, Session-1, Session-2, Session-3, Session-4, Session-9
+**Tags:** Player, Vultures, Medtech, Session-1, Session-2, Session-3, Session-4, Session-9, Session-10
 
 ## Basic Info
 - **Name:** Sal
@@ -62,4 +62,5 @@ Has a partner that was taken from him when he was young — still carries that l
 
 ## Session Log
 
+- **Session 10:** Destroys a crippled helicopter with a single **dart gun** shot threaded through its vital systems. At [[The Lab]], identifies the facility's equipment and works the Arasaka triage bed to stabilise [[Bloam]].
 - **Session 9:** Buys a pair of **rollerblade shoes** from the Maelstrom pitch at the Night Market. Injured in the air attack that followed.
