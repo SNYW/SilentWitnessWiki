@@ -1,4 +1,4 @@
-# Session 8: The Princess and the Fabricator
+# Session 8: Top Off
 
 **Tags:** Session, Session-8, Vultures-Nest, Maelstrom, Bozos, Night-Market, Combat, Bloam, R.O.O.K.
 
