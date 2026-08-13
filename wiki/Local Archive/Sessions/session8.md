@@ -4,7 +4,7 @@
 
 ## TL;DR
 
-**Rippa** walks into the Vultures Nest and offers the crew a job — the kind of offer where the alternative is dying where you stand. The Bozos have stolen a **fabricator** from **Maelstrom**, and Rippa wants it back. The crew storms the clown base, takes the fabricator, and hands it over. It's a test, and they pass. **Roadblock** doesn't stay to find out what the next one looks like — he reads the room, decides the stakes have outgrown him, and walks. **RoadRunner** rolls in to fill the gap. Magpie finally finishes **R.O.O.K.** and takes it to the **Night Market** to drum up work, where **Old Boy** crosses paths with a stranger calling himself **Lord Smile**. The session closes with Rippa handing over a second job: fix whatever is wrong with **Bloam**. He calls her *the princess*.
+**Rippa** walks into the Vultures Nest and offers the crew a job — the kind of offer where the alternative is dying where you stand. Somewhere in the middle of it, **Bloam** takes Magpie's hand and drops him into an endless purple netscape occupied by herself and a vast, incomprehensible feminine figure of living code — then shoves him back out. He comes away with an affinity for the NET he never had, and buys a deck. The Bozos have stolen a **fabricator** from **Maelstrom**, and Rippa wants it back. The crew storms the clown base, takes the fabricator, and hands it over. It's a test, and they pass. **Roadblock** doesn't stay to find out what the next one looks like — he reads the room, decides the stakes have outgrown him, and walks. **RoadRunner** rolls in to fill the gap. Magpie finally finishes **R.O.O.K.** and takes it to the **Night Market** to drum up work, where **Old Boy** crosses paths with a stranger calling himself **Lord Smile**. The session closes with Rippa handing over a second job: fix whatever is wrong with **Bloam**. He calls her *the princess*.
 
 ## An Offer You Can't Refuse
 
@@ -15,6 +15,36 @@ He calls it a job. It isn't. There's no negotiation, no rate discussed, no polit
 The **Bozos** have taken something that belongs to Maelstrom: a **fabricator**. Rippa wants it back.
 
 The thing is — Rippa could take it back himself. Easily. He has the numbers and the chrome to flatten a clown den without leaving his chair. That isn't the point. The job is a **test**. He wants to see what this crew does when it's pointed at something, because he has plans for them later.
+
+## The Purple
+
+Somewhere in all this, [[Bloam]] takes [[Magpie]]'s hand.
+
+She doesn't ask. She doesn't say anything — she never does. She just reaches out and touches him, and the Nest goes away.
+
+What replaces it is **purple**. All of it. Not a room, not a place — a **netscape**, endless and violet, running in every direction at once and none of them the right way up. Magpie has jacked into nothing. Magpie doesn't *own* a deck. He is simply *there*.
+
+And he isn't alone.
+
+**Bloam** is with him — or something wearing her shape, standing in the purple like she belongs to it.
+
+And behind her, above her, *through* her, there is something else. A **vast feminine figure made of code** — a shape too big and too wrong to take in, running in characters he can't read at a scale he can't hold in his head. He looks at it and his brain refuses the file. Something is looking back. Something enormous knows he's there.
+
+Then — no ceremony, no farewell — he is **shoved**. Hard. Back into his own body, in his own container, in the Precipice, with a girl's small grey hand in his and the head of Maelstrom still talking somewhere behind him.
+
+The whole thing takes no time at all.
+
+## After the Purple
+
+Magpie comes out of it **changed**.
+
+Nothing dramatic. No glowing eyes, no voices. Just... an *affinity*. His own gear starts making a kind of sense it never did before — architecture he'd looked straight through for years, structure under the surface of every piece of tech he owns, patterns that were always there waiting for someone to notice.
+
+He'd been a Techie his whole life. Now the NET is talking to him too, and he can hear it.
+
+So he does the obvious thing.
+
+He gets himself a **deck**.
 
 ## Roadblock Walks
 
@@ -93,6 +123,9 @@ Throughout, he refers to her as **the princess**. Not as a joke. Nobody in the c
 - **Maelstrom owns the crew now.** The fabricator run was a test for "future work". More is coming.
 - **Who is Lord Smile?** A name from the Night Market, and nothing else.
 - **Roadblock is out there somewhere.** He left alive and knows everything the crew knows.
+- **What did Magpie see in the purple?** Bloam, and something far larger made of code that looked back at him.
+- **Bloam initiated it.** She reached for him. Nobody knows why, or how she did it without hardware.
+- **Magpie can hear the NET now.** He came out of that netscape a different kind of Techie and bought a deck on the strength of it.
 - **Magpie's endgame:** get Bluejay out of the Precipice and into the high life, at any cost.
 - **R.O.O.K. is finished and advertised.** Expect job offers — and attention from people who'd rather own it than hire it.
 
@@ -103,3 +136,5 @@ Throughout, he refers to her as **the princess**. Not as a joke. Nobody in the c
 - The fabricator was stolen by the Bozos *from Maelstrom* — the crew were recovering property, not stealing it.
 - Roadblock left of his own accord. No betrayal, no falling out — he simply wanted no further part in it.
 - The local Bozo chapter was wiped out at the Big Top — no survivors.
+- Bloam initiated contact with Magpie unprompted, with no hardware involved on either side.
+- The figure in the purple was not identified. Magpie could not read it, comprehend it, or measure it.

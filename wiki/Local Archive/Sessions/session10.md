@@ -60,7 +60,7 @@ They get her onto the triage bed and start working to keep her from — whatever
 
 ## Inside Her
 
-Magpie **jacks into her readouts**.
+Magpie takes the **deck** he bought after the purple and **jacks into her readouts**.
 
 What comes back is not data.
 

@@ -36,7 +36,7 @@ In **Session 8** Magpie took it to the [[Night Market]] and advertised it openly
 
 R.O.O.K.'s databanks came over from the cryo unit, and they hold more than Magpie expected.
 
-Searching them in **Session 9**, he found an **almost complete schematic of Bloam** — a full technical record of what she is, carried inside the machine she likes to sit in.
+Searching them on his deck in **Session 9**, he found an **almost complete schematic of Bloam** — a full technical record of what she is, carried inside the machine she likes to sit in.
 
 Almost complete.
 

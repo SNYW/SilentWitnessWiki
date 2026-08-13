@@ -91,7 +91,7 @@ Two things land at once, and neither is good: somebody knew Bloam would be here,
 
 It also knows more about her than anyone realised.
 
-R.O.O.K. was **built out of the cryo unit the crew pulled Bloam from** back in Session 2. Going through its databanks, Magpie finds an **almost complete schematic of her** sitting in the salvaged systems.
+R.O.O.K. was **built out of the cryo unit the crew pulled Bloam from** back in Session 2. Going through its databanks on the **deck** he picked up after the purple, Magpie finds an **almost complete schematic of her** sitting in the salvaged systems.
 
 Almost complete.
 

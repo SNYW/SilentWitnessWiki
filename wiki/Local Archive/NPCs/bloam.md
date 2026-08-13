@@ -33,6 +33,20 @@ In **Session 4**, **Bloam's** terrifying power was revealed when **Sparrow's** a
 
 **Bloam** then simply walked away, showing no emotion.
 
+### The Purple (Session 8)
+
+While [[Rippa]] was at the [[Vultures Nest]], Bloam reached out and took [[Magpie]]'s hand.
+
+No hardware. No interface. No warning. She simply touched him, and he was **elsewhere** — an endless **purple netscape**, with Bloam standing in it as though she belonged there.
+
+And with her, something enormous: a **vast feminine figure made of living code**, running at a scale Magpie could not read, comprehend or measure. It was aware of him.
+
+After a brief exchange he was **shoved** back into his body.
+
+Magpie came out of it altered — able to feel the NET in a way he never had before. He bought a deck on the strength of it, and that deck is how he later read her schematic out of [[R.O.O.K.]] and jacked into her at [[The Lab]].
+
+**Bloam initiated this.** Nobody asked her to. She chose Magpie, reached for him, and took him somewhere no one else has been.
+
 ### "The Princess"
 
 In **Session 8**, [[Rippa]] — head of [[Maelstrom]] — referred to Bloam repeatedly as **the princess**. Not as a joke, and not as an affectionate nickname. He used it as though it were simply what she is.
@@ -97,6 +111,7 @@ She is alive. **She is not fixed.** Whatever is actually wrong with her remains 
 
 - **Inert State:** When her power is disrupted, her structure switches off entirely. She liquefies, and becomes enormously heavy — effectively immovable without machinery.
 - **Disintegration Touch:** Bloam can instantly vaporize a person by touching their head. The effect is instantaneous — no warning, no struggle. The target simply ceases to exist in a spray of blood and mist.
+- **NET Contact:** Can pull a person into a netscape by touch alone, with no deck, no interface and no hardware on either side. Demonstrated once, on Magpie, in Session 8.
 - **Unknown Tech/Abilities:** Her display of superhuman typing speed and knowledge absorption suggests advanced tech or AI integration. Her connection to the **Glow Eyed Queen** remains unconfirmed but suspected.
 
 ## Relationships
@@ -104,7 +119,7 @@ She is alive. **She is not fixed.** Whatever is actually wrong with her remains 
 | Entity | Status |
 |--------|--------|
 | **The Vultures** | Tentative ally — resides at Vultures Nest |
-| **Magpie** | Interested in her potential value |
+| **Magpie** | She chose him — took him into the purple netscape, and later opened her skin for his hands |
 | **Roadblock** | Wanted her destroyed — suspected she's a Herald. Left the crew in Session 8 |
 | **Rippa** | Called her "the princess". Assigned the crew to cure her, then charged a gunship when she fell. Missing since |
 | **Maelstrom** | Rippa's interest in her may be the gang's real agenda |
@@ -129,14 +144,16 @@ She is alive. **She is not fixed.** Whatever is actually wrong with her remains 
 - Why do microwave weapons disable her when nothing else does?
 - What was removed from her schematic, and who removed it?
 - She feels pain and wants to be fixed. What does that make her?
-- Why did her skin open for Magpie specifically?
+- Why did her skin open for Magpie specifically? She chose him once before, in the purple.
+- **What was the figure of code in the netscape?** It was feminine, enormous, made of running code, and aware of Magpie.
+- How does she reach the NET without hardware?
 
 ## Session Log
 
 - **Session 2:** Retrieved from vault in cryosleep
 - **Session 3:** Awakened, displayed superhuman information processing
 - **Session 4:** Revealed disintegration power when she killed David
-- **Session 8:** Rippa calls her "the princess" and tasks the crew with curing an unknown condition
+- **Session 8:** Takes Magpie's hand and pulls him into a purple netscape occupied by herself and a vast figure of code. Rippa calls her "the princess" and tasks the crew with curing an unknown condition
 - **Session 9:** Targeted directly by unknown attackers at the Night Market. Instantly disabled by microwave weapons and badly injured
 - **Session 10:** Brought to The Lab dying. Magpie jacks in and meets pain, grief and a desperation to be fixed; her skin opens for him. Stabilised by Sal and Magpie, but not repaired
 
