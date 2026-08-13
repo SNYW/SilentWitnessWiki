@@ -395,6 +395,17 @@ body::after {
   body::after { display: none; }
 }
 
+/* story-so-far readout — same terminal treatment as the boot log */
+.story-log {
+  max-width: 620px; margin: 30px auto 0;
+  text-align: left; line-height: 2;
+  border-left-color: var(--red);
+  background: rgba(255,77,109,.03);
+}
+.story-log b { color: var(--red); }
+.story-log b.warn { color: var(--amber); }
+@media (max-width: 768px) { .story-log { line-height: 1.85; } }
+
 /* ============================================================ banner */
 
 .header { position: relative; overflow: hidden; }
