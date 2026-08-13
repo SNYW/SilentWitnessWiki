@@ -309,6 +309,60 @@ async function loadContent(file) {
   }
 }
 
+/** Fill the welcome panel's stat tiles from the manifest. */
+function renderStats(nodes) {
+  const slot = document.getElementById('stats');
+  if (!slot || !nodes) return;
+
+  const byFolder = new Map();
+  let total = 0;
+  (function walk(list, top) {
+    for (const n of list) {
+      if (n.children) { walk(n.children, top || n.name); continue; }
+      if (!n.path) continue;
+      total++;
+      const folder = n.path.split('/').slice(-2, -1)[0] || top || 'Other';
+      byFolder.set(folder, (byFolder.get(folder) || 0) + 1);
+    }
+  })(nodes, null);
+
+  const wanted = ['Sessions', 'Players', 'NPCs', 'Locations', 'Organizations'];
+  const tiles = [['Files', total]];
+  for (const key of wanted) if (byFolder.has(key)) tiles.push([key, byFolder.get(key)]);
+
+  slot.replaceChildren();
+  for (const [label, count] of tiles) {
+    const box = document.createElement('div');
+    box.className = 'stat';
+    const num = document.createElement('span');
+    num.className = 'stat-num';
+    num.textContent = '0';
+    const lab = document.createElement('span');
+    lab.className = 'stat-label';
+    lab.textContent = label;
+    box.append(num, lab);
+    slot.append(box);
+    countUp(num, count);
+  }
+}
+
+/** Tick a number up to its value — skipped when reduced motion is requested. */
+function countUp(el, target) {
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches || target <= 0) {
+    el.textContent = String(target);
+    return;
+  }
+  const steps = Math.min(target, 28);
+  let i = 0;
+  const timer = setInterval(() => {
+    i++;
+    el.textContent = String(Math.round((target * i) / steps));
+    if (i >= steps) { el.textContent = String(target); clearInterval(timer); }
+  }, 900 / steps);
+}
+
+let manifestNodes = null;
+
 function showWelcome() {
   currentFile = null;
   if (currentFetch) { currentFetch.abort(); currentFetch = null; }
@@ -316,6 +370,7 @@ function showWelcome() {
     i.classList.remove('active'); i.setAttribute('aria-current', 'false');
   });
   els.content.innerHTML = welcomeHTML;      // trusted: our own static markup
+  renderStats(manifestNodes);
   const slot = document.getElementById('changelog');
   if (slot && cachedChangelog) slot.replaceChildren(sanitize(cachedChangelog));
 }
@@ -585,8 +640,10 @@ if (typeof marked === 'undefined') {
     .then(data => {
       const root = Array.isArray(data) ? { children: data } : data;
       const nodes = root.children || [];
+      manifestNodes = nodes;
       buildLinkMap(nodes);
       els.tree.replaceChildren(buildTree(nodes, 0));
+      renderStats(nodes);
       const first = els.tree.querySelector('.tree-item');
       if (first) first.tabIndex = 0;
 

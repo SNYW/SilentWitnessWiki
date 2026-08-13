@@ -14,13 +14,32 @@
 <a class="skip-link" href="#content">Skip to content</a>
 
 <header class="header">
+  <svg class="skyline" viewBox="0 0 1200 90" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+    <g class="skyline-far">
+      <path d="M0,90 L0,52 L28,52 L28,40 L52,40 L52,58 L88,58 L88,30 L104,30 L104,20 L120,20 L120,58 L160,58 L160,44 L196,44 L196,62 L232,62 L232,34 L248,34 L248,24 L262,24 L262,62 L300,62 L300,48 L340,48 L340,56 L378,56 L378,36 L396,36 L396,26 L410,26 L410,60 L452,60 L452,46 L490,46 L490,64 L528,64 L528,38 L546,38 L546,28 L560,28 L560,64 L600,64 L600,50 L640,50 L640,58 L678,58 L678,32 L696,32 L696,22 L710,22 L710,60 L752,60 L752,46 L790,46 L790,62 L828,62 L828,36 L846,36 L846,26 L860,26 L860,62 L900,62 L900,48 L940,48 L940,56 L978,56 L978,34 L996,34 L996,24 L1010,24 L1010,60 L1052,60 L1052,46 L1090,46 L1090,64 L1128,64 L1128,38 L1146,38 L1146,28 L1160,28 L1160,64 L1200,64 L1200,90 Z"/>
+    </g>
+    <g class="skyline-near">
+      <path d="M0,90 L0,70 L40,70 L40,58 L76,58 L76,74 L120,74 L120,50 L138,50 L138,42 L152,42 L152,76 L200,76 L200,64 L246,64 L246,78 L292,78 L292,54 L310,54 L310,46 L324,46 L324,78 L372,78 L372,66 L420,66 L420,76 L466,76 L466,52 L484,52 L484,44 L498,44 L498,78 L546,78 L546,68 L594,68 L594,76 L640,76 L640,56 L658,56 L658,48 L672,48 L672,78 L720,78 L720,66 L768,66 L768,78 L814,78 L814,54 L832,54 L832,46 L846,46 L846,78 L894,78 L894,68 L942,68 L942,76 L988,76 L988,56 L1006,56 L1006,48 L1020,48 L1020,78 L1068,78 L1068,66 L1116,66 L1116,78 L1162,78 L1162,58 L1180,58 L1180,50 L1194,50 L1194,78 L1200,78 L1200,90 Z"/>
+    </g>
+    <g class="skyline-lights">
+      <rect x="96" y="34" width="3" height="4"/><rect x="110" y="26" width="3" height="4"/>
+      <rect x="240" y="38" width="3" height="4"/><rect x="254" y="30" width="3" height="4"/>
+      <rect x="386" y="40" width="3" height="4"/><rect x="402" y="32" width="3" height="4"/>
+      <rect x="536" y="42" width="3" height="4"/><rect x="552" y="34" width="3" height="4"/>
+      <rect x="686" y="36" width="3" height="4"/><rect x="702" y="28" width="3" height="4"/>
+      <rect x="836" y="40" width="3" height="4"/><rect x="852" y="32" width="3" height="4"/>
+      <rect x="986" y="38" width="3" height="4"/><rect x="1002" y="30" width="3" height="4"/>
+      <rect x="1136" y="42" width="3" height="4"/><rect x="1152" y="34" width="3" height="4"/>
+    </g>
+  </svg>
+  <div class="header-scan" aria-hidden="true"></div>
   <div class="header-content">
     <button class="menu-toggle" id="menuToggle" aria-label="Toggle navigation" aria-expanded="false" aria-controls="sidebar">
       <span></span><span></span><span></span>
     </button>
     <div class="titles">
-      <h1 tabindex="0" role="button" aria-label="Return to home">The Red Library</h1>
-      <p class="subtitle">A comprehensive guide to the Silent Witness campaign</p>
+      <h1 tabindex="0" role="button" aria-label="Return to home" data-text="The Red Library">The Red Library</h1>
+      <p class="subtitle"><span class="live-dot" aria-hidden="true"></span>A comprehensive guide to the Silent Witness campaign</p>
     </div>
   </div>
 </header>
@@ -40,9 +59,17 @@
   <main class="content-area">
     <div class="content-wrapper" id="content" tabindex="-1">
       <div class="empty-state" id="welcome">
-        <h2>Connection established</h2>
-        <p>Select a file from the directory to decrypt.</p>
-        <p class="prompt">&gt; Awaiting input…</p>
+        <div class="boot">
+          <div class="boot-bar" aria-hidden="true"><span></span></div>
+          <pre class="boot-log" aria-hidden="true">&gt; NIGHT CITY DATA TERM // NCDT-7
+&gt; ESTABLISHING UPLINK............ <b>OK</b>
+&gt; DECRYPTING DATABANK........... <b>OK</b>
+&gt; TRACE DETECTION............... <b class="warn">NONE</b></pre>
+          <h2>Connection established</h2>
+          <p>Select a file from the directory to decrypt.</p>
+          <div class="stat-row" id="stats" aria-label="Databank contents"></div>
+          <p class="prompt"><span class="caret"></span>Awaiting input…</p>
+        </div>
         <div id="changelog"></div>
       </div>
     </div>
