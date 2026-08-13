@@ -1,6 +1,6 @@
 # Ronnie "Roadblock" Pickering
 
-**Tags:** Player, Vultures, Lawman, NCPD, Session-1, Session-2, Session-3, Session-4
+**Tags:** Player, Former-Crew, Status-Departed, Vultures, Lawman, NCPD, Session-1, Session-2, Session-3, Session-4, Session-8
 
 ## Basic Info
 - **Name:** Ronnie Pickering
@@ -10,6 +10,7 @@
 - **Affiliation:** Vultures (Night City)
 - **Employer:** Precipice Securities
 - **Role:** Defensive specialist / Team wall
+- **Status:** **Departed** — left the crew in Session 8. Alive as far as anyone knows.
 
 ## Appearance
 
@@ -56,6 +57,20 @@ Ronnie hides his pain behind jokes and acting tough. He pushes himself to be str
 - Former NCPD riot control
 - Nickname "Roadblock" earned from stopping anything that tried to get past him
 
+## Departure (Session 8)
+
+Roadblock walked away from the crew in **Session 8**.
+
+He had been uneasy since **Session 4**, when he watched [[Bloam]] place a hand on a man's head and reduce him to red mist, then stroll off without a word. He called her a Herald of the **Glow Eyed Queen** and wanted her destroyed. Nobody listened.
+
+Then [[Rippa]] — head of [[Maelstrom]] — walked into the [[Vultures Nest]] and handed the crew a job with no rate, no negotiation, and death as the alternative.
+
+Roadblock did the maths. The stakes had climbed past anything a 65-year-old ex-NCPD riot cop signed up for, and the crew was now working for a gang boss who treated their lives as a bargaining position. So he got out.
+
+No betrayal, no dramatic exit. He decided he'd rather be a live nobody than a dead somebody, and left.
+
+**He is still alive, still out there, and knows everything the crew knows** — including about Bloam.
+
 ## Session Log
 
-- *To be added*
+- **Session 8:** Leaves the crew after Rippa's coerced job offer. Replaced by [[RoadRunner]].

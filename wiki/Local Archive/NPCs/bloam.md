@@ -1,6 +1,6 @@
 # Bloam
 
-**Tags:** NPC, Status-Alive, Vultures, Mystery, Glow-Eyed-Queen, Session-2, Session-3, Session-4
+**Tags:** NPC, Status-Alive, Vultures, Mystery, Glow-Eyed-Queen, Maelstrom, Session-2, Session-3, Session-4, Session-8
 
 ## Basic Info
 
@@ -33,6 +33,22 @@ In **Session 4**, **Bloam's** terrifying power was revealed when **Sparrow's** a
 
 **Bloam** then simply walked away, showing no emotion.
 
+### "The Princess"
+
+In **Session 8**, [[Rippa]] — head of [[Maelstrom]] — referred to Bloam repeatedly as **the princess**. Not as a joke, and not as an affectionate nickname. He used it as though it were simply what she is.
+
+Nobody in the crew knows why. It is the first hard evidence that someone outside the Vultures understands what Bloam actually is.
+
+### Something Is Wrong
+
+Also in **Session 8**, Rippa gave the crew a job: find out what is wrong with Bloam, and fix it.
+
+The crew does not know what is wrong with her. **Rippa does not fully know either** — he admits the condition sits outside his understanding, and he runs Maelstrom. He believes this crew might be able to handle it.
+
+He did not say what happens if they fail.
+
+The crew has no diagnosis, no cause, and no idea where to begin.
+
 ## Capabilities
 
 - **Disintegration Touch:** Bloam can instantly vaporize a person by touching their head. The effect is instantaneous — no warning, no struggle. The target simply ceases to exist in a spray of blood and mist.
@@ -44,7 +60,9 @@ In **Session 4**, **Bloam's** terrifying power was revealed when **Sparrow's** a
 |--------|--------|
 | **The Vultures** | Tentative ally — resides at Vultures Nest |
 | **Magpie** | Interested in her potential value |
-| **Roadblock** | Wants her destroyed — suspects she's a Herald |
+| **Roadblock** | Wanted her destroyed — suspected she's a Herald. Left the crew in Session 8 |
+| **Rippa** | Calls her "the princess". Assigned the crew to cure her |
+| **Maelstrom** | Rippa's interest in her may be the gang's real agenda |
 | **Sparrow/Sparrowhawk** | Neutral — she walked away after his father was killed |
 
 ## Known Information
@@ -60,13 +78,16 @@ In **Session 4**, **Bloam's** terrifying power was revealed when **Sparrow's** a
 - Is she a Herald of the Glow Eyed Queen?
 - Can her power be controlled or replicated?
 - What was her purpose in the cryo facility?
+- What is wrong with her, and why does even Rippa not understand it?
+- Why does Rippa call her "the princess"?
 
 ## Session Log
 
 - **Session 2:** Retrieved from vault in cryosleep
 - **Session 3:** Awakened, displayed superhuman information processing
 - **Session 4:** Revealed disintegration power when she killed David
+- **Session 8:** Rippa calls her "the princess" and tasks the crew with curing an unknown condition
 
 ## Status
 
-Active — presence at Vultures Nest, potential asset or danger
+Active — at Vultures Nest. **Something is wrong with her**; the crew has been tasked with fixing it. Potential asset, potential danger, and now the subject of Maelstrom's attention.

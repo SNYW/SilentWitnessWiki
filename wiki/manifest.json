@@ -44,7 +44,13 @@
               "name": "Bloam",
               "type": "file",
               "path": "Local Archive/NPCs/bloam.md",
-              "tags": "npc,status-alive,vultures,mystery,glow-eyed-queen,session-2,session-3,session-4"
+              "tags": "npc,status-alive,vultures,mystery,glow-eyed-queen,maelstrom,session-2,session-3,session-4,session-8"
+            },
+            {
+              "name": "Lord Smile",
+              "type": "file",
+              "path": "Local Archive/NPCs/lord-smile.md",
+              "tags": "npc,night-market,unknown,session-8"
             },
             {
               "name": "Mr Giggles",
@@ -75,6 +81,12 @@
               "type": "file",
               "path": "Local Archive/NPCs/raptor.md",
               "tags": "npc,status-injured,vultures,gang-leader,session-3"
+            },
+            {
+              "name": "Rippa",
+              "type": "file",
+              "path": "Local Archive/NPCs/rippa.md",
+              "tags": "npc,status-alive,maelstrom,gang-leader,employer,threat-extreme,session-8,bloam"
             },
             {
               "name": "Sparrow",
@@ -110,13 +122,19 @@
               "name": "Bozos",
               "type": "file",
               "path": "Local Archive/Organizations/bozos.md",
-              "tags": "bozos,gang,combat-zone,crew-hostile,organized-crime,threat-extreme"
+              "tags": "bozos,gang,combat-zone,crew-hostile,organized-crime,threat-extreme,maelstrom,session-8"
             },
             {
               "name": "Creeping Death",
               "type": "file",
               "path": "Local Archive/Organizations/creeping-death.md",
               "tags": "creeping-death,night-market-team,toxicity,crew-neutral,organized-crime,threat-high"
+            },
+            {
+              "name": "Maelstrom",
+              "type": "file",
+              "path": "Local Archive/Organizations/maelstrom.md",
+              "tags": "maelstrom,gang,combat-gang,employer,threat-extreme,rippa,session-8"
             },
             {
               "name": "Precipice Securities",
@@ -146,7 +164,7 @@
               "name": "The Vultures",
               "type": "file",
               "path": "Local Archive/Organizations/the-vultures.md",
-              "tags": "the-vultures,scavenger-gang,the-precipice,campaign-gang,magpie,raptor,bekah-bluejay"
+              "tags": "the-vultures,scavenger-gang,the-precipice,campaign-gang,magpie,raptor,bekah-bluejay,roadrunner,maelstrom,session-8"
             }
           ]
         },
@@ -158,7 +176,7 @@
               "name": "Magpie",
               "type": "file",
               "path": "Local Archive/Players/magpie.md",
-              "tags": "player,vultures,techie,solo,session-1,session-2,session-3,session-4"
+              "tags": "player,vultures,techie,solo,r.o.o.k.,session-1,session-2,session-3,session-4,session-7,session-8"
             },
             {
               "name": "Oldboy",
@@ -167,10 +185,16 @@
               "tags": "player,vultures,detective,solo,red-hawks,session-1,session-2,session-3,session-4"
             },
             {
+              "name": "Roadrunner",
+              "type": "file",
+              "path": "Local Archive/Players/roadrunner.md",
+              "tags": "player,vultures,nomad,driver,badlands,status-alive,session-8"
+            },
+            {
               "name": "Ronnie Pickering Roadblock",
               "type": "file",
               "path": "Local Archive/Players/ronnie-pickering-roadblock.md",
-              "tags": "player,vultures,lawman,ncpd,session-1,session-2,session-3,session-4"
+              "tags": "player,former-crew,status-departed,vultures,lawman,ncpd,session-1,session-2,session-3,session-4,session-8"
             },
             {
               "name": "Sal",
@@ -309,6 +333,12 @@
               "type": "file",
               "path": "Local Archive/Sessions/session7.md",
               "tags": "session,session-7,upper-marina,sparks-club,tesla-tyrants,combat,loot,fire"
+            },
+            {
+              "name": "Session8",
+              "type": "file",
+              "path": "Local Archive/Sessions/session8.md",
+              "tags": "session,session-8,vultures-nest,maelstrom,bozos,night-market,combat,bloam,r.o.o.k."
             }
           ]
         }

@@ -1,6 +1,6 @@
 # The Vultures
 
-**Tags:** The-Vultures, Scavenger-Gang, The-Precipice, Campaign-Gang, Magpie, Raptor, Bekah-Bluejay
+**Tags:** The-Vultures, Scavenger-Gang, The-Precipice, Campaign-Gang, Magpie, Raptor, Bekah-Bluejay, RoadRunner, Maelstrom, Session-8
 
 **Basic Info**
 - **Name:** The Vultures
@@ -22,6 +22,10 @@ The Vultures are a scrappy scavenger gang operating out of the Precipice distric
 ### Core Members
 - **Magpie** — Tech specialist and de facto second-in-command. Runs the Vultures Nest workshop/ripper lab.
 - **Bekah "Bluejay"** — Magpie's sister. Combat-ready member, serves as scout and flanker.
+- **RoadRunner** — Nomad. Joined in Session 8, replacing Roadblock. Drives a bright red car that looks far more expensive than it is.
+
+### Former Members
+- **Roadblock** (Ronnie Pickering) — Defensive specialist. Left the crew in Session 8 after Rippa's coerced job offer. Alive, whereabouts unknown.
 
 ### Support
 - **Sparrow** — Young local boy who works as a messenger for the Vultures.

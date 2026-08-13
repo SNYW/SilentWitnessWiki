@@ -1,6 +1,6 @@
 # Bozos
 
-**Tags:** Bozos, Gang, Combat-Zone, Crew-Hostile, Organized-Crime, Threat-Extreme
+**Tags:** Bozos, Gang, Combat-Zone, Crew-Hostile, Organized-Crime, Threat-Extreme, Maelstrom, Session-8
 
 **Type:** Boostergang / Prankster Gang  
 **Territory:** Various districts across Night City (Little Europe, South Night City, formerly West Hill)  
@@ -57,6 +57,22 @@ During the RED era, Bozo territories are scattered across Night City:
 - **Danger Gal** - Tracking Bozo activities
 - **Lord Ruthven** - Recruited Bozo contingent
 - **Voodoo Boys** - Historical rivals from University District
+
+## Campaign History
+
+### The Big Top Massacre (Session 8)
+
+The Bozos stole a **fabricator** from [[Maelstrom]]. [[Rippa]] sent the crew to take it back.
+
+The crew assaulted the **Big Top** and recovered it. There was no shortage of enthusiasm for the job — the Bozos are why [[Raptor]] is missing an arm and an eye, courtesy of [[Mr Giggles]] at the Dice or Die casino in Session 3.
+
+**The entire local chapter was killed.** Not scattered or driven off — wiped out to a man at the Big Top.
+
+## Known Members
+
+| Name | Role | Status |
+|------|------|--------|
+| [[Mr Giggles]] | 2nd in Command / Lieutenant | Unaccounted for after the Big Top |
 
 ## Source
 

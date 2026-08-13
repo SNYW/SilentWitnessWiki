@@ -1,6 +1,6 @@
 # Magpie
 
-**Tags:** Player, Vultures, Techie, Solo, Session-1, Session-2, Session-3, Session-4
+**Tags:** Player, Vultures, Techie, Solo, R.O.O.K., Session-1, Session-2, Session-3, Session-4, Session-7, Session-8
 
 ## Basic Info
 - **Name:** Jolo Barbossa
@@ -43,7 +43,9 @@ Spent his youth crawling along the bottom of Night City, being thrown trash tech
 | Character | Type | Notes |
 |-----------|------|-------|
 | Raptor | Boss | Vulture Gang Leader |
-| Roadblock | Subordinate | Defensive specialist who works directly for Magpie |
+| Roadblock | Former subordinate | Defensive specialist; left the crew in Session 8 |
+| RoadRunner | Crew | Nomad, joined Session 8 |
+| Bloam | Ward (sort of) | Magpie protects her, somewhat |
 | Bekah "Bluejay" | Sister | Fellow Vulture member |
 
 ## Allies, Enemies & Connections
@@ -60,6 +62,8 @@ As a scav, his morals have been formed on the bottom rung of the city streets �
 
 - **Goal:** Scavenge parts and make cool shit from feasible ideas with the garbage he finds
 - **Mid-game Goal:** At least 1 combat drone under his control, ideally automated defenses and other cool shit
+- **R.O.O.K. — COMPLETE (Session 8):** Magpie's custom mini-tank, finished with the hyperdense Tesla battery looted from Volta's basement in Session 7. He took it straight to the Night Market to be seen with it — the aim is for people to be impressed and bring him work.
+- **Driving motive:** get his sister **Bekah "Bluejay"** out of the Precipice and into safe dwellings and the high life, **at any cost**. Protecting [[Bloam]] sits somewhere below that.
 
 ## Location
 
@@ -69,4 +73,5 @@ The Vultures' base. A run-down living area/workshop/ripper lab. Magpie and Bekah
 
 ## Session Log
 
-- *To be added*
+- **Session 7:** Loots the Sparks venue; acquires the hyperdense Tesla battery, the last R.O.O.K. component.
+- **Session 8:** Completes **R.O.O.K.** and advertises it at the Night Market to attract work.
