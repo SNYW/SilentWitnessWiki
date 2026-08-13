@@ -1,6 +1,6 @@
 # Bloam
 
-**Tags:** NPC, Status-Alive, Vultures, Mystery, Glow-Eyed-Queen, Maelstrom, Session-2, Session-3, Session-4, Session-8
+**Tags:** NPC, Status-Alive, Vultures, Mystery, Glow-Eyed-Queen, Maelstrom, Session-2, Session-3, Session-4, Session-8, Session-9
 
 ## Basic Info
 
@@ -49,8 +49,37 @@ He did not say what happens if they fail.
 
 The crew has no diagnosis, no cause, and no idea where to begin.
 
+### Targeted (Session 9)
+
+When an unidentified airborne force attacked the [[Night Market]] in **Session 9**, they came through the crowd and went **straight for Bloam**.
+
+Not the crew. Not R.O.O.K. Her.
+
+Their **microwave weapons** disabled her instantly — and she did not go down like a person.
+
+Whatever holds Bloam together stopped holding. Her structure, whatever passes for bone in her, simply **switched off**, and she collapsed into something closer to a liquid than a body.
+
+Inert, she is **immensely heavy** — she weighs like solid lead, far beyond anything her size accounts for. The crew could only move her by loading her into **[[R.O.O.K.]]**
+
+She took severe damage in the retreat that followed.
+
+Two facts fall out of this, and neither is comfortable: somebody knew she would be at the Market, and somebody has built a weapon that shuts her down.
+
+There is a third. **[[Rippa]] saw her fall and went straight up at a gunship**, destroying it and disappearing into the fireball. He never explained what she was to him. Whatever it was, it was worth that.
+
+### The Schematic and the Void
+
+**[[R.O.O.K.]]** was built out of the cryo unit Bloam was found in. In **Session 9**, [[Magpie]] went through its databanks and found an **almost complete schematic of her** carried over in the salvaged systems.
+
+Almost complete.
+
+There is a **void** in it. Where her womb would be, there is nothing — not corrupted data, not damage. The space is **deliberately absent**, omitted from every internal system and every schematic the cryo unit held.
+
+Somebody removed precisely that, and left everything else intact.
+
 ## Capabilities
 
+- **Inert State:** When her power is disrupted, her structure switches off entirely. She liquefies, and becomes enormously heavy — effectively immovable without machinery.
 - **Disintegration Touch:** Bloam can instantly vaporize a person by touching their head. The effect is instantaneous — no warning, no struggle. The target simply ceases to exist in a spray of blood and mist.
 - **Unknown Tech/Abilities:** Her display of superhuman typing speed and knowledge absorption suggests advanced tech or AI integration. Her connection to the **Glow Eyed Queen** remains unconfirmed but suspected.
 
@@ -61,7 +90,7 @@ The crew has no diagnosis, no cause, and no idea where to begin.
 | **The Vultures** | Tentative ally — resides at Vultures Nest |
 | **Magpie** | Interested in her potential value |
 | **Roadblock** | Wanted her destroyed — suspected she's a Herald. Left the crew in Session 8 |
-| **Rippa** | Calls her "the princess". Assigned the crew to cure her |
+| **Rippa** | Called her "the princess". Assigned the crew to cure her, then charged a gunship when she fell. Missing since |
 | **Maelstrom** | Rippa's interest in her may be the gang's real agenda |
 | **Sparrow/Sparrowhawk** | Neutral — she walked away after his father was killed |
 
@@ -80,6 +109,9 @@ The crew has no diagnosis, no cause, and no idea where to begin.
 - What was her purpose in the cryo facility?
 - What is wrong with her, and why does even Rippa not understand it?
 - Why does Rippa call her "the princess"?
+- Who knew she would be at the Night Market, and why did they come for her?
+- Why do microwave weapons disable her when nothing else does?
+- What was removed from her schematic, and who removed it?
 
 ## Session Log
 
@@ -87,7 +119,8 @@ The crew has no diagnosis, no cause, and no idea where to begin.
 - **Session 3:** Awakened, displayed superhuman information processing
 - **Session 4:** Revealed disintegration power when she killed David
 - **Session 8:** Rippa calls her "the princess" and tasks the crew with curing an unknown condition
+- **Session 9:** Targeted directly by unknown attackers at the Night Market. Instantly disabled by microwave weapons and badly injured
 
 ## Status
 
-Active — at Vultures Nest. **Something is wrong with her**; the crew has been tasked with fixing it. Potential asset, potential danger, and now the subject of Maelstrom's attention.
+**Injured and disabled** as of Session 9. Something is wrong with her, the crew has been tasked with fixing it, and she is now demonstrably a target. Potential asset, potential danger, and now the subject of Maelstrom's attention.

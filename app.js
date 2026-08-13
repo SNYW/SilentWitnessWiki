@@ -36,7 +36,7 @@ const wikiLinkMap = new Map();   // normalised page name -> path
 
 /* ------------------------------------------------------------------ utils */
 
-const normaliseKey = s => s.toLowerCase().replace(/[\s\-_'"()]/g, '');
+const normaliseKey = s => s.toLowerCase().replace(/[\s\-_'".()]/g, '');   // dots stripped so [[R.O.O.K.]] matches 'Rook'
 
 function announce(msg) {
   if (els.status) els.status.textContent = msg;

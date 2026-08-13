@@ -1,6 +1,6 @@
 # Gallahan "Old Boy" Murtock
 
-**Tags:** Player, Vultures, Detective, Solo, Red-Hawks, Session-1, Session-2, Session-3, Session-4
+**Tags:** Player, Vultures, Detective, Solo, Red-Hawks, Session-1, Session-2, Session-3, Session-4, Session-8, Session-9
 
 ## Basic Info
 - **Name:** Gallahan Murtock
@@ -70,3 +70,8 @@ Hunting down one of the snakes that set his father up. Using his skills to make 
 ## Session Log
 
 - *To be added*
+
+## Session Log
+
+- **Session 8:** Speaks with a stranger calling himself [[Lord Smile]] at the Night Market.
+- **Session 9:** Buys a **new gun** from the Maelstrom pitch. Injured in the air attack on the Market.

@@ -50,7 +50,7 @@ The crew passed. That's the good news and the bad news in one: they've proven th
 
 ## R.O.O.K. Rolls Out
 
-With the hyperdense Tesla battery pulled out of **Volta's** basement last session, **Magpie** finally completes **R.O.O.K.** — his custom mini-tank. The build that's been eating his time and every scrap of salvage since the Night Market arc began is *done*.
+With the hyperdense Tesla battery pulled out of **Volta's** basement last session, **Magpie** finally completes **[[R.O.O.K.]]** — his custom mini-tank. The build that's been eating his time and every scrap of salvage since the Night Market arc began is *done*.
 
 So he takes it to the **Night Market** and shows it off.
 

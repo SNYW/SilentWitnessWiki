@@ -44,7 +44,7 @@
               "name": "Bloam",
               "type": "file",
               "path": "Local Archive/NPCs/bloam.md",
-              "tags": "npc,status-alive,vultures,mystery,glow-eyed-queen,maelstrom,session-2,session-3,session-4,session-8"
+              "tags": "npc,status-alive,vultures,mystery,glow-eyed-queen,maelstrom,session-2,session-3,session-4,session-8,session-9"
             },
             {
               "name": "Lord Smile",
@@ -86,7 +86,13 @@
               "name": "Rippa",
               "type": "file",
               "path": "Local Archive/NPCs/rippa.md",
-              "tags": "npc,status-alive,maelstrom,gang-leader,employer,threat-extreme,session-8,bloam"
+              "tags": "npc,status-missing,maelstrom,gang-leader,employer,threat-extreme,session-8,session-9,bloam"
+            },
+            {
+              "name": "Rook",
+              "type": "file",
+              "path": "Local Archive/NPCs/rook.md",
+              "tags": "npc,vultures,magpie,vehicle,construct,bloam,session-7,session-8,session-9"
             },
             {
               "name": "Sparrow",
@@ -134,7 +140,7 @@
               "name": "Maelstrom",
               "type": "file",
               "path": "Local Archive/Organizations/maelstrom.md",
-              "tags": "maelstrom,gang,combat-gang,employer,threat-extreme,rippa,session-8"
+              "tags": "maelstrom,gang,combat-gang,employer,threat-extreme,rippa,session-8,session-9"
             },
             {
               "name": "Precipice Securities",
@@ -176,19 +182,19 @@
               "name": "Magpie",
               "type": "file",
               "path": "Local Archive/Players/magpie.md",
-              "tags": "player,vultures,techie,solo,r.o.o.k.,session-1,session-2,session-3,session-4,session-7,session-8"
+              "tags": "player,vultures,techie,solo,r.o.o.k.,session-1,session-2,session-3,session-4,session-7,session-8,session-9"
             },
             {
               "name": "Oldboy",
               "type": "file",
               "path": "Local Archive/Players/oldboy.md",
-              "tags": "player,vultures,detective,solo,red-hawks,session-1,session-2,session-3,session-4"
+              "tags": "player,vultures,detective,solo,red-hawks,session-1,session-2,session-3,session-4,session-8,session-9"
             },
             {
               "name": "Roadrunner",
               "type": "file",
               "path": "Local Archive/Players/roadrunner.md",
-              "tags": "player,vultures,nomad,driver,badlands,status-alive,session-8"
+              "tags": "player,vultures,nomad,driver,badlands,status-alive,session-8,session-9"
             },
             {
               "name": "Ronnie Pickering Roadblock",
@@ -200,7 +206,7 @@
               "name": "Sal",
               "type": "file",
               "path": "Local Archive/Players/sal.md",
-              "tags": "player,vultures,medtech,session-1,session-2,session-3,session-4"
+              "tags": "player,vultures,medtech,session-1,session-2,session-3,session-4,session-9"
             }
           ]
         },
@@ -339,6 +345,12 @@
               "type": "file",
               "path": "Local Archive/Sessions/session8.md",
               "tags": "session,session-8,vultures-nest,maelstrom,bozos,night-market,combat,bloam,r.o.o.k."
+            },
+            {
+              "name": "Session9",
+              "type": "file",
+              "path": "Local Archive/Sessions/session9.md",
+              "tags": "session,session-9,night-market,maelstrom,rippa,bloam,combat,vehicle-chase,microwave-weapons"
             }
           ]
         }

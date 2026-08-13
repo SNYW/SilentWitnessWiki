@@ -1,6 +1,6 @@
 # Eddie Blaze "RoadRunner"
 
-**Tags:** Player, Vultures, Nomad, Driver, Badlands, Status-Alive, Session-8
+**Tags:** Player, Vultures, Nomad, Driver, Badlands, Status-Alive, Session-8, Session-9
 
 ## Basic Info
 
@@ -60,3 +60,4 @@ His arrival coincides with [[Magpie]] completing **R.O.O.K.**, giving the Vultur
 ## Session Log
 
 - **Session 8:** Joins the crew following Roadblock's departure.
+- **Session 9:** Voices apprehension about accepting Rippa's job and is overruled by the group. Drives the crew out of the Night Market under fire, with helicopters in pursuit.

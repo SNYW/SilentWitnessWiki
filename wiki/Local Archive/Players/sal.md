@@ -1,6 +1,6 @@
 # Sal
 
-**Tags:** Player, Vultures, Medtech, Session-1, Session-2, Session-3, Session-4
+**Tags:** Player, Vultures, Medtech, Session-1, Session-2, Session-3, Session-4, Session-9
 
 ## Basic Info
 - **Name:** Sal
@@ -59,3 +59,7 @@ Has a partner that was taken from him when he was young — still carries that l
 ## Session Log
 
 - *To be added*
+
+## Session Log
+
+- **Session 9:** Buys a pair of **rollerblade shoes** from the Maelstrom pitch at the Night Market. Injured in the air attack that followed.
