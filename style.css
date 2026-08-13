@@ -399,6 +399,57 @@ body::after {
 
 .header { position: relative; overflow: hidden; }
 
+/* red data stream — vertical dashes masked into thin columns.
+   Three layers at different column pitch, dash length and speed give depth.
+   Purely procedural: no glyphs, no artwork, nothing to draw wrong. */
+.header-data {
+  position: absolute; inset: 0; z-index: 0; pointer-events: none;
+  overflow: hidden;
+}
+.header-data::before,
+.header-data::after,
+.header-data > i { content: ""; position: absolute; inset: -120% 0; display: block; }
+
+/* far layer — dense, dim, slow */
+.header-data::before {
+  background-image: repeating-linear-gradient(180deg,
+    rgba(255,77,109,.55) 0 5px, transparent 5px 19px);
+  -webkit-mask-image: repeating-linear-gradient(90deg, #000 0 1px, transparent 1px 13px);
+          mask-image: repeating-linear-gradient(90deg, #000 0 1px, transparent 1px 13px);
+  opacity: .16;
+  animation: dataFall 9s linear infinite;
+}
+
+/* mid layer */
+.header-data::after {
+  background-image: repeating-linear-gradient(180deg,
+    rgba(255,77,109,.75) 0 9px, transparent 9px 34px);
+  -webkit-mask-image: repeating-linear-gradient(90deg, #000 0 2px, transparent 2px 29px);
+          mask-image: repeating-linear-gradient(90deg, #000 0 2px, transparent 2px 29px);
+  opacity: .2;
+  animation: dataFall 6s linear infinite;
+  animation-delay: -2s;
+}
+
+/* near layer — sparse, brightest, fastest */
+.header-data > i {
+  background-image: repeating-linear-gradient(180deg,
+    rgba(255,77,109,.95) 0 14px, transparent 14px 62px);
+  -webkit-mask-image: repeating-linear-gradient(90deg, #000 0 2px, transparent 2px 67px);
+          mask-image: repeating-linear-gradient(90deg, #000 0 2px, transparent 2px 67px);
+  opacity: .26;
+  animation: dataFall 4s linear infinite;
+  animation-delay: -1s;
+}
+
+@keyframes dataFall { from { transform: translateY(-12%); } to { transform: translateY(12%); } }
+
+/* fade the stream out behind the wordmark so the title stays legible */
+.header-data {
+  -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 22%, #000 100%);
+          mask-image: linear-gradient(90deg, transparent 0%, #000 22%, #000 100%);
+}
+
 /* magenta sweep across the banner */
 .header-scan {
   position: absolute; inset: 0; z-index: 1; pointer-events: none;
@@ -503,5 +554,6 @@ body::after {
   .header-scan, .boot-bar span,
   .subtitle .live-dot, .prompt .caret { animation: none !important; }
   .header-scan { opacity: .35; }
+  .header-data::before, .header-data::after, .header-data > i { animation: none !important; }
   .header h1:hover::before, .header h1:hover::after { animation: none !important; }
 }
