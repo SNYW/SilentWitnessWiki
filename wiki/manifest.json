@@ -305,64 +305,64 @@
           "type": "folder",
           "children": [
             {
-              "name": "Session1",
+              "name": "Session 1",
               "type": "file",
               "path": "Local Archive/Sessions/session1.md",
               "tags": "session,session-1,combat-encounter,vultures,bozos"
             },
             {
-              "name": "Session10",
-              "type": "file",
-              "path": "Local Archive/Sessions/session10.md",
-              "tags": "session,session-10,vehicle-chase,combat,bloam,the-lab,crater-combat-zones,microwave-weapons"
-            },
-            {
-              "name": "Session2",
+              "name": "Session 2",
               "type": "file",
               "path": "Local Archive/Sessions/session2.md",
               "tags": "session,session-2,combat-encounter,vultures,bozos,bloam"
             },
             {
-              "name": "Session3",
+              "name": "Session 3",
               "type": "file",
               "path": "Local Archive/Sessions/session3.md",
               "tags": "session,session-3,combat-encounter,vultures,bozos,bloam"
             },
             {
-              "name": "Session4",
+              "name": "Session 4",
               "type": "file",
               "path": "Local Archive/Sessions/session4.md",
               "tags": "session,session-4,night-market-arc,combat-encounter,vultures,bozos,tesla-tyrants,bloam,glow-eyed-queen"
             },
             {
-              "name": "Session5",
+              "name": "Session 5",
               "type": "file",
               "path": "Local Archive/Sessions/session5.md",
               "tags": "session,session-5,upper-marina,sparks-club,tesla-tyrants,infiltration,vehicle-chase"
             },
             {
-              "name": "Session6",
+              "name": "Session 6",
               "type": "file",
               "path": "Local Archive/Sessions/session6.md",
               "tags": "session,session-6,upper-marina,sparks-club,tesla-tyrants,infiltration,combat"
             },
             {
-              "name": "Session7",
+              "name": "Session 7",
               "type": "file",
               "path": "Local Archive/Sessions/session7.md",
               "tags": "session,session-7,upper-marina,sparks-club,tesla-tyrants,combat,loot,fire"
             },
             {
-              "name": "Session8",
+              "name": "Session 8",
               "type": "file",
               "path": "Local Archive/Sessions/session8.md",
               "tags": "session,session-8,vultures-nest,maelstrom,bozos,night-market,combat,bloam,r.o.o.k."
             },
             {
-              "name": "Session9",
+              "name": "Session 9",
               "type": "file",
               "path": "Local Archive/Sessions/session9.md",
               "tags": "session,session-9,night-market,maelstrom,rippa,bloam,combat,vehicle-chase,microwave-weapons"
+            },
+            {
+              "name": "Session 10",
+              "type": "file",
+              "path": "Local Archive/Sessions/session10.md",
+              "tags": "session,session-10,vehicle-chase,combat,bloam,the-lab,crater-combat-zones,microwave-weapons"
             }
           ]
         }
@@ -611,15 +611,15 @@
               "tags": "time-of-the-red,location,heywood,charter-hill"
             },
             {
-              "name": "Megabuilding H10",
-              "type": "file",
-              "path": "Net Archive/Locations/megabuilding-h10.md",
-              "tags": "megabuilding,watson,threat-low"
-            },
-            {
               "name": "Megabuilding H8",
               "type": "file",
               "path": "Net Archive/Locations/megabuilding-h8.md",
+              "tags": "megabuilding,watson,threat-low"
+            },
+            {
+              "name": "Megabuilding H10",
+              "type": "file",
+              "path": "Net Archive/Locations/megabuilding-h10.md",
               "tags": "megabuilding,watson,threat-low"
             },
             {
