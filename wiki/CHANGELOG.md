@@ -1,5 +1,19 @@
 # Changelog
 
+### 2026-10-21 - NPCs - Raptor / Vulture leadership contradiction resolved
+
+`Local Archive/NPCs/raptor.md` listed Raptor as "Gang Leader" and "the leader of the Vultures
+gang", while `Local Archive/Organizations/the-vultures.md` listed **Vulture** as the gang's
+overall boss and Raptor as his right-hand man. Session records 4+ consistently use "Vulture"
+as the boss making decisions, so the NPC entry was the outlier.
+
+- **raptor.md** — Role changed to "Field Operations Lead / Right-hand to Vulture", with
+  "Former Role: Gang Leader of the Vultures (prior to Session 3)" retained. Overview rewritten
+  to note the org entry's description and that Sessions 1–3 record Raptor as "Vultures leader".
+- **magpie.md, sal.md, ronnie-pickering-roadblock.md, bekah-bluejay.md** — relationship table
+  rows for Raptor updated from "Gang Leader / Leader of the Vultures" to "Fellow Vulture —
+  field operations lead, right-hand to Vulture". No other relationship rows changed.
+
 ### 2026-08-12 - Rules - Full audit against core rulebook (in progress)
 
 Verifying every rules file against the core rulebook PDF. Findings per file:

@@ -43,7 +43,7 @@ Grew up as an orphan, had a natural talent for fixing wounds. Became the local d
 | Quinn | Ally | Security guard at Crisis Medical Center. Tall, buff woman in her 30's. She let Sal go a few times when he stole supplies. |
 | Magpie | Connection | Fellow Vulture — may need medical services |
 | Roadblock | Connection | Fellow Vulture — combat medic support |
-| Raptor | Gang Leader | Leader of the Vultures |
+| Raptor | Connection | Fellow Vulture — field operations lead, right-hand to Vulture |
 | Bekah | Connection | Fellow Vulture member |
 
 ## Equipment

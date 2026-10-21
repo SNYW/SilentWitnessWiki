@@ -59,7 +59,7 @@ That deck is why he could pull [[Bloam]]'s schematic out of [[R.O.O.K.]]'s datab
 
 | Character | Type | Notes |
 |-----------|------|-------|
-| Raptor | Boss | Vulture Gang Leader |
+| Raptor | Boss | Vulture right-hand — field operations lead |
 | Roadblock | Former subordinate | Defensive specialist; left the crew in Session 8 |
 | RoadRunner | Crew | Nomad, joined Session 8 |
 | Bloam | Ward (sort of) | Magpie protects her, somewhat |

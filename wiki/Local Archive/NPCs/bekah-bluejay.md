@@ -19,7 +19,7 @@ Bluejay is Magpie's younger sister and a combat-ready member of the Vultures. Sh
 |-----------|------|-------|
 | Magpie | Brother | Vulture techie — her brother |
 | Roadblock | Family | Fellow Vulture member |
-| Raptor | Gang Leader | Leader of the Vultures |
+| Raptor | Connection | Fellow Vulture — field operations lead, right-hand to Vulture |
 
 ## Skills
 
