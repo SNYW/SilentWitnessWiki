@@ -40,7 +40,7 @@ Nobody looks underneath, and that is entirely the point. The car is a statement 
 
 Raised in a Nomad family, most of his life spent behind the wheel. Work history spans smuggling runs through the Badlands and getaway driving for mercenary crews.
 
-Arrived in **Session 8**, filling the gap left when [[Roadblock]] walked away from the crew.
+Arrived in **Session 8**, filling the gap left when [[Ronnie Pickering Roadblock]] walked away from the crew.
 
 ## Role in the Crew
 
@@ -55,7 +55,7 @@ His arrival coincides with [[Magpie]] completing **R.O.O.K.**, giving the Vultur
 | [[Magpie]] | Crew | Vultures techie |
 | [[Old Boy]] | Crew | |
 | [[Sal]] | Crew | |
-| [[Roadblock]] | Predecessor | Never met — Roadblock left as RoadRunner arrived |
+| [[Ronnie Pickering Roadblock]] | Predecessor | Never met — Roadblock left as RoadRunner arrived |
 
 ## Session Log
 

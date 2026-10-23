@@ -62,6 +62,6 @@ The Faded are often romanticized in screamsheets as "the ghosts of the Old Comba
 
 ## Related Locations
 
-- [Old Combat Zone](/wiki/old-combat-zone.md)
-- [Generation Red](/wiki/generation-red.md)
-- [The Shroomers](/wiki/The-Shroomers) (mentioned in Night City Gangs)
+- [[Old Combat Zone]]
+- [[Generation Red]]
+- [[Shroomers]] (mentioned in Night City Gangs)

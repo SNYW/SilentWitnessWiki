@@ -76,7 +76,7 @@ Rippa was still handing it over when the Night Market came under air attack.
 | [[Magpie]] | Employer | Coerced into Maelstrom's service |
 | [[Old Boy]] | Employer | Coerced into Maelstrom's service |
 | [[Sal]] | Employer | Coerced into Maelstrom's service |
-| [[Roadblock]] | Catalyst | Meeting Rippa is what convinced Roadblock to leave the crew |
+| [[Ronnie Pickering Roadblock]] | Catalyst | Meeting Rippa is what convinced Roadblock to leave the crew |
 | [[Bozos]] | Enemy | They stole Maelstrom property |
 
 ## Plot Threads

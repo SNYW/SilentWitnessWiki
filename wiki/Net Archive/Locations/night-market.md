@@ -44,6 +44,6 @@ Night Markets deal in various goods including:
 
 ## Related
 
-- [Nomads](/wiki/Nomads)
-- [Fixers](/wiki/Fixers)
-- [Time of the Red](/wiki/Time_of_the_Red)
+- Nomads
+- Fixers
+- [[Time Of The Red]]

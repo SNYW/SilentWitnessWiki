@@ -70,10 +70,10 @@ The name "Jode" was originally a reference to the Okies in Steinbeck's "The Grap
 
 ## Related Entries
 
-- [Zoners](/wiki/zoners.md) - Allied organization in South Night City
-- [Aldecaldos](/wiki/aldecados.md) - Another major nomad clan (historically supervised early Jodes operations)
-- [Badlands](/wiki/badlands.md) - Primary operating territory
-- [Nomads](/wiki/nomads.md) - Broader nomad culture
+- [[Zoners]] - Allied organization in South Night City
+- [[Aldecados]] - Another major nomad clan (historically supervised early Jodes operations)
+- [[Badlands]] - Primary operating territory
+- Nomads - Broader nomad culture
 
 ## Sources
 
