@@ -1,5 +1,20 @@
 # Changelog
 
+### 2026-10-23 - Site - Every broken internal link fixed
+
+Ten links across six pages pointed at `/wiki/<name>.md` paths, which resolve to nothing on
+GitHub Pages, and four Obsidian-style links pointed at pages that are named differently or
+do not exist at all. All of them now use the site's own `[[wikilink]]` form, which
+`app.js` resolves against `manifest.json`.
+
+- **jodes.md** — Zoners, Aldecados and Badlands linked; the "Aldecaldos" typo corrected; Nomads left as plain text, as no page exists for it
+- **the-faded.md** — Old Combat Zone, Generation Red and Shroomers linked
+- **night-market.md** — Time of the Red linked; Nomads and Fixers left as plain text
+- **roadrunner.md, rippa.md** — `[[Roadblock]]` became `[[Ronnie Pickering Roadblock]]`, the name the page carries in the manifest
+- **README.md** — the index listed a legacy folder layout (`characters`, `npcs`, `events`, `locations`, `organizations`) with no matching pages; it now lists the real pages and their folders
+
+All 165 wikilinks on the site now resolve, and no relative markdown link is broken.
+
 ### 2026-10-21 - NPCs - Raptor / Vulture leadership contradiction resolved
 
 `Local Archive/NPCs/raptor.md` listed Raptor as "Gang Leader" and "the leader of the Vultures
