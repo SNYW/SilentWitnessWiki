@@ -1,6 +1,6 @@
 # Port of Night City
 
-**Tags:** Location, District, Port, Waterfront, NightCity, Thelas-Nation, Nomad-Turf, Threat-Medium, Trading-Post, Black-Market
+**Tags:** Location, District, Port, Waterfront, Night-City, Thelas-Nation, Nomad-Turf, Threat-Medium, Trading-Post, Black-Market
 
 **District Code:** J  
 **Type:** Rebuilding Urban Zone  

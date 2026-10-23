@@ -1,5 +1,20 @@
 # Changelog
 
+### 2026-10-23 - Site - Tag vocabulary normalised
+
+The tag filter matched tags as plain text, so a tag written with a space (`Little Europe`)
+or in camel case (`NightCity`) split a group in two: clicking the `night-city` pill never
+showed Port of Night City, and the two Rancho Coronado pages never met. The site's
+house style is hyphenated Title Case, and every tag now follows it.
+
+- **port-of-night-city.md** — `NightCity` became `Night-City`
+- **little-europe.md** — `Little Europe` became `Little-Europe`
+- **rancho-coronado.md** — `Rancho Coronado` became `Rancho-Coronado`, joining the page already tagged `Rancho-Coronado`
+- **the-modlits.md** — `ModLits` became `The-ModLits`, the tag its NPC page already used
+- **deadwoods.md, the-vultures.md** — `DeadWoods` and `RoadRunner` became `Deadwoods` and `Roadrunner`
+
+The 270 tags across 207 pages now contain no near-duplicates, so every tag leads to the full set of pages it names.
+
 ### 2026-10-23 - Site - Every broken internal link fixed
 
 Ten links across six pages pointed at `/wiki/<name>.md` paths, which resolve to nothing on

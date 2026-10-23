@@ -170,7 +170,7 @@
               "name": "The Modlits",
               "type": "file",
               "path": "Local Archive/Organizations/the-modlits.md",
-              "tags": "modlits,night-market-team,tech-gang,crew-neutral,organized-crime,threat-medium"
+              "tags": "the-modlits,night-market-team,tech-gang,crew-neutral,organized-crime,threat-medium"
             },
             {
               "name": "The Vultures",
@@ -584,7 +584,7 @@
               "name": "Little Europe",
               "type": "file",
               "path": "Net Archive/Locations/little-europe.md",
-              "tags": "little europe,district,rebuilding-urban-center,threat-low,eurotrashers,maelstrom,6th-street"
+              "tags": "little-europe,district,rebuilding-urban-center,threat-low,eurotrashers,maelstrom,6th-street"
             },
             {
               "name": "Lizzies Bar",
@@ -704,7 +704,7 @@
               "name": "Port Of Night City",
               "type": "file",
               "path": "Net Archive/Locations/port-of-night-city.md",
-              "tags": "location,district,port,waterfront,nightcity,thelas-nation,nomad-turf,threat-medium,trading-post,black-market"
+              "tags": "location,district,port,waterfront,night-city,thelas-nation,nomad-turf,threat-medium,trading-post,black-market"
             },
             {
               "name": "Prosperity Gardens Tenements",
@@ -716,7 +716,7 @@
               "name": "Rancho Coronado",
               "type": "file",
               "path": "Net Archive/Locations/rancho-coronado.md",
-              "tags": "rancho coronado,district,overpacked-suburb,threat-high,albino-alligators,voodoo-boys"
+              "tags": "rancho-coronado,district,overpacked-suburb,threat-high,albino-alligators,voodoo-boys"
             },
             {
               "name": "Randy Dandy",

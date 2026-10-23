@@ -1,6 +1,6 @@
 # Rancho Coronado
 
-**Tags:** Rancho Coronado, District, Overpacked-Suburb, Threat-High, Albino-Alligators, Voodoo-Boys
+**Tags:** Rancho-Coronado, District, Overpacked-Suburb, Threat-High, Albino-Alligators, Voodoo-Boys
 
 **District Code:** I (formerly)  
 **Type:** Overpacked Suburb  

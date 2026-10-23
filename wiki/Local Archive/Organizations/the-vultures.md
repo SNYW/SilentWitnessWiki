@@ -1,6 +1,6 @@
 # The Vultures
 
-**Tags:** The-Vultures, Scavenger-Gang, The-Precipice, Campaign-Gang, Magpie, Raptor, Bekah-Bluejay, RoadRunner, Maelstrom, Session-8
+**Tags:** The-Vultures, Scavenger-Gang, The-Precipice, Campaign-Gang, Magpie, Raptor, Bekah-Bluejay, Roadrunner, Maelstrom, Session-8
 
 **Basic Info**
 - **Name:** The Vultures

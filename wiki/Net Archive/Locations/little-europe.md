@@ -1,6 +1,6 @@
 # Little Europe
 
-**Tags:** Little Europe, District, Rebuilding-Urban-Center, Threat-Low, Eurotrashers, Maelstrom, 6th-Street
+**Tags:** Little-Europe, District, Rebuilding-Urban-Center, Threat-Low, Eurotrashers, Maelstrom, 6th-Street
 
 **District Code:** Formerly Section A (part)  
 **Type:** Rebuilding Urban Center  
