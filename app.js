@@ -450,8 +450,16 @@ function buildLinkMap(nodes) {
   for (const node of nodes) {
     if (node.children) { buildLinkMap(node.children); continue; }
     if (!node.path) continue;
-    const key = normaliseKey((node.name || '').replace(/\.md$/i, ''));
-    if (key) wikiLinkMap.set(key, node.path);
+    const name = (node.name || '').replace(/\.md$/i, '');
+    const key = normaliseKey(name);
+    const folder = node.path.split('/')[0];
+    if (key) {
+      // Two pages can share a name (the campaign's Bozos and the general one).
+      // The first keeps the bare name; the other is reachable as [[Folder Name]].
+      if (!wikiLinkMap.has(key)) wikiLinkMap.set(key, node.path);
+      const qualified = normaliseKey(`${folder} ${name}`);
+      if (qualified && !wikiLinkMap.has(qualified)) wikiLinkMap.set(qualified, node.path);
+    }
     const stem = node.path.split('/').pop().replace(/\.md$/i, '');
     for (const part of stem.split('-')) {
       if (part.length >= 4 && !wikiLinkMap.has(part)) wikiLinkMap.set(part, node.path);

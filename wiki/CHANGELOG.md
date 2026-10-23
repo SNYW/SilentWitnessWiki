@@ -1,5 +1,17 @@
 # Changelog
 
+### 2026-10-23 - Site - Pages that share a name now resolve to the right one
+
+Three subjects have a page in each archive: the campaign's Bozos, Maelstrom and The
+Precipice, and the general research on the same three. The link map kept the last page
+it saw under a name, so a link from a campaign page — a relationship table naming the
+Bozos, a sentence about Maelstrom — opened the general article instead of the campaign's
+own. The first page to claim a name now keeps it, and every page can also be reached by
+its archive's name.
+
+- **Campaign pages win the bare name** — Bozos, Maelstrom and The Precipice open the Local Archive pages, which is what the campaign's own links mean
+- **The general pages keep a name of their own** — a wikilink reading "Net Archive Bozos", "Net Archive Maelstrom" or "Net Archive The Precipice" opens them
+
 ### 2026-10-23 - Site - Threat ratings and status badges brought into line with the site
 
 The site styles four threat levels and reads the rating from the first word of the
@@ -32,13 +44,14 @@ The 270 tags across 207 pages now contain no near-duplicates, so every tag leads
 
 Ten links across six pages pointed at `/wiki/<name>.md` paths, which resolve to nothing on
 GitHub Pages, and four Obsidian-style links pointed at pages that are named differently or
-do not exist at all. All of them now use the site's own `[[wikilink]]` form, which
+do not exist at all. All of them now use the site's own wikilink form (double square
+brackets around the page name), which
 `app.js` resolves against `manifest.json`.
 
 - **jodes.md** — Zoners, Aldecados and Badlands linked; the "Aldecaldos" typo corrected; Nomads left as plain text, as no page exists for it
 - **the-faded.md** — Old Combat Zone, Generation Red and Shroomers linked
 - **night-market.md** — Time of the Red linked; Nomads and Fixers left as plain text
-- **roadrunner.md, rippa.md** — `[[Roadblock]]` became `[[Ronnie Pickering Roadblock]]`, the name the page carries in the manifest
+- **roadrunner.md, rippa.md** — a link reading "Roadblock" became one reading "Ronnie Pickering Roadblock", the name the page carries in the manifest
 - **README.md** — the index listed a legacy folder layout (`characters`, `npcs`, `events`, `locations`, `organizations`) with no matching pages; it now lists the real pages and their folders
 
 All 165 wikilinks on the site now resolve, and no relative markdown link is broken.
