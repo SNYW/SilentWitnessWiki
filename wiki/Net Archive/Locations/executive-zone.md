@@ -4,7 +4,7 @@
 
 **Type:** Gated Community / Executive District  
 **Area:** Near New Westbrook (Northeast of Central Night City)  
-**Threat Rating:** Very Low
+**Threat Rating:** Low
 
 ## Overview
 

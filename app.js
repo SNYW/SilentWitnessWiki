@@ -199,6 +199,8 @@ const STATUS_BADGES = [
   ['status-alive','status-alive','● ALIVE'], ['status-active','status-alive','● ACTIVE'],
   ['status-deceased','status-deceased','● DECEASED'], ['status-dead','status-deceased','● DECEASED'],
   ['status-missing','status-missing','? MISSING'], ['status-inactive','status-inactive','○ INACTIVE'],
+  ['status-departed','status-inactive','○ DEPARTED'], ['status-flatlined','status-deceased','● DEAD'],
+  ['status-injured','status-missing','▲ INJURED'],
 ];
 
 function buildMeta(tags) {

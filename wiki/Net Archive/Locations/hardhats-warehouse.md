@@ -1,9 +1,9 @@
 # Hardhat's Warehouse
 
-**Tags:** Hot-Zone, The-Island, Combat-Zone, Threat-High, Scavver-Hub, Maelstrom, Safehouse
+**Tags:** Hot-Zone, The-Island, Combat-Zone, Threat-Extreme, Scavver-Hub, Maelstrom, Safehouse
 
 **District:** Hot Zone - Old City Center (The Island)
-**Threat Rating:** Combat (Highest)
+**Threat Rating:** Extreme
 
 ## Overview
 

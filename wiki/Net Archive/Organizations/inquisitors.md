@@ -3,7 +3,7 @@
 **Tags:** Cult, Threat-Extreme
 
 **Territory:** Mobile / No Fixed Turf (RED Era)  
-**Threat Rating:** Very High
+**Threat Rating:** Extreme
 
 ## Overview
 

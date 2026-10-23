@@ -1,9 +1,9 @@
 # Little China (RED Era)
 
-**Tags:** Little-China, Combat-Zone, Tyger-Claws, Threat-High
+**Tags:** Little-China, Combat-Zone, Tyger-Claws, Threat-Extreme
 
 **Territory:** Combat Zone / Lawless (RED Era, 2040s)  
-**Threat Rating:** Very High
+**Threat Rating:** Extreme
 
 ## Overview
 

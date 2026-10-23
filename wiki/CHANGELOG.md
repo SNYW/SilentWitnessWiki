@@ -1,5 +1,18 @@
 # Changelog
 
+### 2026-10-23 - Site - Threat ratings and status badges brought into line with the site
+
+The site styles four threat levels and reads the rating from the first word of the
+**Threat Rating** line, so any other wording was rendered with the wrong colour or the
+wrong label: "Very High" showed a chip reading *Very*, and "Combat (Highest)" showed one
+reading *Combat*. Eleven pages now use the Cyberpunk RED scale — Low, Medium, High,
+Extreme — and the seven whose prose ranked above their tag carry the higher tag.
+
+- **Extreme** — inquisitors, max-tac, little-china, old-japantown, chrome-cross-bar, the-n54, hardhats-warehouse, tent-city, arasaka-towers-ruins ("Very High", "Maximum" and "Combat (Highest)")
+- **Low to Medium** — reclaimed-perimeter, and **Low** — executive-zone
+- The three campaign statuses the site had no badge for now have one: **DEPARTED**
+  (ronnie-pickering-roadblock), **INJURED** (raptor) and **DEAD** (mr-tubbs)
+
 ### 2026-10-23 - Site - Tag vocabulary normalised
 
 The tag filter matched tags as plain text, so a tag written with a space (`Little Europe`)

@@ -3,7 +3,7 @@
 **Tags:** Law-Enforcement, Threat-Extreme
 
 **Territory:** All of Night City  
-**Threat Rating:** Maximum
+**Threat Rating:** Extreme
 
 ## Overview
 

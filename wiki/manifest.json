@@ -392,7 +392,7 @@
               "name": "Arasaka Towers Ruins",
               "type": "file",
               "path": "Net Archive/Locations/arasaka-towers-ruins.md",
-              "tags": "hot-zone,the-island,combat-zone,threat-high,arasaka,historical-site,radiation-hazard,johnny-silverhand,the-time-of-the-red"
+              "tags": "hot-zone,the-island,combat-zone,threat-extreme,arasaka,historical-site,radiation-hazard,johnny-silverhand,the-time-of-the-red"
             },
             {
               "name": "Ashcroft Hotel",
@@ -434,7 +434,7 @@
               "name": "Chrome Cross Bar",
               "type": "file",
               "path": "Net Archive/Locations/chrome-cross-bar.md",
-              "tags": "bar,combat-zone,little-china,watson,threat-high,red-hawks"
+              "tags": "bar,combat-zone,little-china,watson,threat-extreme,red-hawks"
             },
             {
               "name": "City Medical Center",
@@ -500,7 +500,7 @@
               "name": "Hardhats Warehouse",
               "type": "file",
               "path": "Net Archive/Locations/hardhats-warehouse.md",
-              "tags": "hot-zone,the-island,combat-zone,threat-high,scavver-hub,maelstrom,safehouse"
+              "tags": "hot-zone,the-island,combat-zone,threat-extreme,scavver-hub,maelstrom,safehouse"
             },
             {
               "name": "Herschels Crematorium",
@@ -578,7 +578,7 @@
               "name": "Little China",
               "type": "file",
               "path": "Net Archive/Locations/little-china.md",
-              "tags": "little-china,combat-zone,tyger-claws,threat-high"
+              "tags": "little-china,combat-zone,tyger-claws,threat-extreme"
             },
             {
               "name": "Little Europe",
@@ -674,7 +674,7 @@
               "name": "Old Japantown",
               "type": "file",
               "path": "Net Archive/Locations/old-japantown.md",
-              "tags": "combat-zone,westbrook,threat-high,tyger-claws,maelstrom"
+              "tags": "combat-zone,westbrook,threat-extreme,tyger-claws,maelstrom"
             },
             {
               "name": "Pacifica Playground",
@@ -782,7 +782,7 @@
               "name": "Tent City",
               "type": "file",
               "path": "Net Archive/Locations/tent-city.md",
-              "tags": "hot-zone,the-island,combat-zone,threat-high,scavver-hub,tent-city,reckoners,maelstrom"
+              "tags": "hot-zone,the-island,combat-zone,threat-extreme,scavver-hub,tent-city,reckoners,maelstrom"
             },
             {
               "name": "The Big Top",
@@ -830,7 +830,7 @@
               "name": "The N54",
               "type": "file",
               "path": "Net Archive/Locations/the-n54.md",
-              "tags": "hot-zone,the-island,combat-zone,threat-high,radiation-hazard,scavver-hub,maelstrom"
+              "tags": "hot-zone,the-island,combat-zone,threat-extreme,radiation-hazard,scavver-hub,maelstrom"
             },
             {
               "name": "The Precipice",
