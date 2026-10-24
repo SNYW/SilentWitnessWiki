@@ -1,5 +1,17 @@
 # Changelog
 
+### 2026-10-23 - Site - Two stale duplicates removed from the repository root
+
+The root of the repository still carried a copy of the manifest and a copy of the
+changelog from before the site moved both inside `wiki/`. Nothing read them — the site
+fetches `wiki/manifest.json` and `wiki/CHANGELOG.md` — but the root copy of the manifest
+had drifted down to 166 pages while the wiki holds 207, so anyone who read it, a person
+or an agent, was handed a tree missing 41 pages: Rippa, Rook, Lord Smile, Roadrunner, Sal,
+sessions five to ten and most of the Net Archive's districts.
+
+- **One manifest** — `wiki/manifest.json`, all 207 pages with their tags
+- **One changelog** — `wiki/CHANGELOG.md`, the one the site shows on its landing page
+
 ### 2026-10-23 - Site - Pages that share a name now resolve to the right one
 
 Three subjects have a page in each archive: the campaign's Bozos, Maelstrom and The
