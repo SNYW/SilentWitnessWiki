@@ -82,7 +82,7 @@ It nearly takes Magpie with it. The flood becomes too much and he has to **jack 
 
 ## A Phone Call
 
-Magpie calls **[[Bekah "Bluejay"]]**.
+Magpie calls **[[Bekah Bluejay]]**.
 
 She made it out of the Night Market. Good news — except she is being **pursued by clowns**.
 
@@ -101,7 +101,7 @@ Magpie, satisfied she is alive and with a dying girl on the table in front of hi
 |-----|------|--------|
 | [[Bloam]] | The "princess" | **Stable, not fixed** — badly damaged, alive |
 | [[R.O.O.K.]] | Magpie's tank | Operational — carried Bloam, ran the patient readouts |
-| [[Bekah "Bluejay"]] | Vultures scout | Alive — escaped the Market, **being pursued by clowns** |
+| [[Bekah Bluejay]] | Vultures scout | Alive — escaped the Market, **being pursued by clowns** |
 | Unknown attackers | Airborne assault force | **Both remaining helicopters destroyed** |
 
 ## Loot and Assets

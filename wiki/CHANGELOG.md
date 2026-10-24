@@ -1,5 +1,11 @@
 # Changelog
 
+### 2026-10-23 - Site - The last broken wikilink fixed
+
+A link written with the nickname's quotes — `[[Bekah "Bluejay"]]` — matched no page, so it
+rendered as a missing name on Magpie's page and in the session ten log. It now reads
+`[[Bekah Bluejay]]`, the name the page carries in the manifest.
+
 ### 2026-10-23 - Site - Two stale duplicates removed from the repository root
 
 The root of the repository still carried a copy of the manifest and a copy of the
