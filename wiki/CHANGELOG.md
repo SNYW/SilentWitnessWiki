@@ -1,5 +1,16 @@
 # Changelog
 
+### 2026-10-25 - Site - The threat chip now appears at all
+
+The rule that a threat rating takes its chip from the first word of the line was never
+actually reached: the label is written in bold, so the renderer put `Threat Rating:` inside
+a `<strong>` element and the value in the text node after it — and the enhancer only ever
+looked for the label and the word in the same text node. Not one page on the site had ever
+shown its threat colour.
+
+- **Every rating renders its chip** — `Low`, `Medium`, `High` and `Extreme` now carry the colour they always were meant to
+- **Ranges read as prose** — the chip is the level, the rest of the line follows it as plain text
+
 ### 2026-10-25 - Site - Every threat rating now renders as one clean chip
 
 Twenty-five pages carried a compound threat rating — `Low-Medium`, `Medium-High`, `High to

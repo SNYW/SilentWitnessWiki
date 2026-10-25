@@ -157,6 +157,30 @@ function enhance(root) {
     return frag;
   }));
 
+  // The label is usually bolded, which puts the value in the next text node and
+  // leaves the pass above nothing to match. Handle that case here.
+  const THREAT_LEVELS = ['low', 'medium', 'high', 'extreme'];
+  root.querySelectorAll('strong, b').forEach(label => {
+    if (!/^threat rating:?$/i.test(label.textContent.trim())) return;
+    for (let p = label.parentNode; p && p !== root; p = p.parentNode) {
+      if (SKIP_ANCESTORS.has(p.nodeName)) return;
+    }
+    const value = label.nextSibling;
+    if (!value || value.nodeType !== Node.TEXT_NODE) return;
+    const m = value.textContent.match(/^(\s*)(\w+)([\s\S]*)$/);
+    if (!m) return;
+    const level = m[2].toLowerCase();
+    if (!THREAT_LEVELS.includes(level)) return;
+    const el = document.createElement('span');
+    el.className = `threat-rating threat-${level}`;
+    el.textContent = m[2];
+    const frag = document.createDocumentFragment();
+    if (m[1]) frag.append(document.createTextNode(m[1]));
+    frag.append(el);
+    if (m[3]) frag.append(document.createTextNode(m[3]));
+    value.replaceWith(frag);
+  });
+
   // District Code: A  /  (District Code: A)
   eachTextNode(root, node => replaceInText(node, /\(?District Code:\s*([A-Z])\)?/g, m => {
     const el = document.createElement('span');
