@@ -5,7 +5,7 @@
 
 **District Code:** T  
 **Type:** Overpacked Suburb  
-**Threat Rating:** Medium to High
+**Threat Rating:** Medium, up to High
 
 ## Overview
 

@@ -4,7 +4,7 @@
 
 **District:** South Night City  
 **Type:** Shanty-Town / Residential Area  
-**Threat Rating:** Low-Medium  
+**Threat Rating:** Low, up to Medium  
 
 ## Overview
 

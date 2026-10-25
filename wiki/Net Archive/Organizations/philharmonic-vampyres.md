@@ -4,7 +4,7 @@
 
 **Type:** Artsy Prankster Gang  
 **Territory:** University District (RED Era)  
-**Threat Rating:** Low (socially) to Medium
+**Threat Rating:** Low (socially), up to Medium
 
 ## Overview
 

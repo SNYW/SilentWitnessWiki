@@ -1,5 +1,17 @@
 # Changelog
 
+### 2026-10-25 - Site - Every threat rating now renders as one clean chip
+
+Twenty-five pages carried a compound threat rating — `Low-Medium`, `Medium-High`, `High to
+Extreme`, `Low (socially) to Medium`. The site styles four levels and takes its chip from the
+first word of the line, so `Low-Medium` rendered as a coloured `Low` chip with a stray
+`-Medium` hanging beside it, and `Medium to High` as `Medium` followed by `to High`. The
+range is still there, but as prose instead of a broken chip.
+
+- **One chip, four levels** — the rating now starts with `Low`, `Medium`, `High` or `Extreme`, and the range follows in words: `Low, up to Medium`
+- **Nothing lost** — every range is preserved, including the qualifiers: `Low (socially), up to Medium`, `Low, up to Medium (Corporate Security)`
+- **Tags unchanged** — the `Threat-` tags still carry the full range, so filtering by either level still finds the page
+
 ### 2026-10-23 - Site - The last broken wikilink fixed
 
 A link written with the nickname's quotes — `[[Bekah "Bluejay"]]` — matched no page, so it

@@ -4,7 +4,7 @@
 
 **District:** Watson Development  
 **Type:** Residential Megabuilding  
-**Threat Rating:** Low to Medium
+**Threat Rating:** Low, up to Medium
 
 ## Overview
 

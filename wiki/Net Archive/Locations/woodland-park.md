@@ -4,7 +4,7 @@
 
 **Type:** Rebuilding Urban Neighborhood  
 **Area:** North Heywood, Heywood  
-**Threat Rating:** Low to Medium
+**Threat Rating:** Low, up to Medium
 
 ## Overview
 

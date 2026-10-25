@@ -4,7 +4,7 @@
 
 **Type:** Rebuilding Urban Zone  
 **Area:** The Island  
-**Threat Rating:** Medium to High
+**Threat Rating:** Medium, up to High
 
 ## Overview
 

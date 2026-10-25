@@ -4,7 +4,7 @@
 
 **Type:** Gang / Community Organization  
 **Territory:** The Boneyard, South Night City  
-**Threat Rating:** Low-Medium  
+**Threat Rating:** Low, up to Medium  
 
 ## Overview
 

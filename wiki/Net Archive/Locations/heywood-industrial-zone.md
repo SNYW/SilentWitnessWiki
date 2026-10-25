@@ -5,7 +5,7 @@
 
 **District Code:** U  
 **Type:** Industrial Zone  
-**Threat Rating:** Medium to High
+**Threat Rating:** Medium, up to High
 
 ## Overview
 

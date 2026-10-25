@@ -4,7 +4,7 @@
 
 **Type:** Working-class Bar & Tavern  
 **Area:** Watson (Little China border)  
-**Threat Rating:** Low-Medium
+**Threat Rating:** Low, up to Medium
 
 ## Overview
 

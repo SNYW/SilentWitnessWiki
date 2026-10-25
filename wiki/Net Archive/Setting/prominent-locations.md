@@ -41,7 +41,7 @@ By the 2040s, Old Japantown was a sprawling dangerous combat zone with few resid
 
 **Type:** Rebuilding Urban Zone  
 **Area:** Northside  
-**Threat Rating:** Low to Medium
+**Threat Rating:** Low, up to Medium
 
 ### History
 
@@ -122,7 +122,7 @@ By the RED era, it's a dangerous combat zone controlled by various gangs. The "P
 
 **Type:** Overpacked Suburb  
 **Area:** Mainland  
-**Threat Rating:** Medium to High
+**Threat Rating:** Medium, up to High
 
 ### History
 

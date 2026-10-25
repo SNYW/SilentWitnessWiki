@@ -4,7 +4,7 @@
 
 **Type:** Posergang / Boostergang  
 **Territory:** Old Japantown, South Night City (RED Era)  
-**Threat Rating:** High to Extreme
+**Threat Rating:** High, up to Extreme
 
 ## Overview
 

@@ -4,7 +4,7 @@
 
 **Type:** Nomad Clan / Family  
 **Territory:** Badlands, Night City Outskirts, Allied with South Night City communities  
-**Threat Rating:** Low-Medium  
+**Threat Rating:** Low, up to Medium  
 **Affiliation:** Seven Nations  
 
 ## Overview

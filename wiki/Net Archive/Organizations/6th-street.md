@@ -3,7 +3,7 @@
 **Tags:** Gang, Law-Enforcement, Heywood, Santo-Domingo, Threat-Medium
 
 **Primary Territory:** North Heywood, Santo Domingo  
-**Threat Rating:** Medium-High
+**Threat Rating:** Medium, up to High
 
 ## Overview
 

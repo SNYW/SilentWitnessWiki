@@ -4,7 +4,7 @@
 
 **Type:** Posergang  
 **District:** North Heywood (Woodland Park)  
-**Threat Rating:** Low-Medium  
+**Threat Rating:** Low, up to Medium  
 
 ## Overview
 

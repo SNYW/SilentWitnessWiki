@@ -4,7 +4,7 @@
 
 **Type:** Gang / Protest Movement  
 **Primary Territory:** South Night City (Combat Zone), The Glen  
-**Threat Rating:** Low-Medium
+**Threat Rating:** Low, up to Medium
 
 ## Overview
 

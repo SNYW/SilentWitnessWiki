@@ -4,7 +4,7 @@
 
 **Type:** Corporate Headquarters  
 **Area:** Little Europe (Central Night City)  
-**Threat Rating:** Low-Medium (Corporate Security)
+**Threat Rating:** Low, up to Medium (Corporate Security)
 
 ## Overview
 

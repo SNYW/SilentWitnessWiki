@@ -4,7 +4,7 @@
 
 **Type:** Collection of Repopulated Settlements  
 **Area:** Badlands / Night City Surroundings  
-**Threat Rating:** Low to Medium
+**Threat Rating:** Low, up to Medium
 
 ## Overview
 

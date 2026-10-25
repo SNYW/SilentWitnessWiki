@@ -5,7 +5,7 @@
 **District Code:** GL  
 **Type:** Government District / Rebuilding Urban Zone  
 **Area:** Heywood (Central)  
-**Threat Rating:** Low to Medium
+**Threat Rating:** Low, up to Medium
 
 ## Overview
 

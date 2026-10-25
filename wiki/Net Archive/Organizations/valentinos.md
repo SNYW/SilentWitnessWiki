@@ -4,7 +4,7 @@
 
 **Type:** Gang / Organized Crime Family  
 **Primary Territory:** Heywood (The Glen, Vista del Rey, Wellsprings)  
-**Threat Rating:** Medium-High
+**Threat Rating:** Medium, up to High
 
 ## Overview
 

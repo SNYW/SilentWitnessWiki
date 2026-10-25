@@ -4,7 +4,7 @@
 
 **District Code:** M  
 **Type:** Industrial Reclamation Zone  
-**Threat Rating:** Medium-High
+**Threat Rating:** Medium, up to High
 
 ## Overview
 

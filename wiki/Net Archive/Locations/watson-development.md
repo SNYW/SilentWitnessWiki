@@ -4,7 +4,7 @@
 
 **District Code:** U  
 **Type:** Corporate Development Zone  
-**Threat Rating:** Low-Medium
+**Threat Rating:** Low, up to Medium
 
 ## Overview
 

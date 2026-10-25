@@ -4,7 +4,7 @@
 
 **Type:** Neo-Pagan Mead Hall  
 **District:** Watson Development (N12)  
-**Threat Rating:** Low to Medium
+**Threat Rating:** Low, up to Medium
 
 ## Overview
 

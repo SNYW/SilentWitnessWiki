@@ -6,7 +6,7 @@
 
 **District:** Badlands (RED Era)
 
-**Threat Rating:** Medium-High
+**Threat Rating:** Medium, up to High
 
 ---
 

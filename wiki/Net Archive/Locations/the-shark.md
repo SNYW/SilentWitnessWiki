@@ -4,7 +4,7 @@
 
 **Type:** Apartment Complex  
 **Area:** Woodland Park, North Heywood, Heywood  
-**Threat Rating:** Low to Medium
+**Threat Rating:** Low, up to Medium
 
 ## Overview
 
