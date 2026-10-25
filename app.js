@@ -157,27 +157,48 @@ function enhance(root) {
     return frag;
   }));
 
-  // The label is usually bolded, which puts the value in the next text node and
-  // leaves the pass above nothing to match. Handle that case here.
+  // The labels are written in bold, so the renderer puts the label inside a <strong>
+  // element and the value in the text node after it — the passes above never see the
+  // two together. Handle that case here.
   const THREAT_LEVELS = ['low', 'medium', 'high', 'extreme'];
+  const LABELLED_VALUES = [
+    { label: /^threat rating:?$/i,
+      value: /^(\s*)(\w+)([\s\S]*)$/,
+      build(m) {
+        const level = m[2].toLowerCase();
+        if (!THREAT_LEVELS.includes(level)) return null;
+        const el = document.createElement('span');
+        el.className = `threat-rating threat-${level}`;
+        el.textContent = m[2];
+        return { el, rest: m[3] };
+      } },
+    { label: /^district code:?$/i,
+      value: /^(\s*)([A-Z]{1,3})(?![A-Za-z])([\s\S]*)$/,
+      build(m) {
+        const el = document.createElement('span');
+        el.className = 'district-code';
+        el.textContent = m[2];
+        return { el, rest: m[3] };
+      } },
+  ];
   root.querySelectorAll('strong, b').forEach(label => {
-    if (!/^threat rating:?$/i.test(label.textContent.trim())) return;
+    let skipped = false;
     for (let p = label.parentNode; p && p !== root; p = p.parentNode) {
-      if (SKIP_ANCESTORS.has(p.nodeName)) return;
+      if (SKIP_ANCESTORS.has(p.nodeName)) { skipped = true; break; }
     }
+    if (skipped) return;
+    const spec = LABELLED_VALUES.find(s => s.label.test(label.textContent.trim()));
+    if (!spec) return;
     const value = label.nextSibling;
     if (!value || value.nodeType !== Node.TEXT_NODE) return;
-    const m = value.textContent.match(/^(\s*)(\w+)([\s\S]*)$/);
+    const m = value.textContent.match(spec.value);
     if (!m) return;
-    const level = m[2].toLowerCase();
-    if (!THREAT_LEVELS.includes(level)) return;
-    const el = document.createElement('span');
-    el.className = `threat-rating threat-${level}`;
-    el.textContent = m[2];
+    const built = spec.build(m);
+    if (!built) return;
     const frag = document.createDocumentFragment();
     if (m[1]) frag.append(document.createTextNode(m[1]));
-    frag.append(el);
-    if (m[3]) frag.append(document.createTextNode(m[3]));
+    frag.append(built.el);
+    if (built.rest) frag.append(document.createTextNode(built.rest));
     value.replaceWith(frag);
   });
 
