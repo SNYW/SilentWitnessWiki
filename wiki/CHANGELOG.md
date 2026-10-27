@@ -1,5 +1,16 @@
 # Changelog
 
+### 2026-10-27 - Site - The search box now keeps its promise
+
+The search box advertises "Query databank or #tags…", but a leading `#` was never handled:
+it was simply part of the search string, and no tag carries one, so `#Night-City` returned
+"no matches" while `Night-City` returned its 24 pages.
+
+- **`#tag` searches the tags** — a leading `#` now means "tags only", and the page name is not consulted
+- **`word` searches the names and the tags**, as before
+- **A tag pill still drops its own name into the box** — that path was always sound
+
+
 ### 2026-10-25 - Site - The threat and district chips now appear at all
 
 The rule that a threat rating takes its chip from the first word of the line was never

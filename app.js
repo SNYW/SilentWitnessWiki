@@ -523,7 +523,10 @@ function toggleFolder(row) {
 /* --------------------------------------------------------------- search */
 
 function filterTree() {
-  const q = els.search.value.toLowerCase().trim();
+  const raw = els.search.value.toLowerCase().trim();
+  // A leading '#' means "search the tags only" — the box advertises it, so it works.
+  const tagOnly = raw.startsWith('#');
+  const q = tagOnly ? raw.slice(1).trim() : raw;
   const folders = els.tree.querySelectorAll('.tree-folder');
   const files = els.tree.querySelectorAll('.file-item');
 
@@ -551,7 +554,7 @@ function filterTree() {
 
   let hits = 0;
   files.forEach(file => {
-    const byName = file.dataset.search.includes(q);
+    const byName = !tagOnly && file.dataset.search.includes(q);
     const byTag = file.dataset.tags && file.dataset.tags.includes(q);
     if (!byName && !byTag) return;
     hits++;
@@ -569,7 +572,7 @@ function filterTree() {
   });
 
   folders.forEach(folder => {
-    if (!folder.dataset.search.includes(q)) return;
+    if (tagOnly || !folder.dataset.search.includes(q)) return;
     folder.classList.remove('hidden');
     folder.querySelectorAll('.file-item').forEach(f => {
       if (f.classList.contains('hidden')) hits++;
