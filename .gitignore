@@ -23,3 +23,6 @@ wiki/**/MEMORY.md
 # Local repo metadata that the copy step can drag across
 wiki/.openclaw/
 wiki/.pi/
+
+# Nested git metadata dragged across by the wiki copy step
+wiki/.git/
