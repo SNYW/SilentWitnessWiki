@@ -1,5 +1,27 @@
 # Changelog
 
+### 2026-10-29 - Site - A page's badge follows the folder it lives in
+
+The type badge on a page — `LOCATION`, `NPC`, `PC`, `SESSION` — was read from the page's
+tags, so whether a page showed one depended on whether its author had remembered to tag it.
+Two thirds of the location pages had no `location` tag, so they showed no badge at all: 63
+of 99. `Bekah Bluejay`, `Mr Giggles` and `Pins` were filed under NPCs but showed no `NPC`
+badge. The folder a page sits in already says what it is.
+
+- **The folder decides the badge** — `Locations` gives `LOCATION`, `NPCs` gives `NPC`, `Players` gives `PC`, `Sessions` gives `SESSION`
+- **66 pages gain the badge they were missing** — every location, NPC, player and session page now shows its type
+- **Organizations and rules still show no type badge**, as before
+- **Tags still drive the status badge** — `● ALIVE`, `? MISSING` and the rest are unchanged
+
+### 2026-10-29 - Content - A page can be found by its own name
+
+Twenty-two pages were named in the tags of other pages but did not carry their own name as a
+tag, so a reader who filtered by `The-Island` or `Bloam` never saw the page those names
+belong to.
+
+- **22 pages gained their own name tag** — `The-Island`, `The-Lab`, `Bloam`, `Arasaka`, `Night-Market` and the rest, placed first to match the 59 pages that already did so
+- **The tag vocabulary is unchanged** — 267 distinct tags before and after; every name added was already in use elsewhere
+
 ### 2026-10-29 - Content - One name per thing, so a tag finds all of it
 
 The tag vocabulary had drifted into near-duplicates. `Vultures` and `The-Vultures` were two

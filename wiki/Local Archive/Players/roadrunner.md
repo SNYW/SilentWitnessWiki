@@ -1,6 +1,6 @@
 # Eddie Blaze "RoadRunner"
 
-**Tags:** Player, The-Vultures, Nomad, Driver, Badlands, Status-Alive, Session-8, Session-9, Session-10
+**Tags:** Roadrunner, Player, The-Vultures, Nomad, Driver, Badlands, Status-Alive, Session-8, Session-9, Session-10
 
 ## Basic Info
 

@@ -1,6 +1,6 @@
 # CYBERWARE
 
-**Tags:** Character-Creation, Lifepath, GM-Tools, Rules
+**Tags:** Cyberware, Character-Creation, Lifepath, GM-Tools, Rules
 
 
 > Synthesized from: *Putting the Cyber into the Punk* (pp. 107-120)

@@ -1,6 +1,6 @@
 # North Heywood
 
-**Tags:** District, Location, Bar, Heywood
+**Tags:** North-Heywood, District, Location, Bar, Heywood
 
 
 **District Code:** T  

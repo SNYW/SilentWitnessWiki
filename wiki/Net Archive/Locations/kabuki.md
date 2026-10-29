@@ -1,6 +1,6 @@
 # Kabuki
 
-**Tags:** Watson, Combat-Zone, Tyger-Claws, Threat-High
+**Tags:** Kabuki, Watson, Combat-Zone, Tyger-Claws, Threat-High
 
 ## Overview
 

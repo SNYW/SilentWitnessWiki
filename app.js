@@ -240,6 +240,8 @@ function enhance(root) {
 /* ---------------------------------------------------------------- badges */
 
 const TYPE_BADGES = [['npc','NPC'],['player','PC'],['session','SESSION'],['location','LOCATION'],['bar','LOCATION']];
+/** A page's folder in the wiki tree is its type, whatever its tags say. */
+const FOLDER_BADGES = {'Locations':'LOCATION','NPCs':'NPC','Players':'PC','Sessions':'SESSION'};
 const STATUS_BADGES = [
   ['status-alive','status-alive','● ALIVE'], ['status-active','status-alive','● ACTIVE'],
   ['status-deceased','status-deceased','● DECEASED'], ['status-dead','status-deceased','● DECEASED'],
@@ -248,16 +250,24 @@ const STATUS_BADGES = [
   ['status-injured','status-missing','▲ INJURED'],
 ];
 
-function buildMeta(tags) {
+function typeBadge(file, lower) {
+  const folder = (file || '').split('/')[1];
+  if (FOLDER_BADGES[folder]) return FOLDER_BADGES[folder];
+  for (const [key, label] of TYPE_BADGES) {
+    if (lower.includes(key)) return label;
+  }
+  return null;
+}
+
+function buildMeta(tags, file) {
   const lower = tags.map(t => t.toLowerCase());
   const badges = document.createElement('div');
   badges.className = 'page-badges';
 
-  for (const [key, label] of TYPE_BADGES) {
-    if (lower.includes(key)) {
-      const b = document.createElement('span');
-      b.className = 'type-badge'; b.textContent = label; badges.append(b); break;
-    }
+  const type = typeBadge(file, lower);
+  if (type) {
+    const b = document.createElement('span');
+    b.className = 'type-badge'; b.textContent = type; badges.append(b);
   }
   for (const [tag, css, label] of STATUS_BADGES) {
     if (lower.includes(tag)) {
@@ -281,7 +291,7 @@ function buildMeta(tags) {
 
 /* ------------------------------------------------------------ rendering */
 
-function renderMarkdown(text) {
+function renderMarkdown(text, file) {
   let tags = [];
   const source = text.replace(/^(?:\*\*Tags:\*\*|Tags:)\s*(.+)$/gim, (_, list) => {
     tags = list.split(',').map(t => t.trim().replace(/[*_`]/g, '')).filter(Boolean);
@@ -294,7 +304,7 @@ function renderMarkdown(text) {
   body.append(sanitize(marked.parse(source)));
   enhance(body);
 
-  const { badges, pills } = buildMeta(tags);
+  const { badges, pills } = buildMeta(tags, file);
   const h1 = body.querySelector('h1');
   const meta = [badges, pills].filter(Boolean);
   if (meta.length) {
@@ -335,7 +345,7 @@ async function loadContent(file) {
   try {
     const res = await fetch(wikiBase + file, { signal: controller.signal, cache: 'no-cache' });
     if (!res.ok) throw new Error(`${res.status} — data corrupted or missing`);
-    renderMarkdown(await res.text());
+    renderMarkdown(await res.text(), file);
     document.querySelectorAll('.file-item').forEach(i => {
       const active = i.dataset.file === file;
       i.classList.toggle('active', active);

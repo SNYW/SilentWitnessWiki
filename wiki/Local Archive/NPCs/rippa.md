@@ -1,6 +1,6 @@
 # Rippa
 
-**Tags:** NPC, Status-Missing, Maelstrom, Gang-Leader, Employer, Threat-Extreme, Session-8, Session-9, Bloam
+**Tags:** Rippa, NPC, Status-Missing, Maelstrom, Gang-Leader, Employer, Threat-Extreme, Session-8, Session-9, Bloam
 
 ## Basic Info
 

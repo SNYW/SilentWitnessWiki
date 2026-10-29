@@ -1,6 +1,6 @@
 # Bloam
 
-**Tags:** NPC, Status-Alive, The-Vultures, Mystery, Glow-Eyed-Queen, Maelstrom, Session-2, Session-3, Session-4, Session-8, Session-9, Session-10
+**Tags:** Bloam, NPC, Status-Alive, The-Vultures, Mystery, Glow-Eyed-Queen, Maelstrom, Session-2, Session-3, Session-4, Session-8, Session-9, Session-10
 
 ## Basic Info
 

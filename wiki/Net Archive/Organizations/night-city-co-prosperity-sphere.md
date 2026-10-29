@@ -1,6 +1,6 @@
 # Night City Co-Prosperity Sphere
 
-**Tags:** NCCS, Corporation, Japanese-Conglomerate, Night-City, Guardian-Gang, Tyger-Claws, Kimen-Gumi
+**Tags:** Night-City-Co-Prosperity-Sphere, NCCS, Corporation, Japanese-Conglomerate, Night-City, Guardian-Gang, Tyger-Claws, Kimen-Gumi
 
 **Type:** Corporate Consortium  
 **Headquarters:** Night City (specific location varies by era)  

@@ -20,19 +20,19 @@
               "name": "The Lab",
               "type": "file",
               "path": "Local Archive/Locations/the-lab.md",
-              "tags": "location,crater-combat-zones,medical,asset,bloam,session-10"
+              "tags": "the-lab,location,crater-combat-zones,medical,asset,bloam,session-10"
             },
             {
               "name": "The Precipice",
               "type": "file",
               "path": "Local Archive/Locations/the-precipice.md",
-              "tags": "location,combat-zone,old-japantown,safehouse,threat-high,radiation-hazard"
+              "tags": "the-precipice,location,combat-zone,old-japantown,safehouse,threat-high,radiation-hazard"
             },
             {
               "name": "Vultures Nest",
               "type": "file",
               "path": "Local Archive/Locations/vultures-nest.md",
-              "tags": "safehouse,combat-zone,the-vultures,the-precipice,threat-high"
+              "tags": "vultures-nest,safehouse,combat-zone,the-vultures,the-precipice,threat-high"
             }
           ]
         },
@@ -50,7 +50,7 @@
               "name": "Bloam",
               "type": "file",
               "path": "Local Archive/NPCs/bloam.md",
-              "tags": "npc,status-alive,the-vultures,mystery,glow-eyed-queen,maelstrom,session-2,session-3,session-4,session-8,session-9,session-10"
+              "tags": "bloam,npc,status-alive,the-vultures,mystery,glow-eyed-queen,maelstrom,session-2,session-3,session-4,session-8,session-9,session-10"
             },
             {
               "name": "Lord Smile",
@@ -86,13 +86,13 @@
               "name": "Raptor",
               "type": "file",
               "path": "Local Archive/NPCs/raptor.md",
-              "tags": "npc,status-injured,the-vultures,gang-leader,session-3,session-7,session-8"
+              "tags": "raptor,npc,status-injured,the-vultures,gang-leader,session-3,session-7,session-8"
             },
             {
               "name": "Rippa",
               "type": "file",
               "path": "Local Archive/NPCs/rippa.md",
-              "tags": "npc,status-missing,maelstrom,gang-leader,employer,threat-extreme,session-8,session-9,bloam"
+              "tags": "rippa,npc,status-missing,maelstrom,gang-leader,employer,threat-extreme,session-8,session-9,bloam"
             },
             {
               "name": "Rook",
@@ -188,7 +188,7 @@
               "name": "Magpie",
               "type": "file",
               "path": "Local Archive/Players/magpie.md",
-              "tags": "player,the-vultures,techie,netrunner,solo,r.o.o.k.,session-1,session-2,session-3,session-4,session-7,session-8,session-9,session-10"
+              "tags": "magpie,player,the-vultures,techie,netrunner,solo,r.o.o.k.,session-1,session-2,session-3,session-4,session-7,session-8,session-9,session-10"
             },
             {
               "name": "Oldboy",
@@ -200,7 +200,7 @@
               "name": "Roadrunner",
               "type": "file",
               "path": "Local Archive/Players/roadrunner.md",
-              "tags": "player,the-vultures,nomad,driver,badlands,status-alive,session-8,session-9,session-10"
+              "tags": "roadrunner,player,the-vultures,nomad,driver,badlands,status-alive,session-8,session-9,session-10"
             },
             {
               "name": "Ronnie Pickering Roadblock",
@@ -236,7 +236,7 @@
               "name": "Cyberware",
               "type": "file",
               "path": "Local Archive/Rules/cyberware.md",
-              "tags": "character-creation,lifepath,gm-tools,rules"
+              "tags": "cyberware,character-creation,lifepath,gm-tools,rules"
             },
             {
               "name": "Damage And Healing",
@@ -554,7 +554,7 @@
               "name": "Kabuki",
               "type": "file",
               "path": "Net Archive/Locations/kabuki.md",
-              "tags": "watson,combat-zone,tyger-claws,threat-high"
+              "tags": "kabuki,watson,combat-zone,tyger-claws,threat-high"
             },
             {
               "name": "Kasims",
@@ -644,7 +644,7 @@
               "name": "Night Market",
               "type": "file",
               "path": "Net Archive/Locations/night-market.md",
-              "tags": "shopping,threat-medium"
+              "tags": "night-market,shopping,threat-medium"
             },
             {
               "name": "Norcal Military Base",
@@ -656,7 +656,7 @@
               "name": "North Heywood",
               "type": "file",
               "path": "Net Archive/Locations/north-heywood.md",
-              "tags": "district,location,bar,heywood"
+              "tags": "north-heywood,district,location,bar,heywood"
             },
             {
               "name": "Northside",
@@ -674,7 +674,7 @@
               "name": "Old Japantown",
               "type": "file",
               "path": "Net Archive/Locations/old-japantown.md",
-              "tags": "combat-zone,westbrook,threat-extreme,tyger-claws,maelstrom"
+              "tags": "old-japantown,combat-zone,westbrook,threat-extreme,tyger-claws,maelstrom"
             },
             {
               "name": "Pacifica Playground",
@@ -704,7 +704,7 @@
               "name": "Port Of Night City",
               "type": "file",
               "path": "Net Archive/Locations/port-of-night-city.md",
-              "tags": "location,district,port,waterfront,night-city,thelas-nation,nomad-turf,threat-medium,trading-post,black-market"
+              "tags": "port-of-night-city,location,district,port,waterfront,night-city,thelas-nation,nomad-turf,threat-medium,trading-post,black-market"
             },
             {
               "name": "Prosperity Gardens Tenements",
@@ -734,7 +734,7 @@
               "name": "Reclamation Zone",
               "type": "file",
               "path": "Net Archive/Locations/reclamation-zone.md",
-              "tags": "district,location"
+              "tags": "reclamation-zone,district,location"
             },
             {
               "name": "Redline",
@@ -812,7 +812,7 @@
               "name": "The Island",
               "type": "file",
               "path": "Net Archive/Locations/the-island.md",
-              "tags": "little-china,south-night-city,little-europe,hot-zone,university-district,the-glen,location"
+              "tags": "the-island,little-china,south-night-city,little-europe,hot-zone,university-district,the-glen,location"
             },
             {
               "name": "The Lair",
@@ -836,7 +836,7 @@
               "name": "The Precipice",
               "type": "file",
               "path": "Net Archive/Locations/the-precipice.md",
-              "tags": "old-japantown,residential,combat-zone,threat-medium"
+              "tags": "the-precipice,old-japantown,residential,combat-zone,threat-medium"
             },
             {
               "name": "The Shark",
@@ -908,7 +908,7 @@
               "name": "Upper Marina",
               "type": "file",
               "path": "Net Archive/Locations/upper-marina.md",
-              "tags": "district,location,medical-facility"
+              "tags": "upper-marina,district,location,medical-facility"
             },
             {
               "name": "Vargtimmen",
@@ -956,7 +956,7 @@
               "name": "6th Street",
               "type": "file",
               "path": "Net Archive/Organizations/6th-street.md",
-              "tags": "gang,law-enforcement,heywood,santo-domingo,threat-medium"
+              "tags": "6th-street,gang,law-enforcement,heywood,santo-domingo,threat-medium"
             },
             {
               "name": "Aldecados",
@@ -980,7 +980,7 @@
               "name": "Arasaka",
               "type": "file",
               "path": "Net Archive/Organizations/arasaka.md",
-              "tags": "corporate,tyger-claws,threat-high"
+              "tags": "arasaka,corporate,tyger-claws,threat-high"
             },
             {
               "name": "Biotechnica",
@@ -1118,7 +1118,7 @@
               "name": "Night City Co Prosperity Sphere",
               "type": "file",
               "path": "Net Archive/Organizations/night-city-co-prosperity-sphere.md",
-              "tags": "nccs,corporation,japanese-conglomerate,night-city,guardian-gang,tyger-claws,kimen-gumi"
+              "tags": "night-city-co-prosperity-sphere,nccs,corporation,japanese-conglomerate,night-city,guardian-gang,tyger-claws,kimen-gumi"
             },
             {
               "name": "Night City Gangs",
@@ -1250,7 +1250,7 @@
               "name": "Voodoo Boys",
               "type": "file",
               "path": "Net Archive/Organizations/voodoo-boys.md",
-              "tags": "gang,pacifica,threat-high"
+              "tags": "voodoo-boys,gang,pacifica,threat-high"
             },
             {
               "name": "Wraiths",

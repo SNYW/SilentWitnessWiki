@@ -1,6 +1,6 @@
 # Voodoo Boys
 
-**Tags:** Gang, Pacifica, Threat-High
+**Tags:** Voodoo-Boys, Gang, Pacifica, Threat-High
 
 **Type:** Gang (Netrunner Syndicate)
 **District:** Pacifica

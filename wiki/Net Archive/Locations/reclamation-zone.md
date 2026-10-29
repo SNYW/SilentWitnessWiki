@@ -1,6 +1,6 @@
 # Reclamation Zone
 
-**Tags:** District, Location
+**Tags:** Reclamation-Zone, District, Location
 
 
 **District Code:** K  

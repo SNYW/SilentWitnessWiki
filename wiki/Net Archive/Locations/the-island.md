@@ -1,6 +1,6 @@
 # The Island
 
-**Tags:** Little-China, South-Night-City, Little-Europe, Hot-Zone, University-District, The-Glen, Location
+**Tags:** The-Island, Little-China, South-Night-City, Little-Europe, Hot-Zone, University-District, The-Glen, Location
 
 
 The heart of Night City. Contains the central districts including Downtown, the Glen, and the Hot Zone.

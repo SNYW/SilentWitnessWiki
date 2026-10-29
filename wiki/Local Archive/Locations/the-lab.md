@@ -1,6 +1,6 @@
 # The Lab
 
-**Tags:** Location, Crater-Combat-Zones, Medical, Asset, Bloam, Session-10
+**Tags:** The-Lab, Location, Crater-Combat-Zones, Medical, Asset, Bloam, Session-10
 
 **Type:** High-end medical / research facility
 **Location:** Bombed-out old medical centre area, east of the crater combat zones

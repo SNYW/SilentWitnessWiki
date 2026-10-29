@@ -1,6 +1,6 @@
 # Old Japantown (RED Era)
 
-**Tags:** Combat-Zone, Westbrook, Threat-Extreme, Tyger-Claws, Maelstrom
+**Tags:** Old-Japantown, Combat-Zone, Westbrook, Threat-Extreme, Tyger-Claws, Maelstrom
 
 **Territory:** Combat Zone / Lawless (RED Era, 2040s)  
 **Threat Rating:** Extreme
