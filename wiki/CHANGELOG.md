@@ -1,5 +1,12 @@
 # Changelog
 
+### 2026-10-29 - Site - The site has a mark of its own
+
+Every page load asked the server for `/favicon.ico` and got a 404 — neither the site nor the
+archive declared an icon, so the browser's automatic request fell on nothing.
+
+- **The wiki carries a favicon** — the Red Library mark, a gold page block with a red spine, built from the site's own palette
+
 ### 2026-10-27 - Site - The search box now keeps its promise
 
 The search box advertises "Query databank or #tags…", but a leading `#` was never handled:
