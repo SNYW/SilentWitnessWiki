@@ -1,6 +1,6 @@
 # Session 4: Pop goes the David
 
-**Tags:** Session, Session-4, Night-Market-Arc, Combat-Encounter, Vultures, Bozos, Tesla-Tyrants, Bloam, Glow-Eyed-Queen
+**Tags:** Session, Session-4, Night-Market-Arc, Combat-Encounter, The-Vultures, Bozos, Tesla-Tyrants, Bloam, Glow-Eyed-Queen
 
 ## TL;DR
 

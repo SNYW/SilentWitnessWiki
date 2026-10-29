@@ -1,6 +1,6 @@
 # Night City Wonderland League
 
-**Tags:** Night-City-Wonderland-League, Sports-League, Entertainment, Time-of-the-Red
+**Tags:** Night-City-Wonderland-League, Sports-League, Entertainment, Time-Of-The-Red
 
 **Era:** RED (Time of the Red, 2040s)
 **Location:** Various venues throughout Night City

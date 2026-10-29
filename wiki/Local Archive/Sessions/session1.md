@@ -1,6 +1,6 @@
 # Session 1: The Transformer Job
 
-**Tags:** Session, Session-1, Combat-Encounter, Vultures, Bozos
+**Tags:** Session, Session-1, Combat-Encounter, The-Vultures, Bozos
 
 ## Background
 

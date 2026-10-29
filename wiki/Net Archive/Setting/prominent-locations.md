@@ -1,6 +1,6 @@
 # Notable RED Era Locations
 
-**Tags:** Setting, Night-City, Time-of-the-Red, Location-Overview
+**Tags:** Setting, Night-City, Time-Of-The-Red, Location-Overview
 
 ## Overview
 

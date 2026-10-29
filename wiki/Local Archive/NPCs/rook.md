@@ -1,6 +1,6 @@
 # R.O.O.K.
 
-**Tags:** NPC, Vultures, Magpie, Vehicle, Construct, Bloam, Session-7, Session-8, Session-9, Session-10
+**Tags:** NPC, The-Vultures, Magpie, Vehicle, Construct, Bloam, Session-7, Session-8, Session-9, Session-10
 
 ## Basic Info
 

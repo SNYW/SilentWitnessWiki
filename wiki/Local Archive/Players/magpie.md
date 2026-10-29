@@ -1,6 +1,6 @@
 # Magpie
 
-**Tags:** Player, Vultures, Techie, Netrunner, Solo, R.O.O.K., Session-1, Session-2, Session-3, Session-4, Session-7, Session-8, Session-9, Session-10
+**Tags:** Player, The-Vultures, Techie, Netrunner, Solo, R.O.O.K., Session-1, Session-2, Session-3, Session-4, Session-7, Session-8, Session-9, Session-10
 
 ## Basic Info
 - **Name:** Jolo Barbossa

@@ -1,6 +1,6 @@
 # Precipice Securities
 
-**Tags:** Organization, Security-Company, Precipice, Night-City
+**Tags:** Organization, Security-Company, The-Precipice, Night-City
 
 ## Overview
 

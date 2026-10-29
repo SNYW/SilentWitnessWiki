@@ -1,5 +1,17 @@
 # Changelog
 
+### 2026-10-29 - Content - One name per thing, so a tag finds all of it
+
+The tag vocabulary had drifted into near-duplicates. `Vultures` and `The-Vultures` were two
+spellings of the same scavenger gang, and `Precipice` and `The-Precipice` two of the same
+district. The site filters on plain text, so `#The-Vultures` found 2 pages while
+`#Vultures` found 17 — the same faction, split in two, and no way for a reader to get the
+whole of it. `Time-Of-The-Red` and `The-Time-Of-The-Red` had drifted the same way.
+
+- **One tag per name** — `The-Vultures` (16 pages), `The-Precipice` (4) and `Time-Of-The-Red` (9) each have a single spelling now
+- **The names match the pages** — the tag follows the page's own title, so `The Vultures` is tagged `The-Vultures` and `The Precipice` is tagged `The-Precipice`
+- **270 distinct tags, no near-duplicates** — checked across all 207 pages after the change
+
 ### 2026-10-29 - Site - The site has a mark of its own
 
 Every page load asked the server for `/favicon.ico` and got a 404 — neither the site nor the

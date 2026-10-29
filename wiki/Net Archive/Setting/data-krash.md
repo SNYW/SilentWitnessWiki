@@ -1,6 +1,6 @@
 # DataKrash
 
-**Tags:** Lore, Net-History, Time-of-the-Red, Event
+**Tags:** Lore, Net-History, Time-Of-The-Red, Event
 
 ## Overview
 

@@ -32,7 +32,7 @@
               "name": "Vultures Nest",
               "type": "file",
               "path": "Local Archive/Locations/vultures-nest.md",
-              "tags": "safehouse,combat-zone,vultures,the-precipice,threat-high"
+              "tags": "safehouse,combat-zone,the-vultures,the-precipice,threat-high"
             }
           ]
         },
@@ -50,7 +50,7 @@
               "name": "Bloam",
               "type": "file",
               "path": "Local Archive/NPCs/bloam.md",
-              "tags": "npc,status-alive,vultures,mystery,glow-eyed-queen,maelstrom,session-2,session-3,session-4,session-8,session-9,session-10"
+              "tags": "npc,status-alive,the-vultures,mystery,glow-eyed-queen,maelstrom,session-2,session-3,session-4,session-8,session-9,session-10"
             },
             {
               "name": "Lord Smile",
@@ -86,7 +86,7 @@
               "name": "Raptor",
               "type": "file",
               "path": "Local Archive/NPCs/raptor.md",
-              "tags": "npc,status-injured,vultures,gang-leader,session-3,session-7,session-8"
+              "tags": "npc,status-injured,the-vultures,gang-leader,session-3,session-7,session-8"
             },
             {
               "name": "Rippa",
@@ -98,13 +98,13 @@
               "name": "Rook",
               "type": "file",
               "path": "Local Archive/NPCs/rook.md",
-              "tags": "npc,vultures,magpie,vehicle,construct,bloam,session-7,session-8,session-9,session-10"
+              "tags": "npc,the-vultures,magpie,vehicle,construct,bloam,session-7,session-8,session-9,session-10"
             },
             {
               "name": "Sparrow",
               "type": "file",
               "path": "Local Archive/NPCs/sparrow.md",
-              "tags": "npc,status-alive,vultures,messenger,session-3"
+              "tags": "npc,status-alive,the-vultures,messenger,session-3"
             },
             {
               "name": "Toxica",
@@ -152,7 +152,7 @@
               "name": "Precipice Securities",
               "type": "file",
               "path": "Local Archive/Organizations/precipice-securities.md",
-              "tags": "organization,security-company,precipice,night-city"
+              "tags": "organization,security-company,the-precipice,night-city"
             },
             {
               "name": "Red Hawks",
@@ -188,31 +188,31 @@
               "name": "Magpie",
               "type": "file",
               "path": "Local Archive/Players/magpie.md",
-              "tags": "player,vultures,techie,netrunner,solo,r.o.o.k.,session-1,session-2,session-3,session-4,session-7,session-8,session-9,session-10"
+              "tags": "player,the-vultures,techie,netrunner,solo,r.o.o.k.,session-1,session-2,session-3,session-4,session-7,session-8,session-9,session-10"
             },
             {
               "name": "Oldboy",
               "type": "file",
               "path": "Local Archive/Players/oldboy.md",
-              "tags": "player,vultures,detective,solo,red-hawks,session-1,session-2,session-3,session-4,session-8,session-9,session-10"
+              "tags": "player,the-vultures,detective,solo,red-hawks,session-1,session-2,session-3,session-4,session-8,session-9,session-10"
             },
             {
               "name": "Roadrunner",
               "type": "file",
               "path": "Local Archive/Players/roadrunner.md",
-              "tags": "player,vultures,nomad,driver,badlands,status-alive,session-8,session-9,session-10"
+              "tags": "player,the-vultures,nomad,driver,badlands,status-alive,session-8,session-9,session-10"
             },
             {
               "name": "Ronnie Pickering Roadblock",
               "type": "file",
               "path": "Local Archive/Players/ronnie-pickering-roadblock.md",
-              "tags": "player,former-crew,status-departed,vultures,lawman,ncpd,session-1,session-2,session-3,session-4,session-8"
+              "tags": "player,former-crew,status-departed,the-vultures,lawman,ncpd,session-1,session-2,session-3,session-4,session-8"
             },
             {
               "name": "Sal",
               "type": "file",
               "path": "Local Archive/Players/sal.md",
-              "tags": "player,vultures,medtech,session-1,session-2,session-3,session-4,session-9,session-10"
+              "tags": "player,the-vultures,medtech,session-1,session-2,session-3,session-4,session-9,session-10"
             }
           ]
         },
@@ -308,25 +308,25 @@
               "name": "Session 1",
               "type": "file",
               "path": "Local Archive/Sessions/session1.md",
-              "tags": "session,session-1,combat-encounter,vultures,bozos"
+              "tags": "session,session-1,combat-encounter,the-vultures,bozos"
             },
             {
               "name": "Session 2",
               "type": "file",
               "path": "Local Archive/Sessions/session2.md",
-              "tags": "session,session-2,combat-encounter,vultures,bozos,bloam"
+              "tags": "session,session-2,combat-encounter,the-vultures,bozos,bloam"
             },
             {
               "name": "Session 3",
               "type": "file",
               "path": "Local Archive/Sessions/session3.md",
-              "tags": "session,session-3,combat-encounter,vultures,bozos,bloam"
+              "tags": "session,session-3,combat-encounter,the-vultures,bozos,bloam"
             },
             {
               "name": "Session 4",
               "type": "file",
               "path": "Local Archive/Sessions/session4.md",
-              "tags": "session,session-4,night-market-arc,combat-encounter,vultures,bozos,tesla-tyrants,bloam,glow-eyed-queen"
+              "tags": "session,session-4,night-market-arc,combat-encounter,the-vultures,bozos,tesla-tyrants,bloam,glow-eyed-queen"
             },
             {
               "name": "Session 5",
@@ -392,7 +392,7 @@
               "name": "Arasaka Towers Ruins",
               "type": "file",
               "path": "Net Archive/Locations/arasaka-towers-ruins.md",
-              "tags": "hot-zone,the-island,combat-zone,threat-extreme,arasaka,historical-site,radiation-hazard,johnny-silverhand,the-time-of-the-red"
+              "tags": "hot-zone,the-island,combat-zone,threat-extreme,arasaka,historical-site,radiation-hazard,johnny-silverhand,time-of-the-red"
             },
             {
               "name": "Ashcroft Hotel",
@@ -1292,7 +1292,7 @@
               "name": "Night City History",
               "type": "file",
               "path": "Net Archive/Setting/night-city-history.md",
-              "tags": "lore,history,the-time-of-the-red,night-city"
+              "tags": "lore,history,time-of-the-red,night-city"
             },
             {
               "name": "Prominent Locations",
@@ -1304,7 +1304,7 @@
               "name": "Time Of The Red",
               "type": "file",
               "path": "Net Archive/Setting/time-of-the-red.md",
-              "tags": "lore,the-time-of-the-red,night-city"
+              "tags": "lore,time-of-the-red,night-city"
             }
           ]
         }

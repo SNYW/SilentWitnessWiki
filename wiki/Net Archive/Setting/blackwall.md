@@ -1,6 +1,6 @@
 # The Blackwall
 
-**Tags:** Lore, Net-History, Time-of-the-Red, Technology
+**Tags:** Lore, Net-History, Time-Of-The-Red, Technology
 
 ## Overview
 
