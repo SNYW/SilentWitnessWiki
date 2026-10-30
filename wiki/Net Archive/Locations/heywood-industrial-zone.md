@@ -1,6 +1,6 @@
 # Heywood Industrial Zone
 
-**Tags:** District, Location, Heywood
+**Tags:** District, Location, Heywood, Threat-Medium, Threat-High
 
 
 **District Code:** U  

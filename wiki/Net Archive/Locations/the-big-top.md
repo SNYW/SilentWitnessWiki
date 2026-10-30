@@ -2,6 +2,8 @@
 
 **Tags:** The-Big-Top, Bozos, Gang-HQ, Combat-Zone, Threat-High
 
+**Threat Rating:** High
+
 ## Overview
 
 The base of operations for the Bozos gang.

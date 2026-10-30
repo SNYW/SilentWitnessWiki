@@ -5,7 +5,8 @@
 **Type:** Megacorporation  
 **Headquarters:** Arasaka Tower, Night City (formerly); Tokyo, Japan (current)  
 **Founded:** 1915 by Sasai Arasaka  
-**Era:** Time of the Red (2040s)
+**Era:** Time of the Red (2040s)  
+**Threat Rating:** High
 
 ## Overview
 

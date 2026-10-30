@@ -72,7 +72,7 @@ The Inquisitors do not maintain a fixed territory. Instead, they operate as a mo
 
 ## Threat Assessment
 
-**Threat Level: Very High**
+**Threat Level:** Extreme
 
 Despite their relatively small numbers, the Inquisitors represent a unique threat because:
 1. They have no fixed territory to target

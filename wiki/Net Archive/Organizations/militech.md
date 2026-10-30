@@ -5,7 +5,8 @@
 **Type:** Megacorporation  
 **Headquarters:** Chicago, NUSA (formerly Arlington, Virginia)  
 **Founded:** 1996 (as Armatech-Luccessi International)  
-**Era:** Time of the Red (2040s)
+**Era:** Time of the Red (2040s)  
+**Threat Rating:** High
 
 ## Overview
 

@@ -12,7 +12,7 @@ During the Time of the Red (2020s-2040s), Night City was reorganized after the d
 
 **Type:** Combat Zone  
 **Area:** The Island  
-**Threat Rating:** High
+**Threat Rating:** Extreme
 
 ### History
 
@@ -88,7 +88,7 @@ Still completely devastated during the RED era — too radioactive for habitatio
 
 **Type:** Rebuilding Urban Zone  
 **Area:** The Island  
-**Threat Rating:** Medium
+**Threat Rating:** Extreme
 
 ### History
 
@@ -122,7 +122,7 @@ By the RED era, it's a dangerous combat zone controlled by various gangs. The "P
 
 **Type:** Overpacked Suburb  
 **Area:** Mainland  
-**Threat Rating:** Medium, up to High
+**Threat Rating:** Medium
 
 ### History
 
@@ -142,7 +142,7 @@ Home to the Vultures gang.
 
 **Type:** Cargo Container Community  
 **Area:** Old Japantown (The Island)  
-**Threat Rating:** High
+**Threat Rating:** Medium
 
 ### History
 

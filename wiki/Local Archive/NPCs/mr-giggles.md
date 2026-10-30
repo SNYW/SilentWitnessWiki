@@ -7,6 +7,7 @@
 - **Affiliation:** Bozos
 - **Role:** 2nd in Command / Lieutenant
 - **Status:** Status-Alive
+- **Threat Rating:** High
 
 ## Appearance
 

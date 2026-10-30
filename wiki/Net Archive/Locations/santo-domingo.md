@@ -1,6 +1,6 @@
 # Santo Domingo
 
-**Tags:** Santo-Domingo, Reclamation-Zone, Threat-Medium, Maelstrom, Bozos
+**Tags:** Santo-Domingo, Reclamation-Zone, Threat-Medium, Maelstrom, Bozos, Threat-High
 
 **District Code:** M  
 **Type:** Industrial Reclamation Zone  

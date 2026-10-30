@@ -422,7 +422,7 @@
               "name": "Charter Hill",
               "type": "file",
               "path": "Net Archive/Locations/charter-hill.md",
-              "tags": "district,location,charter-hill"
+              "tags": "district,location,charter-hill,threat-low"
             },
             {
               "name": "Choppers",
@@ -452,7 +452,7 @@
               "name": "Danger Gal Headquarters",
               "type": "file",
               "path": "Net Archive/Locations/danger-gal-headquarters.md",
-              "tags": "corporate,corporate-zone,threat-low"
+              "tags": "corporate,corporate-zone,threat-low,threat-medium"
             },
             {
               "name": "Delirium",
@@ -470,7 +470,7 @@
               "name": "Downtown",
               "type": "file",
               "path": "Net Archive/Locations/downtown.md",
-              "tags": "district,location,little-europe"
+              "tags": "district,location,little-europe,threat-low"
             },
             {
               "name": "Executive Zone",
@@ -512,13 +512,13 @@
               "name": "Heywood Docks",
               "type": "file",
               "path": "Net Archive/Locations/heywood-docks.md",
-              "tags": "district,location,heywood"
+              "tags": "district,location,heywood,threat-medium"
             },
             {
               "name": "Heywood Industrial Zone",
               "type": "file",
               "path": "Net Archive/Locations/heywood-industrial-zone.md",
-              "tags": "district,location,heywood"
+              "tags": "district,location,heywood,threat-medium,threat-high"
             },
             {
               "name": "Heywood",
@@ -536,7 +536,7 @@
               "name": "Hot Zone",
               "type": "file",
               "path": "Net Archive/Locations/hot-zone.md",
-              "tags": "hotel,district,location,hot-zone"
+              "tags": "hotel,district,location,hot-zone,threat-extreme"
             },
             {
               "name": "Jesse James Kosher Deli",
@@ -566,7 +566,7 @@
               "name": "Laguna Bend",
               "type": "file",
               "path": "Net Archive/Locations/laguna-bend.md",
-              "tags": "badlands,threat-medium"
+              "tags": "badlands,threat-medium,threat-high"
             },
             {
               "name": "Ling Po Public Library",
@@ -620,7 +620,7 @@
               "name": "Megabuilding H10",
               "type": "file",
               "path": "Net Archive/Locations/megabuilding-h10.md",
-              "tags": "megabuilding,watson,threat-low"
+              "tags": "megabuilding,watson,threat-low,threat-medium"
             },
             {
               "name": "Mistys Esoterica",
@@ -638,7 +638,7 @@
               "name": "New Westbrook",
               "type": "file",
               "path": "Net Archive/Locations/new-westbrook.md",
-              "tags": "district,location,combat-zone"
+              "tags": "district,location,combat-zone,threat-medium"
             },
             {
               "name": "Night Market",
@@ -650,13 +650,13 @@
               "name": "Norcal Military Base",
               "type": "file",
               "path": "Net Archive/Locations/norcal-military-base.md",
-              "tags": "pacifica,district,location"
+              "tags": "pacifica,district,location,threat-medium"
             },
             {
               "name": "North Heywood",
               "type": "file",
               "path": "Net Archive/Locations/north-heywood.md",
-              "tags": "north-heywood,district,location,bar,heywood"
+              "tags": "north-heywood,district,location,bar,heywood,threat-medium,threat-high"
             },
             {
               "name": "Northside",
@@ -668,7 +668,7 @@
               "name": "Old Combat Zone",
               "type": "file",
               "path": "Net Archive/Locations/old-combat-zone.md",
-              "tags": "district,location,combat-zone"
+              "tags": "district,location,combat-zone,threat-extreme"
             },
             {
               "name": "Old Japantown",
@@ -680,7 +680,7 @@
               "name": "Pacifica Playground",
               "type": "file",
               "path": "Net Archive/Locations/pacifica-playground.md",
-              "tags": "pacifica,district,location,combat-zone"
+              "tags": "pacifica,district,location,combat-zone,threat-high"
             },
             {
               "name": "Pacifica",
@@ -692,7 +692,7 @@
               "name": "Playland By The Sea",
               "type": "file",
               "path": "Net Archive/Locations/playland-by-the-sea.md",
-              "tags": "playland-by-the-sea,location,pacifica,red-era,amusement-park"
+              "tags": "playland-by-the-sea,location,pacifica,red-era,amusement-park,threat-medium"
             },
             {
               "name": "Pol Bud Cement Factory",
@@ -728,13 +728,13 @@
               "name": "Reclaimed Perimeter",
               "type": "file",
               "path": "Net Archive/Locations/reclaimed-perimeter.md",
-              "tags": "badlands,threat-low"
+              "tags": "badlands,threat-low,threat-medium"
             },
             {
               "name": "Reclamation Zone",
               "type": "file",
               "path": "Net Archive/Locations/reclamation-zone.md",
-              "tags": "reclamation-zone,district,location"
+              "tags": "reclamation-zone,district,location,threat-medium"
             },
             {
               "name": "Redline",
@@ -758,13 +758,13 @@
               "name": "Santo Domingo",
               "type": "file",
               "path": "Net Archive/Locations/santo-domingo.md",
-              "tags": "santo-domingo,reclamation-zone,threat-medium,maelstrom,bozos"
+              "tags": "santo-domingo,reclamation-zone,threat-medium,maelstrom,bozos,threat-high"
             },
             {
               "name": "Short Circuit",
               "type": "file",
               "path": "Net Archive/Locations/short-circuit.md",
-              "tags": "bar,corporate-zone,threat-low"
+              "tags": "bar,corporate-zone,threat-low,threat-medium"
             },
             {
               "name": "South Night City",
@@ -806,7 +806,7 @@
               "name": "The Glen",
               "type": "file",
               "path": "Net Archive/Locations/the-glen.md",
-              "tags": "the-glen,district,heywood,government-zone,night-corp,ncpd,threat-low"
+              "tags": "the-glen,district,heywood,government-zone,night-corp,ncpd,threat-low,threat-medium"
             },
             {
               "name": "The Island",
@@ -842,7 +842,7 @@
               "name": "The Shark",
               "type": "file",
               "path": "Net Archive/Locations/the-shark.md",
-              "tags": "the-shark,heywood,woodland-park,apartment-complex,threat-low-medium"
+              "tags": "the-shark,heywood,woodland-park,apartment-complex,threat-low,threat-medium"
             },
             {
               "name": "The Signboards",
@@ -890,7 +890,7 @@
               "name": "Trauma Team Tower",
               "type": "file",
               "path": "Net Archive/Locations/trauma-team-tower.md",
-              "tags": "trauma-team-tower,corporate-medical,watson,megacorp-facility,trauma-team"
+              "tags": "trauma-team-tower,corporate-medical,watson,megacorp-facility,trauma-team,threat-medium"
             },
             {
               "name": "Union Chapel",
@@ -908,7 +908,7 @@
               "name": "Upper Marina",
               "type": "file",
               "path": "Net Archive/Locations/upper-marina.md",
-              "tags": "upper-marina,district,location,medical-facility"
+              "tags": "upper-marina,district,location,medical-facility,threat-medium"
             },
             {
               "name": "Vargtimmen",
@@ -932,7 +932,7 @@
               "name": "Watson Development",
               "type": "file",
               "path": "Net Archive/Locations/watson-development.md",
-              "tags": "watson,district,corporate-zone,nccs,tyger-claw-turf,megabuilding,threat-low"
+              "tags": "watson,district,corporate-zone,nccs,tyger-claw-turf,megabuilding,threat-low,threat-medium"
             },
             {
               "name": "Westbrook",
@@ -944,7 +944,7 @@
               "name": "Woodland Park",
               "type": "file",
               "path": "Net Archive/Locations/woodland-park.md",
-              "tags": "woodland-park,heywood,north-heywood,rebuilding-neighborhood,the-muses,threat-low-medium"
+              "tags": "woodland-park,heywood,north-heywood,rebuilding-neighborhood,the-muses,threat-low,threat-medium"
             }
           ]
         },
@@ -956,7 +956,7 @@
               "name": "6th Street",
               "type": "file",
               "path": "Net Archive/Organizations/6th-street.md",
-              "tags": "6th-street,gang,law-enforcement,heywood,santo-domingo,threat-medium"
+              "tags": "6th-street,gang,law-enforcement,heywood,santo-domingo,threat-medium,threat-high"
             },
             {
               "name": "Aldecados",
@@ -992,13 +992,13 @@
               "name": "Bozos",
               "type": "file",
               "path": "Net Archive/Organizations/bozos.md",
-              "tags": "bozos,gang,combat-zone,threat-high"
+              "tags": "bozos,gang,combat-zone,threat-high,threat-extreme"
             },
             {
               "name": "Consortium",
               "type": "file",
               "path": "Net Archive/Organizations/consortium.md",
-              "tags": "the-island,port-of-night-city,boostergang,smuggling,consortium,crew-neutral,organized-crime"
+              "tags": "the-island,port-of-night-city,boostergang,smuggling,consortium,crew-neutral,organized-crime,threat-medium,threat-high"
             },
             {
               "name": "Danger Gal",
@@ -1010,7 +1010,7 @@
               "name": "Deadwoods",
               "type": "file",
               "path": "Net Archive/Organizations/deadwoods.md",
-              "tags": "the-island,port-of-night-city,boostergang,smuggling,deadwoods,crew-neutral,organized-crime"
+              "tags": "the-island,port-of-night-city,boostergang,smuggling,deadwoods,crew-neutral,organized-crime,threat-medium,threat-high"
             },
             {
               "name": "Digital Divas",
@@ -1022,7 +1022,7 @@
               "name": "Dirty Hippies",
               "type": "file",
               "path": "Net Archive/Organizations/dirty-hippies.md",
-              "tags": "the-dirty-hippies,nomad-pack,rancho-coronado,guerrilla-gardening,threat-low"
+              "tags": "the-dirty-hippies,nomad-pack,rancho-coronado,guerrilla-gardening,threat-low,threat-medium"
             },
             {
               "name": "Dockside Billhooks",
@@ -1052,7 +1052,7 @@
               "name": "Jodes",
               "type": "file",
               "path": "Net Archive/Organizations/jodes.md",
-              "tags": "the-jodes,nomad-pack,seven-nations,badlands,zoners-ally"
+              "tags": "the-jodes,nomad-pack,seven-nations,badlands,zoners-ally,threat-low,threat-medium"
             },
             {
               "name": "Kang Tao",
@@ -1082,13 +1082,13 @@
               "name": "Lightning Cats",
               "type": "file",
               "path": "Net Archive/Organizations/lightning-cats.md",
-              "tags": "hot-zone,the-island,boostergang,lightning-cats,crew-hostile,organized-crime"
+              "tags": "hot-zone,the-island,boostergang,lightning-cats,crew-hostile,organized-crime,threat-extreme"
             },
             {
               "name": "Little China Redevelopment Association",
               "type": "file",
               "path": "Net Archive/Organizations/little-china-redevelopment-association.md",
-              "tags": "little-china-redevelopment-association,community-organization,little-china,combat-zone,gold-dragons,time-of-the-red"
+              "tags": "little-china-redevelopment-association,community-organization,little-china,combat-zone,gold-dragons,time-of-the-red,threat-low"
             },
             {
               "name": "Maelstrom",
@@ -1160,7 +1160,7 @@
               "name": "Reckoners",
               "type": "file",
               "path": "Net Archive/Organizations/reckoners.md",
-              "tags": "hot-zone,the-island,boostergang,eco-terrorists,reckoners,crew-hostile,organized-crime"
+              "tags": "hot-zone,the-island,boostergang,eco-terrorists,reckoners,crew-hostile,organized-crime,threat-extreme"
             },
             {
               "name": "Red Chrome Legion",
@@ -1214,7 +1214,7 @@
               "name": "The Muses",
               "type": "file",
               "path": "Net Archive/Organizations/the-muses.md",
-              "tags": "the-muses,posergang,heywood,woodland-park,night-city-wonderland-league,threat-low-medium"
+              "tags": "the-muses,posergang,heywood,woodland-park,night-city-wonderland-league,threat-low,threat-medium"
             },
             {
               "name": "Toecutters",
@@ -1244,7 +1244,7 @@
               "name": "Valentinos",
               "type": "file",
               "path": "Net Archive/Organizations/valentinos.md",
-              "tags": "gang,heywood,threat-high"
+              "tags": "gang,heywood,threat-medium,threat-high"
             },
             {
               "name": "Voodoo Boys",
@@ -1268,7 +1268,7 @@
               "name": "Zoners",
               "type": "file",
               "path": "Net Archive/Organizations/zoners.md",
-              "tags": "gang,combat-zone,threat-medium"
+              "tags": "gang,combat-zone,threat-low,threat-medium"
             }
           ]
         },

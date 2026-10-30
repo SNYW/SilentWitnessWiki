@@ -4,7 +4,8 @@
 
 **Type:** International Net Policing Organization  
 **Headquarters:** London, England  
-**Active Regions:** Global (including Night City)
+**Active Regions:** Global (including Night City)  
+**Threat Rating:** High
 
 ## Overview
 

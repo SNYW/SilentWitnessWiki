@@ -1,10 +1,10 @@
 # Reckoners
 
-**Tags:** Hot-Zone, The-Island, Boostergang, Eco-Terrorists, Reckoners, Crew-Hostile, Organized-Crime
+**Tags:** Hot-Zone, The-Island, Boostergang, Eco-Terrorists, Reckoners, Crew-Hostile, Organized-Crime, Threat-Extreme
 
 **Type:** Gang
-**Territory:** Hot Zone (The Island)
-**Threat Level:** Extreme
+**Territory:** Hot Zone (The Island)  
+**Threat Rating:** Extreme
 
 ## Overview
 

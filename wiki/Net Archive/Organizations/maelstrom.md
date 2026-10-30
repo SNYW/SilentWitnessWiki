@@ -4,7 +4,7 @@
 
 **Type:** Combat Gang / Boostergang  
 **Territory:** Watson Development (formerly Hot Zone / Burleson Tower)  
-**Threat Level:** High  
+**Threat Rating:** High
 
 ## Overview
 

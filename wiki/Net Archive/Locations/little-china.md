@@ -49,7 +49,7 @@ With David Ling Po appointed as the city manager by the LCRA, by 2045 the strugg
 
 ## Threat Assessment
 
-**Threat Level: Very High**
+**Threat Level:** Extreme
 
 Little China remains one of the most dangerous areas in Night City during the RED era due to:
 1. Multiple rival gangs fighting for territory

@@ -3,7 +3,8 @@
 **Tags:** Threat-Medium, Santo-Domingo
 
 **Type:** Drift Town / Maritime Community  
-**Location:** Port of Night City, Del Coronado Bay
+**Location:** Port of Night City, Del Coronado Bay  
+**Threat Rating:** Medium
 
 ## Overview
 

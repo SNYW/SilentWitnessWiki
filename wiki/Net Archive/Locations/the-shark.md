@@ -1,6 +1,6 @@
 # The Shark
 
-**Tags:** The-Shark, Heywood, Woodland-Park, Apartment-Complex, Threat-Low-Medium
+**Tags:** The-Shark, Heywood, Woodland-Park, Apartment-Complex, Threat-Low, Threat-Medium
 
 **Type:** Apartment Complex  
 **Area:** Woodland Park, North Heywood, Heywood  

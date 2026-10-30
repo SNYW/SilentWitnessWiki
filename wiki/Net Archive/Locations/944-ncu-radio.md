@@ -5,6 +5,7 @@
 **Type:** Radio Station  
 **Era:** Time of the Red (2045)  
 **Location:** Night City University, University District  
+**Threat Rating:** Medium  
 
 ## Overview
 

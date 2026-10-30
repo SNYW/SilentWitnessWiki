@@ -1,6 +1,6 @@
 # Heywood Docks
 
-**Tags:** District, Location, Heywood
+**Tags:** District, Location, Heywood, Threat-Medium
 
 
 **District Code:** S  

@@ -1,6 +1,6 @@
 # Laguna Bend
 
-**Tags:** Badlands, Threat-Medium
+**Tags:** Badlands, Threat-Medium, Threat-High
 
 **Location Type:** Former Lake/Refugee Settlement
 

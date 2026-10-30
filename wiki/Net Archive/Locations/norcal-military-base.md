@@ -1,6 +1,6 @@
 # NorCal Military Base
 
-**Tags:** Pacifica, District, Location
+**Tags:** Pacifica, District, Location, Threat-Medium
 
 
 **District Code:** M  

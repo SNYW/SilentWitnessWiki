@@ -54,7 +54,7 @@ The gang maintains a truce with the Prime-Time Players and has influence over sm
 
 ## Threat Assessment
 
-**Threat Level:** Low-Medium
+**Threat Rating:** Low, up to Medium
 - Not a combat-focused gang
 - More focused on party organization than territorial conquest
 - Dangerous due to drug operations and connections to wealthier clients

@@ -1,6 +1,6 @@
 # Little China Redevelopment Association (LCRA)
 
-**Tags:** Little-China-Redevelopment-Association, Community-Organization, Little-China, Combat-Zone, Gold-Dragons, Time-Of-The-Red
+**Tags:** Little-China-Redevelopment-Association, Community-Organization, Little-China, Combat-Zone, Gold-Dragons, Time-Of-The-Red, Threat-Low
 
 **Type:** Community Redevelopment Organization  
 **District:** Little China (Combat Zone)  
@@ -91,7 +91,7 @@ The LCRA is viewed as a hope for recovery by many residents of Little China, tho
 
 ## Threat Assessment
 
-**Threat Level:** Low (within LCRA-controlled areas)
+**Threat Rating:** Low (within LCRA-controlled areas)
 
 While Little China as a whole is considered a Very High threat area, the specific blocks controlled by the LCRA are relatively safer due to the Gold Dragons security presence.
 

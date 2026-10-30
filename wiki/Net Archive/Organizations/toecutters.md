@@ -4,7 +4,7 @@
 
 **Type:** Nomad Gang (Raffen Shiv)  
 **Territory:** Badlands, Eastern edges of Night City, North Heywood  
-**Threat Level:** High
+**Threat Rating:** High
 
 ## Overview
 

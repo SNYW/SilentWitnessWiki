@@ -1,6 +1,6 @@
 # Playland by the Sea
 
-**Tags:** Playland-By-The-Sea, Location, Pacifica, RED-Era, Amusement-Park
+**Tags:** Playland-By-The-Sea, Location, Pacifica, RED-Era, Amusement-Park, Threat-Medium
 
 **Type:** Amusement Park  
 **District:** Pacifica  

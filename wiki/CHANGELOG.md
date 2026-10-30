@@ -1,5 +1,18 @@
 # Changelog
 
+### 2026-10-29 - Content - The threat rating and the threat tag now tell the same story
+
+Every page carries a threat rating in two places — a `Threat Rating` line in the header and a
+`Threat-*` tag — and the two had drifted apart. 34 pages had a tag but no rating line at all,
+so they showed no chip; 16 pages had a rating line but no tag; 12 pages had both and their
+levels disagreed. Filtering by `#Threat-High` found pages whose own header said `Medium`, and
+a page could show a chip the tag filter would never reach.
+
+- **The rating line is the record** — where a page had only a tag, the line was written from the tag; where the two disagreed, the line won and the tag was corrected to match
+- **A range carries two tags** — `Low, up to Medium` is tagged `Threat-Low, Threat-Medium`, as six pages already did
+- **`Threat Level` is now `Threat Rating`** — 13 pages used a label the site does not read, so their rating was never seen; values outside the four levels (`Low-Medium`, `Medium-High`, `Very High`) were normalised to the house scale
+- **139 pages now render a chip and agree with their tags** — checked across all 207 pages in the manifest
+
 ### 2026-10-29 - Site - A page's badge follows the folder it lives in
 
 The type badge on a page — `LOCATION`, `NPC`, `PC`, `SESSION` — was read from the page's

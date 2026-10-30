@@ -1,6 +1,6 @@
 # 6th Street
 
-**Tags:** 6th-Street, Gang, Law-Enforcement, Heywood, Santo-Domingo, Threat-Medium
+**Tags:** 6th-Street, Gang, Law-Enforcement, Heywood, Santo-Domingo, Threat-Medium, Threat-High
 
 **Primary Territory:** North Heywood, Santo Domingo  
 **Threat Rating:** Medium, up to High

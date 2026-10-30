@@ -4,7 +4,8 @@
 
 **Type:** Wasteland Region  
 **Location:** Surrounding Night City, Northern and Southern California  
-**Era:** Time of the Red (2040s)
+**Era:** Time of the Red (2040s)  
+**Threat Rating:** Medium
 
 ## Overview
 

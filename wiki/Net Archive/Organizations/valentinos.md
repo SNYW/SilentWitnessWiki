@@ -1,6 +1,6 @@
 # Valentinos
 
-**Tags:** Gang, Heywood, Threat-High
+**Tags:** Gang, Heywood, Threat-Medium, Threat-High
 
 **Type:** Gang / Organized Crime Family  
 **Primary Territory:** Heywood (The Glen, Vista del Rey, Wellsprings)  

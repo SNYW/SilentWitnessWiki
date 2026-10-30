@@ -7,6 +7,7 @@
 - **Type:** Night Market Team / Remote Warfare Specialists
 - **Status:** Active
 - **Territory:** Industrial sectors, abandoned factories
+- **Threat Rating:** Medium
 
 ## Overview
 

@@ -51,7 +51,7 @@ By 2045, this dying district still had a few residents attempting to hold onto t
 
 ## Threat Assessment
 
-**Threat Level: Very High**
+**Threat Level:** Extreme
 
 Old Japantown remains one of the most dangerous areas in Night City during the RED era due to:
 1. Multiple rival gangs fighting for territory

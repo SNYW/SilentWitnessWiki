@@ -7,6 +7,7 @@
 - **District:** Old Japantown
 - **City:** Night City
 - **Status:** Active
+- **Threat Rating:** High
 
 ## Overview
 

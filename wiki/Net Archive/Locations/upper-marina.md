@@ -1,6 +1,6 @@
 # Upper Marina
 
-**Tags:** Upper-Marina, District, Location, Medical-Facility
+**Tags:** Upper-Marina, District, Location, Medical-Facility, Threat-Medium
 
 
 **District Code:** B  

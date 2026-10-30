@@ -1,6 +1,6 @@
 # The Glen
 
-**Tags:** The-Glen, District, Heywood, Government-Zone, Night-Corp, NCPD, Threat-Low
+**Tags:** The-Glen, District, Heywood, Government-Zone, Night-Corp, NCPD, Threat-Low, Threat-Medium
 
 **District Code:** GL  
 **Type:** Government District / Rebuilding Urban Zone  

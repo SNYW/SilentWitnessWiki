@@ -4,7 +4,8 @@
 
 **Type:** Semi-illegal temporary market
 **Era:** Time of the Red (Cyberpunk RED - 2045)
-**Source:** Cyberpunk RED Core Rulebook (2020)
+**Source:** Cyberpunk RED Core Rulebook (2020)  
+**Threat Rating:** Medium
 
 ## Overview
 

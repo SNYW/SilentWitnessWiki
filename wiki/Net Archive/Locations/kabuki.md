@@ -2,6 +2,8 @@
 
 **Tags:** Kabuki, Watson, Combat-Zone, Tyger-Claws, Threat-High
 
+**Threat Rating:** High
+
 ## Overview
 
 Kabuki is a sub-district located in the Watson Development area of Night City, existing during the Time of the Red in 2045. Once a thriving Japanese medical district adjacent to the famous Med Center, Kabuki has transformed into one of the poorest and most dangerous areas of the city.

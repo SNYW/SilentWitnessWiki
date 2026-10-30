@@ -1,6 +1,6 @@
 # Hot Zone
 
-**Tags:** Hotel, District, Location, Hot-Zone
+**Tags:** Hotel, District, Location, Hot-Zone, Threat-Extreme
 
 
 **District Code:** D  

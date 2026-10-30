@@ -1,6 +1,6 @@
 # North Heywood
 
-**Tags:** North-Heywood, District, Location, Bar, Heywood
+**Tags:** North-Heywood, District, Location, Bar, Heywood, Threat-Medium, Threat-High
 
 
 **District Code:** T  

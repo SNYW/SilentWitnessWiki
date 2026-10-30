@@ -2,6 +2,8 @@
 
 **Tags:** Gang, Badlands, Threat-Low
 
+**Threat Rating:** Low
+
 A nomad pack of the Aldecaldos family, introduced in Cyberpunk RED.
 
 ## Overview

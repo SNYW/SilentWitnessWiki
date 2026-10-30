@@ -3,7 +3,8 @@
 **Tags:** Bar, Threat-Medium
 
 **Type:** Mobile Bar / Passenger Ferry  
-**Location:** Flotsam, Del Coronado Bay (off the coast of Night City)
+**Location:** Flotsam, Del Coronado Bay (off the coast of Night City)  
+**Threat Rating:** Medium
 
 ## Overview
 

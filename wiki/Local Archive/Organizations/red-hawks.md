@@ -7,6 +7,7 @@
 - **Type:** Nomadic Clan / Gunslinger Family
 - **Status:** Active (reduced)
 - **Location:** Nomadic / Night City area
+- **Threat Rating:** Medium
 
 ## Background
 

@@ -7,6 +7,7 @@
 - **Type:** Night Market Team / Bio-Weapons
 - **Status:** Active
 - **Territory:** Abandoned medical facilities, hidden labs
+- **Threat Rating:** Extreme
 
 ## Overview
 

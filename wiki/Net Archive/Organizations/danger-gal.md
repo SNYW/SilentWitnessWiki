@@ -5,6 +5,7 @@
 **Type:** Private Investigation, Bodyguard, and Security Corporation  
 **Headquarters:** Night City  
 **Founded:** Circa 2025 by Michiko Sanderson  
+**Threat Rating:** Medium  
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # Reclaimed Perimeter
 
-**Tags:** Badlands, Threat-Low
+**Tags:** Badlands, Threat-Low, Threat-Medium
 
 **Type:** Collection of Repopulated Settlements  
 **Area:** Badlands / Night City Surroundings  

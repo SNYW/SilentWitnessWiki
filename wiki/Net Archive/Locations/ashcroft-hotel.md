@@ -4,7 +4,8 @@
 
 **Type:** Ruined Hotel / Former Luxury Establishment  
 **District:** Hot Zone (formerly Central Night City)  
-**Era:** Time of the Red (2040s)
+**Era:** Time of the Red (2040s)  
+**Threat Rating:** Extreme
 
 ## Description
 

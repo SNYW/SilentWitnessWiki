@@ -1,6 +1,6 @@
 # New Westbrook
 
-**Tags:** District, Location, Combat-Zone
+**Tags:** District, Location, Combat-Zone, Threat-Medium
 
 
 **District Code:** P  

@@ -1,10 +1,10 @@
 # Short Circuit
 
-**Tags:** Bar, Corporate-Zone, Threat-Low
+**Tags:** Bar, Corporate-Zone, Threat-Low, Threat-Medium
 
 **Type:** Bar / Techie Hangout
-**District:** Little Europe
-**Threat Level:** Low-Medium
+**District:** Little Europe  
+**Threat Rating:** Low, up to Medium
 
 ## Overview
 

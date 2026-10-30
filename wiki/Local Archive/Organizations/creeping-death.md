@@ -7,6 +7,7 @@
 - **Type:** Night Market Team / Poison Specialists
 - **Status:** Active
 - **Territory:** Unknown — operate from hidden labs
+- **Threat Rating:** High
 
 ## Overview
 

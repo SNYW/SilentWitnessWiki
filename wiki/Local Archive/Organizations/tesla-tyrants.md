@@ -7,6 +7,7 @@
 - **Type:** Night Market Team / Tech Gang
 - **Status:** Active
 - **Territory:** Unknown — operate secretly, likely in corporate zones
+- **Threat Rating:** High
 
 ## Overview
 

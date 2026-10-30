@@ -4,7 +4,8 @@
 
 **Type:** Ruined Hotel / Maelstrom Base  
 **District:** Hot Zone (formerly City Center)  
-**Era:** Time of the Red (2040s)
+**Era:** Time of the Red (2040s)  
+**Threat Rating:** Extreme
 
 ## Description
 

@@ -1,6 +1,6 @@
 # The Jodes
 
-**Tags:** The-Jodes, Nomad-Pack, Seven-Nations, Badlands, Zoners-Ally
+**Tags:** The-Jodes, Nomad-Pack, Seven-Nations, Badlands, Zoners-Ally, Threat-Low, Threat-Medium
 
 **Type:** Nomad Clan / Family  
 **Territory:** Badlands, Night City Outskirts, Allied with South Night City communities  

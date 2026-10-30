@@ -2,6 +2,8 @@
 
 **Tags:** Bar, Combat-Zone, Gambling, Threat-Medium, The-Precipice
 
+**Threat Rating:** Medium
+
 ## Overview
 
 A casino in Night City. Known for gambling and high-stakes games.

@@ -4,7 +4,8 @@
 
 **Type:** Club/Bar  
 **District:** Little China (Watson)  
-**Era:** Time of the Red (2040s)
+**Era:** Time of the Red (2040s)  
+**Threat Rating:** Medium
 
 ## Description
 

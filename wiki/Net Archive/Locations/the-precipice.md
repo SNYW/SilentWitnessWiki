@@ -7,6 +7,7 @@
 - **District:** Old Japantown
 - **City:** Night City
 - **Source:** Cyberpunk RED
+- **Threat Rating:** Medium
 
 ## Overview
 

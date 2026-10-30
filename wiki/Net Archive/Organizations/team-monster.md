@@ -4,7 +4,7 @@
 
 **Type:** Edgerunner Mercenary Crew  
 **Territory:** Various (hangs out at Forlorn Hope)  
-**Threat Level:** High (Elite Edgerunners)  
+**Threat Rating:** High (Elite Edgerunners)
 
 ## Overview
 

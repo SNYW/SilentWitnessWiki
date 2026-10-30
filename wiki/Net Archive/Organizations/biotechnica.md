@@ -4,7 +4,8 @@
 
 **Type:** Megacorporation  
 **Headquarters:** Global (has facilities in Night City)  
-**Founded:** Early 1990s, Rome, Italy
+**Founded:** Early 1990s, Rome, Italy  
+**Threat Rating:** Low
 
 ## Overview
 

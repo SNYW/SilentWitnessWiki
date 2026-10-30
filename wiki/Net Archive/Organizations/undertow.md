@@ -2,6 +2,8 @@
 
 **Tags:** Undertow, Gang, Little-Europe, Threat-Medium
 
+**Threat Rating:** Medium
+
 ## Overview
 
 Undertow is a gang operating in Night City during the Time of the Red. They are primarily associated with the Little Europe district, where they maintain a significant presence.
